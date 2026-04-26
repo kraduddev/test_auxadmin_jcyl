@@ -1,0 +1,824 @@
+{
+  "tema": "Tema 9. Administración de JCyL",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "De conformidad con lo establecido en el art. 31 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, 'la Administración de la Comunidad de Castilla y León sirve con objetividad los intereses generales y actúa de acuerdo con los principios constitucionales de':",
+      "opciones": {
+        "a": "Jerarquía, descentralización y desconcentración.",
+        "b": "Jerarquía, descentralización y coordinación.",
+        "c": "Jerarquía, descentralización, desconcentración y coordinación.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 31.1 de la Ley 3/2001 establece explícitamente estos cuatro principios constitucionales como base de la actuación administrativa."
+    },
+    {
+      "numero": 2,
+      "enunciado": "En sus relaciones con los ciudadanos, la Administración de la Comunidad, para el servicio efectivo a los mismos, actúa con objetividad y transparencia en su actuación administrativa con arreglo a los principios de:",
+      "opciones": {
+        "a": "Simplicidad, claridad y proximidad, agilidad en los procedimientos administrativos y en las actividades materiales de gestión.",
+        "b": "Coordinación y cooperación.",
+        "c": "Responsabilidad por la gestión, racionalización de sus procedimientos y actuaciones.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 31.2 define estos principios específicos para garantizar un servicio efectivo y cercano al ciudadano."
+    },
+    {
+      "numero": 3,
+      "enunciado": "En sus relaciones con otras Administraciones, la Administración de la Comunidad actúa de acuerdo con los principios de:",
+      "opciones": {
+        "a": "Agilidad en los procedimientos administrativos y en las actividades materiales de gestión.",
+        "b": "Coordinación y cooperación, respeto pleno de competencias, subsidiariedad y ponderación de la totalidad de los intereses públicos implicados en sus decisiones.",
+        "c": "Objetividad y transparencia en la actuación administrativa.",
+        "d": "Simplicidad, claridad y proximidad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Según el artículo 31.3, la relación interadministrativa se rige por la cooperación, el respeto competencial y la subsidiariedad."
+    },
+    {
+      "numero": 4,
+      "enunciado": "En su funcionamiento, la Administración de la Comunidad de Castilla y León se atiene a:",
+      "opciones": {
+        "a": "La eficacia en el cumplimiento de sus objetivos.",
+        "b": "La eficiencia en el uso de los recursos.",
+        "c": "La responsabilidad por la gestión, racionalización de sus procedimientos y actuaciones y economía de los medios.",
+        "d": "Todas son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 31.4 recoge todos estos criterios de gestión para asegurar un funcionamiento eficiente y responsable."
+    },
+    {
+      "numero": 5,
+      "enunciado": "Según recoge el art. 32, la Administración General de la Comunidad de Castilla y León actúa para el cumplimiento de sus fines con personalidad jurídica única, bajo la dirección de:",
+      "opciones": {
+        "a": "Las Cortes de Castilla y León.",
+        "b": "El Presidente de la Junta de Castilla y León.",
+        "c": "La Junta de Castilla y León.",
+        "d": "El Gobierno de la nación."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 32.1 establece que la Administración General actúa bajo la dirección de la Junta de Castilla y León."
+    },
+    {
+      "numero": 6,
+      "enunciado": "De conformidad con el artículo 34 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, las Consejerías son:",
+      "opciones": {
+        "a": "Órganos directivos de la Junta de Castilla y León, junto con las Viceconsejerías.",
+        "b": "Órganos superiores de la Junta de Castilla y León, junto con la Presidencia, las Vicepresidencias, en su caso, y la Secretaría General.",
+        "c": "Órganos superiores de la Junta de Castilla y León, junto con la Presidencia, las Vicepresidencias, en su caso, y las Direcciones Generales.",
+        "d": "Órganos superiores de la Administración General de la Comunidad de Castilla y León, junto con la Junta de Castilla y León, la Presidencia y las Vicepresidencias, en su caso."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 34.2 define taxativamente como órganos superiores a la Junta, la Presidencia, las Vicepresidencias y las Consejerías."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Según establece el artículo 36 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, corresponde a cada Consejería:",
+      "opciones": {
+        "a": "El desarrollo de la actividad que le delegue el presidente de la Junta de Castilla y León.",
+        "b": "La realización de actividades de carácter económico, comercial, industrial, agrario, financiero o análogo.",
+        "c": "El desarrollo de uno o varios sectores funcionalmente homogéneos de actividad administrativa.",
+        "d": "Ostentar la suprema representación de la Comunidad Autónoma."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Las Consejerías son departamentos organizados por criterios de homogeneidad funcional según el artículo 36."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Conforme al artículo 37 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de Castilla y León, las Consejerías desarrollan sus competencias por medio de los siguientes órganos directivos centrales:",
+      "opciones": {
+        "a": "Viceconsejerías, en su caso, Secretaría General y Direcciones Generales.",
+        "b": "Secretaría General, Direcciones Generales y Servicios Territoriales.",
+        "c": "Direcciones Generales, Direcciones Técnicas y Servicios Funcionales.",
+        "d": "Viceconsejerías, en su caso, Secretarías Técnicas y Direcciones Generales."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 37.1 enumera estos tres tipos de órganos como los componentes directivos centrales de cada departamento."
+    },
+    {
+      "numero": 9,
+      "enunciado": "Según lo establecido en el artículo 35 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la organización de la Administración General de la Comunidad de Castilla y León responde a los principios de:",
+      "opciones": {
+        "a": "Agilidad en los procedimientos administrativos y en las actuaciones materiales de gestión.",
+        "b": "División funcional y gestión territorial.",
+        "c": "Simplicidad, claridad y proximidad al ciudadano.",
+        "d": "Eficacia en el cumplimiento de sus objetivos, eficiencia en el uso de los recursos y responsabilidad por la gestión."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 35 vincula directamente la organización a la división por funciones y la gestión basada en el territorio."
+    },
+    {
+      "numero": 10,
+      "enunciado": "Según lo establecido en el art. 35 bis de la Ley 3/2001 de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la creación de los Centros de Gestión Unificada se llevará a cabo por:",
+      "opciones": {
+        "a": "Decreto de la Junta de Castilla y León.",
+        "b": "Decreto del Presidente de la Junta de Castilla y León.",
+        "c": "Orden del Consejero de Presidencia.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 35 bis.2 reserva la creación de estos centros al Decreto de la Junta para asegurar la coordinación entre órganos."
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Cuál de las siguientes competencias corresponde al Secretario General de las Consejerías, según el artículo 39 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León?:",
+      "opciones": {
+        "a": "Elaborar los anteproyectos de ley y proyectos de disposiciones administrativas de carácter general que le correspondan.",
+        "b": "Resolver los recursos y reclamaciones que le correspondan.",
+        "c": "Desempeñar la jefatura superior de todo el personal de la Consejería y resolver cuantos asuntos se refieran al mismo, salvo los atribuidos expresamente a otros órganos de la Consejería.",
+        "d": "Formular el anteproyecto de presupuesto referente a su consejería."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Esta función está expresamente atribuida al Secretario General en el artículo 39.1.j), mientras que las otras corresponden a directores generales o consejeros."
+    },
+    {
+      "numero": 12,
+      "enunciado": "Según el artículo 41 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la coordinación y la gestión de las competencias de la Administración General de la Comunidad en su respectivo territorio corresponde a:",
+      "opciones": {
+        "a": "Las Consejerías.",
+        "b": "Las Delegaciones Territoriales.",
+        "c": "Las Viceconsejerías.",
+        "d": "La Junta de Castilla y León."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 41 define a las Delegaciones Territoriales como los órganos encargados de la gestión periférica en cada provincia."
+    },
+    {
+      "numero": 13,
+      "enunciado": "La existencia en las Consejerías de Viceconsejerías, de conformidad con el artículo 37 de la Ley 3/2001, de 3 de julio, tiene carácter:",
+      "opciones": {
+        "a": "Facultativo.",
+        "b": "Preceptivo.",
+        "c": "Potestativo.",
+        "d": "Obligatorio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 37.1 establece que las Viceconsejerías existirán 'en su caso', confirmando su carácter potestativo."
+    },
+    {
+      "numero": 14,
+      "enunciado": "De acuerdo con el artículo 40 de la Ley 3/2001, de 3 de julio, es competencia de los Directores Generales:",
+      "opciones": {
+        "a": "Dirigir y gestionar los servicios comunes del departamento, así como los órganos y unidades administrativas que se encuentren bajo su dependencia.",
+        "b": "Ostentar la representación de la Consejería por orden del Consejero.",
+        "c": "Prestar asistencia técnica y administrativa al Consejero en cuantos asuntos éste considere conveniente.",
+        "d": "Dirigir y gestionar los servicios propios, así como los órganos y unidades administrativas que se encuentran bajo su dependencia."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Según el artículo 40.b), el Director General gestiona los servicios propios de su centro directivo, no los comunes de la Consejería."
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los Delegados Territoriales de la Junta de Castilla y León, según el artículo 43 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León:",
+      "opciones": {
+        "a": "Son representantes de la Junta de Castilla y León para el ámbito de cada Comunidad Autónoma dentro del territorio del Estado español.",
+        "b": "Son representantes de la Junta de Castilla y León para el ámbito de cada una de las provincias de la Comunidad de Castilla y León.",
+        "c": "Son representantes a nivel provincial de la Comunidad de Castilla y León, y con autorización directa de las Cortes de Castilla y León para diligenciar asuntos de éstas.",
+        "d": "Representan a la Junta de Castilla y León y a cada una de las Consejerías en la respectiva provincia."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 43.1 otorga al Delegado Territorial la representación tanto de la Junta como de cada Consejería en su provincia."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Según el tenor literal del artículo 45 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la creación, modificación o supresión de Consejerías se llevará a cabo:",
+      "opciones": {
+        "a": "Por Orden del Presidente de la Junta de Castilla y León.",
+        "b": "Por Decreto de la Presidencia de la Junta de Castilla y León.",
+        "c": "Por Resolución de la Presidencia de la Junta de Castilla y León.",
+        "d": "Por Decreto del Presidente de la Junta de Castilla y León."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 45.1 especifica que esta potestad corresponde al Presidente a través de un Decreto."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Según el artículo 57 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, es una función del Secretario de un órgano colegiado, entre otras:",
+      "opciones": {
+        "a": "Autorizar las actas de las sesiones.",
+        "b": "Visar las actas y certificaciones de los acuerdos del órgano.",
+        "c": "Dirimir con su voto de calidad.",
+        "d": "Ostentar la representación del órgano."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 57.1.d) asigna la redacción y autorización de actas al Secretario; el visado y la representación corresponden al Presidente."
+    },
+    {
+      "numero": 18,
+      "enunciado": "De conformidad con lo establecido en el Capítulo II del Titulo V de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados No es correcto:",
+      "opciones": {
+        "a": "Las encomiendas de gestión realizadas a órganos o entidades no dependientes de la Administración de la Comunidad de Castilla y León, se realizarán mediante acto resolutorio que contenga la autorización de la Junta de Castilla y León.",
+        "b": "La encomienda de gestión entre órganos o entidades dependientes de una misma Consejería será autorizada por su titular y la que se realice a favor de órganos o entidades pertenecientes o dependientes de diferentes consejerías o de distinta Administración Pública, será autorizada por la Junta de Castilla y León.",
+        "c": "La encomienda de gestión no supone la cesión de la titularidad de la competencia.",
+        "d": "El instrumento de formalización de la encomienda de gestión habrá de publicarse en el BOCyL."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque el artículo 48 bis.5 exige la firma de un convenio cuando la encomienda se realiza a órganos ajenos a la Administración de la Comunidad."
+    },
+    {
+      "numero": 19,
+      "enunciado": "Conforme a lo establecido en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, ¿quién actúa como órgano de comunicación con las demás Consejerías?:",
+      "opciones": {
+        "a": "El Consejero.",
+        "b": "El Viceconsejero.",
+        "c": "El Secretario General.",
+        "d": "El Director General."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Esta función de interlocución entre departamentos está asignada expresamente al Secretario General en el artículo 39.1.d)."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Según lo establecido en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, 'la Administración General de la Comunidad está constituida por órganos':",
+      "opciones": {
+        "a": "Independientes",
+        "b": "Jerárquicamente ordenados",
+        "c": "Funcionales y territoriales",
+        "d": "Ninguna de las anteriores"
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 34.1 define la Administración General como una estructura de órganos ordenados jerárquicamente."
+    },
+    {
+      "numero": 21,
+      "enunciado": "De conformidad con lo establecido en el art. 40 bis de la Ley 3/2001, de 3 de julio, en cada Consejería existirá un órgano de deliberación y coordinación, presidido por el titular del departamento y del que formarán parte los titulares de los centros directivos centrales, denominado:",
+      "opciones": {
+        "a": "Consejo de Gobierno.",
+        "b": "Consejo de Dirección.",
+        "c": "Centro de Gestión Unificada.",
+        "d": "Comisión de Secretarios Generales."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 40 bis regula la creación obligatoria del Consejo de Dirección en cada departamento para tareas de coordinación interna."
+    },
+    {
+      "numero": 22,
+      "enunciado": "De conformidad con el artículo 43 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, es competencia del Delegado Territorial:",
+      "opciones": {
+        "a": "Coordinar la acción política de la Junta de Castilla y León.",
+        "b": "Coordinar e impulsar la actividad de la Administración General e Institucional de la Comunidad Autónoma en la provincia, así como los programas de actuación territoriales de la Delegación.",
+        "c": "Desempeñar la jefatura de personal de la Delegación.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 43.2 recoge en sus distintos apartados (a, b y e) todas estas competencias para el ámbito provincial."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Según el artículo 45 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la creación, modificación o supresión de Secretarías Generales y Direcciones Generales se llevará a cabo:",
+      "opciones": {
+        "a": "Por Decreto del Presidente de la Junta de Castilla y León, a iniciativa del Consejero o Consejeros interesados y a propuesta del Consejero de Presidencia.",
+        "b": "Por Decreto de la Junta de Castilla y León, a iniciativa del Consejero o Consejeros interesados y a propuesta del Consejero de Presidencia.",
+        "c": "Por Orden del Consejero de Presidencia, a iniciativa del Consejero o Consejeros interesados.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 45.2 establece que este nivel jerárquico se regula por Decreto de la Junta, no solo del Presidente."
+    },
+    {
+      "numero": 24,
+      "enunciado": "De conformidad a lo establecido en el Título IV de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la Administración General de la Comunidad:",
+      "opciones": {
+        "a": "Su organización responde a los principios de división funcional y gestión territorial.",
+        "b": "Se organiza funcionalmente en departamentos, bajo la denominación de Consejerías.",
+        "c": "Se organiza territorialmente en Delegaciones Territoriales de la Junta de Castilla y León en cada una de las provincias.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Estos enunciados resumen los artículos 35, 36 y 41 de la Ley, que definen la estructura funcional y territorial."
+    },
+    {
+      "numero": 25,
+      "enunciado": "Conforme a lo establecido en el Título IV de la Ley 3/2001, de 3 de julio, las Delegaciones Territoriales son:",
+      "opciones": {
+        "a": "Órganos Directivos Centrales",
+        "b": "Órganos Directivos Periféricos",
+        "c": "Órganos Superiores Periféricos",
+        "d": "Órganos de la Administración Institucional de la Comunidad"
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 42.1 define explícitamente a las Delegaciones Territoriales como órganos directivos periféricos."
+    },
+    {
+      "numero": 26,
+      "enunciado": "De conformidad con el artículo 39.1 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, es competencia del Secretario General:",
+      "opciones": {
+        "a": "Elaborar el anteproyecto del presupuesto correspondiente a la Consejería y desarrollar el control presupuestario.",
+        "b": "Informar y tramitar los anteproyectos de ley y proyectos de disposiciones administrativas de carácter general de la Consejería.",
+        "c": "Prestar asistencia técnica y administrativa al Consejero en cuantos asuntos éste considere conveniente.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 39.1 en sus apartados f, g y c detalla estas funciones como competencias propias de la Secretaría General."
+    },
+    {
+      "numero": 27,
+      "enunciado": "Según el artículo 45 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la creación, modificación o supresión de Secretarías, Departamentos y Servicios Territoriales se llevará a cabo:",
+      "opciones": {
+        "a": "Por Decreto del Presidente de la Junta de Castilla y León, a propuesta del Delegado Territorial.",
+        "b": "Por Decreto de la Junta de Castilla y León, a propuesta del Consejero de la Presidencia.",
+        "c": "Por Orden del Consejero de la Presidencia, a iniciativa del Titula de la Consejería de la que dependan orgánicamente, previa deliberación de la Junta de Castilla y León.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 45.5 reserva al Decreto de la Junta la creación de estos órganos específicos de la Administración periférica."
+    },
+    {
+      "numero": 28,
+      "enunciado": "De conformidad con lo establecido en el Título V de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados NO es correcto:",
+      "opciones": {
+        "a": "El ejercicio de las competencias administrativas corresponderá a los órganos a los que se atribuya, mediante Decreto de la Junta de Castilla y León, a propuesta del Consejero competente por razón de materia.",
+        "b": "La titularidad y ejercicio de las competencias propias de los órganos de la Administración General podrán ser desconcentradas en otros jerárquicamente dependientes, tanto centrales con categoría superior a Servicio, como periféricos con categoría igual o superior a Departamento Territorial, salvo disposición en contrario.",
+        "c": "La desconcentración de competencias, así como su revocación, se aprobará por Decreto de la Junta de Castilla y León y se publicará en el BOCYL.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Todas las opciones (a, b y c) son correctas conforme a los artículos 46.1, 47.1 y 47.3 de la Ley respectivamente."
+    },
+    {
+      "numero": 29,
+      "enunciado": "Según lo establecido en el Título IV de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, ¿qué órgano coordina los programas de las Direcciones Generales?:",
+      "opciones": {
+        "a": "El Consejero",
+        "b": "El Viceconsejero",
+        "c": "El Secretario General",
+        "d": "El Director General"
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Según el artículo 39.1.b), el Secretario General tiene la función de coordinar los programas de las distintas Direcciones Generales del departamento."
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Cuál es la estructura orgánica central de una Consejería?:",
+      "opciones": {
+        "a": "Consejería, Viceconsejería y Secretaría General",
+        "b": "Consejería, Viceconsejerías y Direcciones Generales",
+        "c": "Consejería, Viceconsejería, Secretaría General y Direcciones Generales",
+        "d": "Consejería, Viceconsejería, Secretaría General, Direcciones Generales y Delegaciones Territoriales"
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "La estructura central se compone del titular del departamento y sus órganos directivos centrales (Viceconsejerías, Secretaría General y Direcciones Generales)."
+    },
+    {
+      "numero": 31,
+      "enunciado": "De conformidad con lo establecido en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados es correcto:",
+      "opciones": {
+        "a": "Cualquier variación que afecte al número o denominación de las Consejerías ya existentes exigirá que el Decreto contenga, además, el listado completo de Consejerías y su orden de prelación.",
+        "b": "La creación de centros de gestión unificada se llevará a cabo por Orden de la Consejería competente en materia de Función Pública, en la que se determinará su organización y normas de funcionamiento.",
+        "c": "La creación de Gabinetes con funciones de apoyo y asesoramiento se realizará por Orden del titular de la Consejería de la que dependan orgánicamente.",
+        "d": "En ningún caso se podrá disponer la adscripción directa a órganos centrales de órganos o unidades administrativas periféricas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 45.1 exige el listado completo y prelación en el Decreto de creación/modificación de Consejerías."
+    },
+    {
+      "numero": 32,
+      "enunciado": "De conformidad con lo establecido en el Título IV de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados No es correcto:",
+      "opciones": {
+        "a": "La Secretaría Territorial dependerá orgánicamente de la Consejería que tenga atribuidas las funciones de gestión administrativa de las Delegaciones Territoriales y funcionalmente, a través del Delegado Territorial, de los diversos órganos superiores y directivos que correspondan por razón de la materia.",
+        "b": "El Delegado Territorial dependerá orgánicamente de la Consejería de Economía y Hacienda y funcionalmente de las Consejerías que corresponda por razón de las distintas competencias materiales.",
+        "c": "Se podrá disponer la adscripción directa a órganos centrales de órganos o unidades administrativas periféricas, cuando lo aconseje su dimensión supraprovincial o la más eficaz gestión de la actividad que tengan encomendada.",
+        "d": "Las competencias de las Delegaciones Territoriales se determinarán en las correspondientes órdenes de desarrollo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque el artículo 42.5 establece que las competencias se determinan en el Reglamento Orgánico, no en órdenes de desarrollo."
+    },
+    {
+      "numero": 33,
+      "enunciado": "Teniendo en cuenta lo dispuesto en el art. 40 de la Ley 3/2001, de 3 de julio, No es competencia del Director General:",
+      "opciones": {
+        "a": "Informar y tramitar los anteproyectos de ley y proyectos de disposiciones administrativas de carácter general que le correspondan.",
+        "b": "Elaborar los programas de actuación específicos de la Dirección General.",
+        "c": "Dirigir y gestionar los Servicios propios, así como los órganos y unidades administrativas de carácter general que le correspondan.",
+        "d": "Velar por la utilización de los medios materiales y de las dependencias a su cargo."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Informar y tramitar anteproyectos de ley es competencia del Secretario General (art. 39.1.g), no del Director General."
+    },
+    {
+      "numero": 34,
+      "enunciado": "De conformidad con lo establecido en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados No es correcto:",
+      "opciones": {
+        "a": "La Administración General de la Comunidad adecuará su organización, funcionamiento y relaciones a los principios generales y normas básicas del régimen jurídico de las Administraciones Públicas.",
+        "b": "Los decretos de estructura orgánica determinarán las competencias de los distintos órganos directivos centrales y las correspondientes órdenes de desarrollo delimitarán las funciones de los órganos y unidades administrativas en que se organicen.",
+        "c": "En cada Consejería existirá un Consejo de dirección como órgano de deliberación y coordinación, presidido por el titular del departamento y del que formarán parte los titulares de los centros directivos centrales.",
+        "d": "La creación de los Centros de Gestión Unificada se llevará a cabo por Decreto del Presidente de la Junta de Castilla y León, en el que se determinará su organización y las normas de funcionamiento."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque el artículo 35 bis.2 indica que se crean por Decreto de la Junta, no específicamente del Presidente."
+    },
+    {
+      "numero": 35,
+      "enunciado": "Conforme a lo establecido en el Titulo V de la Ley 3/2011, de 3 de julio, los elementos organizativos básicos de la estructura orgánica de la Administración General son:",
+      "opciones": {
+        "a": "Las Secciones.",
+        "b": "Los Órganos Administrativos.",
+        "c": "Los Departamentos.",
+        "d": "Las Unidades Administrativas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 44.1 define a las unidades administrativas como los elementos organizativos básicos de la estructura."
+    },
+    {
+      "numero": 36,
+      "enunciado": "De acuerdo a lo establecido en la Ley 3/2001, de 3 de julio, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Cada delegación territorial se estructurará en una Secretaría Territorial y en los Servicios Territoriales que sean necesarios para el desempeño de las correspondientes funciones.",
+        "b": "Excepcionalmente, por motivos de eficacia en la gestión administrativa, podrán existir Departamentos Territoriales de los que dependerán varios órganos con rango de Servicio Territorial.",
+        "c": "La Secretaría Territorial dependerá orgánicamente, a través del Delegado Territorial, de los diversos órganos superiores y directivos que correspondan por razón de materia.",
+        "d": "El reglamento orgánico de las Delegaciones Territoriales determinará sus competencias y las correspondientes órdenes de desarrollo delimitarán las funciones de los Servicios y Departamentos Territoriales que existan."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecta porque la Secretaría Territorial depende orgánicamente de la Consejería con funciones de gestión administrativa de las Delegaciones."
+    },
+    {
+      "numero": 37,
+      "enunciado": "De conformidad con la literalidad del art. 43 de la Ley 3/2001, de 3 de julio, No es competencia del Delegado Territorial:",
+      "opciones": {
+        "a": "Coordinar la acción política de la Junta de Castilla y León.",
+        "b": "Desempeñar la jefatura de personal de la Delegación.",
+        "c": "Proponer o informar a los órganos superiores la resolución que estime procedente en los asuntos cuya tramitación esté encomendada a la Delegación Territorial.",
+        "d": "Ejercer el control de eficacia y la inspección de la Delegación Territorial."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El control de eficacia e inspección no figura entre las competencias del Delegado en el artículo 43."
+    },
+    {
+      "numero": 38,
+      "enunciado": "Según lo establecido en el art. 44 de la Ley 3/2001, de 3 de julio, No son órganos administrativos:",
+      "opciones": {
+        "a": "Los órganos superiores.",
+        "b": "Aquellas unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros o cuya actuación tenga carácter potestativo.",
+        "c": "Los órganos directivos.",
+        "d": "Todos los anteriores son órganos administrativos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Para ser órgano administrativo, el artículo 44.2 exige que la actuación tenga carácter preceptivo, no potestativo."
+    },
+    {
+      "numero": 39,
+      "enunciado": "Según el tenor literal del artículo 45.3 de la Ley 3/2001, de 3 de julio, serán creados, modificados o suprimidos por el titular de la Consejería a través de la correspondiente Orden de estructura orgánica, previo informe de la Consejería de Presidencia, y deliberación de la Junta de Castilla y León:",
+      "opciones": {
+        "a": "Los demás órganos y unidades administrativas de las Consejerías y Viceconsejerías.",
+        "b": "Los demás órganos y unidades administrativas de las Delegaciones Territoriales.",
+        "c": "Los demás órganos y unidades administrativas de las Secretarías Generales y de Direcciones Generales.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "La respuesta correcta sería 'los demás órganos y unidades administrativas de las Consejerías', sin las especificaciones adicionales de las opciones a, b o c."
+    },
+    {
+      "numero": 40,
+      "enunciado": "De conformidad con lo establecido en el Título V de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados NO es correcto respecto a la delegación de competencias:",
+      "opciones": {
+        "a": "El ejercicio de las competencias propias de los órganos de la Administración General podrá ser delegado en otros de igual o inferior categoría, aunque no sean jerárquicamente dependientes, tanto centrales con categoría superior a Servicio, como periféricos con categoría igual o superior a Sección, salvo disposición en contrario.",
+        "b": "La delegación de competencias, así como su revocación, se aprobará por Decreto de la Junta de Castilla y León y se publicará en el BOCYL.",
+        "c": "Para la delegación de competencias, se requerirá la previa autorización del Consejero o Consejeros de quienes dependan los órganos delegante y delegado, salvo en competencias de la Presidencia o Vicepresidencia.",
+        "d": "No son delegables las competencias propias de la Junta de Castilla y León."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque el artículo 48.2 establece que se aprueba mediante disposición propia del órgano delegante, no por Decreto de la Junta."
+    },
+    {
+      "numero": 41,
+      "enunciado": "De conformidad con lo establecido en el Capítulo IV del Título V de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados NO es correcto respecto de los órganos colegiados:",
+      "opciones": {
+        "a": "Los órganos colegiados de la Administración General de la Comunidad se regirán por las normas básicas del régimen jurídico de las Administraciones Públicas, por las normas contenidas en este capítulo, por las disposiciones o convenios de creación, y por sus reglamentos de régimen interior.",
+        "b": "En los órganos colegiados podrán existir representantes de otras Administraciones Públicas, organizaciones representativas de intereses sociales y otros miembros que se designen por las especiales condiciones de experiencia o conocimientos que concurran en ellos.",
+        "c": "Cuando se trate de órganos colegiados en los que participen organizaciones representativas de intereses sociales, éstas podrán sustituir a sus Vocales por otros, acreditándolo previamente ante la Presidencia del órgano colegiado.",
+        "d": "En caso de vacante, ausencia o enfermedad, el Presidente del órgano colegiado será sustituido por el vicepresidente que corresponda o, en su defecto, por el miembro del órgano colegiado que, perteneciendo a la Administración Autonómica o subsidiariamente a cualquier otra Administración, tenga mayor jerarquía, antigüedad y edad, por este orden, de entre sus componentes."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque la acreditación para sustituir vocales debe hacerse ante la Secretaría del órgano, no ante la Presidencia (art. 56.3)."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Según el artículo 37 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, son órganos directivos centrales de las Consejerías:",
+      "opciones": {
+        "a": "Subsecretarías, en su caso.",
+        "b": "Viceconsejerías, en su caso.",
+        "c": "Subdirecciones Generales.",
+        "d": "Jefaturas de Servicio."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Las Viceconsejerías son, junto con la Secretaría General y las Direcciones Generales, los órganos directivos centrales (art. 37.1)."
+    },
+    {
+      "numero": 43,
+      "enunciado": "Según lo establecido en el Capítulo II del Título V de la Ley 3/2001, de 3 de julio, señale la opción incorrecta:",
+      "opciones": {
+        "a": "El ejercicio de las competencias administrativas corresponderá a los órganos a los que se atribuya, mediante Decreto de la Junta de Castilla y León, a propuesta del Consejero de Presidencia.",
+        "b": "En la delegación de competencias el órgano delegante retiene la titularidad de éstas.",
+        "c": "La desconcentración implica la transferencia de la titularidad y ejercicio de las competencias propias de los órganos de la Administración General en otros jerárquicamente dependientes.",
+        "d": "La encomienda de gestión no supone cesión de la titularidad de la competencia."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecta porque la propuesta debe venir del Consejero competente por razón de la materia, no necesariamente del de Presidencia (art. 46.1)."
+    },
+    {
+      "numero": 44,
+      "enunciado": "De conformidad con lo establecido en el Capítulo IV del Título V de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados NO es correcto respecto de los órganos colegiados:",
+      "opciones": {
+        "a": "Son miembros del órgano colegiado el Presidente, el Vicepresidente o Vicepresidentes de existir y por su orden, los Vocales y, en su caso, el Secretario.",
+        "b": "Corresponde al Secretario del órgano colegiado visar las actas y certificaciones de los acuerdos del órgano.",
+        "c": "En caso de vacante, ausencia o enfermedad, el Secretario será sustituido por el miembro del órgano colegiado que, perteneciendo a la Administración Autonómica o subsidiariamente a cualquier otra Administración, tenga menor jerarquía, antigüedad y edad, por este orden, entre sus componentes.",
+        "d": "Corresponde al Presidente del órgano colegiado dirimir con su voto los empates, a efectos de adoptar acuerdos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque el visado de actas es una función propia del Presidente del órgano colegiado según el artículo 55.1.e)."
+    },
+    {
+      "numero": 45,
+      "enunciado": "Según el artículo 48 de la Ley 3/2001, de 3 de julio, que habla de la delegación de competencias, indique cuál de los siguientes enunciados No es correcto:",
+      "opciones": {
+        "a": "No son delegables las competencias atribuidas directamente por la Constitución Española y por el Estatuto de Autonomía.",
+        "b": "La delegación de competencias, así como su revocación, se aprobará mediante disposición propia del órgano delegante.",
+        "c": "El ejercicio de las competencias propias de órganos de la Administración General podrá ser delegado en otros órganos jerárquicamente dependientes, tanto centrales con categoría igual o superior a Servicio, como periféricos con categoría igual o superior a Departamento Territorial.",
+        "d": "No es una competencia delegable la creación, modificación o supresión de Consejerías."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque el artículo 48.1 permite delegar en órganos que NO sean jerárquicamente dependientes y especifica categorías distintas (Sección en periféricos)."
+    },
+    {
+      "numero": 46,
+      "enunciado": "De conformidad con lo establecido en el Capítulo II del Título V de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados NO es correcto:",
+      "opciones": {
+        "a": "Los titulares de los órganos directivos centrales serán sustituidos en caso de ausencia, vacante o enfermedad por el titular del órgano de la Consejería de igual rango o, en su defecto, del inmediatamente inferior, con mayor antigüedad, salvo que el Consejero disponga otra cosa.",
+        "b": "Los titulares de los órganos directivos periféricos serán suplidos por el Secretario Territorial y, en su defecto, por el Jefe del Departamento Territorial que tenga mayor antigüedad, salvo que el Consejero de Economía y Hacienda disponga otra cosa.",
+        "c": "Los titulares de los demás órganos serán suplidos, siempre que el contenido de la función lo permita, por el titular del órgano del mismo rango con mayor antigüedad del centro directivo, salvo que el titular de éste disponga otra cosa.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque el artículo 49.2 otorga esta facultad de disposición al Consejero de Presidencia, no al de Economía y Hacienda."
+    },
+    {
+      "numero": 47,
+      "enunciado": "Según el artículo 48.ter. de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados No es correcto:",
+      "opciones": {
+        "a": "Los encargos se formalizarán mediante resolución dictada por el órgano competente de la entidad que realiza el encargo y deberá incluir, además de cuantos antecedentes procedan, las actuaciones a realizar, la forma y condiciones de su realización, el plazo de ejecución, la posibilidad de prórroga, su importe, así como la forma de financiación que corresponda, el medio propio personificado o destinatario del encargo y la justificación de la necesidad o conveniencia de su realización.",
+        "b": "El órgano que realiza el encargo necesitará la previa autorización de la Junta de Castilla y León cuando el importe del gasto que suponga el mismo, incluidas las posibles prórrogas y modificaciones, sea igual o superior a 1.000.000 de euros.",
+        "c": "La resolución que formalice el encargo se notificará al medio propio personificado destinatario del mismo, adjuntando el proyecto o presupuesto técnico y, en su caso, el programa de trabajos o actuaciones a realizar.",
+        "d": "La compensación económica que deba recibirse por la ejecución del encargo se establecerá en los términos previstos en la normativa de contratos del sector público."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Es incorrecto porque el umbral para requerir autorización de la Junta es de 2.000.000 de euros, según el artículo 48 ter.2."
+    },
+    {
+      "numero": 48,
+      "enunciado": "El art. 51 de la Ley de Gobierno, con respecto a los órganos periféricos, establece que las Delegaciones Territoriales se ubicarán:",
+      "opciones": {
+        "a": "En las capitales de las provincias de la Comunidad Autónoma, sin perjuicio de que alguno de sus órganos o unidades administrativas se localice, por Ley de la Junta de Castilla y León, en otros municipios de las correspondientes provincias.",
+        "b": "En las capitales de las provincias de la Comunidad Autónoma, sin perjuicio de que alguno de sus órganos o unidades administrativas se localice, por Decreto de la Junta de Castilla y León, en otros municipios de las correspondientes provincias.",
+        "c": "En las capitales de las provincias de la Comunidad Autónoma, sin perjuicio de que alguno de sus órganos o unidades administrativas se localice, por Acuerdo de la Junta de Castilla y León, en otros municipios de las correspondientes provincias.",
+        "d": "En las capitales de las provincias de la Comunidad Autónoma, salvo que algunos de sus órganos o unidades administrativas se ubiquen en otros municipios de esas provincias."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 51 establece la sede en las capitales de provincia, permitiendo excepciones únicamente por Decreto de la Junta."
+    },
+    {
+      "numero": 49,
+      "enunciado": "El art. 45 de la Ley de Gobierno establece que:",
+      "opciones": {
+        "a": "La creación, modificación o supresión de Viceconsejerías, Secretarías Generales y de Direcciones Generales se llevará a cabo por Acuerdo del Presidente de la Junta de Castilla y León a iniciativa del Consejero o Consejeros interesados.",
+        "b": "La creación, modificación o supresión de Viceconsejerías y Secretarías Generales se llevará a cabo por Ley de las Cortes de Castilla y León a iniciativa del Consejero o Consejeros interesados.",
+        "c": "La creación, modificación o supresión de Secretarías Generales se llevará a cabo por Resolución del Consejero de la Presidencia a iniciativa del Consejero o Consejeros interesados.",
+        "d": "La creación, modificación o supresión de Secretarías Generales y de Direcciones Generales se Ilevará a cabo por Decreto de la Junta de Castilla y León a iniciativa del Consejero o Consejeros interesados y a propuesta del Consejero de Presidencia y Administración Territorial, sin perjuicio de su posterior desarrollo en las normas orgánicas correspondientes."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "El artículo 45.2 regula detalladamente este procedimiento exigiendo Decreto de la Junta e iniciativa del Consejero del ramo."
+    },
+    {
+      "numero": 50,
+      "enunciado": "Conforme al art. 84 de la Ley de Gobierno, la creación de empresas públicas se efectuará:",
+      "opciones": {
+        "a": "Por Decreto de la Junta de Castilla y León.",
+        "b": "Por Decreto del Presidente de la Junta de Castilla y León.",
+        "c": "Por Ley.",
+        "d": "Por Resolución del Consejero competente en la materia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "Según el artículo 84.1, tanto las entidades institucionales como las empresas públicas requieren de una Ley para su creación."
+    },
+    {
+      "numero": 51,
+      "enunciado": "Conforme al artículo 85 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la Administración Institucional de la Comunidad de Castilla y León está constituida por las siguientes entidades:",
+      "opciones": {
+        "a": "Organismos autónomos y entes de derecho público.",
+        "b": "Organismos autónomos y entes públicos de derecho privado.",
+        "c": "Universidades públicas de Castilla y León adscritas a la Consejería de Educación.",
+        "d": "Organismos autónomos y Universidades públicas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 85 limita la Administración Institucional a estos dos tipos de personificaciones jurídicas diferenciadas."
+    },
+    {
+      "numero": 52,
+      "enunciado": "Según el art. 89 de la Ley de Gobierno, las funciones del máximo órgano unipersonal de gestión del organismo autónomo se equipararán a las del:",
+      "opciones": {
+        "a": "Consejero.",
+        "b": "Secretario general.",
+        "c": "Director general.",
+        "d": "Coordinador de servicios."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 89 establece la equivalencia jerárquica y funcional entre el gestor del organismo y un Director General de la Consejería."
+    },
+    {
+      "numero": 53,
+      "enunciado": "Son organismos autónomos de la Comunidad de Castilla y León:",
+      "opciones": {
+        "a": "El Instituto Tecnológico Agracio de Castilla y León, el Consejo de la Juventud de Castilla y León y el Servicio Público de Empleo de Castilla y León.",
+        "b": "El Servicio Público de Empleo de Castilla y León, el Instituto para la Competitividad Empresarial y la Gerencia Regional de Salud.",
+        "c": "La gerencia Regional de Salud, el Instituto Tecnológico Agracio de Castilla y León y el Instituto para la Competitividad Empresarial.",
+        "d": "El Servicio Público de Empleo de Castilla y León, la Gerencia Regional de Salud y la Gerencia de Servicios Sociales."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "Estas tres entidades (ECYL, SACYL y Gerencia de Servicios Sociales) son los principales organismos autónomos de régimen administrativo."
+    },
+    {
+      "numero": 54,
+      "enunciado": "Según el artículo 88 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, el régimen de personal y de patrimonio de los Organismos Autónomos será:",
+      "opciones": {
+        "a": "El establecido en su ley de creación.",
+        "b": "El establecido en la normativa que regula la Función Pública de la Administración General y el Patrimonio de la Comunidad.",
+        "c": "El establecido en la regulación de la estructura orgánica de la Consejería de la que dependa el Organismo.",
+        "d": "El establecido por el ordenamiento jurídico privado."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "Al ser entes de derecho público puro, se someten a la normativa general de personal y bienes de la Administración Autonómica."
+    },
+    {
+      "numero": 55,
+      "enunciado": "De conformidad con lo establecido en el Título VII de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, los Organismos Autónomos de la Comunidad:",
+      "opciones": {
+        "a": "Tienen encomendada la realización de actividades de carácter económico, comercial, industrial, agrario, financiero o análogo, sujetándose fundamentalmente en su actuación al derecho privado.",
+        "b": "Tienen encomendada la realización de actividades de fomento, prestacionales o de gestión de servicios públicos, así como de carácter económico, comercial, industrial, agrario, financiero o análogo, sujetándose en su actuación al derecho administrativo.",
+        "c": "Tienen encomendadas la realización de actividades de fomento, prestacionales o de gestión de servicios públicos, sujetándose en su actuación al derecho administrativo.",
+        "d": "Tienen encomendada la realización de actividades de fomento, prestacionales, de gestión de servicios públicos, así como de carácter económico, comercial, industrial, agrario, financiero o análogo, sujetándose en su actuación al derecho administrativo o al derecho privado, en función de las actividades que ejerzan."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 86.1 define su objeto y su sometimiento al derecho administrativo para garantizar el control de la actividad pública."
+    },
+    {
+      "numero": 56,
+      "enunciado": "De conformidad con lo establecido en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados es correcto:",
+      "opciones": {
+        "a": "La creación de entidades institucionales debe acompañarse de un plan inicial de actuación que será aprobado por la Junta de Castilla y León.",
+        "b": "Para el desarrollo de sus competencias específicas, los organismos autónomos de la Comunidad de Castilla y León tienen las mismas potestades que la Administración General de la Comunidad de Castilla y León, incluida la potestad expropiatoria.",
+        "c": "Para el cumplimiento de las potestades públicas que pudieran ejercer, los entes públicos de derecho privado se sujetarán en su actuación al derecho privado.",
+        "d": "En ningún caso las empresas públicas podrán disponer de facultades que impliquen el ejercicio de potestades públicas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 94 prohíbe taxativamente que las sociedades mercantiles (empresas públicas) ejerzan potestades administrativas."
+    },
+    {
+      "numero": 57,
+      "enunciado": "De conformidad con lo establecido en el Título VII de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, los entes públicos de derecho privado:",
+      "opciones": {
+        "a": "Tienen encomendada la realización de actividades de carácter económico, comercial, industrial, agrario, financiero o análogo, sujetándose fundamentalmente en su actuación al derecho administrative.",
+        "b": "Tienen encomendada la realización de actividades de fomento, prestacionales o de gestión de servicios públicos, así como de carácter económico, comercial, industrial, agrario, financiero o análogo, sujetándose en su actuación al derecho administrativo.",
+        "c": "Tienen encomendada la realización de actividades de fomento, prestacionales o de gestión de servicios públicos, así como de carácter económico, comercial, industrial, agrario, financiero o análogo, sujetándose fundamentalmente en su actuación al derecho privado.",
+        "d": "Tienen encomendada la realización de actividades de carácter económico, comercial, industrial, agrario, financiero o análogo, sujetándose fundamentalmente en su actuación al derecho privado."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 90.1 define a estos entes por su carácter económico y su sujeción al derecho privado en el tráfico jurídico."
+    },
+    {
+      "numero": 58,
+      "enunciado": "De conformidad con lo establecido en el Título VII de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la Ley de creación de los Organismos Autónomos de la Comunidad:",
+      "opciones": {
+        "a": "Determinará su denominación, sus fines y competencias así como su adscripción a la Consejería respectiva.",
+        "b": "Determinará su denominación, sus fines y competencias, su adscripción a la Consejería respectiva, así como sus órganos rectores.",
+        "c": "Determinará su denominación, sus fines y competencias, su adscripción a la Consejería respectiva, sus órganos rectores, así como los bienes y medios económicos que se les asignen para el cumplimiento de sus fines.",
+        "d": "Determinará su denominación, sus fines y competencias, su adscripción a la Consejería respectiva, sus órganos rectores, los bienes y medios económicos que se les asignen para el cumplimiento de sus fines así como aquellos aspectos que puedan ser modificados reglamentariamente y, en su caso, las causas de extinción, el procedimiento para llevarla a cabo y los efectos de la misma."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 87 exige que la Ley de creación sea exhaustiva e incluya todos estos extremos para garantizar la seguridad jurídica del nuevo ente."
+    },
+    {
+      "numero": 59,
+      "enunciado": "Según el artículo 85 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la Administración Institucional de la Comunidad:",
+      "opciones": {
+        "a": "Está constituida por los Organismos Autónomos y los entes públicos de derecho privado.",
+        "b": "Actúa, para el cumplimiento de los fines de interés público que el ordenamiento establece como principios rectores de la política social y económica.",
+        "c": "Desarrolla, mediante descentralización funcional, actividades de ejecución administrativa y económica, propias de las competencias de la Comunidad.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 85 y concordantes recogen estas definiciones sobre la naturaleza, fines y técnica de descentralización funcional de estos entes."
+    },
+    {
+      "numero": 60,
+      "enunciado": "De conformidad con lo establecido en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados No es correcto:",
+      "opciones": {
+        "a": "La creación de entidades institucionales y empresas públicas se efectuará por Ley.",
+        "b": "Para el desarrollo de sus competencias específicas, los organismos autónomos de la Comunidad de Castilla y León tienen las mismas potestades que la Administración General de la Comunidad de Castilla y León, excepto la potestad expropiatoria.",
+        "c": "Los entes públicos de derecho privado tienen encomendadas la realización de actividades de carácter económico, comercial, industrial, agrario, financiero o análogo, sujetándose fundamentalmente en su actuación al derecho privado.",
+        "d": "Son empresas públicas, las sociedades mercantiles en cuyo capital la participación directa o indirecta de la Administración de la Comunidad Autónoma o de sus entidades institucionales sea superior al 75 por cien."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "Es incorrecto porque el artículo 92 fija el umbral de participación para ser empresa pública en más del 50%, no el 75%."
+    },
+    {
+      "numero": 61,
+      "enunciado": "Conforme al artículo 85 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la Administración de la Comunidad de Castilla y León:",
+      "opciones": {
+        "a": "Actúa para el cumplimiento de sus fines de interés general que el ordenamiento establece como principios rectores de la política social y económica.",
+        "b": "Desarrolla, mediante centralización funcional, actividades de ejecución administrativa y económica propias de las competencias de la Comunidad.",
+        "c": "Actúa para el cumplimiento de sus fines de interés público que el ordenamiento establece como principios rectores de la política social y económica.",
+        "d": "Desarrolla, mediante descentralización funcional, actividades de ejecución administrativa y económica propias de las competencias del Estado."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 85 especifica que la actuación se dirige a fines de interés público según los principios rectores del ordenamiento."
+    },
+    {
+      "numero": 62,
+      "enunciado": "Según el Título VII de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, indique cuál de los siguientes enunciados es correcto:",
+      "opciones": {
+        "a": "La creación de las entidades institucionales y empresas públicas se efectuará por Ley.",
+        "b": "La extinción de las entidades institucionales y empresas públicas exigirá Ley específica.",
+        "c": "Cuando las disposiciones sobre la extinción no regularen la liquidación de la entidad o empresa, ésta se llevará a cabo por Decreto de la Junta de Castilla y León, a propuesta de la Consejería de Economía y Hacienda y a iniciativa de la Consejería a que esté adscrita.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 10. Administración Institucional",
+      "explicación": "El artículo 84 en sus apartados 1 y 3 regula tanto el nacimiento como la muerte y liquidación de estas figuras jurídicas."
+    },
+    {
+      "numero": 63,
+      "enunciado": "¿De quién depende orgánicamente el Delegado Territorial?:",
+      "opciones": {
+        "a": "De la Junta de Castilla y León.",
+        "b": "Del Presidente de la Junta de Castilla y León.",
+        "c": "De la Consejería de Presidencia.",
+        "d": "De la Consejería de Economía y Hacienda."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 9. Administración de JCyL",
+      "explicación": "Aunque la Ley 3/2001 cita a Presidencia, el Decreto 1/2022 de reestructuración transfirió esta dependencia orgánica a la Consejería de Economía y Hacienda."
+    }
+  ]
+}
