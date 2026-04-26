@@ -11,8 +11,8 @@
         "d": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas y la igualdad."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 1.1 de la Constitución establece explícitamente que España propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político [1, 2]."
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 1.1 especifica taxativamente estos cuatro valores; las otras opciones omiten el pluralismo político o incluyen principios del artículo 9.3[cite: 26786, 26822]."
     },
     {
       "numero": 2,
@@ -24,8 +24,8 @@
         "d": "Ninguna de las opciones anteriores es correcta."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El texto de la Constitución Española fue publicado oficialmente en el BOE el 29 de diciembre de 1978 [2, 3]."
+      "tema": "Título Preliminar",
+      "explicación": "La Constitución fue publicada y entró en vigor el mismo día: el 29 de diciembre de 1978[cite: 26767]."
     },
     {
       "numero": 3,
@@ -37,8 +37,8 @@
         "d": "El Congreso de los Diputados."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El texto definitivo de la Constitución fue aprobado de manera conjunta por las Cortes Generales (Congreso de los Diputados y Senado) el 31 de octubre de 1978 [2, 3]."
+      "tema": "Título Preliminar",
+      "explicación": "El texto fue aprobado por el Congreso y el Senado en sesiones separadas el 31 de octubre de 1978[cite: 26764]."
     },
     {
       "numero": 4,
@@ -50,8 +50,8 @@
         "d": "Ninguna de las opciones anteriores es correcta."
       },
       "respuesta_correcta": "a",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "La Constitución de 1978 fue ratificada por el pueblo español a través del referéndum celebrado el 6 de diciembre de 1978 [3, 4]."
+      "tema": "Título Preliminar",
+      "explicación": "La ratificación popular se produjo mediante referéndum nacional el 6 de diciembre de 1978[cite: 26765]."
     },
     {
       "numero": 5,
@@ -63,8 +63,8 @@
         "d": "El Preámbulo."
       },
       "respuesta_correcta": "d",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El Preámbulo de la Constitución tiene un valor puramente declarativo y no preceptivo; su contenido carece de fuerza jurídica directa para fundamentar pretensiones ante tribunales [4, 5]."
+      "tema": "Título Preliminar",
+      "explicación": "El Preámbulo tiene un valor declarativo e ideológico, pero no es una norma jurídica vinculante ni directamente alegable ante tribunales[cite: 14284, 14285]."
     },
     {
       "numero": 6,
@@ -76,8 +76,8 @@
         "d": "Al Gobierno y a la Administración."
       },
       "respuesta_correcta": "d",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El Título IV de la Constitución Española de 1978 Ileva expresamente por rúbrica 'Del Gobierno y de la Administración' [5, 6]."
+      "tema": "Estructura",
+      "explicación": "El Título IV se rubrica específicamente 'Del Gobierno y de la Administración'[cite: 14290]."
     },
     {
       "numero": 7,
@@ -89,8 +89,8 @@
         "d": "Ninguna de las opciones anteriores es correcta."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El texto constitucional se complementa con cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una disposición final [3, 6]."
+      "tema": "Estructura",
+      "explicación": "La Constitución se estructura en un Título Preliminar, 10 Títulos numerados, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final[cite: 15143, 15144]."
     },
     {
       "numero": 8,
@@ -99,11 +99,11 @@
         "a": "Social, libre y de derecho.",
         "b": "Social, democrático y de derecho.",
         "c": "Social, democrático y capitalista.",
-        "d": "La constitución del Estado español no se recoge en el artículo citado en el enunciado de la pregunta."
+        "d": "La constitución del Estado español no se recoge en el artículo citado."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 1.1 dictamina claramente que España se constituye en un Estado social y democrático de Derecho [3, 6]."
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 1.1 define a España como un Estado social y democrático de Derecho[cite: 26786]."
     },
     {
       "numero": 9,
@@ -115,8 +115,8 @@
         "d": "Estado constitucional y democrático."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 1.3 señala sin lugar a dudas que la forma política del Estado español es la Monarquía parlamentaria [7, 8]."
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 1.3 establece de forma unívoca que la forma política es la Monarquía parlamentaria[cite: 26788]."
     },
     {
       "numero": 10,
@@ -128,8 +128,8 @@
         "d": "Al Gobierno."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 8 confía a las Fuerzas Armadas la misión de garantizar la soberanía e independencia de España, así como defender su integridad territorial y su ordenamiento constitucional [7, 8]."
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 8.1 asigna específicamente a las Fuerzas Armadas la misión de defender la integridad territorial y el ordenamiento constitucional[cite: 26816]."
     },
     {
       "numero": 11,
@@ -141,11 +141,24 @@
         "d": "A la Constitución, a la ley y al resto del ordenamiento jurídico."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 9.1 establece que tanto los ciudadanos como los poderes públicos están sujetos plenamente a la Constitución y al resto del ordenamiento jurídico [9, 10]."
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 9.1 dispone la sujeción de ciudadanos y poderes públicos a la Constitución y al resto del ordenamiento[cite: 26819]."
     },
     {
       "numero": 12,
+      "enunciado": "De conformidad con lo establecido en el artículo 9 de la Constitución Española, ¿qué disposiciones son irretroactivas?:",
+      "opciones": {
+        "a": "Las sancionadoras que limiten derechos individuales exclusivamente.",
+        "b": "Las normas de rango inferior a la Ley que establezcan una limitación de las libertades individuales.",
+        "c": "Las disposiciones favorables que limiten derechos adquiridos.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título Preliminar",
+      "explicación": "La irretroactividad se garantiza para las disposiciones sancionadoras NO favorables o restrictivas de derechos individuales; ninguna opción es una copia literal correcta[cite: 26822]."
+    },
+    {
+      "numero": 13,
       "enunciado": "¿En qué fecha fue aprobada la Constitución Española de 1978?:",
       "opciones": {
         "a": "El 31 de octubre de 1978.",
@@ -154,11 +167,11 @@
         "d": "Ninguna de las opciones anteriores es correcta."
       },
       "respuesta_correcta": "a",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "La aprobación de la Constitución por parte de las Cortes Generales se llevó a cabo formalmente el 31 de octubre de 1978 [11, 12]."
+      "tema": "Título Preliminar",
+      "explicación": "La aprobación por el Congreso y el Senado tuvo lugar el 31 de octubre de 1978[cite: 26764]."
     },
     {
-      "numero": 13,
+      "numero": 14,
       "enunciado": "Según lo establecido en el artículo 10 de la Constitución Española, ¿a qué edad se alcanza la mayoría de edad?:",
       "opciones": {
         "a": "A los dieciocho años.",
@@ -167,24 +180,24 @@
         "d": "A los dieciocho años, pero se regula en el artículo 18."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "Aunque la mayoría de edad se fija a los 18 años, esta condición jurídica no está regulada en el artículo 10 de la Constitución, sino en el artículo 12 [13, 14]."
+      "tema": "Título I. Capítulo I",
+      "explicación": "La mayoría de edad a los 18 años está regulada en el artículo 12, no en el 10[cite: 26839]."
     },
     {
-      "numero": 14,
+      "numero": 15,
       "enunciado": "El artículo 20 de la Constitución Española de 1978:",
       "opciones": {
         "a": "Determina que toda persona tiene derecho a la libertad y a la seguridad.",
-        "b": "Garantiza la libertad ideológica, religiosa y de culto...",
+        "b": "Garantiza la libertad ideológica, religiosa y de culto.",
         "c": "Protege y reconoce la libertad de cátedra.",
         "d": "Reconoce el derecho de reunión pacífica y sin armas."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 20.1.c) es el que protege de forma específica y reconoce el derecho a la libertad de cátedra [13, 14]."
+      "tema": "Título I. Capítulo II",
+      "explicación": "La libertad de cátedra es uno de los derechos protegidos por el artículo 20.1.c[cite: 26890]."
     },
     {
-      "numero": 15,
+      "numero": 16,
       "enunciado": "De conformidad con el artículo 25 de la Constitución Española, la Administración Civil:",
       "opciones": {
         "a": "Podrá imponer sanciones que, subsidiariamente, impliquen privación de libertad.",
@@ -193,11 +206,297 @@
         "d": "No podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad."
       },
       "respuesta_correcta": "d",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 25.3 veta expresamente a la Administración Civil la posibilidad de imponer sanciones que impliquen de forma directa o subsidiaria cualquier privación de libertad [13, 14]."
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 25.3 prohíbe taxativamente a la Administración civil imponer sanciones que impliquen privación de libertad[cite: 26924]."
     },
     {
-      "numero": 16,
+      "numero": 17,
+      "enunciado": "¿Qué título de la Constitución Española está dedicado a la regulación del Gobierno?",
+      "opciones": {
+        "a": "El título III.",
+        "b": "El Título IV.",
+        "c": "El Título V.",
+        "d": "El Título VII."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Estructura",
+      "explicación": "El Título IV regula el Gobierno y la Administración, mientras que el III trata de las Cortes Generales[cite: 14356]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Conforme el artículo 54 de la Constitución Española, el Defensor del Pueblo es designado por:",
+      "opciones": {
+        "a": "El Congreso de los Diputados, dando cuenta al Rey.",
+        "b": "Las Cortes Generales, a las que dará cuenta.",
+        "c": "El Gobierno de la nación, dando cuentas a las Cortes Generales.",
+        "d": "El Rey, dando cuentas a las Cortes Generales."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "El Defensor del Pueblo es un alto comisionado de las Cortes Generales, designado por estas para defender los derechos del Título I[cite: 27072]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "Según lo dispuesto en el art. 55.1 de la Constitución Española de 1978, en el Estado de Sitio, puede ser suspendido el derecho a:",
+      "opciones": {
+        "a": "La negociación colectiva laboral entre los representantes de los trabajadores y los empresarios, así como la fuerza vinculante de los convenios.",
+        "b": "Comunicar o recibir libremente información veraz por cualquier medio de difusión.",
+        "c": "La libertad de empresa.",
+        "d": "La producción y creación literaria, artística, científica y técnica."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo V",
+      "explicación": "El artículo 55.1 permite suspender la libertad de información (art. 20.1.d) en estados de excepción o sitio[cite: 27074]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Según la Constitución Española de 1978:",
+      "opciones": {
+        "a": "El condenado a pena de prisión en ningún caso tendrá derecho a realizar trabajo remunerado.",
+        "b": "Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica.",
+        "c": "En ningún caso un español podrá ser privado de sus bienes y derechos.",
+        "d": "Los poderes públicos garantizan y protegen la economía de mercado."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 31.1 establece el deber de contribuir a los gastos públicos según la capacidad económica de cada uno[cite: 26964]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "En relación con el derecho a la libertad religiosa, ¿qué declara la Constitución Española?:",
+      "opciones": {
+        "a": "La reconoce.",
+        "b": "La garantiza.",
+        "c": "La reconoce y la garantiza.",
+        "d": "La reconoce, la garantiza y la protege."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 16.1 utiliza específicamente el verbo 'garantizar' para la libertad ideológica, religiosa y de culto[cite: 26854]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "De conformidad con lo establecido en el artículo 17 de la Constitución Española, ¿cuál es el tiempo máximo de duración de la detención preventiva?:",
+      "opciones": {
+        "a": "48 horas.",
+        "b": "24 horas.",
+        "c": "36 horas.",
+        "d": "72 horas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El plazo máximo de detención preventiva antes de la puesta en libertad o a disposición judicial es de 72 horas[cite: 26866]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Conforme a lo establecido en el artículo 17.4, ¿cómo se llama el procedimiento judicial por el que se debe poner a un detenido a disposición inmediata de la autoridad judicial?:",
+      "opciones": {
+        "a": "Proceso sumario.",
+        "b": "Habeas Corpus.",
+        "c": "Proceso de amparo.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El Habeas Corpus es el mecanismo constitucional para poner fin a detenciones ilegales mediante control judicial inmediato[cite: 26869]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "Según lo establecido en el artículo 18 de la Constitución Española, ¿en qué casos se puede proceder a la entrada en un domicilio particular?:",
+      "opciones": {
+        "a": "En caso de resolución judicial exclusivamente.",
+        "b": "En caso de delito flagrante o resolución judicial exclusivamente.",
+        "c": "En caso de autorización del titular o resolución judicial exclusivamente.",
+        "d": "En caso de autorización del titular, resolución judicial o flagrante delito."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 18.2 admite estas tres excepciones a la inviolabilidad del domicilio[cite: 26873]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "De acuerdo con el artículo 18 de la Constitución Española, ¿pueden interceptarse las comunicaciones postales?:",
+      "opciones": {
+        "a": "Sí, por medio de resolución administrativa.",
+        "b": "Sí, por medio de resolución judicial o administrativa.",
+        "c": "No, en ningún caso.",
+        "d": "Solo mediante resolución judicial."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 18.3 garantiza el secreto de comunicaciones salvo que exista una resolución judicial[cite: 26874]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "De acuerdo con la literalidad del artículo 24 de la Constitución Española, ¿quiénes tienen derecho a la tutela judicial efectiva de jueces y tribunales?:",
+      "opciones": {
+        "a": "Todos los ciudadanos españoles pero no los extranjeros no legalizados.",
+        "b": "Todos los ciudadanos de la Unión Europea y los españoles, pero no los extranjeros ajenos a este ámbito.",
+        "c": "Todas las personas.",
+        "d": "Solo los ciudadanos españoles y los nacionales de países de la Unión Europea legalizados."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 24.1 reconoce explícitamente que 'todas las personas' tienen este derecho[cite: 26916]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "Según lo establecido en el artículo 26 de la Constitución Española, ¿en qué ámbito están prohibidos los Tribunales de Honor?:",
+      "opciones": {
+        "a": "En el ámbito de la Administración Local.",
+        "b": "En el ámbito de la Administración Civil y Militar.",
+        "c": "En el ámbito de la Administración Civil y en el de las organizaciones profesionales.",
+        "d": "En el ámbito de la Administración Civil y Militar y en el de las organizaciones profesionales."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo II",
+      "explicación": "La prohibición de los Tribunales de Honor se circunscribe a la Administración civil y organizaciones profesionales[cite: 26926]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué artículo de la Constitución Española recoge el derecho y el deber de trabajar?:",
+      "opciones": {
+        "a": "El artículo 33.",
+        "b": "El artículo 35.",
+        "c": "El artículo 37.",
+        "d": "El artículo 39."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 35.1 reconoce que todos los españoles tienen el deber de trabajar y el derecho al trabajo[cite: 26977]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "De conformidad con lo establecido en la Constitución Española de 1978, ¿cómo se adquiere, se conserva y se pierde la nacionalidad española?:",
+      "opciones": {
+        "a": "De acuerdo con la Constitución.",
+        "b": "De acuerdo con la Ley.",
+        "c": "De acuerdo con los Tratados Internacionales.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo I",
+      "explicación": "El artículo 11.1 remite a lo que establezca la ley para regular la nacionalidad española[cite: 26829]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "De conformidad con lo establecido en el artículo 53 de la Constitución Española, ¿qué tipo de ley es necesaria para regular el desarrollo del artículo 21 de la Constitución?:",
+      "opciones": {
+        "a": "Ley ordinaria.",
+        "b": "Ley de bases.",
+        "c": "Ley orgánica.",
+        "d": "Ley marco."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "Al ser el artículo 21 (derecho de reunión) un derecho fundamental de la Sección 1ª del Capítulo II, requiere ley orgánica[cite: 26356, 27061]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "De conformidad con la literalidad del artículo 53 de la Constitución Española, 'cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo... a través del recurso de amparo ante...':",
+      "opciones": {
+        "a": "El Tribunal Supremo.",
+        "b": "El Tribunal Constitucional.",
+        "c": "El Consejo General del Poder Judicial.",
+        "d": "Cualquier Juzgado o Tribunal."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "El recurso de amparo se interpone específicamente ante el Tribunal Constitucional para proteger estos derechos[cite: 27067]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "De conformidad con lo establecido en el artículo 55 de la Constitución Española, podrá ser suspendido cuando se acuerde la declaración del estado de excepción o de sitio:",
+      "opciones": {
+        "a": "El derecho de reunión.",
+        "b": "El derecho a la huelga.",
+        "c": "El derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título I. Capítulo V",
+      "explicación": "El artículo 55.1 permite la suspensión de estos derechos específicos (reunión, huelga y conflicto colectivo) en situaciones excepcionales[cite: 27074]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "Según la Constitución Española, el Presidente del Tribunal Constitucional:",
+      "opciones": {
+        "a": "Debe ser miembro del Gobierno.",
+        "b": "Debe ser Diputado o Senador.",
+        "c": "Es nombrado por las Cortes Generales por mayoría absoluta.",
+        "d": "Es elegido por un período de tres años."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título IX",
+      "explicación": "El Presidente del Tribunal Constitucional es nombrado por el Rey a propuesta del propio Tribunal en pleno por un periodo de tres años[cite: 14456, 16132]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "El derecho de sufragio pasivo, está reconocido en nuestra Constitución Española:",
+      "opciones": {
+        "a": "En el artículo 13.",
+        "b": "En el artículo 23.",
+        "c": "En el artículo 29.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 23.1 reconoce el derecho a participar en asuntos públicos a través de representantes o directamente (sufragio activo y pasivo)[cite: 26908]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "De conformidad con lo establecido en el artículo 27 de la Constitución Española, es obligatoria y gratuita:",
+      "opciones": {
+        "a": "La educación primaria.",
+        "b": "La educación secundaria.",
+        "c": "La educación infantil.",
+        "d": "La enseñanza básica."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 27.4 establece específicamente que 'la enseñanza básica es obligatoria y gratuita'[cite: 26931]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "Conforme a lo previsto en la Constitución Española, el derecho a la huelga de los trabajadores podrá suspenderse cuando se declare el estado:",
+      "opciones": {
+        "a": "De excepción.",
+        "b": "De sitio.",
+        "c": "De excepción o de sitio.",
+        "d": "De alarma, de excepción o de sitio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo V",
+      "explicación": "El derecho a la huelga (art. 28.2) solo puede suspenderse en los estados de excepción o sitio[cite: 27074]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "El derecho del detenido a ser informado de forma inmediata, así como su derecho a la asistencia de un abogado:",
+      "opciones": {
+        "a": "Podrá suspenderse cuando se declare el estado de excepción.",
+        "b": "Podrá suspenderse cuando se declare el estado de sitio.",
+        "c": "Podrá suspenderse cuando se declare el estado de excepción o de sitio.",
+        "d": "No podrá suspenderse en ningún caso."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo V",
+      "explicación": "El artículo 55.1 exceptúa el derecho a la asistencia de abogado de la suspensión en estado de excepción, pero no explícitamente en el de sitio[cite: 27074, 27075]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "De conformidad con lo establecido en la Constitución Española, todos los españoles tendrán, en la forma y con los efectos que determine la ley, el derecho de:",
+      "opciones": {
+        "a": "Petición individual, por escrito.",
+        "b": "Petición colectiva, por escrito.",
+        "c": "Petición individual y colectiva, por escrito o verbalmente.",
+        "d": "Petición individual y colectiva, por escrito."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 29.1 garantiza el derecho de petición individual y colectiva, siempre por escrito[cite: 26950]."
+    },
+    {
+      "numero": 39,
       "enunciado": "El derecho de asociación:",
       "opciones": {
         "a": "Podrá suspenderse cuando se declare el estado de excepción.",
@@ -206,11 +505,11 @@
         "d": "Solo podrá suspenderse en virtud de resolución judicial motivada."
       },
       "respuesta_correcta": "d",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "Según el artículo 22.4 de la Constitución, las asociaciones únicamente pueden disolverse o suspenderse en sus actividades a través de una resolución judicial que esté debidamente motivada [15, 16]."
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 22.4 protege las asociaciones indicando que solo pueden disolverse o suspenderse por resolución judicial motivada[cite: 26905]."
     },
     {
-      "numero": 17,
+      "numero": 40,
       "enunciado": "¿Cuántos artículos tiene la Constitución Española de 1978?:",
       "opciones": {
         "a": "159.",
@@ -219,11 +518,11 @@
         "d": "Ninguna de las opciones anteriores es correcta."
       },
       "respuesta_correcta": "d",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "Ninguna de las cifras dadas es correcta, puesto que el texto de la Constitución Española consta oficialmente de 169 artículos [15, 16]."
+      "tema": "Estructura",
+      "explicación": "La Constitución española consta exactamente de 169 artículos[cite: 26300, 15881]."
     },
     {
-      "numero": 18,
+      "numero": 41,
       "enunciado": "La organización territorial del Estado está regulada en nuestra Constitución en el Título:",
       "opciones": {
         "a": "V",
@@ -232,11 +531,11 @@
         "d": "VIII"
       },
       "respuesta_correcta": "d",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "Todo lo relativo a la organización territorial del Estado (incluyendo municipios, provincias y comunidades autónomas) está regulado íntegramente en el Título VIII [17, 18]."
+      "tema": "Estructura",
+      "explicación": "El Título VIII se titula 'De la Organización Territorial del Estado'[cite: 16110, 15918]."
     },
     {
-      "numero": 19,
+      "numero": 42,
       "enunciado": "La igualdad de los españoles ante la ley, está recogida en nuestra Constitución:",
       "opciones": {
         "a": "En el artículo 13.",
@@ -245,24 +544,76 @@
         "d": "Ninguna de las opciones anteriores es correcta."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El precepto que establece la igualdad ante la ley de todos los españoles y prohíbe cualquier tipo de discriminación es el artículo 14 [17, 18]."
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 14 proclama que los españoles son iguales ante la ley sin discriminación alguna[cite: 26848]."
     },
     {
-      "numero": 20,
+      "numero": 43,
+      "enunciado": "De conformidad con lo establecido en el Título Preliminar de nuestra Constitución Española, son garantías jurídicas:",
+      "opciones": {
+        "a": "El principio de legalidad.",
+        "b": "La jerarquía normativa.",
+        "c": "La irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales.",
+        "d": "Son correctas las opciones a) y b)"
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 9.3 enumera el principio de legalidad y jerarquía normativa como garantías; la opción c) falla porque la irretroactividad solo aplica a normas NO favorables[cite: 26822]."
+    },
+    {
+      "numero": 44,
+      "enunciado": "De conformidad con lo establecido en el artículo 54 de la Constitución Española, la institución del Defensor del Pueblo será regulada por:",
+      "opciones": {
+        "a": "Ley ordinaria.",
+        "b": "Ley orgánica.",
+        "c": "Ley de bases.",
+        "d": "El propio reglamento interno de esta institución."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "El artículo 54 exige que una ley orgánica regule esta institución[cite: 27072]."
+    },
+    {
+      "numero": 45,
       "enunciado": "Los principios rectores de la política social y económica, están regulados en nuestra Constitución Española, en el/la:",
       "opciones": {
         "a": "Capítulo I del Título I.",
         "b": "Capítulo II del Título I.",
         "c": "Capítulo III del Título I.",
-        "d": "Sección segunda del Capítulo II del Título I."
+        "d": "Sección segunda del Capítulo II del Título 1."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "Estos principios orientadores se localizan de manera estructurada en el Capítulo III correspondiente al Título I de la Carta Magna [19, 20]."
+      "tema": "Estructura",
+      "explicación": "El Capítulo III del Título I contiene los principios rectores de la política social y económica[cite: 26994]."
     },
     {
-      "numero": 21,
+      "numero": 46,
+      "enunciado": "¿En cuántos títulos, artículos y disposiciones se estructura la Constitución Española de 1978?:",
+      "opciones": {
+        "a": "168 artículos distribuidos entre un título preliminar y otros 9 títulos, más 4 disposiciones adicionales, 8 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+        "b": "169 artículos distribuidos entre un título preliminar y otros 10 títulos, más 4 disposiciones adicionales, 8 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+        "c": "168 artículos distribuidos entre un título preliminar y otros 10 títulos, más 4 disposiciones adicionales, 9 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final.",
+        "d": "169 artículos distribuidos entre un título preliminar y otros 10 títulos, más 4 disposiciones adicionales, 9 disposiciones transitorias, 1 disposición derogatoria y 1 disposición final."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Estructura",
+      "explicación": "La estructura oficial comprende un título preliminar, 10 títulos, 169 artículos, 4 adicionales, 9 transitorias, 1 derogatoria y 1 final[cite: 14531]."
+    },
+    {
+      "numero": 47,
+      "enunciado": "El artículo 47 de la Constitución Española de 1978 establece expresamente:",
+      "opciones": {
+        "a": "Todas las personas tienen derecho a disfrutar de una vivienda digna y adecuada.",
+        "b": "Todos los hombres tienen derecho a disfrutar de una vivienda digna y adecuada.",
+        "c": "Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada.",
+        "d": "El derecho de una vivienda digna no se regula en la Constitución."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo III",
+      "explicación": "El artículo 47 menciona explícitamente que 'todos los españoles' tienen este derecho[cite: 27033]."
+    },
+    {
+      "numero": 48,
       "enunciado": "De conformidad con lo establecido en el artículo 59 de la Constitución Española, la Regencia se ejercerá por mandato:",
       "opciones": {
         "a": "Institucional y siempre en nombre del propio Regente.",
@@ -271,11 +622,11 @@
         "d": "Constitucional y siempre en nombre de las Cortes Generales."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "La Constitución marca en su artículo 59.5 que la Regencia siempre se ejercerá por mandato constitucional y en representación o en nombre del Rey [21, 22]."
+      "tema": "Título II",
+      "explicación": "El artículo 59.5 determina que la Regencia es un mandato constitucional y se ejerce siempre en nombre del Rey[cite: 27108]."
     },
     {
-      "numero": 22,
+      "numero": 49,
       "enunciado": "Según el artículo 59.3 de la Constitución Española, si no hubiere ninguna persona a quien corresponda la Regencia:",
       "opciones": {
         "a": "Ésta será nombrada por el Consejo de Ministros, y se compondrá de tres personas.",
@@ -284,11 +635,11 @@
         "d": "Ésta será nombrada por la mayoría absoluta del Congreso de los Diputados, y se compondrá de una, tres o cinco personas."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "Si se agota la línea de quienes pueden asumir la Regencia, el artículo 59.3 indica que las Cortes Generales serán las encargadas de nombrarla y estará compuesta por 1, 3 o 5 individuos [21, 22]."
+      "tema": "Título II",
+      "explicación": "Las Cortes Generales son las encargadas de nombrar la Regencia electiva, con 1, 3 o 5 personas[cite: 27106]."
     },
     {
-      "numero": 23,
+      "numero": 50,
       "enunciado": "De conformidad con lo establecido en el artículo 60 de la Constitución Española, será tutor del Rey menor de edad:",
       "opciones": {
         "a": "El hermano de mayor edad.",
@@ -297,11 +648,11 @@
         "d": "Ninguna de las opciones anteriores es correcta."
       },
       "respuesta_correcta": "c",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "Para el nombramiento de tutor en caso de minoría de edad del Rey, el artículo 60.1 prefiere y establece como primera opción a la persona designada en el testamento por el Rey difunto [21, 22]."
+      "tema": "Título II",
+      "explicación": "La tutela testamentaria prevalece sobre la legítima (padre/madre viudos) y la dativa (Cortes)[cite: 27115, 27116]."
     },
     {
-      "numero": 24,
+      "numero": 51,
       "enunciado": "De conformidad con lo establecido en el artículo 62 de la Constitución Española, es función del Rey:",
       "opciones": {
         "a": "Convocar y disolver las Cortes Generales.",
@@ -310,11 +661,11 @@
         "d": "Todas las anteriores son funciones del Rey."
       },
       "respuesta_correcta": "d",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 62 enumera explícitamente estas competencias y atribuye al Rey la convocatoria y disolución de Cortes, el nombramiento/cese del Gobierno según la propuesta del Presidente y la expedición de reales decretos, entre otras [21, 22]."
+      "tema": "Título II",
+      "explicación": "El artículo 62 detalla las competencias del Monarca, incluyendo la convocatoria de Cortes, nombramiento de ministros y expedición de decretos[cite: 27125, 27129, 27130]."
     },
     {
-      "numero": 25,
+      "numero": 52,
       "enunciado": "Según lo establecido en el Título II de la Constitución Española, ¿cuál de los siguientes actos necesita refrendo?:",
       "opciones": {
         "a": "El nombramiento de los miembros civiles y militares de la Casa Real.",
@@ -323,24 +674,1311 @@
         "d": "Todos los actos anteriores necesitan refrendo."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El nombramiento del personal de su Casa y la gestión de su presupuesto son actos exclusivos sin necesidad de refrendo. Sí requiere refrendo, en cambio, la disolución de las Cámaras legislativas [21, 22]."
+      "tema": "Título II",
+      "explicación": "La disolución de las Cámaras requiere refrendo (del Presidente del Gobierno o del Congreso), mientras que el Rey gestiona libremente su Casa y presupuesto[cite: 27146, 27150]."
     },
     {
-      "numero": 26,
+      "numero": 53,
+      "enunciado": "Los cargos de Tutor y Regente, de acuerdo con lo previsto en la Constitución Española, ¿pueden acumularse?:",
+      "opciones": {
+        "a": "Sí, en el supuesto de que se trate de progenitores o ascendientes directos del Rey.",
+        "b": "Sí, en el supuesto de que se trate de hermanos del Rey.",
+        "c": "No, en ningún caso.",
+        "d": "Sí, en cualquier persona que designen las Cortes Generales."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título II",
+      "explicación": "El artículo 60.1 permite la acumulación de ambos cargos solo en el padre, madre o ascendientes directos del Rey[cite: 27117]."
+    },
+    {
+      "numero": 54,
+      "enunciado": "De conformidad con lo establecido en el artículo 62, entre las funciones que la Constitución atribuye expresamente al Monarca se encuentra/n la/s de:",
+      "opciones": {
+        "a": "Autorizar indultos generales.",
+        "b": "Instar al fiscal General del Estado el ejercicio de derecho de gracia.",
+        "c": "Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales.",
+        "d": "Instar al Gobierno el ejercicio del derecho de gracia con arreglo a lo dispuesto en la ley."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título II",
+      "explicación": "El artículo 62.i prohíbe específicamente al Rey autorizar indultos generales al ejercer el derecho de gracia[cite: 27133]."
+    },
+    {
+      "numero": 55,
+      "enunciado": "De conformidad con lo establecido en el artículo 64 de la Constitución Española, ¿quién refrenda la propuesta y el nombramiento del Presidente del Gobierno?:",
+      "opciones": {
+        "a": "El Vicepresidente del Gobierno.",
+        "b": "El Presidente del Congreso.",
+        "c": "El Presidente del Senado.",
+        "d": "La propuesta y el nombramiento del Presidente del Gobierno no necesita refrendo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título II",
+      "explicación": "El Presidente del Congreso es el encargado de refrendar la propuesta y el nombramiento del Presidente del Gobierno[cite: 27146]."
+    },
+    {
+      "numero": 56,
+      "enunciado": "Según lo establecido en el art. 57 de la Constitución Española, sobre la sucesión en la Corona, señale la respuesta incorrecta:",
+      "opciones": {
+        "a": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores.",
+        "b": "En la misma línea, es preferido el grado más próximo al más remoto.",
+        "c": "En el mismo grado, es preferido el varón a la mujer.",
+        "d": "En el mismo sexo, es preferida la persona más joven a la de más edad."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título II",
+      "explicación": "La respuesta es incorrecta porque el artículo 57.1 establece que en el mismo sexo se prefiere a la persona de más edad a la de menos[cite: 27094]."
+    },
+    {
+      "numero": 57,
+      "enunciado": "A tenor de la literalidad del art. 59 de la Constitución Española sobre la Regencia, señale la respuesta correcta:",
+      "opciones": {
+        "a": "La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey.",
+        "b": "Para ejercer la Regencia es preciso ser mayor de edad y español de nacimiento.",
+        "c": "Si no hubiese ninguna persona a quien corresponda la Regencia, ésta será nombrada por el Gobierno, y se compondrá de una, tres o cinco personas.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título II",
+      "explicación": "La opción b) es incorrecta porque se requiere ser español (no necesariamente de nacimiento) y la c) es incorrecta porque la nombran las Cortes, no el Gobierno[cite: 27105, 27107, 27108]."
+    },
+    {
+      "numero": 58,
+      "enunciado": "De conformidad con lo establecido en el art. 94 de la Constitución Española, 'La prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la previa autorización de las Cortes Generales, en los siguientes casos':",
+      "opciones": {
+        "a": "Tratados de carácter político.",
+        "b": "Tratados o convenios de carácter militar.",
+        "c": "Tratados o convenios que afecten a la integridad territorial del Estado o a los derechos y deberes fundamentales establecidos en el Título 1.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo III",
+      "explicación": "El artículo 94.1 enumera estas y otras categorías (como los tratados financieros) que exigen autorización de las Cortes[cite: 26332]."
+    },
+    {
+      "numero": 59,
+      "enunciado": "Según lo establecido en el art. 67 de la Constitución Española, señale la opción correcta:",
+      "opciones": {
+        "a": "Nadie podrá ser miembro de las dos Cámaras simultáneamente.",
+        "b": "El acta de Diputado del Congreso es compatible con el acta de una Asamblea de Comunidad Autónoma.",
+        "c": "Los miembros de las Cortes Generales estarán ligados por mandato imperativo.",
+        "d": "Las reuniones de Parlamentarios que se celebren sin convocatoria reglamentaria no vincularán a las Cámaras, pero éstos sí podrán ejercer sus funciones y ostentar sus privilegios."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 67 prohíbe la duplicidad de Cámaras y establece que los parlamentarios no están ligados por mandato imperativo[cite: 26290, 26291]."
+    },
+    {
+      "numero": 60,
+      "enunciado": "De conformidad con lo establecido en el art. 68, el mandato de los Diputados termina:",
+      "opciones": {
+        "a": "Cuatro años después de su elección o el día de la celebración de las elecciones.",
+        "b": "Cuatro años después de su nombramiento o el día de la disolución de la Cámara.",
+        "c": "Cuatro años después de su elección o el día de la disolución de la Cámara.",
+        "d": "Cuatro años después de su nombramiento o el día de la celebración de las elecciones."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El mandato tiene una duración de cuatro años, salvo que la Cámara sea disuelta con anterioridad[cite: 26299]."
+    },
+    {
+      "numero": 61,
+      "enunciado": "Siguiendo con el art. 68, las elecciones tendrán lugar:",
+      "opciones": {
+        "a": "Entre los veinticinco y cincuenta días desde la terminación del mandato.",
+        "b": "Entre los treinta y sesenta días desde la terminación del mandato.",
+        "c": "Entre los treinta y noventa días desde la terminación del mandato.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 68.6 fija el periodo electoral entre los 30 y 60 días tras expirar el mandato[cite: 26302]."
+    },
+    {
+      "numero": 62,
+      "enunciado": "El Congreso electo deberá ser convocado dentro de:",
+      "opciones": {
+        "a": "Los diez días siguientes a la celebración de las elecciones.",
+        "b": "Los quince días siguientes a la celebración de las elecciones.",
+        "c": "Los veinte días siguientes a la celebración de las elecciones.",
+        "d": "Los veinticinco días siguientes a la celebración de las elecciones."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo I",
+      "explicación": "La convocatoria debe producirse en el plazo máximo de 25 días después de celebrarse los comicios[cite: 26303]."
+    },
+    {
+      "numero": 63,
+      "enunciado": "De conformidad con lo establecido en el Título III de la Constitución Española, señale la respuesta correcta:",
+      "opciones": {
+        "a": "El Congreso es la Cámara de representación territorial.",
+        "b": "En cada provincia se elegirán dos Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas.",
+        "c": "Las poblaciones de Ceuta y Melilla elegirán cada una de ellas un Senador.",
+        "d": "A la isla de Gran Canaria le corresponde elegir tres Senadores."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El Senado es la cámara territorial (a); cada provincia elige 4 senadores (b); Ceuta y Melilla eligen 2 (c). Gran Canaria tiene asignados 3[cite: 26304, 26305, 26306, 26307]."
+    },
+    {
+      "numero": 64,
+      "enunciado": "De conformidad con lo establecido en el art. 71 de la Constitución Española, los Diputados y Senadores gozarán de inviolabilidad por:",
+      "opciones": {
+        "a": "Las opiniones manifestadas en el ejercicio de sus funciones.",
+        "b": "Sus actos en el ejercicio de sus funciones.",
+        "c": "Las opiniones manifestadas y sus actos en el ejercicio de sus funciones.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título III. Capítulo I",
+      "explicación": "La inviolabilidad parlamentaria protege específicamente la libertad de expresión (opiniones) manifestada en el cargo[cite: 26317]."
+    },
+    {
+      "numero": 65,
+      "enunciado": "Según la Constitución Española, sin perjuicio de las funciones encomendadas a otros órganos, promover la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, es una misión de:",
+      "opciones": {
+        "a": "El Consejo General del Poder Judicial.",
+        "b": "El Tribunal Constitucional.",
+        "c": "El Ministerio Fiscal.",
+        "d": "El Tribunal Supremo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI",
+      "explicación": "El artículo 124.1 asigna esta misión fundamental al Ministerio Fiscal[cite: 13908, 16907]."
+    },
+    {
+      "numero": 66,
+      "enunciado": "De conformidad con lo establecido en el artículo 82 de la Constitución Española, señale la opción correcta:",
+      "opciones": {
+        "a": "Las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con rango de ley sobre materias determinadas, incluido el régimen electoral general.",
+        "b": "La delegación legislativa deberá otorgarse mediante una ley ordinaria cuando su objeto sea la formación de textos articulados.",
+        "c": "La delegación legislativa deberá otorgarse por una ley de bases cuando se trate de refundir varios textos a la vez en uno solo.",
+        "d": "La delegación legislativa habrá de otorgarse al Gobierno de forma expresa para materia concreta y con fijación del plazo para su ejercicio."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo II",
+      "explicación": "La delegación no puede afectar a leyes orgánicas (a), requiere ley de bases para textos articulados (b) y ley ordinaria para refundir (c)[cite: 26356, 26359, 26360]."
+    },
+    {
+      "numero": 67,
+      "enunciado": "Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+      "opciones": {
+        "a": "Leyes de bases.",
+        "b": "Leyes marco.",
+        "c": "Decretos legislativos.",
+        "d": "Decretos-leyes."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo II",
+      "explicación": "El artículo 85 denomina específicamente Decretos Legislativos a las normas resultantes de la delegación de las Cortes al Gobierno[cite: 13924, 15588]."
+    },
+    {
+      "numero": 68,
+      "enunciado": "Según lo establecido en el Título III de la Constitución Española, las leyes de bases:",
+      "opciones": {
+        "a": "Podrán autorizar la modificación de la propia ley de bases.",
+        "b": "Podrán facultar para dictar normas con carácter retroactivo.",
+        "c": "Delimitarán con precisión el objeto y alcance de la delegación legislativa y los principios y criterios que han de seguirse en su ejercicio.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo II",
+      "explicación": "El artículo 82.4 prohíbe la retroactividad y la modificación de la propia ley de bases por el Gobierno[cite: 26365]."
+    },
+    {
+      "numero": 69,
+      "enunciado": "Según lo establecido en el art. 86 de la Constitución Española, los Decretos-leyes no podrán afectar:",
+      "opciones": {
+        "a": "Al ordenamiento de las instituciones básicas del Estado ni al régimen de las Comunidades Autónomas.",
+        "b": "Al Derecho electoral general.",
+        "c": "A los derechos, deberes y libertades de los ciudadanos regulados en el Título I.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo II",
+      "explicación": "El artículo 86.1 excluye estas materias de la regulación por decreto-ley debido a su importancia constitucional[cite: 13937]."
+    },
+    {
+      "numero": 70,
+      "enunciado": "De conformidad con lo establecido en el art. 87 de la Constitución Española, la iniciativa legislativa corresponde... (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Al Gobierno.",
+        "b": "Al Consejo de Ministros.",
+        "c": "Al Congreso.",
+        "d": "Al Senado."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título III. Capítulo II",
+      "explicación": "La iniciativa es del 'Gobierno' como órgano, no específicamente del Consejo de Ministros, así como de las Cámaras y la iniciativa popular[cite: 15647, 15648]."
+    },
+    {
+      "numero": 71,
+      "enunciado": "La delegación legislativa:",
+      "opciones": {
+        "a": "No podrá entenderse concedida de modo implícito o por tiempo indeterminado.",
+        "b": "Podrá entenderse concedida de modo implícito, pero no por tiempo determinado.",
+        "c": "No podrá entenderse concedida de modo implícito, pero sí por tiempo indeterminado.",
+        "d": "Podrá entenderse concedida de modo implícito o por tiempo indeterminado."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título III. Capítulo II",
+      "explicación": "El artículo 82.3 exige que la delegación sea expresa para materia concreta y con plazo determinado[cite: 26360, 26362]."
+    },
+    {
+      "numero": 72,
+      "enunciado": "Según lo establecido en la Constitución Española, será obligatorio comparecer a requerimiento de las Cámaras:",
+      "opciones": {
+        "a": "La ley regulará las sanciones que puedan imponerse por incumplimiento de esta obligación.",
+        "b": "El Presidente de cada Cámara establecerá las sanciones que puedan imponerse por incumplimiento de esta obligación.",
+        "c": "El Reglamento de cada Cámara establecerá las sanciones que puedan imponerse por incumplimiento de esta obligación.",
+        "d": "Mediante Real Decreto se establecerán las sanciones que puedan imponerse por incumplimiento de esta obligación."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 76.2 reserva a la ley la regulación de sanciones por incomparecencia ante requerimientos parlamentarios[cite: 26343]."
+    },
+    {
+      "numero": 73,
+      "enunciado": "Conforme al art. 90 de la Constitución Española, aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados:",
+      "opciones": {
+        "a": "Será enviado al Boletín Oficial del Estado para su publicación.",
+        "b": "Será sometido de inmediato a votación en el Senado.",
+        "c": "Será enviado al Rey para su sanción.",
+        "d": "Su Presidente dará inmediata cuenta al Presidente del Senado, el cual lo someterá a la deliberación de éste."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo II",
+      "explicación": "Tras la aprobación en el Congreso, el texto debe pasar al Senado para su deliberación y posibles enmiendas o veto[cite: 17717]."
+    },
+    {
+      "numero": 74,
+      "enunciado": "Siguiendo con el art. 90 de la Constitución Española, señale la opción correcta:",
+      "opciones": {
+        "a": "El Senado en el plazo de dos meses, a partir del día siguiente al de la recepción del texto, puede, mediante mensaje motivado, oponer su veto o introducir enmiendas al mismo.",
+        "b": "El veto deberá ser aprobado por mayoría absoluta.",
+        "c": "El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso ratifique por mayoría absoluta, en caso de veto, el texto inicial, o por mayoría simple, una vez transcurridos tres meses desde la interposición del mismo, se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título III. Capítulo II",
+      "explicación": "El plazo del Senado es de 2 meses desde la recepción (no desde el día siguiente) y el Congreso puede levantar el veto tras 2 meses si no hay mayoría absoluta[cite: 16049, 16050, 16056]."
+    },
+    {
+      "numero": 75,
+      "enunciado": "De conformidad con el art. 103 de la Constitución Española, los órganos de la Administración del Estado son creados, regidos y coordinados:",
+      "opciones": {
+        "a": "De acuerdo con lo que se establezca mediante Real Decreto.",
+        "b": "De acuerdo con una Ley Orgánica.",
+        "c": "De acuerdo con la Ley.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título IV",
+      "explicación": "El artículo 103.2 establece el principio de reserva de ley para la creación y régimen de los órganos administrativos[cite: 13972]."
+    },
+    {
+      "numero": 76,
+      "enunciado": "Conforme a lo establecido en el art. 103 de la Constitución Española, el acceso a la función pública de hará de acuerdo con los principios de:",
+      "opciones": {
+        "a": "Igualdad, mérito y capacidad.",
+        "b": "Mérito y capacidad.",
+        "c": "Mérito, capacidad y publicidad.",
+        "d": "Capacidad y publicidad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IV",
+      "explicación": "El artículo 103.3 menciona específicamente los principios de mérito y capacidad para regular el acceso a la función pública[cite: 13976]."
+    },
+    {
+      "numero": 77,
+      "enunciado": "En el sistema constitucional español, las Cortes Generales:",
+      "opciones": {
+        "a": "Ejercen la potestad legislativa.",
+        "b": "Tienen potestad ejecutiva.",
+        "c": "Controlan la acción del Gobierno.",
+        "d": "Las respuestas a) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 66.2 define las funciones de las Cortes: legislativa, presupuestaria y de control al Ejecutivo[cite: 26289]."
+    },
+    {
+      "numero": 78,
+      "enunciado": "Según lo preceptuado en el art. 104 de la Constitución Española, ¿qué misión tendrán las Fuerzas y Cuerpos de Seguridad?:",
+      "opciones": {
+        "a": "Proteger a los ciudadanos para que puedan ejercer sus derechos.",
+        "b": "Tutelar el ejercicio de los ciudadanos de sus derechos y obligaciones.",
+        "c": "Garantizar la seguridad ciudadana para que todos puedan ejercer sus derechos, obligaciones y libertades de manera más eficaz.",
+        "d": "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título IV",
+      "explicación": "El artículo 104.1 les asigna expresamente la protección de derechos y libertades y la garantía de la seguridad ciudadana[cite: 13992]."
+    },
+    {
+      "numero": 79,
+      "enunciado": "Según el art. 105 de nuestro texto constitucional, ¿cómo se regulará el procedimiento a través del cual deben producirse los actos administrativos?:",
+      "opciones": {
+        "a": "Mediante Ley, garantizando, cuando proceda, la audiencia del interesado.",
+        "b": "Mediante Ley Orgánica, garantizando, cuando proceda, la audiencia del interesado.",
+        "c": "Mediante Reglamento, garantizando, cuando proceda, la audiencia del interesado.",
+        "d": "Mediante Ley, garantizando, en todo caso, la audiencia del interesado."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IV",
+      "explicación": "El artículo 105.c exige regulación por ley y audiencia 'cuando proceda', no 'en todo caso'[cite: 13994]."
+    },
+    {
+      "numero": 80,
+      "enunciado": "Conforme a lo establecido en el art. 108 de la Constitución Española, ¿ante quién responde solidariamente el Gobierno en su gestión política?:",
+      "opciones": {
+        "a": "Ante las Cortes Generales.",
+        "b": "Ante el Rey.",
+        "c": "Ante el pueblo español.",
+        "d": "Ante el Congreso de los Diputados."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título V",
+      "explicación": "Aunque el sistema es bicameral, la responsabilidad política directa del Gobierno se ejerce ante el Congreso[cite: 14002, 15607]."
+    },
+    {
+      "numero": 81,
+      "enunciado": "Según el art. 123 de la Constitución Española, el Presidente del Tribunal Supremo:",
+      "opciones": {
+        "a": "Será simultáneamente Presidente del Tribunal Constitucional.",
+        "b": "Será nombrado por el Consejo del Poder Judicial a propuesta del Congreso de los Diputados.",
+        "c": "Será nombrado por el Rey a propuesta del Gobierno.",
+        "d": "Será nombrado por el Rey a propuesta del Consejo General del Poder Judicial."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI",
+      "explicación": "El cargo es nombrado por el Rey a propuesta del CGPJ para un mandato de 5 años[cite: 14007, 16086]."
+    },
+    {
+      "numero": 82,
+      "enunciado": "De acuerdo con lo establecido en el art. 112 de la Constitución Española, señale la opción correcta:",
+      "opciones": {
+        "a": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante ambas Cámaras la cuestión de confianza sobre su programa o sobre una declaración de política general.",
+        "b": "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría absoluta de los Diputados y Senadores.",
+        "c": "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados y Senadores.",
+        "d": "Todas las opciones anteriores son incorrectas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título V",
+      "explicación": "La cuestión de confianza se plantea solo ante el Congreso (no ambas Cámaras) y se gana por mayoría simple de diputados[cite: 14010, 14013]."
+    },
+    {
+      "numero": 83,
+      "enunciado": "De acuerdo con lo establecido en el art. 113 de nuestro texto constitucional, señale la opción incorrecta:",
+      "opciones": {
+        "a": "El Congreso de los Diputados puede exigir la responsabilidad política del Gobierno mediante la adopción por mayoría absoluta de la moción de censura.",
+        "b": "La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+        "c": "La moción de censura no podrá ser votada hasta que transcurran cuatre días desde su presentación.",
+        "d": "Si la moción de censura no fuere aprobada por el Congreso, sus signatarios no podrán presentar otra durante el mismo período de sesiones."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título V",
+      "explicación": "La respuesta es incorrecta porque la ley exige que transcurran cinco días (no cuatro) para la votación[cite: 14023]."
+    },
+    {
+      "numero": 84,
+      "enunciado": "La Constitución Española establece que los estados de alarma, de excepción y de sitio, y las competencias y limitaciones correspondientes serán regulados por:",
+      "opciones": {
+        "a": "Por una Ley Orgánica.",
+        "b": "Por una Ley Ordinaria.",
+        "c": "Por Ley.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título V",
+      "explicación": "El artículo 116.1 remite a una ley orgánica para regular estos estados excepcionales[cite: 14026]."
+    },
+    {
+      "numero": 85,
+      "enunciado": "Conforme a lo establecido en el art. 116 de nuestro texto constitucional, será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados:",
+      "opciones": {
+        "a": "El estado de alarma.",
+        "b": "El estado de excepción.",
+        "c": "El estado de sitio.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título V",
+      "explicación": "El estado de alarma se declara por el Gobierno dando cuenta posterior (a); el de sitio exige propuesta del Gobierno y declaración del Congreso (c)[cite: 17547, 17586, 17588]."
+    },
+    {
+      "numero": 86,
+      "enunciado": "De conformidad con lo establecido en la Constitución Española de 1978, el Presidente del Gobierno podrá proponer la disolución del Congreso, del Senado o de las Cortes Generales (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Previa deliberación del Consejo de Ministros, y bajo su exclusiva responsabilidad.",
+        "b": "El decreto de disolución fijará la fecha de las elecciones.",
+        "c": "No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo que sea derivada de la adopción de una moción de censura.",
+        "d": "La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título V",
+      "explicación": "La opción es incorrecta porque el artículo 115.3 permite disolver antes del año si ocurre el supuesto del artículo 99.5 (falta de investidura), no de la moción de censura[cite: 14038, 14039]."
+    },
+    {
+      "numero": 87,
+      "enunciado": "Conforme al art. 138 de la Constitución Española, las diferencias entre los Estatutos de las distintas Comunidades Autónomas:",
+      "opciones": {
+        "a": "No podrán implicar, en ningún caso, un distinto tratamiento de los ingresos públicos.",
+        "b": "No podrán implicar, en ningún caso, un distinto tratamiento de los gastos públicos.",
+        "c": "No podrán implicar, en ningún caso, privilegios económicos o sociales.",
+        "d": "Todos los Estatutos han de ser idénticos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 138.2 prohíbe que la autonomía resulte en privilegios que rompan la solidaridad interterritorial[cite: 14048, 17136]."
+    },
+    {
+      "numero": 88,
+      "enunciado": "Según lo estipulado en el art. 142 de la Constitución Española, las Haciendas Locales se nutrirán fundamentalmente:",
+      "opciones": {
+        "a": "De los tributos de su Comunidad Autónoma.",
+        "b": "De su participación en los tributos del Estado y de los de los municipios próximos.",
+        "c": "De tributos propios y de participación en los del Estado y de las Comunidades Autónoma.",
+        "d": "De los tributos propios como única fuente de ingresos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 142 establece el sistema de suficiencia financiera local basado en tributos propios y participaciones[cite: 14053]."
+    },
+    {
+      "numero": 89,
+      "enunciado": "Según el artículo 124 de la Constitución Española de 1978, el Fiscal General del Estado será nombrado por:",
+      "opciones": {
+        "a": "El Presidente del Gobierno.",
+        "b": "El Rey.",
+        "c": "El Consejo General del Poder Judicial.",
+        "d": "Las Cortes Generales."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI",
+      "explicación": "El Rey nombra al Fiscal General a propuesta del Gobierno, tras oír al CGPJ[cite: 14057, 15859]."
+    },
+    {
+      "numero": 90,
+      "enunciado": "Según el art. 136 de la Constitución Española, ¿de qué órgano constitucional depende el Tribunal de Cuentas?:",
+      "opciones": {
+        "a": "Del Gobierno.",
+        "b": "Del Tribunal Supremo.",
+        "c": "Del Congreso de los Diputados.",
+        "d": "De las Cortes Generales."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VII",
+      "explicación": "El Tribunal de Cuentas es el órgano supremo fiscalizador que actúa por delegación de las Cortes Generales[cite: 14064, 16103]."
+    },
+    {
+      "numero": 91,
+      "enunciado": "Según el artículo 76.1 de la Constitución Española de 1978:",
+      "opciones": {
+        "a": "Las Comisiones de investigación sólo las puede nombrar el Congreso.",
+        "b": "Las Comisiones de investigación sólo las puede nombrar el Senado.",
+        "c": "Las Comisiones de investigación sólo se pueden nombrar conjuntamente por ambas Cámaras.",
+        "d": "Ninguna de las respuestas anteriores es la correcta."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo I",
+      "explicación": "Las comisiones pueden ser nombradas por el Congreso, el Senado o ambas cámaras conjuntamente; por tanto, las opciones limitativas son falsas[cite: 14065, 14068, 26341]."
+    },
+    {
+      "numero": 92,
+      "enunciado": "De conformidad con el art. 156 de la Constitución Española, las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de:",
+      "opciones": {
+        "a": "Coordinación con las Haciendas Locales.",
+        "b": "Coordinación con la Hacienda estatal y de solidaridad entre todos los españoles.",
+        "c": "Solidaridad entre todas las Comunidades Autónomas.",
+        "d": "Progresividad, reparto equitativo de la riqueza y justicia redistributiva."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "La autonomía financiera autonómica debe ejercerse coordinada con el Estado para garantizar la solidaridad nacional[cite: 14072]."
+    },
+    {
+      "numero": 93,
+      "enunciado": "A tenor del art. 156 de la Constitución Española, las Comunidades Autónomas respecto de los recursos tributarios del Estado:",
+      "opciones": {
+        "a": "Podrán actuar como delegados o colaboradores del Estado exclusivamente para su recaudación.",
+        "b": "Podrán actuar como delegados o colaboradores del Estado para su recaudación y gestión, pero no para su liquidación.",
+        "c": "Podrán actuar como delegados o colaboradores del Estado para su recaudación, gestión y liquidación.",
+        "d": "No podrán asumir ningún tipo de competencias tributarias del Estado."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 156.2 permite a las CC.AA. asumir tareas integrales (recaudación, gestión y liquidación) de tributos estatales cedidos[cite: 14082]."
+    },
+    {
+      "numero": 94,
+      "enunciado": "Según el art. 140 de la Constitución Española, los Concejales serán elegidos por:",
+      "opciones": {
+        "a": "Los vecinos de la Comunidad Autónoma donde radique el municipio, mediante sufragio universal, igual, libre, directo y secreto.",
+        "b": "El Alcalde del municipio respectivo.",
+        "c": "Los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto.",
+        "d": "El Pleno de la Diputación donde radique el municipio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "La elección de concejales es directa por parte de los vecinos del municipio respectivo[cite: 14087, 18398]."
+    },
+    {
+      "numero": 95,
+      "enunciado": "En relación con la Administración Local, regulada en el Capítulo II del Título VIII, la Constitución Española establece que:",
+      "opciones": {
+        "a": "El gobierno y la administración autónoma de las provincias estarán encomendados a las Ayuntamientos u otras Corporaciones de carácter representativo.",
+        "b": "No está permitida la creación de agrupaciones de municipios diferentes de la provincia.",
+        "c": "Cualquier alteración de los límites provinciales habrá de ser aprobada por el Pleno de la Diputación o Diputaciones afectadas, por mayoría absoluta.",
+        "d": "La ley regulará las condiciones en las que proceda el régimen de concejo abierto."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 140 remite a la ley para regular el régimen de concejo abierto de municipios pequeños[cite: 14096]."
+    },
+    {
+      "numero": 96,
+      "enunciado": "Según la Constitución Española:",
+      "opciones": {
+        "a": "Es posible la federación de Comunidades Autónomas.",
+        "b": "La reforma de los Estatutos de Autonomía requerirá, en todo caso, la aprobación por las Cortes Generales, mediante Ley Orgánica.",
+        "c": "Se podrá autorizar la constitución de una Comunidad Autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del apartado 1 del artículo 143 mediante un Decreto Ley.",
+        "d": "La provincia es una entidad sin personalidad jurídica propia, determinada por la agrupación de municipios."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "Los Estatutos son leyes orgánicas del Estado, por lo que su reforma exige aprobación parlamentaria con ese rango[cite: 14099, 15057]."
+    },
+    {
+      "numero": 97,
+      "enunciado": "Según el art. 148 de la C.E., las Comunidades Autónomas podrán asumir competencias en:",
+      "opciones": {
+        "a": "Ordenación del territorio, urbanismo y vivienda.",
+        "b": "Relaciones internacionales.",
+        "c": "Hacienda general y Deuda del Estado.",
+        "d": "Administración de justicia."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "La ordenación del territorio es una competencia disponible para las autonomías, mientras las otras son exclusivas del Estado (art. 149)[cite: 14111, 14112]."
+    },
+    {
+      "numero": 98,
+      "enunciado": "De conformidad con lo establecido en el art. 141 de la Constitución Española:",
+      "opciones": {
+        "a": "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del término municipal.",
+        "b": "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+        "c": "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Gobierno.",
+        "d": "La provincia es una entidad local, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades de la Comunidad Autónoma."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "La provincia tiene la doble naturaleza de entidad local y cauce para las actividades administrativas del Estado[cite: 14117]."
+    },
+    {
+      "numero": 99,
+      "enunciado": "Conforme a lo previsto en la Constitución Española, la alteración de los límites provinciales habrá de ser aprobada por:",
+      "opciones": {
+        "a": "Las Cortes Generales mediante Ley Orgánica.",
+        "b": "Mayoría absoluta del Senado.",
+        "c": "Mayoría simple del Congreso de los Diputados.",
+        "d": "Mayoría absoluta en el Parlamento de la Comunidad Autónoma afectada."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 141.1 exige ley orgánica de las Cortes para modificar las fronteras de una provincia[cite: 14121]."
+    },
+    {
+      "numero": 100,
+      "enunciado": "Según el artículo 150.2 de la Constitución Española de 1978, el Estado podrá transferir o delegar en las Comunidades Autónomas, mediante:",
+      "opciones": {
+        "a": "Real Decreto, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza no sean susceptibles de transferencia o delegación.",
+        "b": "Ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación.",
+        "c": "Ley orgánica, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza no sean susceptibles de transferencia o delegación.",
+        "d": "Real Decreto, facultades correspondientes a materia de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "La transferencia de competencias estatales solo puede hacerse por ley orgánica y para materias delegables por naturaleza[cite: 14127, 15101]."
+    },
+    {
+      "numero": 101,
+      "enunciado": "Según lo dispuesto en el artículo 55.1 de la Constitución Española de 1978, en el Estado de Sitio, puede ser suspendido el derecho a:",
+      "opciones": {
+        "a": "La negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios.",
+        "b": "Comunicar o recibir libremente información veraz por cualquier medio de difusión.",
+        "c": "La libertad de empresa.",
+        "d": "La producción y creación literaria, artística, científica y técnica."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo V",
+      "explicación": "El artículo 55.1 permite la suspensión de la libertad de información (art. 20.1.d) específicamente durante los estados de excepción o de sitio[cite: 13269]."
+    },
+    {
+      "numero": 102,
+      "enunciado": "Según se establece en el art. 159 de la Constitución Española, ¿cómo se renovarán los miembros del Tribunal Constitucional?:",
+      "opciones": {
+        "a": "Por terceras partes cada nueve años.",
+        "b": "Por cuartas partes cada dos años.",
+        "c": "Por terceras partes cada tres años.",
+        "d": "Por cuartas partes cada tres años."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título IX",
+      "explicación": "Aunque el mandato de los magistrados es de nueve años, la renovación del órgano se realiza por tercios cada tres años para asegurar su continuidad."
+    },
+    {
+      "numero": 103,
+      "enunciado": "Según la Constitución Española, el Tribunal Constitucional es competente para conocer:",
+      "opciones": {
+        "a": "Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+        "b": "Del recurso de amparo por violación de derechos y libertades referidos en el artículo 53.2.",
+        "c": "De los conflictos de competencias entre el Estado y las Comunidades Autónomas o de los de éstas entre sí.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título IX",
+      "explicación": "El artículo 161.1 enumera estas tres competencias fundamentales como funciones primordiales del Tribunal Constitucional."
+    },
+    {
+      "numero": 104,
+      "enunciado": "Según lo establecido en nuestro texto constitucional, la condición de miembro del Tribunal Constitucional es incompatible:",
+      "opciones": {
+        "a": "Con todo mandato representativo.",
+        "b": "Con los cargos políticos o administrativos.",
+        "c": "Con cualquier actividad profesional o mercantil.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título IX",
+      "explicación": "El artículo 159.4 establece un régimen de incompatibilidades muy estricto para garantizar la independencia total de los magistrados."
+    },
+    {
+      "numero": 105,
+      "enunciado": "De conformidad con lo establecido en el art. 161 de la Constitución Española, 'podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas':",
+      "opciones": {
+        "a": "El Gobierno.",
+        "b": "El Congreso de los Diputados.",
+        "c": "El Senado.",
+        "d": "El Ministerio Fiscal."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IX",
+      "explicación": "El artículo 161.2 faculta exclusivamente al Gobierno para impugnar disposiciones autonómicas, lo que produce su suspensión automática por un plazo máximo de cinco meses."
+    },
+    {
+      "numero": 106,
+      "enunciado": "Según el artículo 167 de la Constitución Española, los proyectos de reforma constitucional deberán ser aprobados por una mayoría de:",
+      "opciones": {
+        "a": "Dos tercios de cada una de las Cámaras.",
+        "b": "Tres quintos de cada una de las Cámaras.",
+        "c": "Mayoría absoluta de cada una de las Cámaras.",
+        "d": "Tres cuartos de cada una de las Cámaras."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título X",
+      "explicación": "Este es el procedimiento ordinario de reforma; exige el voto favorable de las 3/5 partes del Congreso y del Senado."
+    },
+    {
+      "numero": 107,
+      "enunciado": "Si no hubiera acuerdo entre el Congreso y el Senado para la aprobación de una reforma constitucional por el procedimiento ordinario:",
+      "opciones": {
+        "a": "Se intentará obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores.",
+        "b": "El proyecto de reforma se entenderá rechazado.",
+        "c": "El Congreso decidirá por mayoría de dos tercios.",
+        "d": "Se disolverán las Cortes inmediatamente."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título X",
+      "explicación": "El artículo 167.1 prevé una Comisión Mixta para intentar consensuar un texto que luego se someterá de nuevo a votación en ambas Cámaras."
+    },
+    {
+      "numero": 108,
+      "enunciado": "Aprobada la reforma por las Cortes Generales por el procedimiento ordinario, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación:",
+      "opciones": {
+        "a": "La décima parte de los miembros de cualquiera de las Cámaras.",
+        "b": "La quinta parte de los miembros de cualquiera de las Cámaras.",
+        "c": "Cincuenta Diputados o cincuenta Senadores.",
+        "d": "La mayoría absoluta del Congreso."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título X",
+      "explicación": "El referéndum en la reforma ordinaria es facultativo, activándose solo si lo pide el 10% de los parlamentarios."
+    },
+    {
+      "numero": 109,
+      "enunciado": "Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo II, Sección 1ª del Título I, o al Título II, se procederá a:",
+      "opciones": {
+        "a": "La aprobación de su principio por mayoría de dos tercios de cada Cámara y a la disolución inmediata de las Cortes.",
+        "b": "La aprobación de su principio por mayoría de tres quintos y referéndum obligatorio.",
+        "c": "La aprobación por mayoría absoluta y disolución de las Cámaras.",
+        "d": "No es posible realizar una revisión total de la Constitución."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título X",
+      "explicación": "El artículo 168 establece este procedimiento agravado para las partes más sensibles del texto constitucional."
+    },
+    {
+      "numero": 110,
+      "enunciado": "En el procedimiento agravado de reforma, las nuevas Cámaras elegidas tras la disolución deben ratificar la decisión y proceder al estudio del nuevo texto constitucional, que debe ser aprobado por mayoría de:",
+      "opciones": {
+        "a": "Tres quintos de ambas Cámaras.",
+        "b": "Mayoría absoluta de ambas Cámaras.",
+        "c": "Dos tercios de ambas Cámaras.",
+        "d": "Mayoría simple en el Congreso y absoluta en el Senado."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título X",
+      "explicación": "Una vez ratificada la necesidad de reforma, el nuevo texto requiere el consenso de 2/3 de los miembros de cada Cámara."
+    },
+    {
+      "numero": 111,
+      "enunciado": "Una vez aprobada la reforma por las Cortes Generales mediante el procedimiento agravado (art. 168):",
+      "opciones": {
+        "a": "Será sometida a referéndum para su ratificación si lo solicita el diez por ciento de los parlamentarios.",
+        "b": "Será sometida a referéndum para su ratificación en todo caso.",
+        "c": "No requiere referéndum, basta con la sanción real.",
+        "d": "Solo requiere referéndum si afecta a la Corona."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título X",
+      "explicación": "A diferencia del procedimiento ordinario, el referéndum es siempre obligatorio en el procedimiento de reforma agravada."
+    },
+    {
+      "numero": 112,
+      "enunciado": "No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo:",
+      "opciones": {
+        "a": "115",
+        "b": "116",
+        "c": "117",
+        "d": "118"
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título X",
+      "explicación": "El artículo 169 prohíbe iniciar reformas durante estados de alarma, excepción o sitio para evitar presiones externas o falta de libertad democrática."
+    },
+    {
+      "numero": 113,
+      "enunciado": "Los miembros del Tribunal Constitucional son nombrados por el Rey, a propuesta de:",
+      "opciones": {
+        "a": "4 por el Congreso, 4 por el Senado, 2 por el Gobierno y 2 por el CGPJ.",
+        "b": "6 por el Congreso y 6 por el Senado.",
+        "c": "8 por las Cortes Generales y 4 por el Gobierno.",
+        "d": "4 por el Congreso, 4 por el Senado y 4 por el Rey."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IX",
+      "explicación": "El artículo 159.1 establece esta composición de 12 miembros procedentes de los tres poderes del Estado."
+    },
+    {
+      "numero": 114,
+      "enunciado": "Para ser propuestos como miembros del Tribunal Constitucional por el Congreso o el Senado, se requiere una mayoría de:",
+      "opciones": {
+        "a": "Mayoría absoluta.",
+        "b": "Tres quintos de sus miembros.",
+        "c": "Dos tercios de sus miembros.",
+        "d": "Mayoría simple."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IX",
+      "explicación": "Se exige una mayoría cualificada de 3/5 para garantizar que los elegidos cuenten con un amplio consenso parlamentario."
+    },
+    {
+      "numero": 115,
+      "enunciado": "Los miembros del Tribunal Constitucional deberán ser nombrados entre ciudadanos españoles que sean Magistrados, Fiscales, Profesores de Universidad, Funcionarios Públicos o Abogados, todos ellos juristas de reconocida competencia con más de:",
+      "opciones": {
+        "a": "Diez años de ejercicio profesional.",
+        "b": "Veinte años de ejercicio profesional.",
+        "c": "Quince años de ejercicio profesional.",
+        "d": "Cinco años de ejercicio profesional."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título IX",
+      "explicación": "El artículo 159.2 exige 15 años de trayectoria profesional para asegurar la experiencia y competencia técnica de los magistrados."
+    },
+    {
+      "numero": 116,
+      "enunciado": "Los miembros del Tribunal Constitucional serán designados por un período de:",
+      "opciones": {
+        "a": "Cuatro años.",
+        "b": "Nueve años.",
+        "c": "Seis años.",
+        "d": "Cinco años."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IX",
+      "explicación": "El mandato es de nueve años para evitar que coincida con las legislaturas políticas y asegurar así la independencia de sus miembros."
+    },
+    {
+      "numero": 117,
+      "enunciado": "Según el procedimiento contenido en el art. 167 de la Constitución Española, ¿qué mayoría es necesaria para aprobar una reforma constitucional que afecte a un artículo del Título VIII, en primera votación?:",
+      "opciones": {
+        "a": "Mayoría absoluta.",
+        "b": "Mayoría simple.",
+        "c": "Mayoría de tres quintos.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título X",
+      "explicación": "Al no afectar a las partes blindadas del artículo 168, la reforma del Título VIII sigue la vía ordinaria de los 3/5."
+    },
+    {
+      "numero": 118,
+      "enunciado": "De acuerdo con la literalidad del art. 160 de la Constitución Española, el Presidente del Tribunal Constitucional será nombrado entre sus miembros por:",
+      "opciones": {
+        "a": "El Presidente del Gobierno.",
+        "b": "El Presidente del Consejo General del Poder Judicial.",
+        "c": "El Rey.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título IX",
+      "explicación": "El Rey realiza el nombramiento formal, aunque la propuesta real emana del propio Tribunal en pleno por un periodo de tres años."
+    },
+    {
+      "numero": 119,
+      "enunciado": "De acuerdo con lo establecido en el texto constitucional, señale la respuesta correcta:",
+      "opciones": {
+        "a": "El Tribunal Constitucional se compone de 12 miembros.",
+        "b": "Los miembros del Tribunal Constitucional serán designados por un periodo de nueve años y se renovarán por terceras partes cada tres.",
+        "c": "Los miembros del Tribunal Constitucional serán independientes e inamovibles.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título IX",
+      "explicación": "Todas estas características están recogidas literalmente en el artículo 159 de la Constitución Española."
+    },
+    {
+      "numero": 120,
+      "enunciado": "De conformidad con la literalidad del art. 165 de la Constitución Española, el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros y el procedimiento ante el mismo serán regulados por:",
+      "opciones": {
+        "a": "Ley.",
+        "b": "Ley orgánica.",
+        "c": "Ley ordinaria.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IX",
+      "explicación": "La Constitución reserva el desarrollo y organización de este órgano fundamental a una ley con rango de orgánica."
+    },
+    {
+      "numero": 121,
+      "enunciado": "La primera reforma de la Constitución Española tuvo lugar en 1992 y afectó al artículo:",
+      "opciones": {
+        "a": "13.2",
+        "b": "135",
+        "c": "49",
+        "d": "14"
+      },
+      "respuesta_correcta": "a",
+      "tema": "Reformas Constitucionales",
+      "explicación": "Se modificó el art. 13.2 para añadir las palabras 'y pasivo', permitiendo a extranjeros comunitarios ser elegidos en elecciones municipales[cite: 13360]."
+    },
+    {
+      "numero": 122,
+      "enunciado": "Según la Constitución española el procedimiento judicial debe ser:",
+      "opciones": {
+        "a": "Gratuito siempre.",
+        "b": "Predominantemente oral.",
+        "c": "En audiencia pública.",
+        "d": "Motivado siempre."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI",
+      "explicación": "El artículo 120.2 establece explícitamente que el procedimiento será predominantemente oral, sobre todo en materia criminal."
+    },
+    {
+      "numero": 123,
+      "enunciado": "El Defensor del Pueblo da cuenta del ejercicio de sus atribuciones al/la las:",
+      "opciones": {
+        "a": "Tribunal Constitucional.",
+        "b": "Al Gobierno.",
+        "c": "Cortes.",
+        "d": "Poder Judicial."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "Como alto comisionado de las Cortes Generales, el Defensor del Pueblo rinde cuentas periódicamente ante estas[cite: 13267]."
+    },
+    {
+      "numero": 124,
+      "enunciado": "La elección del Defensor del Pueblo compete a:",
+      "opciones": {
+        "a": "Plenos del Congreso y Senado.",
+        "b": "Comisión creada al efecto en el Congreso.",
+        "c": "Al Gobierno.",
+        "d": "Al Rey."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "Es designado por las Cortes Generales, requiriendo el apoyo mayoritario de ambas Cámaras[cite: 13267]."
+    },
+    {
+      "numero": 125,
+      "enunciado": "La inviolabilidad, respecto al Defensor del Pueblo:",
+      "opciones": {
+        "a": "No la posee.",
+        "b": "La posee sobre cualquier actuación que realice.",
+        "c": "La ostenta en cuanto a los actos que realice en el ejercicio de sus competencias como tal.",
+        "d": "Supone que está exento de dar cuenta de su trabajo a las Cortes."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "Sus prerrogativas de inviolabilidad e inmunidad se limitan estrictamente al ámbito del desempeño de su cargo."
+    },
+    {
+      "numero": 126,
+      "enunciado": "Si se presenta una queja anónima ante el Defensor del Pueblo:",
+      "opciones": {
+        "a": "Deberá darle trámite con prioridad.",
+        "b": "Sólo la tramitará si el asunto es de interés general.",
+        "c": "No está obligado a darle trámite.",
+        "d": "Se deja a su arbitrio el darle o no trámite."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "Las quejas deben estar debidamente firmadas para que la institución pueda tramitarlas de acuerdo con su ley reguladora."
+    },
+    {
+      "numero": 127,
+      "enunciado": "Las quejas deben presentarse al Defensor del Pueblo:",
+      "opciones": {
+        "a": "Por medio de abogado y procurador.",
+        "b": "En papel de pagos al Estado.",
+        "c": "Con el justificante de haber pagado las tasas indicadas al efecto.",
+        "d": "En papel común."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "El acceso a esta institución es sencillo y gratuito, permitiéndose el uso de papel común sin costes para el ciudadano."
+    },
+    {
+      "numero": 128,
+      "enunciado": "El auxilio al Defensor del Pueblo por parte de los Funcionarios Públicos:",
+      "opciones": {
+        "a": "Se supedita a lo que, en cada caso, determine la Autoridad administrativa de la que dependan.",
+        "b": "Sólo se realizará cuando sea reclamado judicialmente.",
+        "c": "Ha de ser preferente y urgente.",
+        "d": "Es potestativo para los funcionarios."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo IV",
+      "explicación": "La administración está obligada a colaborar de forma prioritaria con las investigaciones del Defensor."
+    },
+    {
+      "numero": 129,
+      "enunciado": "Los miembros del Tribunal de Cuentas gozan de la independencia e inamovilidad propia de:",
+      "opciones": {
+        "a": "Los miembros del Gobierno.",
+        "b": "Los Jueces.",
+        "c": "Los Funcionarios Públicos.",
+        "d": "Dichos miembros carecen de estas prerrogativas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VII",
+      "explicación": "El artículo 136.4 asimila el estatuto de sus miembros al de la Carrera Judicial para asegurar su independencia técnica."
+    },
+    {
+      "numero": 130,
+      "enunciado": "El informe anual que ha de emitir el Tribunal de Cuentas, ha de remitirlo a:",
+      "opciones": {
+        "a": "Al Gobierno.",
+        "b": "Las Cortes.",
+        "c": "Al Tribunal Constitucional.",
+        "d": "Al Defensor del Pueblo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VII",
+      "explicación": "Al actuar por delegación de las Cortes Generales para fiscalizar el Estado, les debe remitir sus informes anualmente[cite: 13267]."
+    },
+    {
+      "numero": 131,
+      "enunciado": "La justicia se administra en nombre del:",
+      "opciones": {
+        "a": "Juez o Tribunal que la imparta.",
+        "b": "Pueblo español.",
+        "c": "Rey.",
+        "d": "Poder judicial."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI",
+      "explicación": "El artículo 117.1 declara que la justicia emana del pueblo pero se administra en nombre del Rey por Jueces y Magistrados."
+    },
+    {
+      "numero": 132,
+      "enunciado": "La colaboración con los Jueces y Tribunales por los particulares es obligatoria:",
+      "opciones": {
+        "a": "En el proceso.",
+        "b": "Antes del procesamiento.",
+        "c": "Sólo cuando no exista proceso penall.",
+        "d": "En todo caso como norma general."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI",
+      "explicación": "El artículo 118 impone el deber general de cumplir las resoluciones judiciales y colaborar con la justicia en todo momento."
+    },
+    {
+      "numero": 133,
+      "enunciado": "Los Jueces y Tribunales deben elevar al Tribunal Constitucional:",
+      "opciones": {
+        "a": "La cuestión de inconstitucionalidad.",
+        "b": "El recurso de inconstitucionalidad.",
+        "c": "La inconstitucionalidad de las normas reglamentarias.",
+        "d": "Todo lo anterior."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IX",
+      "explicación": "Los jueces plantean la 'cuestión' cuando dudan de la constitucionalidad de una ley aplicable a un caso; el 'recurso' es para otros órganos."
+    },
+    {
+      "numero": 134,
+      "enunciado": "Por funcionamiento anormal de la Administración de Justicia debe responder:",
+      "opciones": {
+        "a": "Propia Administración.",
+        "b": "Ministerio de Justicia solamente.",
+        "c": "Estado.",
+        "d": "Nadie."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI",
+      "explicación": "El artículo 121 garantiza el derecho a indemnización por el Estado por error judicial o funcionamiento anormal de la justicia."
+    },
+    {
+      "numero": 135,
+      "enunciación": "La cúspide de la jurisdicción en España la ostenta el:",
+      "opciones": {
+        "a": "Consejo General del Poder Judicial.",
+        "b": "Ministerio Fiscal.",
+        "c": "Tribunal Constitucional.",
+        "d": "Tribunal Supremo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI",
+      "explicación": "El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes, salvo en garantías constitucionales[cite: 13329]."
+    },
+    {
+      "numero": 136,
+      "enunciado": "La misión de velar por la independencia de los Tribunales y procurar ante estos la satisfacción del interés social es propia del/de los:",
+      "opciones": {
+        "a": "Poder Judicial.",
+        "b": "Consejo General del Poder Judicial.",
+        "c": "Ministerio Fiscal.",
+        "d": "Jueces y Tribunales."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI",
+      "explicación": "El artículo 124 asigna expresamente esta misión al Ministerio Fiscal junto con la defensa de la legalidad."
+    },
+    {
+      "numero": 137,
+      "enunciado": "El jurado no intervendrá en procesos:",
+      "opciones": {
+        "a": "De ningún tipo.",
+        "b": "Penales.",
+        "c": "Evidenciados en Audiencias Provinciales.",
+        "d": "Civiles."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI",
+      "explicación": "La institución del Jurado (art. 125) está legalmente limitada a determinados tipos de delitos penales, nunca para procesos civiles."
+    },
+    {
+      "numero": 138,
+      "enunciado": "El Jurado en los Tribunales consuetudinarios:",
+      "opciones": {
+        "a": "No existe.",
+        "b": "Existe.",
+        "c": "Ejerce como acción popular.",
+        "d": "Está integrado por Jueces y Magistrados."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VI",
+      "explicación": "En tribunales tradicionales como el de las Aguas de Valencia no hay jurado popular; se rigen por sus propias normas consuetudinarias."
+    },
+    {
+      "numero": 139,
+      "enunciado": "La función del Jurado es:",
+      "opciones": {
+        "a": "Obligatoria y gratuita.",
+        "b": "Incompatible en todo caso.",
+        "c": "Remunerada y voluntaria.",
+        "d": "Nada de lo anterior es cierto."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI",
+      "explicación": "Es un derecho-deber obligatorio para los ciudadanos elegidos, pero sí conlleva una remuneración por gastos y servicios prestados."
+    },
+    {
+      "numero": 140,
+      "enunciado": "El titular de la Justicia es:",
+      "opciones": {
+        "a": "El Poder Judicial.",
+        "b": "El Rey.",
+        "c": "El Pueblo soberano.",
+        "d": "Los Jueces y los Tribunales por norma."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI",
+      "explicación": "El artículo 117 de la Constitución establece que la justicia emana del pueblo, quien es el titular último de la soberanía[cite: 12982]."
+    },
+    {
+      "numero": 141,
+      "enunciado": "La existencia del Jurado en los Tribunales Superiores de Justicia:",
+      "opciones": {
+        "a": "Es posible.",
+        "b": "No se va a dar nunca.",
+        "c": "Es su única sede.",
+        "d": "Se admite en toda materia."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VI",
+      "explicación": "Aunque su ámbito habitual es la Audiencia Provincial, la ley admite su presencia en procesos específicos ante el TSJ."
+    },
+    {
+      "numero": 142,
+      "enunciado": "El art. 117 de la Constitución española no incluye como una característica de los Jueces y Magistrados la:",
+      "opciones": {
+        "a": "Independencia.",
+        "b": "Responsabilidad.",
+        "c": "Inamovilidad.",
+        "d": "Las incluye todas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI",
+      "explicación": "Los cuatro pilares del estatuto de jueces son: independencia, inamovilidad, responsabilidad y sumisión exclusiva a la ley."
+    },
+    {
+      "numero": 143,
+      "enunciado": "La ejecución de lo juzgado es competencia de:",
+      "opciones": {
+        "a": "Juzgados y Tribunales.",
+        "b": "Consejo General del Poder Judicial normalmente.",
+        "c": "Policía Judicial.",
+        "d": "Administración Pública Estatal."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VI",
+      "explicación": "El artículo 117.3 otorga la exclusividad de la potestad jurisdiccional (juzgar y hacer ejecutar lo juzgado) a Jueces y Tribunales."
+    },
+    {
+      "numero": 144,
+      "enunciado": "Los supuestos de suspensión o movilidad de los Jueces deben estar establecidos en:",
+      "opciones": {
+        "a": "Una Ley Orgánica.",
+        "b": "Un Reglamento.",
+        "c": "Una Ley Ordinaria.",
+        "d": "La Constitución."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VI",
+      "explicación": "El artículo 122 obliga a que sea la Ley Orgánica del Poder Judicial la que regule el estatuto de los magistrados."
+    },
+    {
+      "numero": 145,
+      "enunciado": "Un Policía Local actuará como Policía Judicial:",
+      "opciones": {
+        "a": "En todo caso.",
+        "b": "Nunca.",
+        "c": "Cuando se le requiera al efecto.",
+        "d": "Previa autorización de su Presidente."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI",
+      "explicación": "La policía judicial (art. 126) auxilia a los tribunales; los cuerpos locales asumen esta función cuando son requeridos para investigar delitos."
+    },
+    {
+      "numero": 146,
+      "enunciado": "La asociación profesional de Jueces y Magistrados está:",
+      "opciones": {
+        "a": "Prohibida.",
+        "b": "Permitida.",
+        "c": "Ilegalizada.",
+        "d": "Admitida, si se hace mediante sindicato."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI",
+      "explicación": "Tienen prohibido sindicarse, pero el artículo 127 les permite asociarse profesionalmente para defender sus intereses legítimos."
+    },
+    {
+      "numero": 147,
+      "enunciado": "La declaración del estado de alarma lo es por:",
+      "opciones": {
+        "a": "Las Cortes Generales.",
+        "b": "El Gobierno, por quince dias.",
+        "c": "El Congreso, por treinta días.",
+        "d": "El Gobierno, por treinta días prorrogables."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título V",
+      "explicación": "El estado de alarma se declara mediante decreto por el Gobierno por un plazo máximo inicial de 15 días[cite: 13271]."
+    },
+    {
+      "numero": 148,
+      "enunciado": "Para los supuestos de graves alteraciones de orden público está previsto declarar:",
+      "opciones": {
+        "a": "El estado de excepción.",
+        "b": "El estado de sitio.",
+        "c": "Estado de alarma.",
+        "d": "Ninguno de ellos."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título V",
+      "explicación": "El estado de excepción es el mecanismo constitucional diseñado específicamente para crisis de orden público que no afecten a la soberanía del Estado."
+    },
+    {
+      "numero": 149,
+      "enunciado": "Según la Constitución, una norma que imponga una nueva pena más leve para un delito:",
+      "opciones": {
+        "a": "No se aplica retroactivamente.",
+        "b": "Puede aplicarse retroactivamente.",
+        "c": "Ha de ser reglamentaria.",
+        "d": "Atenta contra el principio de legalidad penaj si se aplica retroactivamente."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 9.3 prohíbe la irretroactividad de normas NO favorables, por lo que las favorables sí pueden aplicarse a hechos pasados."
+    },
+    {
+      "numero": 150,
+      "enunciado": "La declaración del estado de sitio se realiza por el/las:",
+      "opciones": {
+        "a": "Congreso por mayoría absoluta.",
+        "b": "Gobierno, autorización previa del Congreso.",
+        "c": "Las Cortes.",
+        "d": "Senado a propuesta del Gobierno."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título V",
+      "explicación": "El estado de sitio es el más grave y exige la declaración del Congreso de los Diputados por mayoría absoluta, a propuesta del Gobierno."
+    },
+    {
+      "numero": 151,
       "enunciado": "Todos los españoles, respecto al castellano, tienen el:",
       "opciones": {
         "a": "Derecho-deber de conocerlo.",
-        "b": "Derecho de usar y deber de conocerlo.",
+        "b": "Derecho de usarlo y deber de conocerlo.",
         "c": "Derecho-deber de usarlo.",
         "d": "Nada de lo anterior."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 3 consagra el castellano como lengua española oficial, indicando de forma literal que todos los españoles tienen el 'deber de conocerla y el derecho a usarla' [23, 24]."
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 3.1 establece taxativamente el deber de conocer el castellano y el derecho a usarlo para todos los ciudadanos[cite: 12988]."
     },
     {
-      "numero": 27,
+      "numero": 152,
+      "enunciado": "Para declarar el estado de sitio se necesita:",
+      "opciones": {
+        "a": "Aprobación de las Cortes.",
+        "b": "Mayoría absoluta del Congreso.",
+        "c": "Autorización del Gobierno.",
+        "d": "Autorización del Rey."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título V",
+      "explicación": "El artículo 116.4 requiere específicamente la mayoría absoluta de los miembros del Congreso de los Diputados."
+    },
+    {
+      "numero": 153,
       "enunciado": "La capital del Estado en España es:",
       "opciones": {
         "a": "La propia de cada Comunidad Autónoma.",
@@ -349,12 +1987,25 @@
         "d": "Aquella en la que resida generalmente el Rey."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 5 de la Carta Magna establece directamente y sin salvedades que la capital del Estado es la villa de Madrid [23, 24]."
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 5 fija de manera inamovible que la capital del Estado es la Villa de Madrid[cite: 12996]."
     },
     {
-      "numero": 28,
-      "enunciado": "El Título de la Constitución que trata de la reforma constitucional es el:",
+      "numero": 154,
+      "enunciado": "Según la Constitución, las Entidades que forman parte de la organización territorial del Estado tienen la nota común de:",
+      "opciones": {
+        "a": "Autogobierno.",
+        "b": "Independencia.",
+        "c": "Autonomia.",
+        "d": "Financiación propia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII",
+      "explicación": "El artículo 137 garantiza la autonomía para la gestión de sus respectivos intereses a municipios, provincias y Comunidades Autónomas."
+    },
+    {
+      "numero": 155,
+      "enunciado": "El Titulo de la Constitución que trata de la reforma constitucional es el:",
       "opciones": {
         "a": "Primero.",
         "b": "Décimo.",
@@ -362,34 +2013,1893 @@
         "d": "Undécimo."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "Las disposiciones sobre las formas de revisión de la Carta Magna están aglutinadas en el Título X ('De la reforma constitucional') [23, 24]."
+      "tema": "Estructura",
+      "explicación": "El Título X es el último de la Constitución (arts. 166-169) y está dedicado íntegramente a regular su propia reforma."
     },
     {
-      "numero": 29,
-      "enunciado": "El régimen público de seguridad social abarcará, según la Constitución:",
+      "numero": 156,
+      "enunciado": "La titularidad de la soberanía española radica en el/las:",
       "opciones": {
-        "a": "A los ciudadanos que coticen a tal efecto.",
-        "b": "A todos los ciudadanos.",
-        "c": "A todos los ciudadanos, excepto militares.",
-        "d": "Ninguna de estas respuestas es correcta."
+        "a": "Cortes Generales como representantes del pueblo español.",
+        "b": "Rey como Jefe del Estado.",
+        "c": "Pueblo mismo.",
+        "d": "Nacionalidades y regiones que integran España."
       },
-      "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El mandato del artículo 41 establece la responsabilidad de los poderes públicos de mantener un régimen público de Seguridad Social pensado para todos los ciudadanos en situaciones de necesidad [25, 26]."
+      "respuesta_correcta": "c",
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 1.2 afirma que la soberanía nacional reside en el pueblo español, del que emanan todos los poderes[cite: 12982]."
     },
     {
-      "numero": 30,
-      "enunciado": "¿A quién corresponde, según la Constitución, promover las condiciones para que la libertad y la igualdad de todos los españoles sean reales y efectivas?:",
+      "numero": 157,
+      "enunciado": "El Defensor del Pueblo se regula en el siguiente Título y Capítulo de la Constitución, respectivamente:",
       "opciones": {
-        "a": "Exclusivamente al gobierno de la nación.",
-        "b": "A todos los poderes públicos.",
-        "c": "Exclusivamente a los tribunales de justicia.",
-        "d": "Exclusivamente al tribunal constitucional."
+        "a": "Preliminar y 1º.",
+        "b": "Segundo y 4º.",
+        "c": "Segundo y 3º.",
+        "d": "Primero y 4º."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Estructura",
+      "explicación": "Se regula en el Título I (De los derechos y deberes fundamentales) y específicamente en su Capítulo IV (De las garantías)."
+    },
+    {
+      "numero": 158,
+      "enunciado": "El Titulo de la CE que trata del Gobierno y la Administración es el:",
+      "opciones": {
+        "a": "Tercero.",
+        "b": "Cuarto.",
+        "c": "Quinto.",
+        "d": "Sexto."
       },
       "respuesta_correcta": "b",
-      "tema": "Tema 1. La Constitución Española",
-      "explicación": "El artículo 9.2 asigna de manera genérica a 'los poderes públicos' el deber de promover estas condiciones para garantizar la igualdad y libertad real de las personas y los grupos [25, 27]."
+      "tema": "Estructura",
+      "explicación": "El Título IV se rubrica precisamente 'Del Gobierno y de la Administración'."
+    },
+    {
+      "numero": 159,
+      "enunciado": "Las primeras elecciones democráticas celebradas en España tras la muerte de Franco tuvieron lugar en:",
+      "opciones": {
+        "a": "1975.",
+        "b": "1976.",
+        "c": "1977.",
+        "d": "1978."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Contexto histórico",
+      "explicación": "Las elecciones a Cortes Constituyentes se celebraron el 15 de junio de 1977, dando lugar a las Cámaras que redactaron el texto actual."
+    },
+    {
+      "numero": 160,
+      "enunciado": "El referéndum en el que se aprobó popularmente la Constitución se llevó a efecto el:",
+      "opciones": {
+        "a": "27 de diciembre de 1978.",
+        "b": "6 de diciembre de 1978.",
+        "c": "31 de octubre de 1978.",
+        "d": "29 de diciembre de 1979."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Contexto histórico",
+      "explicación": "El 6 de diciembre es la fecha de ratificación popular mediante referéndum nacional[cite: 12960]."
+    },
+    {
+      "numero": 161,
+      "enunciado": "La ponencia encargada de redactar el borrador de la Constitución se constituyó en el:",
+      "opciones": {
+        "a": "Senado.",
+        "b": "Senado y Congreso.",
+        "c": "Congreso.",
+        "d": "Gobierno."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Contexto histórico",
+      "explicación": "La 'Comisión de Asuntos Constitucionales y Libertades Públicas' del Congreso de los Diputados fue el seno de la Ponencia."
+    },
+    {
+      "numero": 162,
+      "enunciado": "Si un poder público, en su actuación, infringe lo dispuesto en el Preámbulo de la Constitución:",
+      "opciones": {
+        "a": "Incurre en nulidad.",
+        "b": "Incurre en inconstitucionalidad.",
+        "c": "No pasa nada, salvo que se infrinja un artículo de la propia Constitución.",
+        "d": "Nada de lo anterior es cierto."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título Preliminar",
+      "explicación": "El Preámbulo carece de fuerza normativa directa; es una declaración de intenciones que debe reflejarse en los artículos para ser exigible."
+    },
+    {
+      "numero": 163,
+      "enunciado": "El principio en virtud del cual el ciudadano está amparado por una legislación no sujeta a continuos vaivenes es el de:",
+      "opciones": {
+        "a": "Legalidad.",
+        "b": "Publicidad normativa.",
+        "c": "Seguridad jurídica.",
+        "d": "Jerarquía normativa."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título Preliminar",
+      "explicación": "La seguridad jurídica (art. 9.3) garantiza la previsibilidad del derecho y la estabilidad de las normas para el ciudadano[cite: 13017]."
+    },
+    {
+      "numero": 164,
+      "enunciado": "El principio en virtud del cual un Reglamento no puede contradecir una Ley es el de:",
+      "opciones": {
+        "a": "Legalidad.",
+        "b": "Jerarquía normativa.",
+        "c": "a y b son correctas.",
+        "d": "Sexto."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título Preliminar",
+      "explicación": "La jerarquía (rango de la norma) y la legalidad (sumisión al mandato legislativo) impiden que el Ejecutivo sobrepase al Legislativo."
+    },
+    {
+      "numero": 165,
+      "enunciado": "Los principios rectores de la política social y económica se regulan en el siguiente Capítulo y Título de la Constitución:",
+      "opciones": {
+        "a": "Segundo del Primero.",
+        "b": "Tercero del Primero.",
+        "c": "Tercero del Preliminar.",
+        "d": "Primero del Séptimo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Estructura",
+      "explicación": "Se encuentran en el Capítulo III del Título I, abarcando desde el artículo 39 hasta el 52."
+    },
+    {
+      "numero": 166,
+      "enunciado": "La derogación de una norma postconstitucional que vaya en contra de la Constitución se efectúa por el/la/las:",
+      "opciones": {
+        "a": "Propia Constitución.",
+        "b": "Tribunal Constitucional.",
+        "c": "Cortes Generales.",
+        "d": "Gobierno."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IX",
+      "explicación": "El Tribunal Constitucional ostenta el monopolio del rechazo de leyes postconstitucionales mediante la declaración de inconstitucionalidad."
+    },
+    {
+      "numero": 167,
+      "enunciado": "Según la Constitución el Estado español es:",
+      "opciones": {
+        "a": "Apolítico.",
+        "b": "Aconfesional.",
+        "c": "De bienestar social.",
+        "d": "Federal."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 16.3 establece que ninguna confesión tendrá carácter estatal, definiendo así el modelo de aconfesionalidad o laicidad positiva[cite: 13056]."
+    },
+    {
+      "numero": 168,
+      "enunciado": "El derecho a la vida se consagra en el siguiente artículo de la Constitución:",
+      "opciones": {
+        "a": "10.",
+        "b": "16.",
+        "c": "15.",
+        "d": "24."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 15 declara que todos tienen derecho a la vida y a la integridad física y moral[cite: 13046]."
+    },
+    {
+      "numero": 169,
+      "enunciado": "La pena de muerte en España:",
+      "opciones": {
+        "a": "Ha quedado abolida.",
+        "b": "Puede aplicarse en cualquier momento.",
+        "c": "Sólo se aplicará, en tiempo de guerra, a los militares.",
+        "d": "Rige sólo en el ámbito civil."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título I. Capítulo II",
+      "explicación": "Aunque el art. 15 menciona excepciones para tiempo de guerra, posteriores leyes orgánicas y tratados la han abolido totalmente en todo supuesto."
+    },
+    {
+      "numero": 170,
+      "enunciado": "La inmediata puesta a disposición judicial derivada del habeas corpus se produce por:",
+      "opciones": {
+        "a": "Detención ilegal.",
+        "b": "Prisión ilegal.",
+        "c": "Prisión preventiva.",
+        "d": "Detención preventiva."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El Habeas Corpus (art. 17.4) es el proceso específico contra detenciones practicadas sin cumplir los requisitos legales[cite: 13064]."
+    },
+    {
+      "numero": 171,
+      "enunciado": "El proceso en el que se enjuicie a un presunto delincuente debe:",
+      "opciones": {
+        "a": "Ser sumario.",
+        "b": "No dilatarse.",
+        "c": "Entorpecer los instrumentos probatorios.",
+        "d": "Nada de lo anterior es cierto."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 24.2 garantiza el derecho de todos a un proceso público 'sin dilaciones indebidas'[cite: 13112]."
+    },
+    {
+      "numero": 172,
+      "enunciado": "La entrada en un domicilio en caso de flagrante delito, sin autorización de su titular:",
+      "opciones": {
+        "a": "Puede dar lugar a la aplicación del habeas corpus.",
+        "b": "Requiere autorización previa de la autoridad judicial.",
+        "c": "Puede efectuarse en todo momento.",
+        "d": "No puede realizarse en momento alguno."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El delito flagrante es una de las tres excepciones constitucionales a la inviolabilidad del domicilio[cite: 13068]."
+    },
+    {
+      "numero": 173,
+      "enunciado": "Cuando, al conocerse la comisión de un delito por una persona, se acude a su domicilio para detenerla:",
+      "opciones": {
+        "a": "Está obligada a franquear la entrada.",
+        "b": "Se necesitará autorización judicial para entrar.",
+        "c": "Pese a que no dé su consentimiento, se puede entrar.",
+        "d": "Nada de lo anterior es correcto."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título I. Capítulo II",
+      "explicación": "Si no hay flagrancia ni consentimiento, la policía necesita obligatoriamente un mandamiento judicial para entrar en un domicilio[cite: 13068]."
+    },
+    {
+      "numero": 174,
+      "enunciado": "La autorización previa para celebrar una manifestación pública:",
+      "opciones": {
+        "a": "La da el Subdelegado del Gobierno en la Provincia.",
+        "b": "Es ineludible.",
+        "c": "Sería inconstitucional.",
+        "d": "Se da cuando no se prevean alteraciones al orden público."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 21.1 prohíbe explícitamente la autorización previa para reuniones pacíficas; solo existe deber de comunicación[cite: 13094]."
+    },
+    {
+      "numero": 175,
+      "enunciado": "El tipo de sufragio que consagra la Constitución es el:",
+      "opciones": {
+        "a": "Proporcional.",
+        "b": "Universal.",
+        "c": "Censitario.",
+        "d": "a y b son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El Congreso se elige por sufragio universal (art. 68.1) y con criterios de representación proporcional (art. 68.3)[cite: 13359]."
+    },
+    {
+      "numero": 176,
+      "enunciado": "Además de la no autoinculpación, la Constitución prevé que no se está obligado a declarar sobre un hecho presuntamente delictivo en caso de:",
+      "opciones": {
+        "a": "Parentesco y afinidad.",
+        "b": "Cláusula de conciencia.",
+        "c": "Secreto profesional.",
+        "d": "a y c son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título I. Capítulo II",
+      "explicación": "El artículo 24.2 remite a la ley para regular las exenciones por parentesco o secreto profesional[cite: 13113]."
+    },
+    {
+      "numero": 177,
+      "enunciado": "El principio de legalidad penal está íntimamente relacionado con el/la:",
+      "opciones": {
+        "a": "Arbitrariedad de los poderes públicos.",
+        "b": "Responsabilidad de éstos.",
+        "c": "Irretroactivad de las normas sancionadoras.",
+        "d": "Publicidad normativa."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 9.3 garantiza conjuntamente la legalidad y la irretroactividad de normas restrictivas de derechos[cite: 13017]."
+    },
+    {
+      "numero": 178,
+      "enunciado": "La asunción de funciones constitucionales por la Reina consorte:",
+      "opciones": {
+        "a": "Está prevista como regla general.",
+        "b": "Depende de la voluntad del Rey.",
+        "c": "Está prohibida.",
+        "d": "Está limitada."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título II",
+      "explicación": "El artículo 58 limita sus funciones, permitiéndolas únicamente si asume la Regencia[cite: 13295]."
+    },
+    {
+      "numero": 179,
+      "enunciado": "La tutoria del Rey puede recaer en:",
+      "opciones": {
+        "a": "Cualquier persona nombrada por las Cortes, en su caso.",
+        "b": "Sus hijos.",
+        "c": "Una, tres o cinco personas.",
+        "d": "Nada de lo anterior es cierto."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título II",
+      "explicación": "Si no hay tutor testamentario o legítimo, las Cortes Generales realizarán el nombramiento (Tutela dativa)[cite: 13312]."
+    },
+    {
+      "numero": 180,
+      "enunciado": "La Regencia se ejerce:",
+      "opciones": {
+        "a": "Por mandato del Rey.",
+        "b": "En nombre de éste.",
+        "c": "Por mandato constitucional.",
+        "d": "b y c son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título II",
+      "explicación": "El artículo 59.5 especifica que la Regencia es un mandato constitucional y se desempeña siempre en nombre del Rey[cite: 13303]."
+    },
+    {
+      "numero": 181,
+      "enunciado": "La dirección de la defensa del Estado es competencia genuina del/de las:",
+      "opciones": {
+        "a": "Rey.",
+        "b": "Fuerzas Armadas.",
+        "c": "Gobierno.",
+        "d": "Todos ellos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título IV",
+      "explicación": "El artículo 97 asigna al Gobierno la dirección de la política interior, exterior, administración civil, militar y defensa del Estado."
+    },
+    {
+      "numero": 182,
+      "enunciado": "El refrendo de los actos del Rey está íntimamente relacionado con:",
+      "opciones": {
+        "a": "Su irresponsabilidad política.",
+        "b": "Su inhabilitación.",
+        "c": "La Regencia.",
+        "d": "Sus poderes discrecionales."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título II",
+      "explicación": "Como el Rey no es responsable de sus actos (art. 56.3), la responsabilidad se traslada a quien refrenda la firma[cite: 12445]."
+    },
+    {
+      "numero": 183,
+      "enunciado": "En caso de que el Rey sea menor de edad:",
+      "opciones": {
+        "a": "No tomará posesión de su cargo hasta su mayoría de edad.",
+        "b": "Ejercerá la Regencia el Príncipe Heredero.",
+        "c": "Ejercerá la Regencia su cónyuge.",
+        "d": "Ejercerá la Regencia el padre o madre del Rey."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título II",
+      "explicación": "El artículo 59.1 establece que ante la minoría de edad, entran a ejercer la Regencia el padre o la madre[cite: 13297]."
+    },
+    {
+      "numero": 184,
+      "enunciado": "Si el Principe Heredero tuviera descendientes y renunciara a sus derechos al trono:",
+      "opciones": {
+        "a": "Su cónyuge ejercería la Regencia hasta que su primogénito varón fuere mayor de edad.",
+        "b": "Su cónyuge ejercería la Regencia hasta que dicho primogénito fuera proclamado Rey.",
+        "c": "Se nombraría Princesa Heredera a su hermana mayor, si la hubiere.",
+        "d": "Nada de lo anterior es cierto."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título II",
+      "explicación": "La renuncia personal no afecta a la línea de sus descendientes, quienes mantendrían su derecho sucesorio prioritario[cite: 13287]."
+    },
+    {
+      "numero": 185,
+      "enunciado": "La información sobre los asuntos del Estado es suministrada al Rey, esencialmente, por:",
+      "opciones": {
+        "a": "Su Casa Civil.",
+        "b": "El Consejo de Ministros.",
+        "c": "Las Cortes.",
+        "d": "El Presidente del Gobierno."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título II",
+      "explicación": "Corresponde al Presidente del Gobierno mantener puntualmente informado al Jefe del Estado de la gestión política y administrativa."
+    },
+    {
+      "numero": 186,
+      "enunciado": "El juramiento lo prestará el Rey ante el/las:",
+      "opciones": {
+        "a": "Cortes Generales.",
+        "b": "Gobierno.",
+        "c": "Miembros de la Familia Real.",
+        "d": "Pueblo español."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título II",
+      "explicación": "El artículo 61.1 prescribe que el Rey prestará juramento de fidelidad ante las Cortes Generales al ser proclamado[cite: 13315]."
+    },
+    {
+      "numero": 187,
+      "enunciado": "Si se agotan todas las líneas llamadas a la sucesión en la Corona de España, se:",
+      "opciones": {
+        "a": "Nombran Regentes.",
+        "b": "Instaura una nueva línea.",
+        "c": "Proclama la República.",
+        "d": "Establece una Dictadura."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título II",
+      "explicación": "El artículo 57.3 faculta a las Cortes Generales para proveer a la sucesión en la forma que más convenga a España[cite: 13291]."
+    },
+    {
+      "numero": 188,
+      "enunciado": "La inhabilitación del Rey se reconoce por el/los/las:",
+      "opciones": {
+        "a": "Gobierno.",
+        "b": "Congreso.",
+        "c": "Cortes Generales.",
+        "d": "Tres Poderes constitucionales."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título II",
+      "explicación": "Es competencia exclusiva de las Cortes Generales (Sesión conjunta) reconocer la imposibilidad del Rey para ejercer su autoridad[cite: 13298]."
+    },
+    {
+      "numero": 189,
+      "enunciado": "El Regente nombrado en defecto de padre, madre, pariente mayor de edad o Príncipe Heredero mayor de edad se designa por el/las:",
+      "opciones": {
+        "a": "Propio Rey.",
+        "b": "Cortes Generales.",
+        "c": "Congreso.",
+        "d": "Consejo de Regencia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título II",
+      "explicación": "La Regencia electiva (cuando no hay parientes legítimos) es nombrada por las Cortes Generales (art. 59.3)[cite: 13301]."
+    },
+    {
+      "numero": 190,
+      "enunciado": "La Regencia se ejerce por mandato:",
+      "opciones": {
+        "a": "De las Cortes Generales.",
+        "b": "Del Rey.",
+        "c": "Constitucional.",
+        "d": "De nadie."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título II",
+      "explicación": "El artículo 59.5 define inequívocamente que la Regencia es un mandato de origen constitucional[cite: 13303]."
+    },
+    {
+      "numero": 191,
+      "enunciado": "El número mínimo de Diputados previstos para el Congreso es de:",
+      "opciones": {
+        "a": "250.",
+        "b": "300.",
+        "c": "400.",
+        "d": "350."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 68.1 fija la horquilla de la composición del Congreso entre un mínimo de 300 y un máximo de 400 diputados[cite: 13358]."
+    },
+    {
+      "numero": 192,
+      "enunciado": "No es incompatible para ser elegido Diputado un:",
+      "opciones": {
+        "a": "Director General.",
+        "b": "Miembro de una Junta Electoral.",
+        "c": "Juez.",
+        "d": "Ministro."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 70 exceptúa explícitamente a los miembros del Gobierno de la incompatibilidad general de los altos cargos[cite: 12507]."
+    },
+    {
+      "numero": 193,
+      "enunciado": "La Palma elige los siguientes Senadores:",
+      "opciones": {
+        "a": "Ninguno.",
+        "b": "Dos.",
+        "c": "Uno.",
+        "d": "Cuatro."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo I",
+      "explicación": "Como isla con cabildo propio que no es de las mayores, el artículo 69.3 le asigna un único senador[cite: 12501]."
+    },
+    {
+      "numero": 194,
+      "enunciado": "La intervención bélica de tropas españolas debe autorizarla el/las:",
+      "opciones": {
+        "a": "Gobierno.",
+        "b": "Rey.",
+        "c": "Cortes Generales.",
+        "d": "ONU."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 63.3 reserva a las Cortes la autorización previa para que el Rey declare la guerra o haga la paz[cite: 13338]."
+    },
+    {
+      "numero": 195,
+      "enunciado": "El Presidente de la Diputación Permanente del Congreso es el:",
+      "opciones": {
+        "a": "Del partido mayoritario.",
+        "b": "Portavoz del partido con mayor número de escaños.",
+        "c": "Presidente de la Cámara.",
+        "d": "Elegido por los Portavoces de los Grupos Parlamentarios."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 78.2 establece que las Diputaciones Permanentes estarán presididas por el Presidente de la Cámara respectiva[cite: 12543]."
+    },
+    {
+      "numero": 196,
+      "enunciado": "La iniciativa gubernamental en el proceso de elaboración de Leyes:",
+      "opciones": {
+        "a": "Se plasma en un Proyecto de Ley.",
+        "b": "Se hace a través de Proposición de Ley.",
+        "c": "No existe.",
+        "d": "Es la popular."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título III. Capítulo II",
+      "explicación": "El artículo 87.1 denomina 'Proyecto de Ley' al texto que el Gobierno somete a las Cortes tras su aprobación en Consejo de Ministros."
+    },
+    {
+      "numero": 197,
+      "enunciado": "En el orden penal, los Juzgados de Paz pueden conocer de determinados procesos por:",
+      "opciones": {
+        "a": "Delitos.",
+        "b": "Delitos y faltas.",
+        "c": "Faltas.",
+        "d": "Infracciones administrativas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI",
+      "explicación": "Tradicionalmente su competencia penal se limitaba a las faltas menores (hoy delitos leves), diferenciándose de los juzgados de instrucción."
+    },
+    {
+      "numero": 198,
+      "enunciado": "La iniciativa legislativa parlamentaria:",
+      "opciones": {
+        "a": "Puede ser llevada a efecto por cualquiera de las Cámaras.",
+        "b": "Se manifiesta a través de Proyectos de Ley.",
+        "c": "Se efectúa a instancias dej Gobierno.",
+        "d": "Todo lo anterior es correcto."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título III. Capítulo II",
+      "explicación": "Tanto el Congreso como el Senado tienen capacidad para iniciar leyes mediante proposiciones propias (art. 87)[cite: 12553]."
+    },
+    {
+      "numero": 199,
+      "enunciado": "El mínimo de miembros integrantes de una Comisión de Investigación según el art. 76 de la Constitución es de:",
+      "opciones": {
+        "a": "Veintiuno.",
+        "b": "Mayoria simple.",
+        "c": "Mayoría absoluta.",
+        "d": "No se establece."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título III. Capítulo I",
+      "explicación": "La Constitución delega en el Reglamento de las Cámaras la determinación de la composición y número de estas comisiones[cite: 12536]."
+    },
+    {
+      "numero": 200,
+      "enunciado": "No puede solicitar la celebración de una sesión extraordinaria de las Cortes el/la:",
+      "opciones": {
+        "a": "Mayoría absoluta de sus miembros.",
+        "b": "Diputación Permanente de ellas.",
+        "c": "Mesa de cada Cámara.",
+        "d": "Gobierno."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 73.2 enumera al Gobierno, la Diputación Permanente y la mayoría absoluta, excluyendo a la Mesa de esta facultad específica[cite: 12523]."
+    },
+    {
+      "numero": 201,
+      "enunciado": "El primer período de sesiones de las Cámaras concluye:",
+      "opciones": {
+        "a": "Al finalizar su mandato.",
+        "b": "En enero.",
+        "c": "En diciembre.",
+        "d": "En junio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 73.1 establece que las Cámaras se reúnen anualmente en dos períodos ordinarios: el primero de septiembre a diciembre y el segundo de febrero a junio[cite: 12549, 2984, 2987]."
+    },
+    {
+      "numero": 202,
+      "enunciado": "No puede delegarse en una Comisión Legislativa Permanente la posibilidad de aprobar una Ley:",
+      "opciones": {
+        "a": "Tributaria.",
+        "b": "De Funcionarios Públicos.",
+        "c": "Orgánica.",
+        "d": "A y c son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 75.3 exceptúa de la delegación legislativa a la reforma constitucional, las leyes orgánicas y de bases, y los Presupuestos Generales del Estado[cite: 12562, 2989, 2993]."
+    },
+    {
+      "numero": 203,
+      "enunciado": "Los Juzgados de lo Contencioso-Administrativo existirán en el siguiente ámbito territorial:",
+      "opciones": {
+        "a": "Comarcal.",
+        "b": "Provincial.",
+        "c": "Municipal.",
+        "d": "De Comunidad Autónoma."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "De acuerdo con la organización judicial, estos juzgados específicos tienen un ámbito de actuación que se circunscribe generalmente a la provincia[cite: 3000, 3003, 3023]."
+    },
+    {
+      "numero": 204,
+      "enunciado": "En la Audiencia Nacional no existe Sala de lo:",
+      "opciones": {
+        "a": "Penal.",
+        "b": "Contencioso-Administrativo.",
+        "c": "Civil.",
+        "d": "Social."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "La Audiencia Nacional se especializa en materias penales, sociales y contencioso-administrativas de ámbito nacional, pero no conoce de asuntos civiles[cite: 3006, 3009, 3023]."
+    },
+    {
+      "numero": 205,
+      "enunciado": "La jurisdicción del Tribunal Supremo abarca a:",
+      "opciones": {
+        "a": "Todas las materias.",
+        "b": "Las actividades de las Cortes.",
+        "c": "Todo el territorio nacional.",
+        "d": "Las cuestiones constitucionales."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "El Tribunal Supremo es el órgano jurisdiccional superior en todos los órdenes con jurisdicción en toda España (artículo 123.1)[cite: 3011, 3014, 3024]."
+    },
+    {
+      "numero": 206,
+      "enunciado": "La Sala de lo Militar en el Tribunal Supremo es la:",
+      "opciones": {
+        "a": "Sexta.",
+        "b": "Quinta.",
+        "c": "Cuarta.",
+        "d": "No existe como tal."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "La Sala Quinta es la encargada de lo militar dentro del Tribunal Supremo, integrando la jurisdicción militar en dicho órgano superior[cite: 3016, 3017, 3025]."
+    },
+    {
+      "numero": 207,
+      "enunciado": "En el Tribunal Supremo, la Sala Cuarta se dedica a lo:",
+      "opciones": {
+        "a": "Penal.",
+        "b": "Contencioso-Administrativo.",
+        "c": "Militar.",
+        "d": "Social."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "La estructura del Tribunal Supremo asigna la materia social (laboral) específicamente a su Sala Cuarta[cite: 3018, 3022, 3026]."
+    },
+    {
+      "numero": 208,
+      "enunciado": "Con su Presidente, integran el Consejo General del Poder Judicial los siguientes miembros:",
+      "opciones": {
+        "a": "Doce.",
+        "b": "Veintiuno.",
+        "c": "Veinte.",
+        "d": "Trece."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "El artículo 122.3 establece que el Consejo estará integrado por el Presidente del Tribunal Supremo y por veinte miembros nombrados por el Rey[cite: 3027, 3065, 3072]."
+    },
+    {
+      "numero": 209,
+      "enunciado": "A efectos judiciales no se constituye como división del Estado el/la:",
+      "opciones": {
+        "a": "Comunidad Autónoma.",
+        "b": "Municipio.",
+        "c": "Partido Judicial.",
+        "d": "Lo son todos ellos."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "La Ley Orgánica del Poder Judicial reconoce el municipio, el partido judicial, la provincia y la Comunidad Autónoma como demarcaciones judiciales[cite: 3033, 3038, 3106]."
+    },
+    {
+      "numero": 210,
+      "enunciado": "Actualmente, el Congreso propone los siguientes miembros del Consejo General del Poder Judicial:",
+      "opciones": {
+        "a": "Cuatro.",
+        "b": "Doce.",
+        "c": "Diez.",
+        "d": "Seis."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "El Congreso elige a 10 vocales (6 de procedencia judicial y 4 juristas) y el Senado a los otros 10, sumando los 20 previstos constitucionalmente[cite: 3037, 3075, 3098]."
+    },
+    {
+      "numero": 211,
+      "enunciado": "En materia de modificación de plantillas orgánicas de Jueces y Magistrados, el Consejo General del Poder Judicial:",
+      "opciones": {
+        "a": "Decide.",
+        "b": "Informa posteriormente.",
+        "c": "Informa previamente.",
+        "d": "Propone en todo caso."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "Como órgano de gobierno, el CGPJ debe emitir informe preceptivo antes de que el Gobierno modifique la composición de las plantillas judiciales[cite: 3076, 3080, 3099]."
+    },
+    {
+      "numero": 212,
+      "enunciado": "La propuesta de nombramiento de los miembros de este Consejo General del Poder Judicial parte del:",
+      "opciones": {
+        "a": "Congreso y Senado.",
+        "b": "Gobierno.",
+        "c": "A y b son correctas.",
+        "d": "El Tribunal Constitucional, en parte."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "El artículo 122.3 indica que los miembros son nombrados por el Rey a propuesta del Congreso de los Diputados y del Senado[cite: 3082, 3084, 3100]."
+    },
+    {
+      "numero": 213,
+      "enunciado": "No es órgano del Consejo General del Poder Judicial las/el/la:",
+      "opciones": {
+        "a": "Pleno.",
+        "b": "Secciones.",
+        "c": "Vicepresidente.",
+        "d": "Comisión Permanente."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "La estructura del CGPJ incluye el Pleno, el Presidente, el Vicepresidente y diversas comisiones (Permanente, Disciplinaria, etc.), pero no se organiza en Secciones[cite: 3088, 3090, 3114]."
+    },
+    {
+      "numero": 214,
+      "enunciado": "El Vicepresidente en el Consejo General del Poder Judicial:",
+      "opciones": {
+        "a": "Es un cargo facultativo.",
+        "b": "Existe siempre.",
+        "c": "Se elige por la Comisión Permanente.",
+        "d": "No está prevista su existencia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "La ley orgánica prevé la existencia permanente del cargo de Vicepresidente para sustituir al Presidente y ejercer funciones delegadas[cite: 3093, 3095]."
+    },
+    {
+      "numero": 215,
+      "enunciado": "La mayoría que se exige en el Consejo General del Poder Judicial para proponer al Presidente del Tribunal Supremo es de:",
+      "opciones": {
+        "a": "Mayoría absoluta.",
+        "b": "Dos tercios.",
+        "c": "Mayoría simple.",
+        "d": "Tres quintos."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "Para garantizar un amplio consenso, la propuesta del máximo representante del Poder Judicial requiere una mayoría cualificada de 3/5 del Pleno del Consejo[cite: 3101, 3113]."
+    },
+    {
+      "numero": 216,
+      "enunciado": "La instrucción de los sumarios de los que conoce la Sala de lo Penal de la Audiencia Nacional corresponde a la/los:",
+      "opciones": {
+        "a": "Propia Audiencia Nacional.",
+        "b": "Juzgados Centrales de Instrucción.",
+        "c": "Juzgados de lo Penal.",
+        "d": "Juzgados de Instrucción."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "La Audiencia Nacional cuenta con Juzgados Centrales de Instrucción encargados específicamente de investigar los delitos que luego juzgará su Sala de lo Penal[cite: 3108, 3115]."
+    },
+    {
+      "numero": 217,
+      "enunciado": "Los principios con arreglo a los cuales han de ejercer sus funciones los miembros del Ministerio Fiscal son los de:",
+      "opciones": {
+        "a": "Igualdad y legalidad.",
+        "b": "Imparcialidad e igualdad.",
+        "c": "Imparcialidad y legalidad.",
+        "d": "Legalidad y dependencia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "El artículo 124.2 dispone que el Ministerio Fiscal actúa conforme a los principios de unidad de actuación y dependencia jerárquica y con sujeción a los de legalidad e imparcialidad[cite: 3125, 3129, 3136]."
+    },
+    {
+      "numero": 218,
+      "enunciado": "El Fiscal General del Estado es designado por el:",
+      "opciones": {
+        "a": "Rey.",
+        "b": "Gobierno.",
+        "c": "Consejo General del Poder Judicial.",
+        "d": "Ninguno de ellos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "Aunque el nombramiento formal lo hace el Rey, el artículo 124.4 especifica que la designación real (propuesta) corresponde al Gobierno[cite: 3131, 3132, 3168]."
+    },
+    {
+      "numero": 219,
+      "enunciado": "El Consejo General del Poder judicial propone el nombramiento de los siguientes miembros del Tribunal Constitucional:",
+      "opciones": {
+        "a": "Dos.",
+        "b": "Cuatro.",
+        "c": "Cinco.",
+        "d": "Ninguno."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IX. Tribunal Constitucional",
+      "explicación": "El artículo 159.1 establece que, de los 12 miembros del TC, dos son propuestos por el Consejo General del Poder Judicial[cite: 3132, 3134, 3141]."
+    },
+    {
+      "numero": 220,
+      "enunciado": "No se incluye como principio fundamental de la actuación de la Administración el de:",
+      "opciones": {
+        "a": "Coordinación.",
+        "b": "Cooperación.",
+        "c": "Legalidad.",
+        "d": "B y c son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "El artículo 103.1 enumera eficacia, jerarquía, descentralización, desconcentración y coordinación; la legalidad es una sujeción general, no un principio de organización enumerado en ese apartado[cite: 12317, 3133, 3141]."
+    },
+    {
+      "numero": 221,
+      "enunciado": "Los miembros del Ministerio Fiscal se integran en:",
+      "opciones": {
+        "a": "Un Cuerpo único.",
+        "b": "Una estructura no jerarquizada.",
+        "c": "Una sola categoría.",
+        "d": "Categorías independientes."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "El Ministerio Fiscal constituye un cuerpo único y jerarquizado, bajo la jefatura superior del Fiscal General del Estado[cite: 3144, 3146, 3149]."
+    },
+    {
+      "numero": 222,
+      "enunciado": "La aprobación de exigencia de responsabilidad de un Ministro por un delito contra la seguridad del Estado en el ejercicio de sus funciones compete al/a la:",
+      "opciones": {
+        "a": "Sala de lo Penal del Tribunal Supremo.",
+        "b": "Mayoría absoluta de los miembros del Congreso.",
+        "c": "Cuarta parte de estos miembros.",
+        "d": "Consejo de Ministros."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "La acusación por delitos contra la seguridad del Estado debe ser aprobada por la mayoría absoluta del Congreso de los Diputados según el artículo 102.2[cite: 3145, 3154, 3151]."
+    },
+    {
+      "numero": 223,
+      "enunciado": "La prerrogativa real de gracia respecto a la responsabilidad penal de un Ministro se refrenda por el:",
+      "opciones": {
+        "a": "Presidente del Congreso.",
+        "b": "Presidente del Tribunal Supremo.",
+        "c": "Presidente del Gobierno.",
+        "d": "No es posible esta medida."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "El artículo 102.3 prohíbe expresamente aplicar la prerrogativa real de gracia (indulto) en casos de responsabilidad criminal de los miembros del Gobierno[cite: 3157, 3163, 3160]."
+    },
+    {
+      "numero": 224,
+      "enunciado": "Las Fuerzas y Cuerpos de Seguridad dependen del:",
+      "opciones": {
+        "a": "Ejército.",
+        "b": "Gobierno.",
+        "c": "Ministerio de Defensa.",
+        "d": "Rey."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "El artículo 104.2 dispone que las Fuerzas y Cuerpos de Seguridad actúan bajo la dependencia del Gobierno[cite: 12317, 3165, 3167, 3168]."
+    },
+    {
+      "numero": 225,
+      "enunciado": "Puede negarse el acceso a los ciudadanos a un archivo administrativo por motivo de:",
+      "opciones": {
+        "a": "Intimidad de las personas.",
+        "b": "Defensa del Estado.",
+        "c": "Política general.",
+        "d": "A y b son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "El artículo 105.b permite que la ley regule el acceso a archivos, salvo en lo que afecte a la seguridad y defensa del Estado, la investigación de delitos y la intimidad de las personas[cite: 3172, 3175, 3177, 3179]."
+    },
+    {
+      "numero": 226,
+      "enunciado": "Si como consecuencia de un terremoto se cae sobre un ciudadano una farola que estaba en buen estado:",
+      "opciones": {
+        "a": "No está obligada a indemnizarle la Administración.",
+        "b": "Al ser un caso fortuito, sí debe hacerlo.",
+        "c": "Depende de la conducta del propio ciudadano el que tenga o no derecho a indemnización.",
+        "d": "La responsabilidad se exige al Estado como tal y no a la Administración."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "La responsabilidad patrimonial de la Administración excluye los casos de fuerza mayor (como un terremoto), salvo error judicial o funcionamiento anormal de la justicia[cite: 3180, 3182, 3184]."
+    },
+    {
+      "numero": 227,
+      "enunciado": "Una característica de la actuación del Ministerio Fiscal, en lo que a su organización interna se refiere, es la de:",
+      "opciones": {
+        "a": "Dependencia del Gobierno.",
+        "b": "Dependencia jerárquica.",
+        "c": "Parcialidad.",
+        "d": "Inamovilidad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VI. Poder Judicial",
+      "explicación": "A diferencia de los jueces, el Ministerio Fiscal se rige por el principio de unidad de actuación y dependencia jerárquica (artículo 124.2)[cite: 3192, 3194, 3174]."
+    },
+    {
+      "numero": 228,
+      "enunciado": "Nuestra Constitución trata de las relaciones entre el Gobierno y las Cortes Generales en su Título:",
+      "opciones": {
+        "a": "Tercero.",
+        "b": "Cuarto.",
+        "c": "Quinto.",
+        "d": "Sexto."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Estructura de la Constitución",
+      "explicación": "El Título V se rubrica específicamente 'De las relaciones entre el Gobierno y las Cortes Generales'[cite: 3197, 3200, 3187]."
+    },
+    {
+      "numero": 229,
+      "enunciado": "El ámbito donde es posible una mayor discrecionalidad por parte del Gobierno de la Nación es en el/la:",
+      "opciones": {
+        "a": "Aplicación de la Ley.",
+        "b": "Potestad reglamentaria.",
+        "c": "Dirección de la política.",
+        "d": "Función ejecutiva."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "La 'dirección de la política' implica decisiones discrecionales de oportunidad y conveniencia que van más allá del mero cumplimiento técnico de leyes o reglamentos[cite: 3202, 3206, 3213]."
+    },
+    {
+      "numero": 230,
+      "enunciado": "La función representativa de los miembros del Gobierno se manifiesta en:",
+      "opciones": {
+        "a": "La Jefatura de los Ministerios.",
+        "b": "Su estatuto personal como tales.",
+        "c": "Su mandato parlamentario.",
+        "d": "Ninguna forma."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "Los ministros representan al Estado en las materias propias de su competencia al ostentar la máxima dirección de su departamento o Ministerio[cite: 3208, 3210, 3229]."
+    },
+    {
+      "numero": 231,
+      "enunciado": "La coordinación de las funciones de los miembros del Gobierno es competencia del/de las:",
+      "opciones": {
+        "a": "Presidente del Gobierno.",
+        "b": "Vicepresidente del Gobierno.",
+        "c": "Ministerio de Administraciones Públicas.",
+        "d": "Comisiones Delegadas del Gobierno."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "El artículo 98.2 asigna al Presidente la dirección de la acción del Gobierno y la coordinación de las funciones de los demás miembros[cite: 3212, 3231, 3241]."
+    },
+    {
+      "numero": 232,
+      "enunciado": "El supremo órgano consultivo del Gobierno es el:",
+      "opciones": {
+        "a": "Ministerio Fiscal.",
+        "b": "Consejo de Estado.",
+        "c": "Consejo General del Poder Judicial.",
+        "d": "Consejo Económico y Social."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "El artículo 107 define al Consejo de Estado como el supremo órgano consultivo del Gobierno[cite: 3215, 3217, 3226]."
+    },
+    {
+      "numero": 233,
+      "enunciado": "La responsabilidad solidaria del Gobierno ante el Congreso significa que:",
+      "opciones": {
+        "a": "Cada Ministro está sometido a las interpelaciones de las mismas.",
+        "b": "El Gobierno en sí responde ante el Congreso y no cada uno de sus miembros individualmente considerado.",
+        "c": "El Presidente es el que responde.",
+        "d": "Sólo puede ser obligado a dimitir por unanimidad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título V. Relaciones Gobierno-Cortes",
+      "explicación": "El artículo 108 establece que el Gobierno responde solidariamente por su gestión política; un revés en la confianza afecta al órgano colegiado en su totalidad[cite: 3220, 3222, 3249]."
+    },
+    {
+      "numero": 234,
+      "enunciado": "La responsabilidad solidaria del Gobierno ante el Congreso de los Diputados es de carácter:",
+      "opciones": {
+        "a": "Judicial.",
+        "b": "Administrativo.",
+        "c": "Político.",
+        "d": "De los tres tipos anteriores."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título V. Relaciones Gobierno-Cortes",
+      "explicación": "Esta responsabilidad se basa en la confianza mutua y el control de la 'gestión política', diferenciándose de la responsabilidad penal o civil[cite: 3225, 3240, 3237]."
+    },
+    {
+      "numero": 235,
+      "enunciado": "La propuesta del Rey de candidato a la Presidencia del Gobierno se canaliza a través del:",
+      "opciones": {
+        "a": "Presidente del Congreso.",
+        "b": "Gobierno en pleno.",
+        "c": "Senado y Congreso.",
+        "d": "Grupo político mayoritario."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "Tras las consultas con los grupos políticos, el Rey formaliza su propuesta a través del Presidente del Congreso de los Diputados[cite: 12506, 3238, 3243, 3301]."
+    },
+    {
+      "numero": 236,
+      "enunciado": "La confianza al candidato a Presidente del Gobierno se otorga, en primera vuelta, por:",
+      "opciones": {
+        "a": "Mayoría absoluta de las Cortes.",
+        "b": "Mayoría absoluta del Congreso.",
+        "c": "Mayoría simple del Congreso.",
+        "d": "Mayoría simple de las Cortes."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "Según el artículo 99.3, el candidato necesita el voto de la mayoría absoluta de los miembros del Congreso para ser investido en el primer intento[cite: 3247, 3255, 3307]."
+    },
+    {
+      "numero": 237,
+      "enunciado": "La disolución de las Cámaras, por transcurso de dos meses desde la primera votación de investidura sin obtención de la confianza parlamentaria, se refrenda por el:",
+      "opciones": {
+        "a": "Presidente del Gobierno.",
+        "b": "Rey.",
+        "c": "Presidente del Congreso.",
+        "d": "No necesita refrendo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "Este supuesto específico de disolución automática lo refrenda el Presidente del Congreso según el artículo 64.1[cite: 12506, 3258, 3263, 3338]."
+    },
+    {
+      "numero": 238,
+      "enunciado": "El Gobierno, en relación con los Presupuestos Generales del Estado, los:",
+      "opciones": {
+        "a": "Aprueba.",
+        "b": "Convalida.",
+        "c": "Elabora.",
+        "d": "Ratifica."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VII. Economía y Hacienda",
+      "explicación": "Corresponde al Gobierno la elaboración de los PGE y a las Cortes Generales su examen, enmienda y aprobación final[cite: 12511, 3265, 3269, 3345]."
+    },
+    {
+      "numero": 239,
+      "enunciado": "La responsabilidad del Gobierno ante el Senado es:",
+      "opciones": {
+        "a": "Mancomunada.",
+        "b": "Individual.",
+        "c": "Solidaria.",
+        "d": "Inexistente."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título V. Relaciones Gobierno-Cortes",
+      "explicación": "Aunque el Senado ejerce funciones de control (interpelaciones), la responsabilidad política 'solidaria' y el otorgamiento/retirada de confianza son exclusivos del Congreso[cite: 3246, 3274, 3309]."
+    },
+    {
+      "numero": 240,
+      "enunciado": "El tiempo mínimo previsto para interpelaciones en las Cortes al Gobierno es:",
+      "opciones": {
+        "a": "Semanal.",
+        "b": "Trimestral.",
+        "c": "Mensual.",
+        "d": "En cada período de sesiones."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título V. Relaciones Gobierno-Cortes",
+      "explicación": "El artículo 111 dispone que el tiempo mínimo semanal estará reservado a interpelaciones y preguntas en las Cámaras[cite: 3275, 3277, 3278]."
+    },
+    {
+      "numero": 241,
+      "enunciado": "La explicación del Gobierno sobre el contenido de una petición individual presentada en las Cortes es:",
+      "opciones": {
+        "a": "Obligatoria en todo caso.",
+        "b": "Obligatoria cuando así lo exijan las Cámaras.",
+        "c": "Obligatoria cuando así se solicite en la propia petición.",
+        "d": "Discrecional."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título III. Capítulo I",
+      "explicación": "El artículo 77.2 establece que las Cámaras pueden remitir las peticiones al Gobierno, quien debe explicarse 'siempre que las Cámaras lo exijan'[cite: 12568, 3282, 3286, 3285]."
+    },
+    {
+      "numero": 242,
+      "enunciado": "El pronunciamiento sobre la cuestión de confianza es competencia del/de las:",
+      "opciones": {
+        "a": "Congreso exclusivamente.",
+        "b": "Senado cuando se plantee ante él.",
+        "c": "Congreso y Senado.",
+        "d": "Propio Gobierno."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título V. Relaciones Gobierno-Cortes",
+      "explicación": "La cuestión de confianza se plantea únicamente ante el Congreso de los Diputados (artículo 112)[cite: 3290, 3293, 3353]."
+    },
+    {
+      "numero": 243,
+      "enunciado": "La cuestión de confianza se plantea por el:",
+      "opciones": {
+        "a": "Presidente del Gobierno.",
+        "b": "Gobierno en sí.",
+        "c": "Congreso.",
+        "d": "Cualquier Ministro."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título V. Relaciones Gobierno-Cortes",
+      "explicación": "Corresponde exclusivamente al Presidente del Gobierno plantearla ante el Congreso, previa deliberación del Consejo de Ministros[cite: 3297, 3298, 3332]."
+    },
+    {
+      "numero": 244,
+      "enunciado": "Respecto al planteamiento de la cuestión de confianza, el Consejo de Ministros:",
+      "opciones": {
+        "a": "Decide.",
+        "b": "Debe dictaminarlo favorablemente.",
+        "c": "Delibera.",
+        "d": "No tiene nada que hacer."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título V. Relaciones Gobierno-Cortes",
+      "explicación": "El artículo 112 especifica que el Presidente actúa 'previa deliberación del Consejo de Ministros', siendo esta última preceptiva pero no vinculante[cite: 3315, 3319]."
+    },
+    {
+      "numero": 245,
+      "enunciado": "Los miembros de las Diputaciones u órganos interinsulares intervienen en la elaboración de los Estatutos de Autonomía:",
+      "opciones": {
+        "a": "En todo caso.",
+        "b": "Nunca.",
+        "c": "En las Comunidades Autónomas de vía común.",
+        "d": "En las Comunidades Autónomas de vía especial."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "Tanto en la vía ordinaria como en la especial, los entes territoriales preexistentes participan en la fase inicial del proyecto de Estatuto[cite: 3300, 3303, 3393]."
+    },
+    {
+      "numero": 246,
+      "enunciado": "Los Estatutos de Autonomía en la vía común se aprueban por el:",
+      "opciones": {
+        "a": "Congreso mediante Ley Orgánica.",
+        "b": "Congreso y Senado por Ley Orgánica.",
+        "c": "Congreso y Senado por Ley Ordinaria.",
+        "d": "Parlamento Autonómico solamente."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "Los Estatutos de Autonomía tienen rango de Ley Orgánica estatal, cuya aprobación final corresponde a las Cortes (Congreso y Senado)[cite: 12578, 3305, 3308, 3389]."
+    },
+    {
+      "numero": 247,
+      "enunciado": "La más alta representación de una Comunidad Autónoma la ostenta el:",
+      "opciones": {
+        "a": "Presidente del Parlamento Autonómico.",
+        "b": "Presidente de la Comunidad Autónoma.",
+        "c": "Rey.",
+        "d": "Presidente del Gobierno."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 152.1 determina que el Presidente ostentará la suprema representación de la respectiva Comunidad[cite: 3335, 3339]."
+    },
+    {
+      "numero": 248,
+      "enunciado": "La asunción de competencias y de mayor autonomía por las Comunidades es, como regla general:",
+      "opciones": {
+        "a": "Regresiva.",
+        "b": "Progresiva.",
+        "c": "Automática.",
+        "d": "Inmediata."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "La Constitución previó un acceso escalonado a las competencias, permitiendo ampliarlas tras el transcurso de cinco años en la vía ordinaria[cite: 3342, 3347]."
+    },
+    {
+      "numero": 249,
+      "enunciado": "En la elaboración por la vía común de los Estatutos de Autonomía:",
+      "opciones": {
+        "a": "No intervienen los Municipios afectados.",
+        "b": "Intervendrán en todo caso.",
+        "c": "Sólo intervienen las Diputaciones Provinciales u órganos interinsulares.",
+        "d": "Sólo intervienen los Municipios y los Diputados y Senadores."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "En la vía del artículo 143, la iniciativa corresponde a las Diputaciones y a las 2/3 partes de los municipios, pero la asamblea redactora la forman parlamentarios y miembros de Diputación[cite: 3350, 3351]."
+    },
+    {
+      "numero": 250,
+      "enunciado": "En las Comunidades Autónomas que siguen la vía común, el Proyecto de Estatuto será elaborado por la/los:",
+      "opciones": {
+        "a": "Asamblea de Parlamentarios que se constituye al efecto.",
+        "b": "Comisión Constitucional del Congreso de los Diputados.",
+        "c": "Diputación Provincial correspondiente.",
+        "d": "Miembros de la Diputación u órgano interinsular y por los Diputados y Senadores elegidos por ellas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 146 especifica esta composición para la asamblea encargada de redactar el proyecto estatutario inicial[cite: 3357, 3368, 3362]."
+    },
+    {
+      "numero": 251,
+      "enunciado": "El principio de solidaridad consagrado por el art. 138 de la Constitución exige una atención especial a:",
+      "opciones": {
+        "a": "Las Comunidades Autónomas de economía más deprimida.",
+        "b": "Las Entidades Locales Menores.",
+        "c": "Todas las partes del territorio nacional.",
+        "d": "Las Islas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo I",
+      "explicación": "El artículo 138.1 obliga al Estado a garantizar el equilibrio económico y la realización del principio de solidaridad en 'todas las partes del territorio español'[cite: 3358, 3367]."
+    },
+    {
+      "numero": 252,
+      "enunciado": "El voto de ratificación por los Plenos del Senado y del Congreso se dará en el/las:",
+      "opciones": {
+        "a": "Comunidades Autónomas que siguen la vía común.",
+        "b": "Comunidades Autónomas que siguen la vía especial.",
+        "c": "Acceso a la autonomía de Ceuta y Melilla.",
+        "d": "Acceso a la autonomía de Gibraltar."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "En la vía especial (artículo 151), tras el acuerdo entre la delegación de la asamblea y la Comisión Constitucional, el texto se ratifica por los Plenos de ambas Cámaras[cite: 3371, 3378, 3376]."
+    },
+    {
+      "numero": 253,
+      "enunciado": "El establecimiento de un sistema fiscal más favorable por una Comunidad Autónoma respecto de las demás:",
+      "opciones": {
+        "a": "Puede hacerse en cualquier caso.",
+        "b": "Está absolutamente prohibido.",
+        "c": "Forma parte de las medidas para fomentar la industria autóctona.",
+        "d": "Debe basearse en una Ley de Bases estatal."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 138.2 prohíbe que las diferencias estatutarias impliquen privilegios económicos o sociales o barreras fiscales[cite: 3370, 3377, 3405]."
+    },
+    {
+      "numero": 254,
+      "enunciado": "La responsabilidad política del Presidente de una Comunidad Autónoma se exige por el/la:",
+      "opciones": {
+        "a": "Sala de lo Penal del Tribunal Supremo.",
+        "b": "Congreso de los Diputados.",
+        "c": "Tribunal Superior de Justicia de la Comunidad Autónoma.",
+        "d": "Asamblea Legislativa de la Comunidad Autónoma."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El Presidente responde políticamente ante la Asamblea que lo eligió, a través de mecanismos como la moción de censura autonómica[cite: 3383, 3395, 3390]."
+    },
+    {
+      "numero": 255,
+      "enunciado": "Según la Constitución, las Haciendas Locales deben:",
+      "opciones": {
+        "a": "Ser autosuficientes.",
+        "b": "Carecer de recursos propios.",
+        "c": "Supeditarse a la estatal.",
+        "d": "Nada de lo anterior es cierto."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 142 establece el principio de suficiencia financiera para que las corporaciones locales puedan ejercer sus funciones[cite: 3384, 3386]."
+    },
+    {
+      "numero": 256,
+      "enunciado": "La Asamblea Legislativa de las Comunidades Autónomas se elige:",
+      "opciones": {
+        "a": "Con criterios de representación territorial.",
+        "b": "Con criterios de representación proporcional.",
+        "c": "Por sufragio individual.",
+        "d": "Con criterios de representación provincial."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 152.1 exige expresamente un sistema de representación proporcional para la elección de los miembros del Parlamento autonómico[cite: 3396, 3392]."
+    },
+    {
+      "numero": 257,
+      "enunciado": "El carácter de cauce inmediato de participación ciudadana se predica del/de la:",
+      "opciones": {
+        "a": "Comunidad Autónoma.",
+        "b": "Municipio.",
+        "c": "Estado.",
+        "d": "Provincia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El municipio es la entidad básica de la organización territorial y el cauce más cercano de participación ciudadana en los asuntos públicos[cite: 3402, 3406]."
+    },
+    {
+      "numero": 258,
+      "enunciado": "El principio de coordinación con la Hacienda estatal se consigue por:",
+      "opciones": {
+        "a": "El Fondo de Compensación Interterritorial.",
+        "b": "Los preceptos de las sucesivas Leyes de Presupuestos Generales del Estado.",
+        "c": "La creación del Consejo de Política Fiscal y Financiera de las Comunidades Autónomas.",
+        "d": "Imperativo de la propia Constitución."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "Las leyes estatales anuales de presupuestos marcan los límites y criterios para la coordinación financiera de todo el sector público[cite: 3410, 3417, 3439]."
+    },
+    {
+      "numero": 259,
+      "enunciado": "La administración descentralizada de núcleos de población separados, bajo la denominación de aldeas, anteiglesias, etc., se refiere a las:",
+      "opciones": {
+        "a": "Entidades de ámbito territorial inferior al municipal.",
+        "b": "Mancomunidades.",
+        "c": "Comarcas.",
+        "d": "Áreas Metropolitanas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "Son entidades locales menores que permiten una gestión propia de barrios o aldeas dentro de un municipio mayor[cite: 3411, 3415, 3416]."
+    },
+    {
+      "numero": 260,
+      "enunciado": "Los Estatutos de Autonomía deberán contener el/las:",
+      "opciones": {
+        "a": "Competencias que se dejan al Estado y las que asume la Comunidad.",
+        "b": "Competencias que, en función de la Constitución, asume cada Comunidad Autónoma.",
+        "c": "Desarrollo de la Administración Autonómica.",
+        "d": "División provincial y órganos de gobierno."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 147.2.d obliga a que el Estatuto incluya las competencias asumidas dentro del marco establecido en la Constitución[cite: 3425, 3428]."
+    },
+    {
+      "numero": 261,
+      "enunciado": "En la reforma de los Estatutos intervienen las Cortes Generales:",
+      "opciones": {
+        "a": "Siempre.",
+        "b": "Nunca.",
+        "c": "Sólo cuanto se trata de Comunidades Autónomas que accedieron por la vía común.",
+        "d": "En las Comunidades Autónomas de vía especial exclusivamente."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "Al ser los Estatutos leyes orgánicas del Estado, cualquier modificación requiere la aprobación definitiva del poder legislativo central[cite: 3431, 3432]."
+    },
+    {
+      "numero": 262,
+      "enunciado": "Tiene el carácter de división territorial para el cumplimiento de las actividades del Estado un/una:",
+      "opciones": {
+        "a": "Comarca.",
+        "b": "Municipio.",
+        "c": "Provincia.",
+        "d": "Comunidades Autónomas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 141 define a la provincia no solo como entidad local, sino como división territorial estatal para fines administrativos[cite: 3434, 3438, 3454]."
+    },
+    {
+      "numero": 263,
+      "enunciado": "Un Colegio Oficial de Abogados:",
+      "opciones": {
+        "a": "Tiene personalidad jurídica propia.",
+        "b": "Carece de esta personalidad.",
+        "c": "Depende del Ente que lo crea.",
+        "d": "Sólo tiene personalidad respecto de los asuntos que determine la Ley."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título I. Capítulo II",
+      "explicación": "Los colegios profesionales son corporaciones de derecho público con plena capacidad jurídica para sus fines institucionales[cite: 3441, 3442, 3455]."
+    },
+    {
+      "numero": 264,
+      "enunciado": "El substrato de una Fundación es una:",
+      "opciones": {
+        "a": "Pluralidad de bienes.",
+        "b": "Pluralidad de personas.",
+        "c": "Comunidad de bienes.",
+        "d": "Comunidad de Entes."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título I. Capítulo II",
+      "explicación": "A diferencia de las asociaciones (unión de personas), las fundaciones se basan en la afectación de un patrimonio a un fin de interés general[cite: 3450, 3451, 3456]."
+    },
+    {
+      "numero": 265,
+      "enunciado": "¿Qué plazo debe transcurrir para que las Comunidades Autónomas puedan ampliar sus competencias, reformando sus Estatutos?:",
+      "opciones": {
+        "a": "Dos años.",
+        "b": "Tres años.",
+        "c": "Cinco años.",
+        "d": "No es necesario que transcurra plazo alguno."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 148.2 exige el transcurso de cinco años para que las CCAA de vía ordinaria amplíen su techo competencial[cite: 4433, 4440]."
+    },
+    {
+      "numero": 266,
+      "enunciado": "La creación de Áreas Metropolitanas por las Comunidades Autónomas ha de hacerse:",
+      "opciones": {
+        "a": "Mediante Decreto.",
+        "b": "Mediante Ley.",
+        "c": "No corresponde dicha facultad a las Comunidades Autónomas.",
+        "d": "Por Ley o por Decreto, según los casos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Administración Local",
+      "explicación": "Al afectar a la organización territorial y competencial de varios municipios, se requiere la aprobación de una norma con rango de ley autonómica[cite: 4442, 4444]."
+    },
+    {
+      "numero": 267,
+      "enunciado": "Los Alcaldes, según el artículo 140 de la Constitución, serán elegidos por:",
+      "opciones": {
+        "a": "Los Concejales o los vecinos.",
+        "b": "Las Cortes Generales.",
+        "c": "Los Gobernadores Civiles.",
+        "d": "El Presidente del Gobierno."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "La Constitución remite a la ley el sistema de elección, que actualmente es por los concejales (ordinario) o por los vecinos (concejo abierto)[cite: 4455, 4456]."
+    },
+    {
+      "numero": 268,
+      "enunciado": "Según la Constitución, el gobierno y la administración de los municipios corresponde:",
+      "opciones": {
+        "a": "A sus respectivos Ayuntamientos.",
+        "b": "Al Gobierno de la Nación.",
+        "c": "A los Diputados Provinciales.",
+        "d": "A las personas que designen los respectivos Alcaldes."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 140 especifica que los ayuntamientos, integrados por alcaldes y concejales, ostentan esta potestad[cite: 4460, 4462]."
+    },
+    {
+      "numero": 269,
+      "enunciado": "La Hacienda de las Corporaciones Locales se va a nutrir fundamentalmente:",
+      "opciones": {
+        "a": "De tributos propios.",
+        "b": "De la participación en los tributos del Estado y de las CCAA.",
+        "c": "De la participación exclusiva en los tributos del Estado.",
+        "d": "Tanto a) como b)."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 142 combina la recaudación propia de impuestos locales con la participación en los ingresos del Estado y las Autonomías[cite: 4466, 4484]."
+    },
+    {
+      "numero": 270,
+      "enunciado": "¿En qué artículo de la Constitución se reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones?",
+      "opciones": {
+        "a": "Artículo 2.",
+        "b": "Artículo 143.",
+        "c": "Artículo 137.",
+        "d": "Artículo 151."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título Preliminar",
+      "explicación": "Es el artículo 2 el que proclama solemnemente este derecho como fundamento de la organización territorial[cite: 13012, 4489]."
+    },
+    {
+      "numero": 271,
+      "enunciado": "Los recursos del Fondo de Compensación Interterritorial serán distribuidos:",
+      "opciones": {
+        "a": "Por el Gobierno entre las Comunidades Autónomas.",
+        "b": "Por las Cortes Generales entre las Comunidades Autónomas.",
+        "c": "Por el Tribunal de Cuentas.",
+        "d": "Por el Consejo de Política Fiscal."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "El artículo 158.2 dispone que las Cortes Generales realizarán esta distribución para corregir desequilibrios económicos[cite: 4488, 4493]."
+    },
+    {
+      "numero": 272,
+      "enunciado": "¿Cuál de las siguientes no es una Entidad local territorial?",
+      "opciones": {
+        "a": "La provincia.",
+        "b": "Las Áreas Metropolitanas.",
+        "c": "Los Organismos Autónomos.",
+        "d": "Las comarcas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Administración Local",
+      "explicación": "Los Organismos Autónomos son entes institucionales (administración instrumental), no entidades territoriales con autogobierno general[cite: 4497, 4500]."
+    },
+    {
+      "numero": 273,
+      "enunciado": "Si ninguno de los candidatos a Alcalde obtiene la mayoría necesaria para ser proclamado Alcalde, ¿qué ocurre?:",
+      "opciones": {
+        "a": "Se repiten las elecciones.",
+        "b": "Deciden las Cortes Generales.",
+        "c": "Es proclamado Alcalde el Concejal que encabece la lista más votada.",
+        "d": "El Rey nombra a un gestor."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Administración Local",
+      "explicación": "La Ley Electoral determina que, a falta de mayoría absoluta de los concejales, el puesto recae automáticamente en el número uno de la lista con más votos populares[cite: 4502, 4518]."
+    },
+    {
+      "numero": 274,
+      "enunciado": "Antes de comenzar el ejercicio de sus funciones, el Alcalde deberá jurar o prometer el cargo ante:",
+      "opciones": {
+        "a": "El Rey.",
+        "b": "El Ayuntamiento Pleno.",
+        "c": "Las Cortes Generales.",
+        "d": "El Presidente de la Diputación."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Administración Local",
+      "explicación": "Como representante de la voluntad municipal, el acto formal de toma de posesión se realiza ante la propia corporación que preside[cite: 4522, 4525]."
+    },
+    {
+      "numero": 275,
+      "enunciado": "¿Cuál de las siguientes materias no entra dentro de las competencias de los municipios?:",
+      "opciones": {
+        "a": "Cementerios.",
+        "b": "Alumbrado público.",
+        "c": "Abastos y mataderos.",
+        "d": "Fuerzas Armadas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título IV. Del Gobierno y la Administración",
+      "explicación": "La defensa y las Fuerzas Armadas son competencia exclusiva y excluyente del Estado central (artículo 149.1.4)[cite: 13212, 4528, 4552]."
+    },
+    {
+      "numero": 276,
+      "enunciado": "En los Municipios con Comisión de Gobierno, el número de Tenientes de Alcalde:",
+      "opciones": {
+        "a": "No podrá exceder del número de miembros de dicha Comisión.",
+        "b": "No podrá ser superior a cinco.",
+        "c": "No podrá ser superior a la mitad de miembros de dicha Comisión.",
+        "d": "No podrá ser superior a diez."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Administración Local",
+      "explicación": "La normativa local limita el número de tenientes de alcalde para asegurar la operatividad y proporcionalidad del órgano ejecutivo[cite: 4553, 4561]."
+    },
+    {
+      "numero": 277,
+      "enunciado": "La organización territorial del Estado viene recogida en la Constitución:",
+      "opciones": {
+        "a": "En su Título VIII.",
+        "b": "En su Título VI.",
+        "c": "En su Título V.",
+        "d": "En su Título X."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Estructura de la Constitución",
+      "explicación": "El Título VIII se titula 'De la Organización Territorial del Estado', abarcando desde el artículo 137 al 158[cite: 4566, 4570]."
+    },
+    {
+      "numero": 278,
+      "enunciado": "Con anterioridad a la Constitución de 1978:",
+      "opciones": {
+        "a": "Se reconocía el derecho a la autonomía de nacionalidades pero no de regiones.",
+        "b": "Se reconocía el derecho a la autonomía de regiones pero no de nacionalidades.",
+        "c": "Se reconocía el derecho a ambos.",
+        "d": "No se reconocía el derecho a la autonomía de las nacionalidades ni de las regiones."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Historia Constitucional",
+      "explicación": "El régimen anterior era centralista y no admitía la división en nacionalidades autonómicas que introduce la CE de 1978[cite: 4567, 4580]."
+    },
+    {
+      "numero": 279,
+      "enunciado": "El Estado se organiza territorialmente en:",
+      "opciones": {
+        "a": "Municipios.",
+        "b": "Municipios, provincias y comarcas.",
+        "c": "Comunidades Autónomas.",
+        "d": "Municipios, provincias y en las Comunidades Autónomas que se constituyan."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VIII. Capítulo I",
+      "explicación": "El artículo 137 enumera estas tres entidades como los pilares de la organización territorial del Reino[cite: 4588, 4592]."
+    },
+    {
+      "numero": 280,
+      "enunciado": "Las entidades fundamentales que forman la Administración Local son:",
+      "opciones": {
+        "a": "El Municipio, la Provincia y la Región.",
+        "b": "El Municipio y la Provincia.",
+        "c": "La Comarca y la Provincia.",
+        "d": "La Comarca y el Municipio."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "La Constitución define específicamente al municipio y a la provincia como las piezas básicas e imprescindibles de la administración local[cite: 4594, 4597]."
+    },
+    {
+      "numero": 281,
+      "enunciado": "Uno de los siguientes no es un principio general de la organización territorial del Estado:",
+      "opciones": {
+        "a": "Libertad de circulación.",
+        "b": "Solidaridad.",
+        "c": "Discriminación.",
+        "d": "Igualdad."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo I",
+      "explicación": "La Constitución se basa en la no discriminación (art. 14) y la igualdad; los principios territoriales son autonomía, solidaridad e igualdad de derechos[cite: 4600, 4604]."
+    },
+    {
+      "numero": 282,
+      "enunciado": "¿En qué artículo de la Constitución se reconoce el derecho a la autonomía de las nacionalidades y regiones?",
+      "opciones": {
+        "a": "Artículo 137.",
+        "b": "Artículo 2.",
+        "c": "Artículo 149.",
+        "d": "Artículo 158."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título Preliminar",
+      "explicación": "El artículo 2 es la piedra angular que reconoce el derecho a la autonomía dentro de la unidad de la Nación[cite: 13012, 4606, 4609]."
+    },
+    {
+      "numero": 283,
+      "enunciado": "La alteración de los límites provinciales deberá ser aprobada:",
+      "opciones": {
+        "a": "Por las Cortes Generales mediante Ley Orgánica.",
+        "b": "Por la Asamblea Legislativa de la Comunidad Autónoma.",
+        "c": "Por las Cortes mediante Ley Ordinaria.",
+        "d": "Por el Gobierno mediante Decreto."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 141.1 exige explícitamente el rango de Ley Orgánica de las Cortes para modificar cualquier límite provincial[cite: 12578, 4612, 4613]."
+    },
+    {
+      "numero": 284,
+      "enunciado": "Los Concejales de los Ayuntamientos serán elegidos por:",
+      "opciones": {
+        "a": "El Presidente de la Diputación.",
+        "b": "El Gobierno.",
+        "c": "Los vecinos del municipio.",
+        "d": "El Alcalde."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 140 garantiza la elección de concejales por sufragio universal, libre, igual, directo y secreto por los vecinos[cite: 12368, 4617, 4620]."
+    },
+    {
+      "numero": 285,
+      "enunciado": "Los Ayuntamientos están integrados por:",
+      "opciones": {
+        "a": "El Alcalde y los Concejales.",
+        "b": "El Presidente de la Diputación y los Concejales.",
+        "c": "El Alcalde y los Tenientes de Alcalde exclusivamente.",
+        "d": "El Alcalde y los Consejeros particulares."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 140 define que el gobierno municipal reside en el Ayuntamiento, compuesto por el Alcalde y los Concejales[cite: 4622, 4672]."
+    },
+    {
+      "numero": 286,
+      "enunciado": "En los archipiélagos, las islas tendrán además su administración propia en forma de:",
+      "opciones": {
+        "a": "Comisiones Permanentes.",
+        "b": "Delegaciones del Gobierno.",
+        "c": "Juntas Administrativas.",
+        "d": "Cabildos o Consejos."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 141.4 establece que en Canarias hay Cabildos y en Baleares Consejos Insulares para la gestión de cada isla[cite: 4682, 4686]."
+    },
+    {
+      "numero": 287,
+      "enunciado": "¿Cuál de los siguientes es un órgano necesario en los Ayuntamientos de más de 5.000 habitantes?:",
+      "opciones": {
+        "a": "La Comisión del Gobierno.",
+        "b": "La Comisión Permanente.",
+        "c": "El Presidente de la Diputación.",
+        "d": "El Consejo de Gobierno."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Administración Local",
+      "explicación": "La Ley de Bases del Régimen Local obliga a constituir este órgano ejecutivo en los municipios de mayor población[cite: 4687, 4707]."
+    },
+    {
+      "numero": 288,
+      "enunciado": "La Administración Local forma parte de:",
+      "opciones": {
+        "a": "La Administración Central del Estado.",
+        "b": "La Administración Pública.",
+        "c": "La Administración Autonómica.",
+        "d": "La Administración Institucional."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Administración Local",
+      "explicación": "Se integra como un pilar fundamental dentro del concepto global de Administración Pública, junto a la estatal y autonómica[cite: 4647, 4649]."
+    },
+    {
+      "numero": 289,
+      "enunciado": "¿Qué artículo de la Constitución española vigente regula expresamente los municipios?:",
+      "opciones": {
+        "a": "Artículo 2.",
+        "b": "Artículo 137.",
+        "c": "Artículo 140.",
+        "d": "Artículo 141."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 140 se dedica íntegramente a garantizar la autonomía y regular el funcionamiento de los municipios[cite: 4652, 4657]."
+    },
+    {
+      "numero": 290,
+      "enunciado": "¿Qué artículo regula la provincia?:",
+      "opciones": {
+        "a": "Artículo 2.",
+        "b": "Artículo 140.",
+        "c": "Artículo 137.",
+        "d": "Artículo 141."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 141 define la naturaleza de la provincia como entidad local y división territorial del Estado[cite: 4660, 4664]."
+    },
+    {
+      "numero": 291,
+      "enunciado": "Los Municipios:",
+      "opciones": {
+        "a": "Son dependientes del Gobierno.",
+        "b": "Gozan de personalidad jurídica plena.",
+        "c": "Carecen absolutamente de autonomía.",
+        "d": "Carecen de personalidad jurídica propia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 140 declara que los municipios gozarán de personalidad jurídica plena y autonomía para la gestión de sus intereses[cite: 4677, 4681]."
+    },
+    {
+      "numero": 292,
+      "enunciado": "Según la actual Constitución española, la provincia viene determinada por:",
+      "opciones": {
+        "a": "La agrupación de comarcas.",
+        "b": "La agrupación de Entidades Locales no territoriales.",
+        "c": "La agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+        "d": "La agrupación de municipios para las CCAA."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 141 define a la provincia por su doble carácter: agrupación municipal y cauce para la administración estatal periférica[cite: 4701, 4705, 4706]."
+    },
+    {
+      "numero": 293,
+      "enunciado": "Según la vigente Constitución española, ¿pueden crearse agrupaciones de municipios diferentes a la provincia?:",
+      "opciones": {
+        "a": "No, por prohibirlo la Constitución.",
+        "b": "Sí.",
+        "c": "Solamente cuando lo permita el Gobierno.",
+        "d": "Sí, pero solo a efectos electorales."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "El artículo 141.3 admite explícitamente que puedan crearse agrupaciones de municipios distintas de la provincia (como comarcas o áreas metropolitanas)[cite: 4721, 4725]."
+    },
+    {
+      "numero": 294,
+      "enunciado": "¿Cuál de los siguientes no es un elemento constitutivo de la provincia?:",
+      "opciones": {
+        "a": "Organización.",
+        "b": "Soberanía.",
+        "c": "Territorio.",
+        "d": "Población."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "La soberanía reside exclusivamente en el pueblo español (art. 1.2); las provincias tienen autonomía, pero no son soberanas[cite: 13009, 4729, 4731, 4734]."
+    },
+    {
+      "numero": 295,
+      "enunciado": "El territorio provincial está compuesto por:",
+      "opciones": {
+        "a": "La suma de los territorios municipales de todos los municipios que lo integran.",
+        "b": "La suma de los territorios de las comarcas.",
+        "c": "La suma de los territorios de las Entidades locales menores.",
+        "d": "La mitad del territorio de la CCAA."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Administración Local",
+      "explicación": "Físicamente, la provincia se define como la agregación total de los términos municipales de su demarcación legal[cite: 4740, 4741]."
+    },
+    {
+      "numero": 296,
+      "enunciado": "¿Pueden modificarse la denominación y capitalidad de las provincias?:",
+      "opciones": {
+        "a": "No, en ningún caso.",
+        "b": "Sí, cuando lo determine el Gobierno.",
+        "c": "Solamente por ley aprobada por las Cortes Generales.",
+        "d": "Cuando lo decida el Presidente de la Corporación."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Título VIII. Capítulo II",
+      "explicación": "Cualquier alteración de nombre o sede de la provincia requiere una ley estatal aprobada por el Parlamento[cite: 4754, 4756, 4761]."
+    },
+    {
+      "numero": 297,
+      "enunciado": "La población de la provincia viene determinada por:",
+      "opciones": {
+        "a": "La suma de los residentes de las capitales.",
+        "b": "La suma de las poblaciones de los municipios que la integran.",
+        "c": "El número de residentes y transeúntes de la capital.",
+        "d": "El número de residentes inscritos en el Padrón Provincial."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Administración Local",
+      "explicación": "La cifra oficial de población provincial se obtiene consolidando los censos/padrones de todos los municipios de su territorio[cite: 4763, 4770]."
+    },
+    {
+      "numero": 298,
+      "enunciado": "¿En cuál de las siguientes materias no podrán asumir competencias las Comunidades Autónomas?:",
+      "opciones": {
+        "a": "Defensa y Fuerzas Armadas.",
+        "b": "Ordenación del territorio, urbanismo y vivienda.",
+        "c": "Organización de sus instituciones de autogobierno.",
+        "d": "Montes y aprovechamientos forestales."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "La Defensa Nacional es una de las materias blindadas reservadas con carácter exclusivo al Estado por el artículo 149.1.4[cite: 13212, 4781, 4782]."
+    },
+    {
+      "numero": 299,
+      "enunciado": "¿En cuál de las siguientes materias no podrán asumir competencias las Comunidades Autónomas?:",
+      "opciones": {
+        "a": "Asistencia social.",
+        "b": "Artesanía.",
+        "c": "Seguridad e higiene.",
+        "d": "Administración de Justicia."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "La Administración de Justicia es competencia estatal según el artículo 149.1.5, aunque las CCAA gestionen los medios materiales y personales auxiliares[cite: 4791, 4795]."
+    },
+    {
+      "numero": 300,
+      "enunciado": "La reforma de los Estatutos de Autonomía requerirá:",
+      "opciones": {
+        "a": "La aprobación por las Cortes Generales, mediante Ley Orgánica.",
+        "b": "La aprobación por la Asamblea legislativa de la CCAA respectiva.",
+        "c": "Autorización previa del Gobierno.",
+        "d": "La previa propuesta por parte del Consejo de Gobierno de la CCAA."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Título VIII. Capítulo III",
+      "explicación": "Los Estatutos son leyes orgánicas del Estado y su modificación requiere el mismo rango jurídico aprobado por las Cortes[cite: 12578, 4799, 4802]."
     }
   ]
 }

@@ -1,0 +1,593 @@
+{
+    "tema": "Tema 3. La Administración Local",
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "De conformidad con lo establecido en la Constitución Española, 'el Estado se organiza territorialmente en':",
+            "opciones": {
+                "a": "Ciudades, Provincias y en las Comunidades Autónomas que se constituyan.",
+                "b": "Cabildos, Comarcas y en las Provincias que se constituyan.",
+                "c": "Municipios, Comarcas y en las Provincias que se constituyan.",
+                "d": "Municipios, Provincias y en las Comunidades Autónomas que se constituyan."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "Según el artículo 137 de la Constitución Española, estas tres entidades son las que componen la organización territorial del Estado, gozando todas ellas de autonomía para la gestión de sus intereses."
+        },
+        {
+            "numero": 2,
+            "enunciado": "Velando por el establecimiento de un equilibrio económico, adecuado y justo, entre las diversas partes del territorio español, el Estado garantiza la realización efectiva del principio de:",
+            "opciones": {
+                "a": "Solidaridad.",
+                "b": "Igualdad.",
+                "c": "Seguridad jurídica.",
+                "d": "Justicia universal."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "El artículo 138.1 de la Constitución establece explícitamente que el Estado garantiza la realización del principio de solidaridad para velar por un equilibrio económico adecuado entre los territorios."
+        },
+        {
+            "numero": 3,
+            "enunciado": "Según lo establecido en nuestra Constitución Española, señale la respuesta incorrecta:",
+            "opciones": {
+                "a": "Las diferencias entre los Estatutos de las distintas Comunidades Autónomas podrán implicar privilegios económicos o sociales.",
+                "b": "Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio español.",
+                "c": "Ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y el establecimiento de las personas y la libre circulación de bienes en todo el territorio español.",
+                "d": "Los municipios gozan de autonomía para la gestión de sus respectivos intereses."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "Es incorrecta porque el artículo 138.2 de la Constitución prohíbe taxativamente que las diferencias entre los Estatutos de Autonomía supongan privilegios económicos o sociales."
+        },
+        {
+            "numero": 4,
+            "enunciado": "La Constitución Española garantiza la autonomía de:",
+            "opciones": {
+                "a": "Los territorios.",
+                "b": "Los municipios.",
+                "c": "Las regiones.",
+                "d": "Las comarcas."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "El artículo 140 de la Constitución establece de forma literal que 'La Constitución garantiza la autonomía de los municipios'."
+        },
+        {
+            "numero": 5,
+            "enunciado": "De conformidad con lo establecido en la Constitución Española, gozarán de personalidad jurídica plena:",
+            "opciones": {
+                "a": "Las provincias.",
+                "b": "Las comarcas.",
+                "c": "Las islas.",
+                "d": "Los municipios."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "Aunque las provincias tienen personalidad propia, el artículo 140 de la Constitución atribuye específicamente la 'personalidad jurídica plena' a los municipios al garantizar su autonomía."
+        },
+        {
+            "numero": 6,
+            "enunciado": "Siguiendo con lo establecido en la Constitución Española, el gobierno y la administración de los municipios corresponde a:",
+            "opciones": {
+                "a": "Sus respectivos Ayuntamientos.",
+                "b": "Los Alcaldes.",
+                "c": "Los Concejales.",
+                "d": "Los vecinos."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "El artículo 140 de la Constitución determina que el gobierno y administración municipal corresponde a sus Ayuntamientos, los cuales están integrados por el Alcalde y los Concejales."
+        },
+        {
+            "numero": 7,
+            "enunciado": "Según lo establecido en el art. 140 de la Constitución Española, la Ley regulará las condiciones en las que proceda el régimen de:",
+            "opciones": {
+                "a": "Concejo único.",
+                "b": "Concejo abierto.",
+                "c": "Concejo limitado.",
+                "d": "Concejo histórico."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "La Constitución menciona expresamente el régimen de concejo abierto como una excepción o forma especial de gobierno municipal cuya regulación remite a la ley."
+        },
+        {
+            "numero": 8,
+            "enunciado": "De conformidad con lo establecido en el art. 141 de la Constitución Española, la alteración de los límites provinciales:",
+            "opciones": {
+                "a": "No podrá llevarse a cabo.",
+                "b": "Habrá de ser aprobada por el Congreso por mayoría absoluta.",
+                "c": "Habrá de ser aprobada por el Gobierno en un plazo de 30 días desde la presentación de la propuesta.",
+                "d": "Habrá de ser aprobada por las Cortes Generales mediante ley orgánica."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "El artículo 141.1 establece como requisito rígido que cualquier cambio en los límites de las provincias debe ser aprobado por las Cortes Generales a través de una Ley Orgánica."
+        },
+        {
+            "numero": 9,
+            "enunciado": "En relación a las Haciendas Locales, la Constitución Española señala que se nutrirán fundamentalmente de:",
+            "opciones": {
+                "a": "Tributos propios y de la participación en los de las Comunidades Autónomas.",
+                "b": "La participación en los tributos del Estado y de las Comunidades Autónomas.",
+                "c": "Tributos propios y de la participación en los del Estado.",
+                "d": "Tributos propios y de la participación en los del Estado y de las Comunidades Autónomas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "El artículo 142 de la Constitución define estas tres vías (tributos propios, participación en los del Estado y participación en los de las CCAA) como las fuentes fundamentales de ingresos locales."
+        },
+        {
+            "numero": 10,
+            "enunciado": "De acuerdo con lo establecido en la Constitución Española, señale la opción correcta:",
+            "opciones": {
+                "a": "Se podrán crear agrupaciones de municipios diferentes de la provincia.",
+                "b": "En los archipiélagos, las islas tendrán además su administración propia en forma de Cabildos o Consejos.",
+                "c": "Las Haciendas Locales deberán disponer de los medios suficientes para el desempeño de las funciones que la Ley atribuye a las Corporaciones respectivas.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "Estas afirmaciones se recogen en los artículos 141.3, 141.4 y 142 de la Constitución Española, respectivamente."
+        },
+        {
+            "numero": 11,
+            "enunciado": "Según lo establecido en el art. 3 de la Ley Reguladora de las Bases del Régimen Local (LRBRL), son entidades locales territoriales:",
+            "opciones": {
+                "a": "El Municipio.",
+                "b": "La Provincia.",
+                "c": "La Isla en los archipiélagos balear y canario.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "El artículo 3.1 de la LRBRL otorga específicamente el carácter de 'entidades locales territoriales' al Municipio, la Provincia y la Isla."
+        },
+        {
+            "numero": 12,
+            "enunciado": "Siguiendo con la literalidad de este artículo, 'gozan, asimismo, de la condición de Entidades Locales':",
+            "opciones": {
+                "a": "Las Comarcas y los Concejos.",
+                "b": "Las Áreas Metropolitanas y las Pedanías.",
+                "c": "Las Mancomunidades y los Caseríos.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "La respuesta es incorrecta porque los Caseríos o Pedanías carecen de personalidad jurídica propia según el art. 24 bis; las entidades locales según el art. 3.2 son específicamente las Comarcas, Áreas Metropolitanas y Mancomunidades."
+        },
+        {
+            "numero": 13,
+            "enunciado": "De conformidad con lo establecido en el art. 4 de la LRBRL, corresponden en todo caso a las Entidades Locales territoriales:",
+            "opciones": {
+                "a": "Las potestades legislativa y de autoorganización.",
+                "b": "Las potestades tributaria y financiera.",
+                "c": "La presunción de legitimidad y ejecutoriedad de sus actos.",
+                "d": "Las opciones a) y c) son correctas."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "La opción 'a' es falsa porque tienen potestad reglamentaria, no legislativa. La 'c' es falsa porque la ley habla de 'ejecutividad', no 'ejecutoriedad'."
+        },
+        {
+            "numero": 14,
+            "enunciado": "Siguiendo la literalidad del art. 6 de la LRBRL, 'las Entidades Locales sirven con objetividad los intereses públicos que les están encomendados y actúan de acuerdo con los principios de':",
+            "opciones": {
+                "a": "Descentralización, proximidad, eficacia y eficiencia.",
+                "b": "Estabilidad presupuestaria y sostenibilidad financiera.",
+                "c": "Eficacia, descentralización, desconcentración y coordinación.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "Este artículo de la LRBRL reproduce los principios de actuación administrativa que también se recogen en el artículo 103 de la Constitución para toda la Administración Pública."
+        },
+        {
+            "numero": 15,
+            "enunciado": "De conformidad con lo establecido en el art. 7 de la LRBRL, el ejercicio de las competencias atribuidas por delegación, deberá realizarse en los términos previstos en:",
+            "opciones": {
+                "a": "La legislación del Estado.",
+                "b": "La legislación de las Comunidades Autónomas.",
+                "c": "La legislación Europea sobre la autonomía local.",
+                "d": "Las opciones a) y b) son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "El artículo 7.4 de la LRBRL establece que estas competencias delegadas se ejercerán conforme a la legislación del Estado y de las Comunidades Autónomas."
+        },
+        {
+            "numero": 16,
+            "enunciado": "Conforme a lo establecido en la LRBRL, 'la Administración Local y las demás Administraciones Públicas ajustarán sus relaciones recíprocas a los deberes de':",
+            "opciones": {
+                "a": "Responsabilidad e información mutua.",
+                "b": "Estabilidad presupuestaria y sostenibilidad financiera.",
+                "c": "Información mutua, colaboración, coordinación y respeto a los ámbitos competenciales respectivos.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "El artículo 10.1 de la LRBRL detalla estos deberes como la base de la relación entre administraciones para asegurar la armonía del sistema administrativo."
+        },
+        {
+            "numero": 17,
+            "enunciado": "Conforme a lo establecido en la LRBRL, la entidad básica de la organización territorial del Estado es/son:",
+            "opciones": {
+                "a": "El Municipio.",
+                "b": "El Territorio.",
+                "c": "La Provincia.",
+                "d": "Las Entidades Locales."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "Tanto la LRBRL (art. 1.1) como la Constitución definen al Municipio como el cauce inmediato de participación y la entidad básica del Estado."
+        },
+        {
+            "numero": 18,
+            "enunciado": "Según el art. 13 de la LRBRL, la creación o supresión de municipios, así como la alteración de términos municipales, se regularán por:",
+            "opciones": {
+                "a": "Ordenanza Municipal o Reglamento Local.",
+                "b": "La legislación de las Comunidades Autónomas sobre régimen local.",
+                "c": "La legislación del Estado sobre régimen local.",
+                "d": "Las opciones b) y c) son correctas."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "La competencia para regular la creación, supresión o alteración de municipios está atribuida específicamente a la legislación autonómica."
+        },
+        {
+            "numero": 19,
+            "enunciado": "Según dispone este artículo, tanto la creación o supresión de municipios como la alteración de términos municipales, requerirán, en todo caso:",
+            "opciones": {
+                "a": "Audiencia de los municipios interesados y dictamen del Consejo de Estado o del órgano consultivo superior de los Consejos de Gobierno de las Comunidades Autónomas.",
+                "b": "Informe de la Administración que ejerza la tutela financiera.",
+                "c": "Informe del ayuntamiento interesado, del cual se dará cuenta a la Administración General del Estado.",
+                "d": "Las opciones a) y b) son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "El artículo 13.1 exige obligatoriamente tanto la audiencia a los afectados como el dictamen del órgano consultivo y el informe de tutela financiera."
+        },
+        {
+            "numero": 20,
+            "enunciado": "De conformidad con lo establecido en la LRBRL sobre la organización municipal, señale la opción incorrecta:",
+            "opciones": {
+                "a": "El Alcalde, los Tenientes de Alcalde y el Pleno existen en todos los ayuntamientos.",
+                "b": "La Junta de Gobierno Local existe en todos los municipios con población superior a 5.000 habitantes y en los de menos, cuando así lo disponga su reglamento orgánico.",
+                "c": "La Comisión Especial de Sugerencias y Reclamaciones existe en todos los municipios.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "La opción c es incorrecta porque la Comisión Especial de Sugerencias y Reclamaciones solo es obligatoria en municipios de gran población (Título X) o si el Pleno así lo acuerda por mayoría absoluta."
+        },
+        {
+            "numero": 21,
+            "enunciado": "Son atribuciones del Alcalde:",
+            "opciones": {
+                "a": "Dirigir el gobierno y la administración municipal.",
+                "b": "La aprobación del reglamento orgánico y de las ordenanzas.",
+                "c": "La declaración de lesividad de los actos del ayuntamiento.",
+                "d": "Todas las respuestas anteriores son correctas."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "Dirigir el gobierno es una competencia del Alcalde (art. 21.1.a), mientras que aprobar el reglamento, las ordenanzas y declarar la lesividad son competencias propias del Pleno."
+        },
+        {
+            "numero": 22,
+            "enunciado": "Según el art. 22 de la LRBRL, corresponden en todo caso, al Pleno municipal las siguientes atribuciones (señale la incorrecta):",
+            "opciones": {
+                "a": "El control y fiscalización de los órganos de gobierno.",
+                "b": "Representar al ayuntamiento.",
+                "c": "La aceptación de la delegación de competencias hechas por la Administración del Estado.",
+                "d": "El planteamiento de conflictos de competencias a otras entidades locales."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "La representación institucional del Ayuntamiento es una atribución exclusiva del Alcalde (art. 21.1.b), no del Pleno."
+        },
+        {
+            "numero": 23,
+            "enunciado": "De conformidad con lo establecido en el art. 23 de la LRBRL, sobre la Junta de Gobierno Local, señale la opción incorrecta:",
+            "opciones": {
+                "a": "Se integra por el Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, dando cuenta al Presidente de la Diputación.",
+                "b": "Asiste al Alcalde en el ejercicio de sus atribuciones.",
+                "c": "También le corresponden las atribuciones que el Alcalde le delegue o le atribuyan las leyes.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "Es incorrecta porque el Alcalde debe dar cuenta del nombramiento de los miembros de la Junta de Gobierno al Pleno municipal, no al Presidente de la Diputación."
+        },
+        {
+            "numero": 24,
+            "enunciado": "Según lo establecido en el art. 24 bis, de la LRBRL, los entes de ámbito territorial inferior al municipio, que carezcan de personalidad jurídica, serán regulados por:",
+            "opciones": {
+                "a": "Las leyes de las Comunidades Autónomas sobre régimen local.",
+                "b": "Las leyes del Estado sobre régimen local.",
+                "c": "Las leyes de las Comunidades Autónomas y las leyes del Estado sobre régimen local.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "El artículo 24 bis atribuye específicamente a las leyes de las Comunidades Autónomas la regulación de estos entes de ámbito territorial inferior al municipal."
+        },
+        {
+            "numero": 25,
+            "enunciado": "El Municipio ejercerá en todo caso como competencias propias en las siguientes materias:",
+            "opciones": {
+                "a": "Urbanismo.",
+                "b": "Abastecimiento de agua potable a domicilio y tratamiento de aguas residuales.",
+                "c": "Policía local, protección civil y prevención y extinción de incendios.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "Todas estas materias están enumeradas en el artículo 25.2 de la LRBRL como competencias propias que el municipio debe ejercer por ley."
+        },
+        {
+            "numero": 26,
+            "enunciado": "Conforme a lo establecido en el art. 26 de la LRBRL, en todos los municipios se deberán prestar los servicios siguientes:",
+            "opciones": {
+                "a": "Alumbrado público, abastecimiento domiciliario de agua potable y limpieza viaria.",
+                "b": "Biblioteca pública y tratamiento de residuos.",
+                "c": "Acceso a los núcleos de población y pavimentación de vías públicas.",
+                "d": "Las opciones a) y c) son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "Los servicios de la opción 'b' (biblioteca y tratamiento de residuos) solo son obligatorios en municipios de más de 5.000 habitantes."
+        },
+        {
+            "numero": 27,
+            "enunciado": "Los municipios con población superior a 5.000 habitantes deberán prestar, en todo caso:",
+            "opciones": {
+                "a": "Servicio de alumbrado público, abastecimiento domiciliario de agua potable y limpieza viaria.",
+                "b": "Biblioteca pública y tratamiento de residuos.",
+                "c": "Acceso a los núcleos de población y pavimentación de vías públicas.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "Al superar los 5.000 habitantes, el municipio debe prestar tanto los servicios básicos de todos los municipios (a y c) como los específicos para su rango de población (b)."
+        },
+        {
+            "numero": 28,
+            "enunciado": "Los municipios con población superior a 20.000 habitantes deberán prestar, en todo caso servicios de (señale la incorrecta):",
+            "opciones": {
+                "a": "Parque público, biblioteca pública y tratamiento de residuos.",
+                "b": "Prevención y extinción de incendios.",
+                "c": "Transporte colectivo urbano de viajeros y medio ambiente urbano.",
+                "d": "Atención inmediata a personas en riesgo o situación de exclusión social."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "El transporte colectivo urbano y el medio ambiente urbano solo son obligatorios cuando el municipio supera los 50.000 habitantes."
+        },
+        {
+            "numero": 29,
+            "enunciado": "Siguiendo con lo establecido en el art. 26 de la LRBRL, la Diputación provincial coordinará la prestación del servicio de recogida y tratamiento de residuos:",
+            "opciones": {
+                "a": "En los municipios con población inferior a 5.000 habitantes.",
+                "b": "En los municipios con población inferior a 20.000 habitantes.",
+                "c": "En los municipios con población inferior a 15.000 habitantes.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "El artículo 26.2 establece que la Diputación coordina diversos servicios, incluyendo residuos, en municipios con menos de 20.000 habitantes para asegurar su eficiencia."
+        },
+        {
+            "numero": 30,
+            "enunciado": "De acuerdo con la literalidad del art. 27 de la LRBRL, el Estado y las Comunidades Autónomas podrán delegar en los Municipios el ejercicio de sus competencias. La delegación:",
+            "opciones": {
+                "a": "Habrá de mejorar la eficacia de la gestión pública.",
+                "b": "No podrá ser inferior a cuatro años.",
+                "c": "Deberá ser acorde con la legislación de estabilidad presupuestaria y sostenibilidad financiera.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "La opción 'a' es incorrecta porque la ley pide mejorar la 'eficiencia', no la 'eficacia'. La 'b' es incorrecta porque el plazo mínimo es de 5 años, no 4."
+        },
+        {
+            "numero": 31,
+            "enunciado": "Según la LRBRL, la constitución en régimen de Concejo Abierto de nuevos municipios que lo soliciten por razones geográficas requiere:",
+            "opciones": {
+                "a": "Petición de la mayoría de los electores y decisión favorable por mayoría de los tercios del Ayuntamiento.",
+                "b": "Petición de la mayoría de los vecinos y decisión favorable por mayoría de los tercios del Ayuntamiento.",
+                "c": "Petición de la mayoría de los electores y decisión por mayoría de los tercios y aprobación por la Comunidad Autónoma.",
+                "d": "Petición de la mayoría de los vecinos y decisión favorable por mayoría de los tercios del ayuntamiento y aprobación por la Comunidad Autónoma."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "El artículo 29.2 exige tres pasos: petición de los vecinos, voto favorable de 2/3 del Pleno y ratificación final de la Comunidad Autónoma."
+        },
+        {
+            "numero": 32,
+            "enunciado": "De conformidad con lo establecido en el art. 31 de la LRBRL, 'la provincia es una entidad local determinada por la agrupación de Municipios con':",
+            "opciones": {
+                "a": "Personalidad jurídica y plena capacidad para el cumplimiento de sus fines.",
+                "b": "Personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.",
+                "c": "Personalidad jurídica propia y capacidad plena para la gestión de sus intereses.",
+                "d": "Personalidad jurídica propia y plena autonomía en el ámbito de sus competencias."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "Es la definición exacta del artículo 31.1 de la LRBRL, destacando su personalidad jurídica propia y capacidad para cumplir sus fines específicos."
+        },
+        {
+            "numero": 33,
+            "enunciado": "Son fines propios y específicos de la Provincia:",
+            "opciones": {
+                "a": "Garantizar los principios de solidaridad y equilibrio intermunicipales.",
+                "b": "Asegurar la prestación integral de los servicios de competencia municipal en todo el territorio.",
+                "c": "Participar en la coordinación de la Administración local con la Autonómica y la del Estado.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "Estas funciones resumen la misión de las Diputaciones como entes de apoyo y equilibrio entre municipios, recogidas en el art. 31.2 de la LRBRL."
+        },
+        {
+            "numero": 34,
+            "enunciado": "Siguiendo la literalidad del art. 33 de la LRBRL, corresponde al Pleno de la Diputación, en todo caso:",
+            "opciones": {
+                "a": "La aprobación de los planes de carácter provincial.",
+                "b": "Dirigir el gobierno y la administración de la provincia.",
+                "c": "Aprobar las bases de las pruebas de selección del personal.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "La aprobación de planes es competencia del Pleno (art. 33.2.d), mientras que dirigir el gobierno y aprobar bases de selección son atribuciones del Presidente de la Diputación."
+        },
+        {
+            "numero": 35,
+            "enunciado": "De conformidad con lo establecido en el art. 34 de la LRBRL, corresponde en todo caso al Presidente de la Diputación:",
+            "opciones": {
+                "a": "Representar a la Diputación.",
+                "b": "Distribuir las retribuciones complementarias fijas y periódicas.",
+                "c": "La declaración de lesividad de los actos de la Diputación.",
+                "d": "El control y la fiscalización de los órganos de gobierno."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "Representar a la entidad es una función del Presidente. La distribución de retribuciones fijas, la declaración de lesividad y la fiscalización corresponden al Pleno."
+        },
+        {
+            "numero": 36,
+            "enunciado": "Según la literalidad del art. 36 de la LRBRL, son competencias propias de la Diputación:",
+            "opciones": {
+                "a": "Garantizar en los municipios de menos de 5.000 habitantes la prestación de secretaría e intervención.",
+                "b": "La asistencia en la gestión de recaudación tributaria en municipios de menos de 20.000 habitantes.",
+                "c": "La prestación de administración electrónica y contratación centralizada en municipios de menos de 5.000 habitantes.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "La 'a' es incorrecta porque el umbral es de 1.000 habitantes. La 'c' es incorrecta porque el umbral para administración electrónica es de 20.000 habitantes."
+        },
+        {
+            "numero": 37,
+            "enunciado": "De acuerdo con el artículo 42 de la LRBRL, la iniciativa para la creación de una Comarca podrá partir de los Municipios. En cualquier caso:",
+            "opciones": {
+                "a": "No podrá crearse si se oponen expresamente las tres quintas partes de los Municipios.",
+                "b": "Si agrupa municipios de más de una provincia, será necesario el informe favorable de la Administración Autonómica.",
+                "c": "Son correctas las opciones a) y b).",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "La 'a' es falsa porque la oposición debe ser de 2/5 partes. La 'b' es falsa porque en ese caso el informe necesario es el de las Diputaciones Provinciales afectadas."
+        },
+        {
+            "numero": 38,
+            "enunciado": "El ámbito territorial de las Comarcas, la composición de sus órganos y sus competencias se determinarán por:",
+            "opciones": {
+                "a": "El Pleno de la Diputación correspondiente.",
+                "b": "Las leyes de las Comunidades Autónomas.",
+                "c": "La Asamblea Legislativa de la Comunidad Autónoma correspondiente.",
+                "d": "Las Cortes Generales."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "El artículo 42.3 de la LRBRL delega en las Leyes de las Comunidades Autónomas la determinación de todos los aspectos organizativos y competenciales de las comarcas."
+        },
+        {
+            "numero": 39,
+            "enunciado": "Las entidades locales integradas por Municipios de grandes aglomeraciones urbanas con vínculos sociales que hacen necesaria la planificación conjunta se llaman:",
+            "opciones": {
+                "a": "Comarcas.",
+                "b": "Mancomunidades.",
+                "c": "Áreas metropolitanas.",
+                "d": "Distritos."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "Esta es la definición técnica recogida en el artículo 43.2 de la LRBRL para las Áreas Metropolitanas."
+        },
+        {
+            "numero": 40,
+            "enunciado": "De conformidad con lo establecido en la LRBRL, las sesiones de la Junta de Gobierno Local:",
+            "opciones": {
+                "a": "Son públicas.",
+                "b": "Se publicarán en la forma prevista por la Ley.",
+                "c": "Se publicarán en el Boletín Oficial de la Provincia.",
+                "d": "No son públicas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "A diferencia de las sesiones del Pleno, las de la Junta de Gobierno Local no tienen carácter público por norma general (art. 70.1 LRBRL)."
+        },
+        {
+            "numero": 41,
+            "enunciado": "Conforme al art. 43 del Estatuto de Autonomía de Castilla y León, las entidades locales de Castilla y León se regirán por los principios de:",
+            "opciones": {
+                "a": "Autonomía, suficiencia financiera y competencia.",
+                "b": "Coordinación y cooperación.",
+                "c": "Responsabilidad, subsidiariedad y lealtad institucional.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "El artículo 43.2 del Estatuto de Castilla y León enumera todos estos principios como rectores de las entidades locales en la comunidad."
+        },
+        {
+            "numero": 42,
+            "enunciado": "Según el art. 50.1 del Estatuto de Autonomía de Castilla y León, la Comunidad podrá transferir competencias a los Ayuntamientos y Diputaciones:",
+            "opciones": {
+                "a": "Por Decreto del Presidente de la Junta de Castilla y León.",
+                "b": "Por Acuerdo del Consejo de Ministros.",
+                "c": "Por Ley de Cortes.",
+                "d": "Por Acuerdo del Consejo de Cooperación Local de Castilla y León."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "Cualquier transferencia de competencias desde la Comunidad a los entes locales debe realizarse mediante una Ley de las Cortes de Castilla y León aprobada por mayoría absoluta."
+        },
+        {
+            "numero": 43,
+            "enunciado": "En el Estatuto de Autonomía de Castilla y León, 'la entidad territorial básica y la institución de participación más directa' es la definición de:",
+            "opciones": {
+                "a": "Municipio.",
+                "b": "Provincia.",
+                "c": "Ente local.",
+                "d": "Comarca."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "El artículo 44.1 del Estatuto define al municipio con estos términos exactos, subrayando su cercanía al ciudadano."
+        },
+        {
+            "numero": 44,
+            "enunciado": "De acuerdo con el art. 49 del Estatuto de Autonomía de Castilla y León, la regulación del gobierno y la Administración local de Castilla y León se establecerá por:",
+            "opciones": {
+                "a": "Decreto del Presidente de la Junta de Castilla y León.",
+                "b": "Ley de Cortes.",
+                "c": "Acuerdo del Consejo de Cooperación Local de Castilla y León.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "b",
+            "explicación": "El Estatuto reserva a las Leyes de las Cortes de Castilla y León la facultad de regular el marco del gobierno local en la región."
+        },
+        {
+            "numero": 45,
+            "enunciado": "Según el art. 53 del Estatuto de Autonomía de Castilla y León, las Haciendas Locales de Castilla y León se rigen por los principios de:",
+            "opciones": {
+                "a": "Estabilidad presupuestaria y sostenibilidad financiera.",
+                "b": "Igualdad en el acceso a los servicios públicos locales a todos los ciudadanos.",
+                "c": "Suficiencia de recursos, equidad, autonomía y responsabilidad fiscal.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "El artículo 53 del Estatuto establece específicamente estos cuatro principios para el sistema financiero de las entidades locales de la comunidad."
+        },
+        {
+            "numero": 46,
+            "enunciado": "De acuerdo con el Estatuto de Autonomía de Castilla y León, se podrá crear un órgano mixto para el diálogo entre la Comunidad y las Corporaciones Locales llamado:",
+            "opciones": {
+                "a": "Federación Regional de Municipios y Provincias de Castilla y León.",
+                "b": "Consejo de Cooperación Institucional.",
+                "c": "Consejo de Cooperación Interadministrativa.",
+                "d": "Consejo de Cooperación Local."
+            },
+            "respuesta_correcta": "d",
+            "explicación": "El artículo 51 del Estatuto prevé la creación del Consejo de Cooperación Local como el órgano oficial de diálogo y cooperación institucional."
+        },
+        {
+            "numero": 47,
+            "enunciado": "Según el art. 55 del Estatuto de Autonomía, la financiación de las entidades locales se basará en los principios de:",
+            "opciones": {
+                "a": "Descentralización, subsidiariedad y simplificación administrativa.",
+                "b": "Desconcentración, subsidiariedad y simplificación administrativa.",
+                "c": "Coordinación, subsidiariedad y simplificación administrativa.",
+                "d": "Las opciones a) y c) son correctas."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "El artículo 55.1 del Estatuto vincula la suficiencia de recursos a una distribución de competencias basada en la descentralización y subsidiariedad."
+        },
+        {
+            "numero": 48,
+            "enunciado": "De conformidad con la literalidad del art. 47 del Estatuto de Autonomía de Castilla y León, la provincia, como entidad local, tiene:",
+            "opciones": {
+                "a": "Personalidad jurídica propia y plena autonomía en el ámbito de sus competencias.",
+                "b": "Personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.",
+                "c": "Personalidad jurídica propia y capacidad plena para la gestión de sus intereses.",
+                "d": "Personalidad jurídica y plena capacidad para el cumplimiento de sus fines."
+            },
+            "respuesta_correcta": "c",
+            "explicación": "Esta es la redacción específica del artículo 47.1 del Estatuto para definir a la provincia en el ámbito de la comunidad autónoma."
+        },
+        {
+            "numero": 49,
+            "enunciado": "Según el Estatuto de Autonomía de Castilla y León, la agrupación voluntaria de municipios limítrofes con características comunes es la:",
+            "opciones": {
+                "a": "Comarca.",
+                "b": "Mancomunidad.",
+                "c": "Consorcio.",
+                "d": "Área metropolitana."
+            },
+            "respuesta_correcta": "a",
+            "explicación": "El artículo 46.1 define a la comarca exactamente como una agrupación voluntaria basada en afinidades geográficas, económicas y sociales."
+        }
+    ]
+}

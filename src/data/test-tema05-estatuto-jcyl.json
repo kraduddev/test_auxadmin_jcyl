@@ -1,0 +1,720 @@
+{
+    "tema": "Tema 5. Estatuto de Autonomía de Castilla y León",
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "El Estatuto de Autonomía de Castilla y León se aprobó por:",
+            "opciones": {
+                "a": "Ley Orgánica 4/2007.",
+                "b": "Ley Orgánica 4/1983.",
+                "c": "Ley Orgánica 4/1999.",
+                "d": "Ley Orgánica 14/2007."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El Estatuto fue aprobado inicialmente por la Ley Orgánica 4/1983, de 25 de febrero, que constituye la norma institucional básica de la Comunidad."
+        },
+        {
+            "numero": 2,
+            "enunciado": "El número total de artículos del Estatuto de Autonomía de Castilla y León es de:",
+            "opciones": {
+                "a": "50",
+                "b": "71",
+                "c": "91",
+                "d": "69"
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "Tras la reforma de 2007, el texto consolidado del Estatuto finaliza con el artículo 91, dedicado al procedimiento de reforma."
+        },
+        {
+            "numero": 3,
+            "enunciado": "De conformidad con lo establecido en el Estatuto de Autonomía, los derechos y libertades de los ciudadanos de Castilla y León serán:",
+            "opciones": {
+                "a": "Los que se establezcan en los Tratados Internacionales sobre Derechos Humanos ratificados por España.",
+                "b": "Los establecidos en la Constitución Española.",
+                "c": "Los establecidos por el Estatuto de Autonomía.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 8.1 especifica que los ciudadanos tienen los derechos y deberes establecidos en la Constitución, los Tratados Internacionales, el ordenamiento de la UE y el propio Estatuto."
+        },
+        {
+            "numero": 4,
+            "enunciado": "Según lo establecido en el Estatuto de Autonomía, es un símbolo de la Comunidad Autónoma de Castilla y León:",
+            "opciones": {
+                "a": "El blasón.",
+                "b": "El pendón.",
+                "c": "El himno, que se regulará mediante Ley.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 6.1 identifica como símbolos de identidad exclusiva de la Comunidad al blasón, la bandera, el pendón y el himno."
+        },
+        {
+            "numero": 5,
+            "enunciado": "El Título del Estatuto de Autonomía de Castilla y León en el que se regula el cuadro de competencias de la Comunidad de Castilla y León es:",
+            "opciones": {
+                "a": "Título IV.",
+                "b": "Título V.",
+                "c": "Título VI.",
+                "d": "Título VII."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El Título V del Estatuto se titula explícitamente 'Competencias de la Comunidad', abarcando desde el artículo 69 en adelante."
+        },
+        {
+            "numero": 6,
+            "enunciado": "De acuerdo con el art. 19 de la Ley Orgánica 14/2007, las instituciones básicas de la Comunidad de Castilla y León son:",
+            "opciones": {
+                "a": "La Junta de Castilla y León, el Consejo Económico y Social y el Consejo Consultivo.",
+                "b": "Las Cortes de Castilla y León, el Presidente de la Junta de Castilla y León y la Junta de Castilla y León.",
+                "c": "El Consejo Económico y Social, el Consejo Consultivo y las Cortes de Castilla y León.",
+                "d": "El Consejo Económico y Social, el Consejo Consultivo, el Procurador del Común y el Consejo de Cuentas."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 19.1 define como instituciones básicas a las Cortes, el Presidente de la Junta y la Junta de Castilla y León."
+        },
+        {
+            "numero": 7,
+            "enunciado": "Conforme al art. 18 de la Ley Orgánica 14/2007, las competencias, organización y funcionamiento del Procurador del Común se regularán por:",
+            "opciones": {
+                "a": "Un Reglamento de las Cortes de Castilla y León.",
+                "b": "Un Decreto de la Junta de Castilla y León.",
+                "c": "Una Ley de las Cortes de Castilla y León.",
+                "d": "Real Decreto del Gobierno."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 18.2 establece que una ley de las Cortes de Castilla y León será la encargada de regular esta institución."
+        },
+        {
+            "numero": 8,
+            "enunciado": "De acuerdo con la literalidad del art. 28 de la Ley Orgánica 14/2007, la Junta de Castilla y León está compuesta por:",
+            "opciones": {
+                "a": "El Presidente, el Vicepresidente y los Directores Generales.",
+                "b": "El Presidente, el Vicepresidente, en su caso, y los Consejeros.",
+                "c": "El Presidente, el Presidente de las Cortes y los Consejeros.",
+                "d": "El Presidente, los Vicepresidentes, en su caso y los Consejeros."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 28.2 indica que la Junta se compone por el Presidente, los Vicepresidentes (si los hubiere) y los Consejeros."
+        },
+        {
+            "numero": 9,
+            "enunciado": "El Estatuto de Autonomía, tras la última reforma realizada por la Ley Orgánica 14/2007, consta de:",
+            "opciones": {
+                "a": "91 artículos, 2 disposiciones adicionales, 3 disposiciones transitorias, 1 final y 2 derogatorias.",
+                "b": "69 artículos, 3 disposiciones adicionales, 2 disposiciones transitorias, 2 finales y 1 derogatoria.",
+                "c": "91 artículos, 3 disposiciones adicionales, 3 disposiciones transitorias, 1 final y 1 derogatoria.",
+                "d": "71 artículos, 3 disposiciones adicionales, 3 disposiciones transitorias, 1 final y 1 derogatoria."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El texto final tras la reforma de 2007 se estructura en 91 artículos, 3 disposiciones adicionales, 3 transitorias, 1 final y 1 derogatoria."
+        },
+        {
+            "numero": 10,
+            "enunciado": "De acuerdo con lo establecido en el art. 6 del Estatuto de Autonomía de Castilla y León, No se considera símbolo de identidad de dicha Comunidad:",
+            "opciones": {
+                "a": "El blasón.",
+                "b": "El pendón.",
+                "c": "La fiesta de la Comunidad.",
+                "d": "La bandera."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "Aunque el 23 de abril es la fiesta oficial (art. 6.2), los símbolos de identidad enumerados en el art. 6.1 son exclusivamente el blasón, la bandera, el pendón y el himno."
+        },
+        {
+            "numero": 11,
+            "enunciado": "Según el art. 30 de la Ley Orgánica 14/2007, indique cuál de estas atribuciones corresponde a la Junta de Castilla y León:",
+            "opciones": {
+                "a": "Convocar elecciones a las Cortes de Castilla y León.",
+                "b": "Interponer recursos de inconstitucionalidad.",
+                "c": "Dirigir y coordinar la acción del gobierno.",
+                "d": "Acordar la disolución de las Cortes de Castilla y León."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 30.2 otorga a la Junta la facultad de interponer recursos de inconstitucionalidad; las otras opciones son atribuciones exclusivas del Presidente."
+        },
+        {
+            "numero": 12,
+            "enunciado": "De conformidad con el art. 89 de la Ley Orgánica 14/2007, los presupuestos generales de la Comunidad constituirán la expresión cifrada conjunta y sistemática de:",
+            "opciones": {
+                "a": "Las obligaciones económicas que como máximo se prevea reconocer.",
+                "b": "Las obligaciones que como máximo pueden reconocer.",
+                "c": "Los derechos que como máximo se pueden reconocer.",
+                "d": "Los derechos y obligaciones que como máximo se pueden ejecutar."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 89.1 define los presupuestos como la expresión de las obligaciones máximas a reconocer y los derechos que se prevean liquidar."
+        },
+        {
+            "numero": 13,
+            "enunciado": "De conformidad con lo establecido en el Estatuto de Autonomía de Castilla y León, la designación del Procurador del Común corresponde:",
+            "opciones": {
+                "a": "A la Junta de Castilla y León.",
+                "b": "Al Presidente de la Junta de Castilla y León.",
+                "c": "Al Presidente de las Cortes de Castilla y León.",
+                "d": "A las Cortes de Castilla y León."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 18.1 señala que el Procurador del Común es el Alto Comisionado de las Cortes y es designado por estas."
+        },
+        {
+            "numero": 14,
+            "enunciado": "Según lo establecido en el art. 26 de la Ley Orgánica 14/2007, el nombramiento del Presidente de la Junta de Castilla y León corresponde:",
+            "opciones": {
+                "a": "Al Presidente de las Cortes de Castilla y León.",
+                "b": "A las Cortes de Castilla y León.",
+                "c": "A los Consejeros.",
+                "d": "Al Rey."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "Según el artículo 26.2, el Presidente es elegido por las Cortes de entre sus miembros, pero su nombramiento formal lo realiza el Rey."
+        },
+        {
+            "numero": 15,
+            "enunciado": "De conformidad con lo establecido en este art. 26, la elección del Presidente requiere:",
+            "opciones": {
+                "a": "Mayoría simple en primera votación.",
+                "b": "Mayoría absoluta en segunda votación.",
+                "c": "Mayoría simple en la primera votación, o mayoría absoluta en la segunda.",
+                "d": "Mayoría absoluta en la primera votación, o mayoría simple en la segunda."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 26.3 especifica que el Presidente se elige por mayoría absoluta en primera votación o por mayoría simple en la segunda."
+        },
+        {
+            "numero": 16,
+            "enunciado": "Conforme a lo establecido en el Estatuto de Autonomía, el Presidente de la Junta de Castilla y León puede cesar:",
+            "opciones": {
+                "a": "Por la finalización de su mandato.",
+                "b": "Por una moción de censura adoptada por las Cortes de Castilla y León.",
+                "c": "En los casos de pérdida de confianza.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 26.4 establece que el Presidente cesa por pérdida de confianza, moción de censura o las causas generales de cese (fallecimiento, dimisión, fin de legislatura)."
+        },
+        {
+            "numero": 17,
+            "enunciado": "Conforme a lo establecido en el Estatuto de Autonomía, la inculpación del Presidente de la Junta, fuera del territorio castellano-leonés, se decidirá por:",
+            "opciones": {
+                "a": "El Tribunal Superior de Justicia de Castilla y León.",
+                "b": "La Sala de lo Penal del Tribunal Supremo.",
+                "c": "El Procurador del Común.",
+                "d": "El Consejo Asesor."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 29 dispone que, fuera del territorio de la Comunidad, la responsabilidad penal del Presidente es exigible ante la Sala de lo Penal del Tribunal Supremo."
+        },
+        {
+            "numero": 18,
+            "enunciado": "Según el art. 40 de la Ley Orgánica 14/2007, el órgano jurisdiccional superior de la Administración de Justicia en la Comunidad es:",
+            "opciones": {
+                "a": "El Tribunal Superior de Justicia.",
+                "b": "El Tribunal Supremo.",
+                "c": "El Tribunal Constitucional.",
+                "d": "La Audiencia Provincial."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 40.1 define al Tribunal Superior de Justicia de Castilla y León como el órgano jurisdiccional superior dentro de la Comunidad."
+        },
+        {
+            "numero": 19,
+            "enunciado": "Según dispone el Estatuto de Autonomía de Castilla y León, el órgano superior consultivo de la Junta de Castilla y León es:",
+            "opciones": {
+                "a": "El Gabinete del Presidente.",
+                "b": "El Consejo Consultivo.",
+                "c": "El Consejo Asesor.",
+                "d": "El Procurador del Común."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 33.1 establece que el Consejo Consultivo es el superior órgano consultivo de la Junta y de la Administración de la Comunidad."
+        },
+        {
+            "numero": 20,
+            "enunciado": "De conformidad con lo establecido en el art. 70 de la Ley Orgánica 14/2007, No es una competencia exclusiva de la Comunidad Autónoma:",
+            "opciones": {
+                "a": "La ordenación del territorio.",
+                "b": "El tratamiento especial de las zonas de montaña.",
+                "c": "El régimen minero y energético.",
+                "d": "Desarrollo rural."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El régimen minero y energético es una competencia de desarrollo normativo y ejecución (art. 71.1.10º), no una competencia exclusiva recogida en el artículo 70."
+        },
+        {
+            "numero": 21,
+            "enunciado": "Dentro de las competencias de ejecución de la Comunidad Autónoma, está/n:",
+            "opciones": {
+                "a": "Productos farmacéuticos.",
+                "b": "El régimen local.",
+                "c": "Las Cámaras Agrarias.",
+                "d": "Los montes y aprovechamientos forestales."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 76.7º incluye los productos farmacéuticos dentro de las competencias exclusivas de ejecución de la Comunidad."
+        },
+        {
+            "numero": 22,
+            "enunciado": "Según lo recogido en el art. 73 de la Ley Orgánica 14/2007, en materia de enseñanza corresponde a Castilla y León:",
+            "opciones": {
+                "a": "Competencias exclusivas.",
+                "b": "Competencias de desarrollo legislativo y de ejecución.",
+                "c": "Competencias de ejecución.",
+                "d": "Castilla y León no tiene competencias en esta materia."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 73.1 atribuye a la Comunidad la competencia de desarrollo legislativo y ejecución de la enseñanza en toda su extensión y niveles."
+        },
+        {
+            "numero": 23,
+            "enunciado": "De conformidad con lo establecido en el art. 82 de la Ley Orgánica 14/2007, la Hacienda de la Comunidad se inspirará en los principios de:",
+            "opciones": {
+                "a": "Autonomía financiera y suficiencia.",
+                "b": "Equidad y solidaridad.",
+                "c": "Transparencia y eficiencia.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 82.1 enumera los principios de autonomía financiera, suficiencia, equidad, solidaridad, transparencia, economía y eficiencia."
+        },
+        {
+            "numero": 24,
+            "enunciado": "Según lo establecido en el Estatuto de Autonomía de Castilla y León, No forman parte de los recursos financieros de la Hacienda de la Comunidad:",
+            "opciones": {
+                "a": "Los ingresos procedentes de la Unión Europea.",
+                "b": "Las asignaciones con cargo a los Presupuestos Generales del Estado.",
+                "c": "Las cotizaciones sociales.",
+                "d": "El producto de las multas y sanciones."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 84 enumera los recursos financieros y no incluye las cotizaciones sociales, que forman parte del régimen económico de la Seguridad Social estatal."
+        },
+        {
+            "numero": 25,
+            "enunciado": "De conformidad con lo establecido en el Estatuto de Autonomía, el control externo de la gestión financiera del sector público de la Comunidad Autónoma corresponderá:",
+            "opciones": {
+                "a": "Al Consejo de Cuentas.",
+                "b": "A la Cámara de Cuentas.",
+                "c": "Al Consejo de Política Fiscal y Financiera.",
+                "d": "Al Tribunal de Cuentas de Castilla y León."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 90.1 establece que el Consejo de Cuentas realiza las funciones de fiscalización externa de la gestión económica y financiera de la Comunidad."
+        },
+        {
+            "numero": 26,
+            "enunciado": "¿A qué órgano corresponde la elaboración de los Presupuestos de Castilla y León?:",
+            "opciones": {
+                "a": "Al Presidente de la Junta de Castilla y León.",
+                "b": "A la Junta de Castilla y León.",
+                "c": "A las Cortes de Castilla y León.",
+                "d": "Al Consejo de Cuentas de Castilla y León."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 89.2 otorga a la Junta la competencia de elaboración de los Presupuestos, mientras que las Cortes se encargan de su aprobación."
+        },
+        {
+            "numero": 27,
+            "enunciado": "De conformidad con lo establecido en el Estatuto de Autonomía de Castilla y León, tienen iniciativa para reformar el Estatuto:",
+            "opciones": {
+                "a": "Las Diputaciones Provinciales.",
+                "b": "1/3 de los miembros de las Cortes de Castilla y León.",
+                "c": "La Junta de Castilla y León.",
+                "d": "Las opciones b) y c) son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 91.1 especifica que la iniciativa de reforma corresponde a una tercera parte de los miembros de las Cortes o a la Junta de Castilla y León."
+        },
+        {
+            "numero": 28,
+            "enunciado": "El Presidente del Tribunal Superior de Justicia de Castilla y León será nombrado por:",
+            "opciones": {
+                "a": "El Rey.",
+                "b": "El Tribunal Supremo.",
+                "c": "El Gobierno.",
+                "d": "El Consejo General del Poder Judicial."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 41.1 indica que el Presidente del TSJ será nombrado por el Rey, a propuesta del Consejo General del Poder Judicial."
+        },
+        {
+            "numero": 29,
+            "enunciado": "El nombramiento del Presidente del Tribunal Superior de Justicia de Castilla y León, se realizará a propuesta:",
+            "opciones": {
+                "a": "Del Presidente de la Junta de Castilla y León.",
+                "b": "Del Presidente del Consejo General del Poder Judicial.",
+                "c": "De las Cortes de Castilla y León.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "La propuesta corresponde al Consejo General del Poder Judicial como órgano colegiado, no a su Presidente a título individual (art. 41.1)."
+        },
+        {
+            "numero": 30,
+            "enunciado": "El nombramiento de los Magistrados, Jueces, Secretarios y restante personal de los demás órganos de la Administración de Justicia en la Comunidad se efectuará:",
+            "opciones": {
+                "a": "Por el Gobierno.",
+                "b": "Por el Consejo General del Poder Judicial.",
+                "c": "Por la Junta de Castilla y León.",
+                "d": "Según la forma prevista en la legislación del Estado."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 41.2 señala que dichos nombramientos se realizarán conforme a lo que disponga la legislación estatal pertinente."
+        },
+        {
+            "numero": 31,
+            "enunciado": "Dentro del ámbito de la Comunidad Autónoma, el ejercicio de la potestad jurisdiccional corresponde de manera ordinaria:",
+            "opciones": {
+                "a": "A los Juzgados y Tribunales radicados en la Comunidad.",
+                "b": "A las Audiencias Provinciales.",
+                "c": "Al Tribunal Superior de Justicia.",
+                "d": "Al Tribunal Supremo."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 39.1 establece que la potestad jurisdiccional corresponde a los juzgados y tribunales que tengan su sede en el territorio de la Comunidad."
+        },
+        {
+            "numero": 32,
+            "enunciado": "Las cuestiones de competencia que se susciten entre órganos jurisdiccionales dentro de cada orden jurisdiccional en Castilla y León serán resueltos:",
+            "opciones": {
+                "a": "Por el Tribunal Superior de Justicia de Castilla y León.",
+                "b": "Por el Tribunal Supremo.",
+                "c": "Por el Consejo General del Poder Judicial.",
+                "d": "Por el inmediato órgano superior común."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "Según el artículo 39.3, la resolución de estos conflictos competenciales recae sobre el órgano superior común inmediato."
+        },
+        {
+            "numero": 33,
+            "enunciado": "A tenor de lo dispuesto en el art. 18 de la Ley Orgánica 14/2007, el Procurador del Común:",
+            "opciones": {
+                "a": "Es designado por las Cortes de Castilla y León.",
+                "b": "Actúa con independencia para la protección y defensa de los derechos constitucionales.",
+                "c": "Colaborará y coordinará sus funciones con las del Defensor del Pueblo.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 18 recoge estas tres características: designación parlamentaria, independencia funcional y coordinación con el Defensor del Pueblo nacional."
+        },
+        {
+            "numero": 34,
+            "enunciado": "¿Qué artículo del Estatuto de Autonomía se refiere al Consejo Consultivo?:",
+            "opciones": {
+                "a": "El art. 33",
+                "b": "El art. 23",
+                "c": "El art. 43",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 33 regula específicamente la figura del Consejo Consultivo como el superior órgano asesor de la Comunidad."
+        },
+        {
+            "numero": 35,
+            "enunciado": "No es una competencia exclusiva de la Comunidad:",
+            "opciones": {
+                "a": "Asistencia social, servicios sociales y desarrollo comunitario.",
+                "b": "Agricultura, ganadería e industrias agroalimentarias.",
+                "c": "Autorización para la convocatoria de consultas populares por vía de referéndum.",
+                "d": "Fomento, regulación y desarrollo de la artesanía."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "La autorización de referéndums es una competencia exclusiva del Estado (art. 149.1.32ª CE), como se aclara en el artículo 11.5 del Estatuto."
+        },
+        {
+            "numero": 36,
+            "enunciado": "No es una competencia de desarrollo normativo y ejecución:",
+            "opciones": {
+                "a": "Ordenación farmacéutica.",
+                "b": "Defensa de los consumidores y usuarios.",
+                "c": "Colegios profesionales.",
+                "d": "Propiedad intelectual."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "La propiedad intelectual se clasifica como una competencia únicamente de ejecución (art. 76.9º), no de desarrollo normativo."
+        },
+        {
+            "numero": 37,
+            "enunciado": "Corresponde a nuestra Comunidad Autónoma la función ejecutiva en:",
+            "opciones": {
+                "a": "Prevención de riesgos laborales, promoción de la salud y seguridad laboral.",
+                "b": "Ferias internacionales.",
+                "c": "Propiedad industrial.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 76 incluye estas materias (apartados 1º, 3º y 8º) dentro del catálogo de funciones meramente ejecutivas de la Comunidad."
+        },
+        {
+            "numero": 38,
+            "enunciado": "La Administración General de la Comunidad Autónoma, tiene en el ejercicio de sus competencias:",
+            "opciones": {
+                "a": "Las mismas potestades que la Administración General del Estado.",
+                "b": "Las mismas prerrogativas que la Administración General del Estado.",
+                "c": "Los mismos privilegios que la Administración General del Estado.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 32.2 establece que la Administración autonómica gozará de las potestades y privilegios propios de la Administración del Estado."
+        },
+        {
+            "numero": 39,
+            "enunciado": "El Título del Estatuto de Autonomía que recoge las instituciones de autogobierno de la Comunidad es:",
+            "opciones": {
+                "a": "El Título I.",
+                "b": "El Título II.",
+                "c": "El Título III.",
+                "d": "El Título IV."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El Título II, que comienza en el artículo 19, se dedica íntegramente a regular las 'Instituciones de autogobierno de la Comunidad'."
+        },
+        {
+            "numero": 40,
+            "enunciado": "Corresponde al Presidente de la Junta, como supremo representante de la Comunidad:",
+            "opciones": {
+                "a": "Solicitar la colaboración a las autoridades del Estado.",
+                "b": "Firmar los convenios y acuerdos de cooperación y colaboración.",
+                "c": "Promulgar en nombre del Rey las leyes aprobadas por las Cortes.",
+                "d": "Solicitar dictamen del Consejo Consultivo."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 27.1.d sitúa la firma de convenios de cooperación bajo las atribuciones del Presidente como supremo representante de la Comunidad."
+        },
+        {
+            "numero": 41,
+            "enunciado": "Como Presidente del Gobierno de Castilla y León, corresponde al Presidente de la Junta:",
+            "opciones": {
+                "a": "Nombrar y separar libremente a los demás miembros de la Junta.",
+                "b": "Convocar elecciones a las Cortes de Castilla y León.",
+                "c": "Ordenar la publicación de los nombramientos de los altos cargos del Estado.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 27.3.b detalla que, en su rol de Presidente del Gobierno regional, tiene la potestad de nombrar y cesar a los Consejeros."
+        },
+        {
+            "numero": 42,
+            "enunciado": "¿Cuál de las reformas del Estatuto consistió básicamente en un incremento significativo de las competencias?:",
+            "opciones": {
+                "a": "La Ley Orgánica 11/1994.",
+                "b": "La Ley Orgánica 4/1999.",
+                "c": "La Ley Orgánica 14/2007.",
+                "d": "Ninguna de las reformas ha consistido en un incremento significativo."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "La reforma de 1999 (Ley Orgánica 4/1999) es destacada históricamente por haber incrementado sustancialmente las competencias legislativas y ejecutivas."
+        },
+        {
+            "numero": 43,
+            "enunciado": "La propuesta de reforma del Estatuto requerirá, en todo caso:",
+            "opciones": {
+                "a": "La aprobación de la Junta por mayoría de dos tercios.",
+                "b": "La aprobación de las Cortes por mayoría de dos tercios y posterior aprobación de las Cortes Generales mediante Ley Orgánica.",
+                "c": "La aprobación de las Cortes por mayoría de tres quintos.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 91.2 exige una mayoría cualificada de dos tercios en las Cortes regionales y su posterior tramitación como Ley Orgánica estatal."
+        },
+        {
+            "numero": 44,
+            "enunciado": "La sede o sedes de las instituciones básicas de la Comunidad de Castilla y León se fijará por:",
+            "opciones": {
+                "a": "Ley de Cortes, aprobada por mayoría simple.",
+                "b": "Ley de Cortes, aprobada por mayoría de dos tercios.",
+                "c": "Ley de Cortes, aprobada por mayoría de tres quintos.",
+                "d": "Ley de Cortes, aprobada por mayoría absoluta."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 3.1 dispone que la sede institucional debe ser fijada mediante una ley que cuente con el apoyo de dos tercios de las Cortes."
+        },
+        {
+            "numero": 45,
+            "enunciado": "No es un principio rector de las políticas públicas:",
+            "opciones": {
+                "a": "El fomento del diálogo social.",
+                "b": "La lucha contra la despoblación.",
+                "c": "El derecho de los ciudadanos a vivir y trabajar fuera de la Comunidad.",
+                "d": "El acceso a una vivienda digna."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 16.8 promueve el derecho a vivir y trabajar 'en su propia tierra', no fuera de ella; lo segundo sería contradictorio con la lucha contra la despoblación."
+        },
+        {
+            "numero": 46,
+            "enunciado": "La regulación del gobierno y de la administración local de Castilla y León se establece mediante:",
+            "opciones": {
+                "a": "Decreto de la Junta.",
+                "b": "Ley de Cortes.",
+                "c": "Orden del Consejero.",
+                "d": "Acuerdo del Presidente."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 49.1 establece que la regulación de los entes locales dentro de la Comunidad debe realizarse a través de leyes aprobadas por las Cortes."
+        },
+        {
+            "numero": 47,
+            "enunciado": "Según el art. 46 del Estatuto de Autonomía de Castilla y León:",
+            "opciones": {
+                "a": "La comarca se configura como la agrupación voluntaria de municipios limítrofes.",
+                "b": "La comarca del Bierzo se regulará mediante Orden del Consejero.",
+                "c": "La constitución de cada comarca se formalizará por Decreto.",
+                "d": "Mediante Decreto del Presidente se regulará el régimen jurídico de las comarcas."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 46.1 define la comarca como una agrupación voluntaria de municipios con afinidades geográficas, económicas y sociales."
+        },
+        {
+            "numero": 48,
+            "enunciado": "El art. 5 del Estatuto establece que la lengua gallega:",
+            "opciones": {
+                "a": "Es cooficial junto al castellano.",
+                "b": "Gozará de respeto y protección en los lugares en que habitualmente se utilice.",
+                "c": "No se recoge en este artículo.",
+                "d": "Se establecerá en una ley."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 5.3 especifica que el gallego gozará de respeto y protección en las zonas donde se use tradicionalmente, sin otorgarle cooficialidad."
+        },
+        {
+            "numero": 49,
+            "enunciado": "Según la disposición final del Estatuto, éste entrará en vigor:",
+            "opciones": {
+                "a": "Al día siguiente de su publicación en el BOCYL.",
+                "b": "Al día siguiente de su publicación en el BOE.",
+                "c": "El mismo día de la publicación en el BOE.",
+                "d": "El mismo día de la publicación en el BOCYL."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "La Disposición Final indica expresamente que la vigencia comienza el mismo día de la publicación de la Ley Orgánica en el Boletín Oficial del Estado."
+        },
+        {
+            "numero": 50,
+            "enunciado": "Las causas de inelegibilidad e incompatibilidad de los Procuradores serán determinadas por:",
+            "opciones": {
+                "a": "La Ley de incompatibilidades.",
+                "b": "Los poderes públicos.",
+                "c": "Las Cortes de Castilla y León.",
+                "d": "La legislación electoral."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 21.4 remite a la legislación electoral para la determinación de las causas que impiden ser elegido o ejercer como Procurador."
+        },
+        {
+            "numero": 51,
+            "enunciado": "El Presidente del Tribunal Superior de Justicia de Castilla y León es propuesto por:",
+            "opciones": {
+                "a": "El Presidente de la Junta.",
+                "b": "El Consejo General del Poder Judicial.",
+                "c": "La Junta de acuerdo con las Cortes.",
+                "d": "Las Cortes con acuerdo del Ministerio."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 41.1 otorga al Consejo General del Poder Judicial la potestad exclusiva de proponer al candidato para la presidencia del TSJ regional."
+        },
+        {
+            "numero": 52,
+            "enunciado": "La entrada en vigor de las leyes de Castilla y León se rige por:",
+            "opciones": {
+                "a": "La fecha de su promulgación.",
+                "b": "La fecha de su publicación en el BOE.",
+                "c": "La fecha de su publicación en el BOCYL.",
+                "d": "La fecha de su aprobación por las Cortes."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 25.5 determina que las leyes regionales entran en vigor según la fecha de su publicación en el Boletín Oficial de la Comunidad."
+        },
+        {
+            "numero": 53,
+            "enunciado": "Son instituciones propias de la Comunidad de Castilla y León:",
+            "opciones": {
+                "a": "CES, Procurador del Común, Consejo Consultivo y Consejo de la Juventud.",
+                "b": "CES, Procurador del Común, Consejo Consultivo y Consejo del Diálogo Social.",
+                "c": "CES, Procurador del Común, Consejo Consultivo, Consejo de Cuentas y las que determinen el Estatuto o las leyes.",
+                "d": "CES, Procurador del Común, Consejo Consultivo, Consejo de la Juventud y Consejo de Transparencia."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 19.2 enumera estas cuatro instituciones específicas como 'propias', diferenciándolas de las instituciones 'básicas' de gobierno."
+        },
+        {
+            "numero": 54,
+            "enunciado": "Los decretos-leyes deberán ser convalidados o derogados por:",
+            "opciones": {
+                "a": "El Tribunal Superior de Justicia.",
+                "b": "La Junta de Castilla y León.",
+                "c": "Las Cortes de Castilla y León.",
+                "d": "No tienen que ser convalidados."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 25.4 exige que los decretos-leyes dictados por la Junta sean sometidos a debate y votación de convalidación en las Cortes."
+        },
+        {
+            "numero": 55,
+            "enunciado": "¿A quién corresponde la iniciativa legislativa en la Comunidad?:",
+            "opciones": {
+                "a": "Al Presidente y a los Consejeros.",
+                "b": "A las Cortes de Castilla y León.",
+                "c": "A la Junta y a los Procuradores.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 5. Estatuto de CyL",
+            "explicación": "El artículo 25.1 reconoce la capacidad de iniciar el procedimiento legislativo tanto al órgano de gobierno (Junta) como a los parlamentarios (Procuradores)."
+        }
+    ]
+}

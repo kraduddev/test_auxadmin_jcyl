@@ -1,0 +1,499 @@
+{
+    "tema": "Tema 4. La Unión Europea",
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "La \"declaración de Schuman\" de 9 de mayo de 1950:",
+            "opciones": {
+                "a": "Constituyó el primer intento de una Comunidad de Defensa europea.",
+                "b": "Propugnaba la puesta en común de las producciones de carbón y acero de Europa Occidental.",
+                "c": "Establecía la creación de la Comunidad Europea de la Energía Atómica.",
+                "d": "Planteó la creación de un Mercado común."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Robert Schuman propuso integrar las industrias del carbón y del acero de Europa Occidental para evitar futuros conflictos bélicos[cite: 39, 40]."
+        },
+        {
+            "numero": 2,
+            "enunciado": "En 1952 se crea la Comunidad Europea del Carbón y del Acero. Los países fundadores fueron:",
+            "opciones": {
+                "a": "Francia, Alemania, Reino Unido, Bélgica, Países Bajos y Luxemburgo.",
+                "b": "Francia, Alemania, Italia, Bélgica, Países Bajos y Luxemburgo.",
+                "c": "Francia, Austria, Italia, Bélgica, Países Bajos y Luxemburgo.",
+                "d": "Francia, Alemania, Irlanda, Bélgica, Países Bajos y Luxemburgo."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Los seis países fundadores que firmaron el Tratado CECA fueron Alemania, Francia, Italia, Bélgica, Países Bajos y Luxemburgo[cite: 42, 44]."
+        },
+        {
+            "numero": 3,
+            "enunciado": "Al entrar en vigor el Acta Única Europea, ¿cuántos países eran miembros de la Unión Europea?:",
+            "opciones": {
+                "a": "6",
+                "b": "9",
+                "c": "12",
+                "d": "15"
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Acta Única Europea se firmó en 1986, año en el que la entrada de España y Portugal elevó el número de miembros a doce[cite: 128, 132]."
+        },
+        {
+            "numero": 4,
+            "enunciado": "España se incorporó a la Unión Europea en:",
+            "opciones": {
+                "a": "La primera ampliación, junto con Reino Unido y Dinamarca.",
+                "b": "La segunda ampliación, junto con Grecia.",
+                "c": "La tercera ampliación, junto con Portugal.",
+                "d": "La cuarta ampliación, junto con Suecia y Austria."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "España se adhirió oficialmente a las Comunidades Europeas el 1 de enero de 1986 junto con Portugal[cite: 128]."
+        },
+        {
+            "numero": 5,
+            "enunciado": "El Tratado de Lisboa entró en vigor:",
+            "opciones": {
+                "a": "El 1 de diciembre de 2009.",
+                "b": "El 1 de julio de 1999.",
+                "c": "El 2 de octubre de 1998.",
+                "d": "El 2 de octubre de 1997."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Tras ser ratificado por todos los países miembros, el Tratado de Lisboa entró en vigor el 1 de diciembre de 2009[cite: 209]."
+        },
+        {
+            "numero": 6,
+            "enunciado": "La quinta ampliación de la Unión Europea tuvo lugar en:",
+            "opciones": {
+                "a": "2007 y afectó a Polonia.",
+                "b": "2004 y afectó a Bulgaria.",
+                "c": "2007 y afectó a Checoslovaquia",
+                "d": "2004 y afectó a Eslovaquia."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Eslovaquia formó parte del grupo de diez países que se unieron a la UE en la gran ampliación del 1 de mayo de 2004[cite: 192]."
+        },
+        {
+            "numero": 7,
+            "enunciado": "De conformidad con lo establecido en el Tratado de la Unión Europea (en adelante TUE), la finalidad de ésta es:",
+            "opciones": {
+                "a": "Promover la movilidad de las personas.",
+                "b": "Promover la paz, sus valores y el bienestar de sus pueblos.",
+                "c": "Promover la libre circulación de capitales.",
+                "d": "Promover la diversidad de los países miembros en las áreas financiera, fiscal y de defensa."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El artículo 3.1 del TUE establece que la finalidad de la Unión es promover la paz, sus valores y el bienestar de sus pueblos[cite: 272]."
+        },
+        {
+            "numero": 8,
+            "enunciado": "De conformidad con lo establecido en el art. 2 del TUE, la Unión Europea se fundamenta en los valores de:",
+            "opciones": {
+                "a": "Respeto de la dignidad humana, libertad, seguridad, justicia e igualdad entre mujeres y hombres.",
+                "b": "Tolerancia, no discriminación, solidaridad, justicia, democracia y libertad.",
+                "c": "Respeto de la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El artículo 2 cita explícitamente estos valores fundamentales comunes a todos los Estados miembros en una sociedad plural[cite: 269, 270]."
+        },
+        {
+            "numero": 9,
+            "enunciado": "En relación al Consejo Europeo, señale la afirmación incorrecta:",
+            "opciones": {
+                "a": "El Consejo Europeo elegirá a su Presidente por mayoría cualificada para un mandato de dos años.",
+                "b": "El Consejo Europeo no ejercerá función legislativa alguna.",
+                "c": "El Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad participará en sus trabajos.",
+                "d": "El Consejo Europeo se reunirá dos veces por semestre por convocatoria de su Presidente."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "La afirmación es incorrecta porque el mandato del Presidente del Consejo Europeo es de dos años y medio, no de dos[cite: 418]."
+        },
+        {
+            "numero": 10,
+            "enunciado": "De acuerdo con la literalidad del art. 3 del TUE, \"la Unión fomentará\":",
+            "opciones": {
+                "a": "La justicia y la protección sociales.",
+                "b": "La igualdad entre mujeres y hombres.",
+                "c": "La solidaridad entre las generaciones y la protección de los derechos del niño.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El artículo 3.3 incluye entre los compromisos de la Unión el fomento de la justicia social, la igualdad y la protección de los derechos del niño[cite: 281]."
+        },
+        {
+            "numero": 11,
+            "enunciado": "Según lo establecido en el art. 4 del TUE, \"la Unión y los Estados miembros se respetarán y asistirán mutuamente en el cumplimiento de las misiones derivadas de los Tratados\", conforme al principio de:",
+            "opciones": {
+                "a": "Cooperación leal.",
+                "b": "Proporcionalidad.",
+                "c": "Subsidiariedad.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El artículo 4.3 define el principio de cooperación leal como la base de la asistencia mutua entre la Unión y sus Estados[cite: 293]."
+        },
+        {
+            "numero": 12,
+            "enunciado": "Según lo establecido en el art. 5 del TUE, la delimitación de competencias en la Unión se regirá por:",
+            "opciones": {
+                "a": "El principio de cooperación leal.",
+                "b": "El principio de proporcionalidad.",
+                "c": "El principio de subsidiariedad.",
+                "d": "El principio de atribución."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El artículo 5.1 establece que la delimitación de las competencias se rige específicamente por el principio de atribución[cite: 301]."
+        },
+        {
+            "numero": 13,
+            "enunciado": "Siguiendo con el art. 5 del TUE, el ejercicio de las competencias de la Unión se regirá por:",
+            "opciones": {
+                "a": "El principio de cooperación leal.",
+                "b": "El principio de proporcionalidad.",
+                "c": "El principio de subsidiariedad.",
+                "d": "Las opciones b) y c) son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El ejercicio (a diferencia de la delimitación) de las competencias se rige por los principios de subsidiariedad y proporcionalidad[cite: 302]."
+        },
+        {
+            "numero": 14,
+            "enunciado": "De conformidad con lo establecido en el TUE, la Carta de Derechos Fundamentales de la Unión Europea:",
+            "opciones": {
+                "a": "Se integra en el Tratado de la Unión Europea.",
+                "b": "Se firmó el mismo día que el Tratado de Lisboa.",
+                "c": "Tiene el mismo valor jurídico que los Tratados.",
+                "d": "Sus disposiciones ampliarán las competencias de la Unión tal como se definen en los Tratados"
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El artículo 6.1 reconoce a la Carta el mismo valor jurídico que los Tratados constitutivos[cite: 311]."
+        },
+        {
+            "numero": 15,
+            "enunciado": "Indique qué institución comunitaria se considera el principal órgano de carácter ejecutivo de la Unión Europea:",
+            "opciones": {
+                "a": "El Consejo Europeo.",
+                "b": "La Comisión Europea.",
+                "c": "El Parlamento.",
+                "d": "El Tribunal de Justicia."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "La Comisión Europea es el órgano encargado de ejecutar el presupuesto, gestionar programas y ejercer funciones de coordinación y gestión[cite: 453, 525, 527]."
+        },
+        {
+            "numero": 16,
+            "enunciado": "Conforme al art. 17 del TUE, se propondrá al Parlamento Europeo un candidato a Presidente de la Comisión Europea por:",
+            "opciones": {
+                "a": "Los Diputados del Parlamento, por mayoría de dos tercios.",
+                "b": "El Presidente del Consejo de la Unión Europea.",
+                "c": "El Presidente del Parlamento Europeo.",
+                "d": "El Consejo Europeo."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Corresponde al Consejo Europeo proponer al candidato, tras realizar consultas y considerar los resultados de las elecciones europeas[cite: 478]."
+        },
+        {
+            "numero": 17,
+            "enunciado": "Conforme al art. 19 del vigente TUE, el Tribunal de Justicia de la UE estará compuesto por:",
+            "opciones": {
+                "a": "Ocho abogados generales y el mismo número de jueces.",
+                "b": "Un juez por Estado miembro y estará asistido por abogados generales.",
+                "c": "Veinticinco jueces, uno por Estado miembro, y asistido por ocho abogados generales.",
+                "d": "Ninguna de las respuestas anteriores es correcta."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Tribunal de Justicia cuenta con un juez por cada Estado miembro y el apoyo de abogados generales[cite: 507]."
+        },
+        {
+            "numero": 18,
+            "enunciado": "Según el art. 14 del vigente TUE, el número de diputados del Parlamento Europeo no excederá de:",
+            "opciones": {
+                "a": "Seiscientos cincuenta, más el presidente.",
+                "b": "Setecientos, más el presidente.",
+                "c": "Quinientos cincuenta, más el presidente.",
+                "d": "Setecientos cincuenta, más el presidente."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Tratado establece un límite máximo de 750 diputados, a los que se suma el Presidente de la institución[cite: 397]."
+        },
+        {
+            "numero": 19,
+            "enunciado": "Según dispone el art. 15 del vigente TUE, el mandato del Presidente del Consejo Europeo tendrá una duración de:",
+            "opciones": {
+                "a": "Dos años y medio, que no podrá renovarse.",
+                "b": "Dos años y medio, que podrá renovarse una sola vez.",
+                "c": "Cuatro años, que no podrá renovarse.",
+                "d": "Cuatro años, que podrá renovarse una sola vez."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Presidente es elegido para un mandato de dos años y medio, con posibilidad de renovación única[cite: 418]."
+        },
+        {
+            "numero": 20,
+            "enunciado": "La Comisión Europea representa los intereses de:",
+            "opciones": {
+                "a": "La Unión Europea.",
+                "b": "Los pueblos de Europa.",
+                "c": "Los Estados miembros.",
+                "d": "Los Jefes del Estado o de Gobierno de los Estados miembros."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "A diferencia del Consejo, que representa a los Estados, la Comisión tiene como misión promover el interés general de la propia Unión[cite: 450]."
+        },
+        {
+            "numero": 21,
+            "enunciado": "Según se regula en el art. 14 del TUE, el Parlamento Europeo:",
+            "opciones": {
+                "a": "Ejercerá conjuntamente con el Consejo Europeo la función legislativa y la función presupuestaria.",
+                "b": "Elegirá al Presidente de la Comisión Europea.",
+                "c": "Sus diputados serán elegidos por sufragio universal directo, libre y secreto, para un mandato de cuatro años.",
+                "d": "Todas las respuestas anteriores son correctas."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Una de las funciones políticas clave del Parlamento es la elección del Presidente de la Comisión[cite: 395, 479]."
+        },
+        {
+            "numero": 22,
+            "enunciado": "¿Cuál de las siguientes funciones corresponde a la Comisión Europea según el art. 17?:",
+            "opciones": {
+                "a": "Supervisará la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia.",
+                "b": "Ejercerá funciones de coordinación, ejecución y gestión conforme a los Tratados.",
+                "c": "Son correctas las opciones a) y b)",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "La Comisión actúa como guardiana de los Tratados supervisando el Derecho de la Unión y gestionando la ejecución de políticas[cite: 452, 454]."
+        },
+        {
+            "numero": 23,
+            "enunciado": "Los miembros de la Comisión serán nombrados por un período de:",
+            "opciones": {
+                "a": "Cuatro años.",
+                "b": "Cinco años.",
+                "c": "Cinco años renovables.",
+                "d": "Dos años y medio."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El mandato de la Comisión Europea está fijado en cinco años, coincidiendo con la legislatura del Parlamento[cite: 459]."
+        },
+        {
+            "numero": 24,
+            "enunciado": "Según lo establecido en el art. 19 del TUE, los abogados generales del Tribunal de Justicia son nombrados:",
+            "opciones": {
+                "a": "Por el Consejo, por unanimidad, y a propuesta del Tribunal de Justicia de cada Estado miembro.",
+                "b": "Por los Gobiernos de los Estados miembros, de común acuerdo, para un periodo de siete años.",
+                "c": "Por la Comisión y el Consejo, de común acuerdo.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Son nombrados por los Gobiernos de común acuerdo, pero el periodo legal de su mandato es de seis años, no siete[cite: 515]."
+        },
+        {
+            "numero": 25,
+            "enunciado": "El Tribunal de Justicia de la Unión Europea se pronunciará, de conformidad con los Tratados:",
+            "opciones": {
+                "a": "Sobre los recursos interpuestos por un Estado miembro y/o por una institución.",
+                "b": "Sobre los recursos interpuestos por personas físicas o jurídicas.",
+                "c": "Sobre la interpretación del Derecho de la Unión o sobre la validez de los actos.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Su competencia abarca tanto recursos institucionales y de particulares como cuestiones prejudiciales de interpretación[cite: 518, 519]."
+        },
+        {
+            "numero": 26,
+            "enunciado": "La sede del Consejo Europeo está en:",
+            "opciones": {
+                "a": "Bruselas.",
+                "b": "Luxemburgo.",
+                "c": "Estrasburgo.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Consejo Europeo tiene su sede oficial en Bruselas, donde se celebran sus cumbres[cite: 527]."
+        },
+        {
+            "numero": 27,
+            "enunciado": "¿Qué institución comunitaria participa en el control de la ejecución presupuestaria?:",
+            "opciones": {
+                "a": "El Consejo de la Unión Europea.",
+                "b": "La Comisión.",
+                "c": "El Parlamento Europeo.",
+                "d": "El Tribunal de Justicia de la Unión Europea."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Parlamento Europeo ejerce la función presupuestaria de forma conjunta con el Consejo[cite: 394]."
+        },
+        {
+            "numero": 28,
+            "enunciado": "De conformidad con lo establecido en el TUE, señale la opción incorrecta:",
+            "opciones": {
+                "a": "Toda competencia no atribuida a la Unión corresponde a los Estados miembros.",
+                "b": "A propuesta motivada de un quinto de los Estados miembros, el Consejo podrá constatar un riesgo de violación de valores.",
+                "c": "El Consejo Europeo podrá constatar una violación grave y persistente por unanimidad.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "La propuesta para constatar un riesgo de violación grave debe venir de un tercio de los Estados miembros, no de un quinto[cite: 323]."
+        },
+        {
+            "numero": 29,
+            "enunciado": "De conformidad con lo establecido en el TUE, el Consejo Europeo:",
+            "opciones": {
+                "a": "Estará compuesto por un representante de cada Estado miembro, de rango ministerial.",
+                "b": "Estará compuesto por un número de miembros correspondiente a dos tercios del número de Estados.",
+                "c": "Estará compuesto por los Jefes de Estado o de Gobierno, su Presidente y el Presidente de la Comisión.",
+                "d": "Estará compuesto por representantes de los ciudadanos de la Unión."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Esta composición específica permite la toma de decisiones al más alto nivel político de los Estados miembros y las instituciones[cite: 406]."
+        },
+        {
+            "numero": 30,
+            "enunciado": "Sobre el Alto Representante para Asuntos Exteriores, señale la opción incorrecta:",
+            "opciones": {
+                "a": "Será nombrado por mayoría cualificada del Consejo Europeo, con la aprobación del Presidente del Parlamento Europeo.",
+                "b": "Presidirá el Consejo de Asuntos Exteriores.",
+                "c": "Será uno de los Vicepresidentes de la Comisión.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Su nombramiento requiere la aprobación del Presidente de la Comisión Europea, no del Parlamento[cite: 493]."
+        },
+        {
+            "numero": 31,
+            "enunciado": "Los Estados miembros que integran actualmente la Unión Europea son:",
+            "opciones": {
+                "a": "26",
+                "b": "27",
+                "c": "28",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Tras la salida del Reino Unido el 31 de enero de 2020, la Unión Europea está compuesta por 27 países[cite: 241]."
+        },
+        {
+            "numero": 32,
+            "enunciado": "El/los último/s país/es en adherirse a la Unión Europea ha/n sido:",
+            "opciones": {
+                "a": "Croacia, en el año 2007.",
+                "b": "Bulgaria y Rumanía, en el año 2013.",
+                "c": "Ucrania, en al año 2022.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "Ninguna opción es válida: Croacia entró en 2013, y Bulgaria y Rumanía en 2007[cite: 202, 231]."
+        },
+        {
+            "numero": 33,
+            "enunciado": "Según el art. 3 del TFUE, la Unión tiene competencia exclusiva en el siguiente ámbito:",
+            "opciones": {
+                "a": "El medio ambiente.",
+                "b": "El mercado interior.",
+                "c": "Los transportes.",
+                "d": "La unión aduanera."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "La unión aduanera es uno de los ámbitos donde solo la Unión puede legislar y adoptar actos vinculantes[cite: 752]."
+        },
+        {
+            "numero": 34,
+            "enunciado": "Las competencias compartidas entre la Unión y los Estados se aplican a los siguientes ámbitos (señale la incorrecta):",
+            "opciones": {
+                "a": "El mercado exterior.",
+                "b": "La cohesión económica, social y territorial.",
+                "c": "El medio ambiente.",
+                "d": "La protección de los consumidores."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "La competencia compartida se refiere al mercado interior; el término 'mercado exterior' es incorrecto en este contexto[cite: 750, 754]."
+        },
+        {
+            "numero": 35,
+            "enunciado": "Según el art. 253 del TFUE, el presidente del Tribunal de Justicia Europeo es elegido por:",
+            "opciones": {
+                "a": "El Parlamento Europeo.",
+                "b": "La Comisión.",
+                "c": "Los jueces del Tribunal.",
+                "d": "Los abogados generales."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Presidente del Tribunal es elegido entre los propios jueces que lo componen[cite: 761]."
+        },
+        {
+            "numero": 36,
+            "enunciado": "¿Qué Tratado crea oficialmente el concepto de \"Unión Europea\"?:",
+            "opciones": {
+                "a": "El Tratado Constitutivo de la Comunidad Económica Europea (CEE).",
+                "b": "El Tratado de Maastricht.",
+                "c": "El Tratado de Lisboa.",
+                "d": "El Tratado de Ámsterdam."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Tratado de Maastricht, que entró en vigor en 1993, transformó la CEE en la actual Unión Europea[cite: 152]."
+        },
+        {
+            "numero": 37,
+            "enunciado": "Junto con el Parlamento Europeo, el principal órgano de decisión de la UE es:",
+            "opciones": {
+                "a": "El Consejo Europeo.",
+                "b": "La Comisión Europea.",
+                "c": "El Consejo.",
+                "d": "El Tribunal de Justicia de la Unión Europea."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "El Consejo (o Consejo de la Unión Europea) comparte el poder legislativo y de decisión con el Parlamento[cite: 545, 549]."
+        },
+        {
+            "numero": 38,
+            "enunciado": "Los tratados sobre los que se fundamenta la Unión son:",
+            "opciones": {
+                "a": "El Tratado de la Unión Europea.",
+                "b": "El Tratado Constitutivo de la CEE.",
+                "c": "El Tratado de Funcionamiento de la Unión Europea.",
+                "d": "Las opciones a) y c) son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 4. La Unión Europea",
+            "explicación": "La Unión se basa en el binomio TUE y TFUE, los cuales poseen el mismo valor jurídico[cite: 266, 267]."
+        }
+    ]
+}

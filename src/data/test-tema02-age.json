@@ -1,0 +1,526 @@
+{
+    "tema": "Tema 2. AGE: Regulación y estructura",
+    "preguntas": [
+        {
+            "numero": 1,
+            "enunciado": "De conformidad con lo establecido en el art. 2 de la Ley 50/1997, del Gobierno, corresponde al Presidente del Gobierno (señale la opción incorrecta):",
+            "opciones": {
+                "a": "Establecer el programa político del Gobierno y determinar las directrices de la política interior y exterior y velar por su cumplimiento.",
+                "b": "Plantear ante el Congreso de los Diputados, previa deliberación del Consejo de Ministros, la cuestión de confianza.",
+                "c": "Resolver los conflictos de atribuciones que puedan surgir entre los diferentes Ministerios.",
+                "d": "Crear, modificar y suprimir los órganos directivos de los Departamentos Ministeriales."
+            },
+            "status": "correcta",
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "La creación, modificación y supresión de los órganos directivos (Subsecretarías, Direcciones Generales, etc.) corresponde al Consejo de Ministros según el artículo 5.1.j de la Ley del Gobierno, no al Presidente."
+        },
+        {
+            "numero": 2,
+            "enunciado": "¿Puede el Presidente del Gobierno proponer al Rey la convocatoria de un referéndum consultivo?:",
+            "opciones": {
+                "a": "Sí, previa deliberación del Consejo de Ministros.",
+                "b": "No corresponde la convocatoria al Rey sino al propio Presidente del Gobierno.",
+                "c": "Sí, previa autorización del Congreso de los Diputados.",
+                "d": "Sí, previa consulta al Consejo de Estado."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 2.2.e de la Ley del Gobierno establece que el Presidente propone al Rey la convocatoria de un referéndum consultivo, pero requiere la autorización previa del Congreso de los Diputados."
+        },
+        {
+            "numero": 3,
+            "enunciado": "No corresponde al Presidente del Gobierno:",
+            "opciones": {
+                "a": "Nombrar a los Vicepresidentes del Gobierno y a los ministros.",
+                "b": "Refrendar los actos del Rey.",
+                "c": "Determinar las directrices de la política interior y exterior y velar por su cumplimiento.",
+                "d": "Interponer el recurso de inconstitucionalidad."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "Los Vicepresidentes y Ministros son nombrados por el Rey a propuesta del Presidente del Gobierno, por lo que el acto formal del nombramiento no es competencia directa del Presidente."
+        },
+        {
+            "numero": 4,
+            "enunciado": "De conformidad con lo establecido en la Ley del Gobierno, No es cierto que, en materia de su competencia, los Ministros:",
+            "opciones": {
+                "a": "Refrenden los actos del Rey.",
+                "b": "Ejerzan la potestad legislativa.",
+                "c": "Desarrollen la acción del Gobierno.",
+                "d": "Ejerzan la potestad reglamentaria."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "Los Ministros ejercen la potestad reglamentaria en las materias de su Departamento (Art. 4.1.b), pero la potestad legislativa reside originariamente en las Cortes Generales."
+        },
+        {
+            "numero": 5,
+            "enunciado": "De conformidad con lo establecido en la Ley de Gobierno, ¿a quién corresponde la creación, modificación y supresión de las Comisiones Delegadas del Gobierno?:",
+            "opciones": {
+                "a": "Al Presidente del Gobierno, a propuesta de los titulares de los Departamentos correspondientes.",
+                "b": "Al Rey, a propuesta del Presidente del Gobierno.",
+                "c": "Al Consejo de Ministros, a propuesta del Presidente del Gobierno.",
+                "d": "Al Presidente del Gobierno, tras deliberación del Consejo de Ministros."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 6.1 de la Ley del Gobierno especifica que el Consejo de Ministros es el órgano que acuerda la creación o modificación de estas comisiones mediante Real Decreto, siempre a propuesta del Presidente."
+        },
+        {
+            "numero": 6,
+            "enunciado": "De conformidad con lo establecido en el art. 5 de la Ley del Gobierno, No es función del Consejo de Ministros:",
+            "opciones": {
+                "a": "Declarar el estado de sitio.",
+                "b": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado.",
+                "c": "Aprobar los Reales Decretos-Leyes y los Reales Decretos Legislativos.",
+                "d": "Acordar la negociación y firma de Tratados Internacionales."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El Consejo de Ministros tiene la función de proponer al Congreso de los Diputados la declaración del estado de sitio (Art. 5.1.f), pero no puede declararlo por sí mismo."
+        },
+        {
+            "numero": 7,
+            "enunciado": "De conformidad con lo establecido en el art. 6 de la Ley del Gobierno, el Real Decreto de creación de una Comisión Delegada, deberá especificar, en todo caso:",
+            "opciones": {
+                "a": "Las funciones que se le atribuyen a la Comisión.",
+                "b": "El régimen de funcionamiento y en particular el de convocatorias y suplencias.",
+                "c": "Los miembros del Gobierno y, en su caso, el Secretario de Estado que la integran.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El Real Decreto de creación debe incluir obligatoriamente la presidencia, los miembros integrantes, funciones, secretaría y régimen de funcionamiento según establece el artículo 6.2 de la LG."
+        },
+        {
+            "numero": 8,
+            "enunciado": "Según la Ley del Gobierno, las disposiciones y resoluciones de los Ministros que afecten a varios departamentos, revestirán la forma de:",
+            "opciones": {
+                "a": "Acuerdo del Consejo de Ministros.",
+                "b": "Real Decreto del Consejo de Ministros.",
+                "c": "Orden del Ministro de la Presidencia.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 24.1.f indica que cuando una disposición ministerial afecta a varios Departamentos, se dicta como Orden del Ministro de la Presidencia a propuesta de los Ministros interesados."
+        },
+        {
+            "numero": 9,
+            "enunciado": "De conformidad con lo establecido en el artículo 10 de la Ley del Gobierno, los Gabinetes No son órganos de apoyo político y técnico de:",
+            "opciones": {
+                "a": "El Presidente del Gobierno.",
+                "b": "El Consejo de Ministros.",
+                "c": "Los Vicepresidentes.",
+                "d": "Los Secretarios de Estado."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "Los Gabinetes están vinculados a cargos individuales (Presidente, Vicepresidentes, Ministros y Secretarios de Estado), mientras que el Consejo de Ministros es un órgano colegiado apoyado por el Secretariado del Gobierno."
+        },
+        {
+            "numero": 10,
+            "enunciado": "Según lo establecido en la Ley del Gobierno, serán secretas (señale la opción incorrecta):",
+            "opciones": {
+                "a": "Las deliberaciones del Consejo de Ministros.",
+                "b": "Las deliberaciones de las Comisiones Delegadas del Gobierno.",
+                "c": "Las deliberaciones de la Comisión General de Secretarios del Estado y Subsecretarios.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "De acuerdo con el artículo 8.4 de la Ley del Gobierno, las deliberaciones de esta comisión son 'reservadas', a diferencia de las del Consejo y Comisiones Delegadas que son explícitamente 'secretas'."
+        },
+        {
+            "numero": 11,
+            "enunciado": "Los Secretarios de Estado son nombrados y separados por:",
+            "opciones": {
+                "a": "Real Decreto del Consejo de Ministros.",
+                "b": "Real Decreto del Presidente del Gobierno.",
+                "c": "Orden del Ministro a cuyo departamento pertenezcan.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El nombramiento de los Secretarios de Estado se realiza por Real Decreto del Consejo de Ministros a propuesta del Presidente o del Ministro correspondiente, según el artículo 15.1 de la LG."
+        },
+        {
+            "numero": 12,
+            "enunciado": "Según lo establecido en el art. 18 de la Ley del Gobierno, sobre las reuniones del Consejo de Ministros, señale la opción incorrecta:",
+            "opciones": {
+                "a": "Podrán tener carácter decisorio o deliberante.",
+                "b": "Serán convocadas y presididas por el Presidente del Gobierno.",
+                "c": "El orden del día de las reuniones se fijará por el Ministro de la Presidencia.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 18.3 especifica que el orden del día de las reuniones del Consejo de Ministros lo fija exclusivamente el Presidente del Gobierno."
+        },
+        {
+            "numero": 13,
+            "enunciado": "De conformidad con lo establecido en la Ley del Gobierno, el Gobierno cesa:",
+            "opciones": {
+                "a": "Tras la celebración de elecciones generales.",
+                "b": "En los casos de pérdida de confianza parlamentaria previstos en la Constitución.",
+                "c": "Por dimisión o fallecimiento de su Presidente.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 21.1 recoge estas tres situaciones (elecciones, pérdida de confianza y dimisión/fallecimiento del Presidente) como causas legales del cese del Gobierno."
+        },
+        {
+            "numero": 14,
+            "enunciado": "De conformidad con lo establecido en el art. 21 de la Ley del Gobierno, el Gobierno en funciones no podrá ejercer las siguientes facultades:",
+            "opciones": {
+                "a": "Crear o suprimir órganos directivos de los Ministerios.",
+                "b": "Disponer la emisión de deuda pública o contraer crédito, cuando haya sido autorizado por una Ley.",
+                "c": "Aprobar los reglamentos para el desarrollo y la ejecución de las leyes.",
+                "d": "Aprobar el Proyecto de Ley de Presupuestos Generales del Estado."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 21.5.a prohíbe explícitamente al Gobierno en funciones la aprobación del Proyecto de Ley de Presupuestos Generales del Estado."
+        },
+        {
+            "numero": 15,
+            "enunciado": "El Presidente del Gobierno en funciones no podrá:",
+            "opciones": {
+                "a": "Proponer al Rey la disolución de alguna de las Cámaras o de las Cortes Generales.",
+                "b": "Plantear la cuestión de confianza.",
+                "c": "Proponer al Rey la convocatoria de un referéndum consultivo.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 21.4 de la Ley del Gobierno limita estas tres facultades de especial calado político al Presidente que se encuentre en plenitud de funciones."
+        },
+        {
+            "numero": 16,
+            "enunciado": "Conforme al art. 24 de la Ley del Gobierno, 'las disposiciones y resoluciones de los Ministros' revisten la forma de:",
+            "opciones": {
+                "a": "Acuerdos del Consejo de Ministros.",
+                "b": "Órdenes Ministeriales.",
+                "c": "Reales Decretos acordados en Consejo de Ministros.",
+                "d": "Son correctas las opciones a) y b)"
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 24.1.f establece que los actos administrativos y normativos propios de los Ministros adoptan formalmente la denominación de Órdenes Ministeriales."
+        },
+        {
+            "numero": 17,
+            "enunciado": "Según el art. 3 de la Ley 40/2015, de Régimen Jurídico del Sector Público, uno de los principios de acuerdo con los que actúa la Administración Pública es el de Buena fe, confianza legítima y...:",
+            "opciones": {
+                "a": "Lealtad institucional.",
+                "b": "Proximidad a los ciudadanos.",
+                "c": "Servicio efectivo a los ciudadanos.",
+                "d": "Responsabilidad."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 3.1.e enumera conjuntamente los principios de buena fe, confianza legítima y lealtad institucional como guías de la actuación administrativa."
+        },
+        {
+            "numero": 18,
+            "enunciado": "Según el art. 3 de la Ley 40/2015, las administraciones públicas deberán respetar en su actuación y relaciones los siguientes principios generales (señale la opción correcta):",
+            "opciones": {
+                "a": "Igualdad, mérito, capacidad y publicidad.",
+                "b": "El acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013.",
+                "c": "Servicio efectivo a los ciudadanos.",
+                "d": "Jerarquía en la atribución, ordenación y desempeño de las funciones y tareas."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El servicio efectivo a los ciudadanos es el primer principio general enumerado en el artículo 3.1.a de la Ley 40/2015 para todas las Administraciones Públicas."
+        },
+        {
+            "numero": 19,
+            "enunciado": "Conforme al art. 55 de la Ley 40/2015, la Administración General del Estado comprende:",
+            "opciones": {
+                "a": "La Administración Central.",
+                "b": "La Organización Territorial.",
+                "c": "La Administración General del Estado en el exterior.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 55.2 estructura la AGE en tres niveles: la organización central (Ministerios), la territorial (Delegaciones del Gobierno) y la administración en el exterior."
+        },
+        {
+            "numero": 20,
+            "enunciado": "Son órganos superiores de la Organización Central:",
+            "opciones": {
+                "a": "Los Ministros y los Secretarios de Estado.",
+                "b": "Los Secretarios Generales Técnicos y Directores Generales.",
+                "c": "Los Subsecretarios y Secretarios Generales.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "Según el artículo 55.3, en la organización central solo ostentan la condición de órganos superiores los Ministros y los Secretarios de Estado; los demás son órganos directivos."
+        },
+        {
+            "numero": 21,
+            "enunciado": "De acuerdo con la literalidad del art. 56 de la Ley 40/2015, 'son los elementos organizativos básicos de las estructuras orgánicas':",
+            "opciones": {
+                "a": "Los órganos administrativos.",
+                "b": "Las unidades administrativas.",
+                "c": "Las relaciones de puestos de trabajo.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 56.1 define a las unidades administrativas como los elementos básicos de organización, que agrupan puestos de trabajo bajo una jefatura común."
+        },
+        {
+            "numero": 22,
+            "enunciado": "De conformidad con lo establecido en la Ley 40/2015, 'las Subsecretarías, las Secretarías Generales, las Secretarías Generales Técnicas, las Direcciones Generales y las Subdirecciones Generales, se crean, modifican y suprimen por':",
+            "opciones": {
+                "a": "Real Decreto del Presidente del Gobierno.",
+                "b": "Real Decreto del Consejo de Ministros.",
+                "c": "Orden del Ministro de Hacienda y Administraciones Públicas.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 59.1 establece que estos órganos de alto nivel se regulan por Real Decreto del Consejo de Ministros, a propuesta del Ministro de Hacienda e iniciativa del titular del Ministerio interesado."
+        },
+        {
+            "numero": 23,
+            "enunciado": "A los Ministros, como titulares del Departamento sobre el que ejercen su competencia, les corresponde:",
+            "opciones": {
+                "a": "Ejercer la iniciativa legislativa en las materias propias de su Departamento.",
+                "b": "Revisar de oficio los actos administrativos y resolver los conflictos de atribuciones cuando les corresponda, así como plantear los que procedan con otros Ministerios.",
+                "c": "Nombrar y separar a los Subdirectores Generales de la Secretaría de Estado.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "Esta competencia de revisión y resolución de conflictos está explícitamente atribuida a los Ministros en el artículo 61.j de la Ley 40/2015."
+        },
+        {
+            "numero": 24,
+            "enunciado": "De conformidad con lo establecido en la Ley 40/2015, 'ostentan la representación ordinaria del Ministerio':",
+            "opciones": {
+                "a": "Los Secretarios de Estado.",
+                "b": "Los Secretarios Generales.",
+                "c": "Los Subsecretarios.",
+                "d": "Los Secretarios Generales Técnicos."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 63.1 define al Subsecretario como el órgano encargado de la representación ordinaria del Departamento y de la jefatura de los servicios comunes."
+        },
+        {
+            "numero": 25,
+            "enunciado": "A tenor de lo establecido en la Ley 40/2015, 'los titulares de los órganos directivos encargados de la gestión de una o varias áreas funcionalmente homogéneas del Ministerio' son los:",
+            "opciones": {
+                "a": "Directores Generales.",
+                "b": "Subdirectores Generales.",
+                "c": "Secretarios Generales Técnicos.",
+                "d": "Subsecretarios."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 66.1 define a los Directores Generales precisamente como los titulares de órganos encargados de gestionar áreas con homogeneidad funcional."
+        },
+        {
+            "numero": 26,
+            "enunciado": "De conformidad con lo establecido en la Ley 40/2015, sobre la organización interna de los Ministerios, 'contarán en todo caso con':",
+            "opciones": {
+                "a": "Secretarías de Estado y Secretarías Generales, para la gestión de un sector de actividad administrativa.",
+                "b": "Una Subsecretaría y, dependiendo de ella, una Secretaría General Técnica, para la gestión de los servicios comunes previstos en el Titulo I.",
+                "c": "Direcciones Generales como órganos de gestión de una o varias áreas funcionalmente homogéneas.",
+                "d": "Secretarías de Estado y Secretarías Generales, para la gestión de un sector de actividad administrativa y una Subsecretaría, para la gestión de los servicios comunes."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 58.2 impone la existencia obligatoria de una Subsecretaría y una SGT en todos los Ministerios; la existencia de Secretarías de Estado o Generales es potestativa."
+        },
+        {
+            "numero": 27,
+            "enunciado": "En relación con la organización territorial de la Administración General del Estado, 'dirigirán y supervisarán la Administración General del Estado en el territorio de las respectivas Comunidades Autónomas':",
+            "opciones": {
+                "a": "Los Delegados del Gobierno.",
+                "b": "Los Subdelegados del Gobierno.",
+                "c": "Los Delegados del Gobierno en el ámbito de la Comunidad Autónoma y los Subdelegados del Gobierno en el ámbito de la provincia.",
+                "d": "Los respectivos Presidentes del Gobierno de las Comunidades Autónomas."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 72.2 asigna al Delegado del Gobierno la dirección y supervisión de la AGE en el ámbito autonómico, coordinándola con las administraciones propias del territorio."
+        },
+        {
+            "numero": 28,
+            "enunciado": "Según lo establecido en la Ley 40/2015, los Delegados del Gobierno son órganos directivos con rango de:",
+            "opciones": {
+                "a": "Subsecretario.",
+                "b": "Secretario General Técnico.",
+                "c": "Director General.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 72.3 especifica claramente que los Delegados del Gobierno tienen rango administrativo de Subsecretario."
+        },
+        {
+            "numero": 29,
+            "enunciado": "De conformidad con lo establecido en el art. 74 de la Ley 40/2015, sobre el nombramiento de los Subdelegados del Gobierno:",
+            "opciones": {
+                "a": "Serán nombrados por el procedimiento de libre designación entre funcionarios de carrera del Estado, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A2.",
+                "b": "Serán nombrados por el procedimiento de libre designación entre funcionarios de carrera del Estado o de las Comunidades Autónomas, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1 ο Α2.",
+                "c": "Serán nombrados por el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1.",
+                "d": "Serán nombrados por el procedimiento de libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1 o A2."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 74 exige que los Subdelegados sean funcionarios del subgrupo A1 de cualquiera de las tres administraciones públicas territoriales."
+        },
+        {
+            "numero": 30,
+            "enunciado": "La estructura de las Delegaciones y Subdelegaciones del Gobierno se fijará por:",
+            "opciones": {
+                "a": "Real Decreto del Presidente del Gobierno, a propuesta del Ministerio de la Presidencia.",
+                "b": "Real Decreto del Consejo de Ministros, a propuesta del Ministerio de la Presidencia.",
+                "c": "Orden del Ministro de la Presidencia.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "Según el artículo 76.1, se fija por Real Decreto del Consejo de Ministros a propuesta del Ministerio de Hacienda, opción que no figura en el listado previo."
+        },
+        {
+            "numero": 31,
+            "enunciado": "De acuerdo con lo establecido en el art. 69 de la Ley 40/2015, las Delegaciones del Gobierno están adscritas orgánicamente:",
+            "opciones": {
+                "a": "Al Ministerio de Hacienda.",
+                "b": "Al Ministerio de la Presidencia.",
+                "c": "Al Ministerio de Política Territorial.",
+                "d": "Ninguna de las opciones anteriores es correcta."
+            },
+            "respuesta_correcta": "a",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 69.3 establece la adscripción orgánica de todas las Delegaciones del Gobierno al Ministerio de Hacienda."
+        },
+        {
+            "numero": 32,
+            "enunciado": "Conforme a lo previsto en el art. 81 de la Ley 40/2015, 'las entidades que integran el sector público institucional están sometidas en su actuación a los principios de':",
+            "opciones": {
+                "a": "Eficiencia.",
+                "b": "Estabilidad presupuestaria y sostenibilidad financiera.",
+                "c": "Transparencia en su gestión.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 81.1 enumera estos principios (legalidad, eficiencia, estabilidad y transparencia) como marcos obligatorios para el sector público institucional."
+        },
+        {
+            "numero": 33,
+            "enunciado": "De acuerdo con la literalidad del art. 91 de la Ley 40/2015, 'la creación de los organismos públicos se efectuará por':",
+            "opciones": {
+                "a": "Ley orgánica.",
+                "b": "Ley ordinaria.",
+                "c": "Ley.",
+                "d": "Reglamento del propio organismo público."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 91.1 especifica que la creación de estos organismos debe realizarse por norma con rango de Ley, sin especificar el carácter de orgánica."
+        },
+        {
+            "numero": 34,
+            "enunciado": "De conformidad con lo establecido en la Ley 40/2015, sobre la organización y funcionamiento del sector público institucional estatal, 'los organismos públicos vinculados o dependientes de la Administración General del Estado son:",
+            "opciones": {
+                "a": "Los organismos autónomos.",
+                "b": "Las empresas públicas.",
+                "c": "Las agencias estatales.",
+                "d": "Las opciones a) y c) son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 84.1.a clasifica los organismos públicos en tres categorías: Organismos Autónomos, Entidades Públicas Empresariales y Agencias Estatales."
+        },
+        {
+            "numero": 35,
+            "enunciado": "Según el art. 3 de la Ley 40/2015, uno de los principios de acuerdo con los que actúa la Administración Pública es el de 'racionalización y agilidad de los procedimientos administrativos y...':",
+            "opciones": {
+                "a": "Las políticas públicas.",
+                "b": "Las actividades materiales de gestión.",
+                "c": "Las asignaciones de los recursos públicos.",
+                "d": "la evaluación de los resultados de las políticas públicas."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 3.1.d completa el principio mencionando la racionalización de los procedimientos y de las 'actividades materiales de gestión'."
+        },
+        {
+            "numero": 36,
+            "enunciado": "¿Cuál es el supremo órgano consultivo del Gobierno?:",
+            "opciones": {
+                "a": "El Consejo Económico y Social.",
+                "b": "El Consejo de Gobierno.",
+                "c": "El Consejo de Estado.",
+                "d": "El Consejo de Ministros."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "La Disposición adicional segunda de la Ley del Gobierno y la Constitución Española definen al Consejo de Estado como el supremo órgano consultivo gubernamental."
+        },
+        {
+            "numero": 37,
+            "enunciado": "Conforme a lo regulado en el art. 63 de la Ley 40/2015, No es competencia de los Subsecretarios:",
+            "opciones": {
+                "a": "Asistir al Ministro en el control de eficacia del Ministerio y sus Organismos Públicos.",
+                "b": "Desempeñar la jefatura superior de todo el personal del Departamento.",
+                "c": "Proponer las medidas de organización del Ministerio y dirigir el funcionamiento de los servicios comunes a través de las correspondientes instrucciones u órdenes de servicio.",
+                "d": "Resolver los recursos administrativos y declarar la lesividad de los actos administrativos cuando le corresponda."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "La resolución de recursos administrativos y la declaración de lesividad son funciones atribuidas legalmente a los Ministros (Art. 61.ñ y o)."
+        },
+        {
+            "numero": 38,
+            "enunciado": "De conformidad con lo establecido en el art. 55 de la Ley 40/2015, señale la respuesta correcta:",
+            "opciones": {
+                "a": "La organización de la Administración General del Estado responde a los principios de división funcional en Departamentos ministeriales y de gestión territorial integrada en Delegaciones del Gobierno.",
+                "b": "En la Administración General del Estado en el exterior son órganos directivos los embajadores y representantes permanentes.",
+                "c": "Corresponde a los órganos superiores establecer los planes de actuación de la organización y a los órganos directivos su desarrollo y ejecución.",
+                "d": "Todas las opciones anteriores son correctas."
+            },
+            "respuesta_correcta": "d",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 55 recoge en sus distintos apartados tanto los principios de división funcional como las categorías de órganos directivos en el exterior y el reparto de funciones planificación/ejecución."
+        },
+        {
+            "numero": 39,
+            "enunciado": "Conforme a la literalidad del art. 84.1 de la Ley 40/2015, conforman el sector público institucional las siguientes entidades (señale la opción incorrecta):",
+            "opciones": {
+                "a": "Los organismos públicos vinculados o dependientes de la Administración General del Estado.",
+                "b": "Las autoridades administrativas dependientes.",
+                "c": "Los consorcios.",
+                "d": "Las universidades públicas no transferidas."
+            },
+            "respuesta_correcta": "b",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El término correcto según el artículo 84.1.b es 'autoridades administrativas independientes', no dependientes."
+        },
+        {
+            "numero": 40,
+            "enunciado": "De conformidad con la literalidad del art. 55.bis de la Ley 40/2015, las personas titulares de las Secretarías de Estado y de los órganos directivos se nombrarán atendiendo al principio de representación equilibrada de forma que cada sexo:",
+            "opciones": {
+                "a": "No superen el 60% ni sean menos del 50% en el ámbito de cada departamento ministerial.",
+                "b": "No superen el 50% ni sean menos del 60% en el ámbito de cada departamento ministerial.",
+                "c": "No superen el 60% ni sean menos del 40% en el ámbito de cada departamento ministerial.",
+                "d": "No superen el 40% ni sean menos del 60% en el ámbito de cada departamento ministerial."
+            },
+            "respuesta_correcta": "c",
+            "tema": "Tema 2. AGE: Regulación y estructura",
+            "explicación": "El artículo 55 bis define la representación equilibrada como aquella en la que ningún sexo supera el 60% ni es inferior al 40% en cada departamento."
+        }
+    ]
+}
