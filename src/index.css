@@ -1,22 +1,33 @@
-/* MODERN VIBRANT THEME */
+/* ===============================================
+   DESIGN TOKENS & VARIABLES
+   =============================================== */
 :root {
-  --primary-color: #6366f1; /* Indigo 500 */
-  --primary-hover: #4f46e5; /* Indigo 600 */
-  --bg-dark: #0f172a; /* Slate 900 */
-  --bg-panel: #1e293b; /* Slate 800 */
-  --text-main: #f8fafc; /* Slate 50 */
-  --text-muted: #94a3b8; /* Slate 400 */
-  --accent-color: #ec4899; /* Pink 500 */
-  
+  --primary-color: #6366f1;
+  --primary-hover: #4f46e5;
+  --bg-dark: #0f172a;
+  --bg-panel: #1e293b;
+  --text-main: #f8fafc;
+  --text-light: #e2e8f0;
+  --text-muted: #94a3b8;
+  --accent-color: #ec4899;
+
   --glass-bg: rgba(30, 41, 59, 0.7);
   --glass-border: rgba(255, 255, 255, 0.1);
   --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
-  
+
   --transition-speed: 0.3s;
   --font-family: 'Inter', system-ui, -apple-system, sans-serif;
+
+  /* Sidebar */
+  --sidebar-width: 260px;
+  /* Mobile header height */
+  --mobile-header-height: 60px;
 }
 
-* {
+/* ===============================================
+   RESET
+   =============================================== */
+*, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -30,81 +41,180 @@ body {
   overflow-x: hidden;
 }
 
-/* LAYOUT STRUCTURE */
+/* ===============================================
+   LAYOUT — MOBILE FIRST (base: < 768px)
+   =============================================== */
 .app-container {
   display: flex;
   min-height: 100vh;
+  /* En móvil el sidebar sale del flujo normal (fixed) */
+  flex-direction: column;
 }
 
-.sidebar {
-  width: 260px;
-  background: var(--glass-bg);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border-right: 1px solid var(--glass-border);
-  padding: 2rem 1rem;
+/* ---- Mobile Header Bar ---- */
+.mobile-header {
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
   position: sticky;
   top: 0;
-  height: 100vh;
+  z-index: 200;
+  height: var(--mobile-header-height);
+  padding: 0 1.25rem;
+  background: rgba(15, 23, 42, 0.92);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--glass-border);
 }
 
-.sidebar-header {
-  margin-bottom: 3rem;
-  text-align: center;
-}
-
-.sidebar-header h2 {
-  font-size: 1.5rem;
+.mobile-header-title {
+  font-size: 1.2rem;
   font-weight: 800;
   background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  letter-spacing: 1px;
+}
+
+.hamburger-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--glass-border);
+  border-radius: 10px;
+  color: var(--text-main);
+  cursor: pointer;
+  transition: background var(--transition-speed);
+}
+
+.hamburger-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* ---- Sidebar Overlay (mobile backdrop) ---- */
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 300;
+  opacity: 0;
+  transition: opacity var(--transition-speed);
+}
+
+.sidebar-overlay.open {
+  display: block;
+  opacity: 1;
+}
+
+/* ---- Sidebar (Drawer en móvil) ---- */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: var(--sidebar-width);
+  height: 100%;
+  z-index: 400;
+  background: rgba(15, 23, 42, 0.97);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-right: 1px solid var(--glass-border);
+  padding: 1.5rem 1rem;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(-100%);
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow-y: auto;
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+
+.sidebar-header {
+  margin-bottom: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sidebar-header h2 {
+  font-size: 1.4rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 0.5px;
+}
+
+.sidebar-close-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all var(--transition-speed);
+}
+
+.sidebar-close-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-main);
 }
 
 .nav-links {
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0.4rem;
 }
 
 .nav-links li a {
   display: flex;
   align-items: center;
   gap: 1rem;
-  padding: 1rem 1.5rem;
+  padding: 0.9rem 1.25rem;
+  min-height: 48px;
   text-decoration: none;
   color: var(--text-muted);
   border-radius: 12px;
   transition: all var(--transition-speed) ease;
   font-weight: 500;
+  font-size: 0.95rem;
 }
 
 .nav-links li a:hover {
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 255, 255, 0.06);
   color: var(--text-main);
-  transform: translateX(5px);
 }
 
 .nav-links li a.active {
   background: linear-gradient(135deg, var(--primary-color), var(--primary-hover));
   color: white;
-  box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
+  box-shadow: 0 4px 15px rgba(99, 102, 241, 0.35);
 }
 
+/* ---- Main Content ---- */
 .main-content {
   flex: 1;
-  padding: 3rem;
+  padding: 1.5rem 1rem;
   overflow-y: auto;
+  min-width: 0; /* Evita overflow en flex children */
 }
 
-/* PAGE BASICS & ANIMATIONS */
+/* ===============================================
+   PAGE BASICS & ANIMATIONS
+   =============================================== */
 .page {
   max-width: 1200px;
   margin: 0 auto;
+  min-width: 0;
 }
 
 .fade-in {
@@ -112,71 +222,86 @@ body {
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 
 .page-header {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .page-header h1 {
-  font-size: 2.5rem;
+  font-size: 1.8rem;
   font-weight: 700;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.4rem;
+  word-break: break-word;
 }
 
 .page-header p {
   color: var(--text-muted);
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
-/* CARDS & GLASSMORPHISM */
+/* ===============================================
+   CARDS & GLASSMORPHISM
+   =============================================== */
 .card {
   background: var(--glass-bg);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid var(--glass-border);
   border-radius: 16px;
-  padding: 2rem;
+  padding: 1.25rem;
   box-shadow: var(--glass-shadow);
   transition: transform var(--transition-speed), box-shadow var(--transition-speed);
+  min-width: 0;
+}
+
+.glass-card {
+  background: var(--glass-bg);
 }
 
 .interactive-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-4px);
   box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
   border-color: rgba(255, 255, 255, 0.2);
 }
 
-/* DASHBOARD GRID */
+/* ===============================================
+   DASHBOARD GRID
+   =============================================== */
 .dashboard-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 2rem;
+  grid-template-columns: 1fr;
+  gap: 1rem;
 }
 
 .card-value {
-  font-size: 3rem;
+  font-size: 2.2rem;
   font-weight: 800;
-  margin-top: 1rem;
+  margin-top: 0.75rem;
   background: linear-gradient(135deg, #38bdf8, #818cf8);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  word-break: break-all;
 }
 
-/* BUTTONS */
+/* ===============================================
+   BUTTONS — Minimum 44px touch target
+   =============================================== */
 .btn-primary {
   background: linear-gradient(135deg, var(--primary-color), var(--primary-hover));
   color: white;
   border: none;
-  padding: 0.8rem 2rem;
+  padding: 0.75rem 1.5rem;
+  min-height: 44px;
   border-radius: 8px;
-  font-size: 1rem;
+  font-size: 0.95rem;
   font-weight: 600;
   cursor: pointer;
   transition: all var(--transition-speed);
   box-shadow: 0 4px 15px rgba(99, 102, 241, 0.3);
+  white-space: nowrap;
 }
 
 .btn-primary:hover {
@@ -184,13 +309,43 @@ body {
   box-shadow: 0 6px 20px rgba(99, 102, 241, 0.5);
 }
 
-/* SPECIFIC PAGE STYLES */
-.test-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
+.btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
 }
 
+.btn-option {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--glass-border);
+  color: var(--text-main);
+  padding: 0.85rem 1rem;
+  min-height: 44px;
+  border-radius: 12px;
+  font-size: 0.95rem;
+  text-align: left;
+  cursor: pointer;
+  transition: all var(--transition-speed);
+  word-break: break-word;
+}
+
+.btn-option:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: var(--primary-color);
+}
+
+/* ===============================================
+   SPECIFIC PAGE — SelectTest
+   =============================================== */
+.test-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+}
+
+/* ===============================================
+   SPECIFIC PAGE — ExecuteTest
+   =============================================== */
 .execution-card {
   max-width: 800px;
   margin: 0 auto;
@@ -198,10 +353,10 @@ body {
 
 .progress-bar-container {
   width: 100%;
-  height: 8px;
+  height: 6px;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 4px;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   overflow: hidden;
 }
 
@@ -212,44 +367,22 @@ body {
   transition: width 0.5s ease;
 }
 
-.question-count {
-  color: var(--text-muted);
-  margin-bottom: 1rem;
-  font-size: 0.9rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
 .question-text {
-  font-size: 1.8rem;
-  margin-bottom: 2rem;
-  line-height: 1.4;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  word-break: break-word;
 }
 
 .options-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1rem;
+  gap: 0.75rem;
 }
 
-.btn-option {
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid var(--glass-border);
-  color: var(--text-main);
-  padding: 1.2rem;
-  border-radius: 12px;
-  font-size: 1.1rem;
-  text-align: left;
-  cursor: pointer;
-  transition: all var(--transition-speed);
-}
-
-.btn-option:hover {
-  background: rgba(255, 255, 255, 0.1);
-  transform: scale(1.02);
-  border-color: var(--primary-color);
-}
-
+/* ===============================================
+   SPECIFIC PAGE — Results
+   =============================================== */
 .results-container {
   display: flex;
   justify-content: center;
@@ -262,22 +395,25 @@ body {
 }
 
 .score-circle {
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
   border: 8px solid var(--accent-color);
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 2rem auto;
+  margin: 1.5rem auto;
   box-shadow: 0 0 30px rgba(236, 72, 153, 0.3);
 }
 
 .score-value {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 800;
 }
 
+/* ===============================================
+   UTILITIES
+   =============================================== */
 .flex-center {
   display: flex;
   justify-content: center;
@@ -285,29 +421,6 @@ body {
 
 .mt-4 {
   margin-top: 1.5rem;
-}
-
-.stats-grid {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 2rem;
-}
-
-.placeholder-chart {
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-around;
-  height: 200px;
-  margin-top: 2rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid var(--glass-border);
-}
-
-.bar {
-  width: 15%;
-  background: linear-gradient(to top, var(--primary-color), #818cf8);
-  border-radius: 4px 4px 0 0;
-  transition: height 1s ease;
 }
 
 .stats-list {
@@ -320,4 +433,115 @@ body {
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+/* ===============================================
+   BREAKPOINT — TABLET (≥ 768px)
+   =============================================== */
+@media (min-width: 768px) {
+  .main-content {
+    padding: 2rem 1.5rem;
+  }
+
+  .page-header h1 {
+    font-size: 2.2rem;
+  }
+
+  .card {
+    padding: 1.75rem;
+  }
+
+  .dashboard-cards {
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .test-grid {
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .question-text {
+    font-size: 1.4rem;
+  }
+
+  .card-value {
+    font-size: 2.8rem;
+  }
+}
+
+/* ===============================================
+   BREAKPOINT — DESKTOP (≥ 1024px)
+   =============================================== */
+@media (min-width: 1024px) {
+  /* En desktop el sidebar vuelve al flujo normal */
+  .app-container {
+    flex-direction: row;
+  }
+
+  /* Ocultar cabecera móvil */
+  .mobile-header {
+    display: none;
+  }
+
+  /* El sidebar vuelve a ser sticky/permanente */
+  .sidebar {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    transform: none !important;
+    z-index: 1;
+    padding: 2rem 1rem;
+    /* Sin el 'fixed' de móvil, ya no necesitamos el overlay */
+  }
+
+  /* Ocultar botón de cerrar dentro del sidebar en desktop */
+  .sidebar-close-btn {
+    display: none;
+  }
+
+  /* Ocultar overlay en desktop */
+  .sidebar-overlay {
+    display: none !important;
+  }
+
+  .main-content {
+    padding: 3rem;
+  }
+
+  .page-header {
+    margin-bottom: 3rem;
+  }
+
+  .page-header h1 {
+    font-size: 2.5rem;
+  }
+
+  .card {
+    padding: 2rem;
+  }
+
+  .dashboard-cards {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+  }
+
+  .test-grid {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+
+  .question-text {
+    font-size: 1.6rem;
+  }
+
+  .card-value {
+    font-size: 3rem;
+  }
+
+  .nav-links li a:hover {
+    transform: translateX(4px);
+  }
 }
