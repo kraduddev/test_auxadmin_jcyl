@@ -1,0 +1,564 @@
+{
+  "tema": "Tema 6. Las Cortes de Castilla y León",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "De acuerdo con la literalidad del art. 21 de la Ley Orgánica 14/2007, de 30 de noviembre, de reforma del Estatuto de Autonomía de Castilla y León, los miembros de las Cortes de Castilla y León reciben la denominación tradicional de:",
+      "opciones": {
+        "a": "Procuradores.",
+        "b": "Diputados.",
+        "c": "Parlamentarios.",
+        "d": "Consejeros."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 21.1 del Estatuto de Autonomía establece explícitamente que los miembros de las Cortes reciben la denominación tradicional de Procuradores[cite: 32]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "La circunscripción electoral en las elecciones a miembros de las Cortes de Castilla y León es:",
+      "opciones": {
+        "a": "El partido judicial.",
+        "b": "La provincia.",
+        "c": "El municipio.",
+        "d": "La Comunidad Autónoma."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Según el artículo 21.2 del Estatuto, la circunscripción electoral para la elección de procuradores es la provincia[cite: 33]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "De conformidad con lo establecido en el art. 23 del Estatuto de Autonomía de Castilla y León, No es un órgano de las Cortes de Castilla y León:",
+      "opciones": {
+        "a": "La Mesa.",
+        "b": "El Presidente de la Junta de Castilla y León.",
+        "c": "La Diputación Permanente.",
+        "d": "El Presidente de las Cortes de Castilla y León."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El Presidente de la Junta es una de las instituciones básicas de la Comunidad, pero no forma parte de la estructura interna u órganos de las Cortes[cite: 19, 44]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "Siguiendo con lo establecido en el art. 23 del Estatuto de Autonomía de Castilla y León, las Cortes establecen su propio Reglamento, cuya aprobación y reforma requerirán:",
+      "opciones": {
+        "a": "Mayoría simple, en una votación final sobre su totalidad.",
+        "b": "Mayoría de dos tercios, en una votación final sobre su totalidad.",
+        "c": "Mayoría de tres quintos, en una votación final sobre su totalidad.",
+        "d": "Mayoría absoluta, en una votación final sobre su totalidad."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 23.4 determina que tanto la aprobación como la reforma del Reglamento requieren la mayoría absoluta en una votación final sobre su totalidad[cite: 54]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "Las Cortes de Castilla y León se reunirán en sesiones ordinarias y extraordinarias. Los periodos ordinarios de sesiones comprenderán:",
+      "opciones": {
+        "a": "Del 1 de febrero al 30 de junio el primero y del 1 de septiembre al 31 de diciembre el segundo.",
+        "b": "Del 1 de marzo al 30 de junio el primero y del 1 de septiembre al 31 de enero el segundo.",
+        "c": "Del 1 de septiembre al 31 de diciembre el primero y del 1 de febrero al 30 de junio el segundo.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El Reglamento y el Estatuto fijan dos periodos ordinarios: de septiembre a diciembre y de febrero a junio[cite: 57, 452]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "De acuerdo con el art. 23 de la Ley Orgánica 14/2007, de 30 de noviembre, de reforma del Estatuto de Autonomía de Castilla y León, las sesiones extraordinarias habrán de ser convocadas por:",
+      "opciones": {
+        "a": "El Presidente de las Cortes.",
+        "b": "El Presidente de la Junta.",
+        "c": "La Mesa de las Cortes.",
+        "d": "El Procurador del Común."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La convocatoria de sesiones extraordinarias es una facultad que corresponde al Presidente de las Cortes[cite: 58]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Siguiendo con este mismo artículo, las sesiones extraordinarias serán convocadas a petición de:",
+      "opciones": {
+        "a": "La Junta de Castilla y León.",
+        "b": "La Diputación Permanente.",
+        "c": "La mayoría absoluta de los procuradores.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 23.5 del Estatuto permite que la Junta, la Diputación Permanente o la mayoría absoluta de Procuradores soliciten una sesión extraordinaria[cite: 58]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Según el art. 24 de la Ley Orgánica 14/2007, de 30 de noviembre, de reforma del Estatuto de Autonomía de Castilla y León, No es competencia de las Cortes de Castilla y León:",
+      "opciones": {
+        "a": "Ejercer la potestad legislativa.",
+        "b": "Ejercer el gobierno de la Comunidad.",
+        "c": "Controlar la acción política y de gobierno de la Junta y de su Presidente.",
+        "d": "Interponer recursos de inconstitucionalidad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El ejercicio del gobierno y la función ejecutiva corresponden a la Junta de Castilla y León, mientras que las Cortes tienen funciones legislativas y de control[cite: 20, 61, 62]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "Conforme a lo dispuesto en el art. 25 de la Ley Orgánica 14/2007, de 30 de noviembre, de reforma del Estatuto de Autonomía de Castilla y León, la entrada en vigor de las Leyes de Castilla y León se rige:",
+      "opciones": {
+        "a": "Por la fecha de su aprobación por las Cortes de Castilla y León.",
+        "b": "Por la fecha de su publicación en el Boletín Oficial del Estado.",
+        "c": "Por la fecha de su publicación en el Boletín Oficial de Castilla y León.",
+        "d": "Por la fecha de su promulgación por el Presidente de las Cortes de Castilla y León."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Aunque se publiquen en ambos boletines, la fecha de publicación en el Boletín Oficial de Castilla y León es la que rige su entrada en vigor[cite: 102]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "De acuerdo con lo establecido en el art. 25 del Estatuto de Autonomía de Castilla y León, las Cortes podrán delegar en la Junta la potestad de dictar normas con rango de ley que a aquéllas competa. La delegación se efectuará:",
+      "opciones": {
+        "a": "Mediante ley ordinaria cuando su objeto sea la formación de textos articulados.",
+        "b": "Mediante ley de bases cuando se trate de refundir varios textos legales en uno solo.",
+        "c": "Mediante ley orgánica.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La norma establece ley de bases para textos articulados y ley ordinaria para refundir; las opciones 'a' y 'b' intercambian erróneamente estos instrumentos[cite: 89]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Según el art. 4 del Reglamento de las Cortes de Castilla y León, la constitución de las Cortes será comunicada por su Presidente:",
+      "opciones": {
+        "a": "Al Rey.",
+        "b": "Al Senado.",
+        "c": "Al Gobierno.",
+        "d": "A todos los anteriores y además a la Junta, en funciones, de Castilla y León."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El Reglamento exige informar de la constitución de la cámara al Rey, a las cámaras estatales, al Gobierno de la Nación y a la propia Junta de Castilla y León[cite: 1000]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "El supuesto de disolución anticipada de las Cortes de Castilla y León se contempla:",
+      "opciones": {
+        "a": "En la ley electoral.",
+        "b": "En el Reglamento de las Cortes de Castilla y León, exclusivamente.",
+        "c": "En el Estatuto de Autonomía de Castilla y León.",
+        "d": "En ninguna de las normas anteriores."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 37 del Estatuto de Autonomía regula la facultad del Presidente de la Junta para acordar la disolución anticipada[cite: 124, 125]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "De conformidad con lo establecido en el Estatuto de Autonomía de Castilla y León, el número mínimo de Procuradores que corresponde a cada circunscripción electoral es de:",
+      "opciones": {
+        "a": "5",
+        "b": "4",
+        "c": "3",
+        "d": "2"
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 21.2 del Estatuto asigna a cada provincia un número mínimo inicial de tres Procuradores[cite: 33]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "Según lo establecido en el Reglamento de las Cortes de Castilla y León, las sesiones, por regla general, se celebrarán en días de la semana comprendidos entre:",
+      "opciones": {
+        "a": "El lunes y el viernes, ambos inclusive.",
+        "b": "El lunes y el viernes, ambos excluidos.",
+        "c": "El lunes y el jueves, ambos inclusive.",
+        "d": "El martes y el viernes, ambos inclusive."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 68.1 del Reglamento establece que las sesiones se celebran habitualmente entre lunes y viernes inclusive[cite: 468]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "Dichas sesiones serán públicas, con las siguientes excepciones:",
+      "opciones": {
+        "a": "Cuando se traten de cuestiones concernientes al decoro de las Cortes o de sus miembros, o a la separación de un Procurador.",
+        "b": "Cuando se debatan propuestas, dictámenes, informes o conclusiones elaboradas en el seno de la Comisión de Procuradores o formuladas por una Comisión de Investigación.",
+        "c": "Cuando lo acuerde el Pleno por mayoría absoluta de sus miembros, a iniciativa de la Mesa de las Cortes, de la Junta de Castilla y León, de un Grupo Parlamentario o de la quinta parte de los miembros de las Cortes.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El Reglamento detalla estos supuestos específicos (decoro, ciertas comisiones o acuerdo por mayoría absoluta) como excepciones a la publicidad de las sesiones[cite: 473, 474, 475, 476]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Conforme a lo establecido en el Reglamento de las Cortes de Castilla y León, son derechos de los Procuradores:",
+      "opciones": {
+        "a": "Ostentar el tratamiento de ilustrísimos.",
+        "b": "Asistir con voz y voto a las sesiones del Pleno y a las sesiones de las Comisiones, incluso si no forman parte de éstas.",
+        "c": "Recibir las compensaciones e indemnizaciones por gastos que sean necesarias para el cumplimiento de sus funciones.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 8.2 del Reglamento garantiza el derecho a percibir compensaciones económicas para el desempeño de su labor parlamentaria[cite: 1029]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Conforme a lo establecido en el Reglamento de las Cortes de Castilla y León, son deberes de los Procuradores:",
+      "opciones": {
+        "a": "Asistir a las sesiones del Pleno de las Cortes y de las Comisiones de las que forman parte.",
+        "b": "Abstenerse de hacer uso de su condición de parlamentario para el ejercicio de actividad mercantil, industrial o profesional alguna.",
+        "c": "Efectuar declaración notarial de sus bienes patrimoniales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El Reglamento impone a los procuradores deberes de asistencia, incompatibilidad de actividades y transparencia patrimonial[cite: 1032, 1034, 1036]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Según lo establecido en el Estatuto de Autonomía de Castilla y León, en caso de extraordinaria y urgente necesidad, la Junta podrá dictar disposiciones legislativas provisionales que tomarán la forma de Decretos-leyes, que deberán ser convalidados o derogados por las Cortes de Castilla y León:",
+      "opciones": {
+        "a": "En un plazo de 20 días desde su promulgación, prorrogable en otros 20 días a petición motivada de la Junta.",
+        "b": "En un plazo improrrogable de 20 días desde su promulgación.",
+        "c": "En un plazo improrrogable de 30 días desde su promulgación.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 25.4 del Estatuto fija un plazo improrrogable de treinta días para la convalidación o derogación de los Decretos-leyes[cite: 99]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "Según dispone el Estatuto de Autonomía de Castilla y León, el procedimiento de tramitación de la moción de censura será regulado por:",
+      "opciones": {
+        "a": "Decreto del Presidente de la Junta de Castilla y León.",
+        "b": "Acuerdo de los Consejeros.",
+        "c": "El Reglamento de las Cortes de Castilla y León.",
+        "d": "Ley de Cortes de Castilla y León."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El Estatuto remite al Reglamento de la Cámara para el establecimiento de requisitos y la regulación del procedimiento de la moción de censura[cite: 115]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "De conformidad con lo establecido en el Estatuto de Autonomía sobre la moción de censura, señale la opción correcta:",
+      "opciones": {
+        "a": "Los firmantes de una moción de censura no podrán presentar otra durante el mismo periodo de sesiones.",
+        "b": "Los firmantes de una moción de censura no podrán presentar otra mientras no transcurra un año desde la presentación de aquélla, dentro de la misma legislatura.",
+        "c": "Si la Junta de Castilla y León aprueba una moción de censura, las Cortes cesarán.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Para evitar el uso abusivo, el artículo 36.3 prohíbe a los firmantes presentar una nueva moción hasta pasado un año dentro de la misma legislatura[cite: 121]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Conforme a lo establecido en el Reglamento de las Cortes de Castilla y León, la Mesa de las Cortes estará compuesta por:",
+      "opciones": {
+        "a": "El Presidente de la Junta de Castilla y León, 2 Vicepresidentes y 1 Secretario.",
+        "b": "El Presidente de las Cortes, 2 Vicepresidentes y 1 Secretario.",
+        "c": "El Presidente de la Junta de Castilla y León, 2 Vicepresidentes y 2 Secretarios.",
+        "d": "El Presidente de las Cortes, 2 Vicepresidentes y 3 Secretarios."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La Mesa, como órgano rector, está integrada por el Presidente de las Cortes, dos Vicepresidentes y tres Secretarios[cite: 150]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "No corresponde a la Mesa de las Cortes:",
+      "opciones": {
+        "a": "Elaborar el proyecto de presupuesto de las Cortes.",
+        "b": "Aprobar la plantilla del personal de las Cortes y las normas que regulen el acceso a la misma.",
+        "c": "Asignar los escaños en el salón de sesiones a los distintos Grupos Parlamentarios, una vez oída la Junta de Portavoces.",
+        "d": "Establecer el número de Comisiones Permanentes Legislativas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La fijación del número de Comisiones Permanentes Legislativas es una función específica de la Junta de Portavoces[cite: 251]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "De conformidad con lo establecido en el Reglamento de las Cortes de Castilla y León sobre la Junta de Portavoces, indique la respuesta incorrecta:",
+      "opciones": {
+        "a": "Se reunirá bajo la presidencia del Presidente de las Cortes.",
+        "b": "Se reunirá al menos dos veces al mes durante los periodos ordinarios de sesiones.",
+        "c": "La convocatoria se realizará por el Presidente de las Cortes a iniciativa propia, a petición de dos Grupos parlamentarios o de un quinto de los miembros de las Cortes.",
+        "d": "Deberán asistir a la Junta de Portavoces, al menos, un Vicepresidente, un Secretario de la Cámara y un Letrado de la misma."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La respuesta es incorrecta porque el Reglamento exige una reunión mínima mensual, no quincenal, durante los periodos de sesiones[cite: 238]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "Según lo establecido en el Reglamento de las Cortes de Castilla y León, No corresponde a la Junta de Portavoces:",
+      "opciones": {
+        "a": "Fijar el orden del día de los Plenos.",
+        "b": "Fijar el número de miembros de cada Grupo Parlamentario que deberán formar las Comisiones.",
+        "c": "Adoptar cuantas decisiones y medidas requieran la organización del trabajo y el régimen y gobierno interiores de las Cortes.",
+        "d": "Asignar los escaños, en el salón de sesiones, a los diferentes Grupos Parlamentarios."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Las decisiones sobre organización del trabajo y gobierno interior son competencia de la Mesa de las Cortes[cite: 156]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "De conformidad con lo establecido en el Reglamento de las Cortes de Castilla y León sobre las Comisiones, indique la opción incorrecta:",
+      "opciones": {
+        "a": "Estarán formadas por los miembros que designen los Grupos Parlamentarios en el número que respecto de cada uno indique la Mesa de las Cortes oída la Junta de Portavoces y en proporción a la importancia numérica de aquéllos en la Cámara.",
+        "b": "Todos los Grupos Parlamentarios tienen derecho a contar como mínimo con un representante en cada Comisión.",
+        "c": "Los miembros de la Junta de Castilla y León podrán asistir con voz y voto a las Comisiones, salvo que las sesiones tengan carácter secreto.",
+        "d": "Las Comisiones no podrán reunirse al mismo tiempo que el Pleno de las Cortes."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Los miembros de la Junta pueden asistir a las comisiones con voz para informar, pero no tienen derecho a voto en ellas[cite: 264]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "Conforme a lo establecido en el Reglamento de las Cortes de Castilla y León sobre el Pleno de las Cortes, indique la opción correcta:",
+      "opciones": {
+        "a": "Será convocado por su Presidente por propia iniciativa, o a solicitud, al menos, de dos Grupos Parlamentarios o de una quinta parte de los Procuradores de las Cortes, o a petición de la Junta de Castilla y León.",
+        "b": "Dentro de los periodos ordinarios de sesiones, se celebrarán, al menos, dos sesiones del Pleno cada mes, una en cada quincena.",
+        "c": "Además de las sesiones ordinarias, el Pleno de las Cortes celebrará sesiones de contenido monográfico sobre el Informe del Defensor del Pueblo.",
+        "d": "Los Procuradores tomarán asiento en el salón de sesiones conforme a su adscripción a Grupos Parlamentarios y ocuparán siempre el mismo escaño."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 53.1 del Reglamento obliga a los procuradores a sentarse por grupos y mantener siempre el mismo escaño asignado[cite: 374]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "De conformidad con lo establecido en el Estatuto de Autonomía de Castilla y León, el órgano de naturaleza especial al que corresponde velar por los poderes de la Cámara cuando ésta no está reunida se denomina:",
+      "opciones": {
+        "a": "Pleno de las Cortes.",
+        "b": "Comisiones Permanentes.",
+        "c": "Diputación Permanente.",
+        "d": "Comisiones no Permanentes."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La Diputación Permanente es el órgano encargado de salvaguardar las facultades de la cámara en periodos entre legislaturas o vacaciones[cite: 386]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "De conformidad con lo establecido en el Reglamento de las Cortes, la iniciativa legislativa ante las Cortes de Castilla y León corresponde:",
+      "opciones": {
+        "a": "A la Junta de Castilla y León.",
+        "b": "A los Procuradores.",
+        "c": "A los ciudadanos y a los Ayuntamientos, de acuerdo con lo establecido en la Ley reguladora de la iniciativa legislativa popular y de los Ayuntamientos de Castilla y León.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La iniciativa legislativa está repartida entre el ejecutivo regional, los parlamentarios, los ciudadanos y los municipios[cite: 663, 664, 665, 666]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "Conforme a lo dispuesto en el Reglamento de las Cortes de Castilla y León, los proyectos de ley son presentados por:",
+      "opciones": {
+        "a": "Los Grupos Parlamentarios.",
+        "b": "Una iniciativa legislativa popular.",
+        "c": "La Junta de Castilla y León.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Se denomina 'proyecto de ley' específicamente a la iniciativa legislativa que emana de la Junta de Castilla y León[cite: 668, 671]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "De acuerdo con lo establecido en el Reglamento de las Cortes de Castilla y León, estos proyectos de ley se tramitan:",
+      "opciones": {
+        "a": "En el Pleno de las Cortes.",
+        "b": "En la Mesa de las Cortes, oída la Junta de Portavoces.",
+        "c": "En la Comisión correspondiente.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Una vez publicados, el procedimiento legislativo ordinario implica su envío y tramitación en la comisión parlamentaria competente por materia[cite: 672]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "Según lo establecido en el Reglamento de las Cortes de Castilla y León, publicado un proyecto de ley, los procuradores y grupos parlamentarios tendrán un plazo para presentar enmiendas al mismo, que será de:",
+      "opciones": {
+        "a": "10 días.",
+        "b": "15 días.",
+        "c": "20 días.",
+        "d": "30 días."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 110.1 establece un plazo general de veinte días para la presentación de enmiendas tras la publicación del proyecto[cite: 674]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "De conformidad con lo establecido en el Reglamento de las Cortes de Castilla y León, las enmiendas que versen sobre la oportunidad, los principios o el espíritu del proyecto de ley y propongan bien la devolución de aquel a la Junta de Castilla y León o bien un texto completo alternativo al del proyecto de denominan:",
+      "opciones": {
+        "a": "Enmiendas a la totalidad.",
+        "b": "Enmiendas al articulado.",
+        "c": "Enmiendas de supresión.",
+        "d": "Enmiendas de sustitución."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Las enmiendas a la totalidad son las que cuestionan el proyecto en su conjunto, proponiendo su rechazo total o un texto alternativo[cite: 678]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "A tenor de lo dispuesto en el Reglamento de las Cortes de Castilla y León, las proposiciones de ley podrán presentarse:",
+      "opciones": {
+        "a": "Por la Junta de Castilla y León.",
+        "b": "Por un Grupo Parlamentario con la firma del Portavoz.",
+        "c": "Por un Procurador con la firma de otros doce Procuradores.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Las proposiciones pueden ser presentadas por un Grupo con su portavoz o por un procurador con el apoyo de otros once (doce en total)[cite: 761]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "Según lo establecido en el Reglamento de las Cortes de Castilla y León, la iniciativa de presentación de los proyectos y proposiciones de reforma estatutaria a la que se refiere el artículo 55 del Estatuto de Autonomía de Castilla y León corresponde a:",
+      "opciones": {
+        "a": "Las Cortes de Castilla y León, a propuesta de una tercera parte de los miembros de la misma.",
+        "b": "La Junta de Castilla y León.",
+        "c": "Las Cortes Generales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La reforma del Estatuto puede ser impulsada por las propias Cortes autonómicas, el Gobierno regional o las cámaras legislativas estatales[cite: 789]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "Dicha propuesta de reforma requerirá, en todo caso:",
+      "opciones": {
+        "a": "La aprobación de las Cortes de Castilla y León por mayoría de tres quintos y la posterior aprobación de las Cortes Generales mediante Ley Orgánica.",
+        "b": "La aprobación de las Cortes de Castilla y León por mayoría de dos tercios y la posterior aprobación de las Cortes Generales mediante Ley Ordinaria.",
+        "c": "La aprobación de las Cortes de Castilla y León por mayoría de tres quintos y la posterior aprobación de las Cortes Generales mediante Ley Ordinaria.",
+        "d": "La aprobación de las Cortes de Castilla y León por mayoría de dos tercios y la posterior aprobación de las Cortes Generales mediante Ley Orgánica."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El procedimiento exige una mayoría cualificada de dos tercios en la cámara autonómica y su aprobación definitiva como Ley Orgánica estatal[cite: 790]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "Si la propuesta de reforma no es aprobada por las Cortes de Castilla y León o por las Cortes Generales, no podrá ser sometida nuevamente a debate y votación de aquéllas hasta que haya transcurrido:",
+      "opciones": {
+        "a": "Al menos un periodo de sesiones ordinario.",
+        "b": "Más de un año.",
+        "c": "Al menos un año.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El Reglamento establece un periodo de espera de más de un año para volver a plantear una reforma que haya sido rechazada[cite: 791]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "De conformidad con lo establecido en el Reglamento de las Cortes de Castilla y León sobre la Diputación Permanente, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Al inicio de cada legislatura, la Mesa, previo acuerdo de la Junta de Portavoces, establecerá la constitución de la Diputación Permanente.",
+        "b": "Estará presidida por el Presidente de las Cortes de Castilla y León.",
+        "c": "Ningún Procurador que sea miembro de la Junta de Castilla y León podrá serlo de la Diputación Permanente.",
+        "d": "Corresponde a la Diputación Permanente velar por los poderes de la Cámara en los periodos de vacaciones parlamentarias, cuando las Cortes no estén reunidas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La opción es incorrecta porque esa norma de constitución al inicio de legislatura se refiere a las Comisiones Permanentes, no a la Diputación[cite: 306, 381]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "A tenor de lo establecido en el Reglamento de las Cortes respecto a la tramitación del Proyecto de Ley de Presupuestos de Castilla y León, señale la opción correcta:",
+      "opciones": {
+        "a": "El debate de totalidad del proyecto tendrá lugar en el Pleno de las Cortes.",
+        "b": "Gozará de preferencia en la tramitación con respecto a los demás trabajos de las Cortes.",
+        "c": "Las enmiendas al proyecto de Ley de Presupuestos que supongan minoración de ingresos requerirán la conformidad de la Junta de Castilla y León para su tramitación.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "La Ley de Presupuestos tiene un régimen especial con preferencia de trámite, debate de totalidad en Pleno y necesidad de acuerdo del ejecutivo para reducir ingresos[cite: 801, 803, 807]."
+    },
+    {
+      "numero": 39,
+      "enunciado": "Según el art. 21 del Estatuto de Autonomía de Castilla y León, las causas de inelegibilidad e incompatibilidad de los Procuradores, serán determinadas por:",
+      "opciones": {
+        "a": "La Ley de Incompatibilidades.",
+        "b": "Los poderes públicos.",
+        "c": "Las Cortes de Castilla y León.",
+        "d": "La legislación electoral."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El artículo 21.4 del Estatuto remite específicamente a la legislación electoral para fijar estas causas[cite: 35]."
+    },
+    {
+      "numero": 40,
+      "enunciado": "Según el art. 25 del Estatuto de Autonomía de Castilla y León, los decretos-leyes, desde su promulgación, deberán ser convalidados o derogados por:",
+      "opciones": {
+        "a": "El Tribunal Superior de Justicia de Castilla y León.",
+        "b": "La Junta de Castilla y León.",
+        "c": "Las Cortes de Castilla y León.",
+        "d": "No tienen que ser convalidados o derogados."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Al ser normas provisionales con rango de ley, deben ser necesariamente sometidas al control y ratificación de la asamblea legislativa[cite: 83, 99]."
+    },
+    {
+      "numero": 41,
+      "enunciado": "De conformidad con lo establecido en el art. 21 del Estatuto de Autonomía de Castilla y León, el mandato de los Procuradores termina:",
+      "opciones": {
+        "a": "Cuatro años después de su elección o el día de la celebración de las elecciones.",
+        "b": "Cuatro años después de su nombramiento o el día de la disolución de la Cámara.",
+        "c": "Cuatro años después de su elección o el día de la disolución de la Cámara.",
+        "d": "Cuatro años después de su nombramiento o el día de la celebración de las elecciones."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El mandato es de cuatro años, salvo que se produzca una disolución anticipada de las Cortes[cite: 36, 37]."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Conforme a lo establecido en el art. 22 del Estatuto de Autonomía de Castilla y León, que regula el estatuto de los Procuradores, señale la respuesta incorrecta:",
+      "opciones": {
+        "a": "Los Procuradores no están ligados por mandato imperativo alguno.",
+        "b": "Los Procuradores, aun después de haber cesado en su mandato, gozarán de inviolabilidad por los votos emitidos y las opiniones manifestadas en el ejercicio de sus funciones.",
+        "c": "Durante su mandato no podrán ser detenidos ni retenidos por presuntos actos delictivos cometidos en el territorio de la Comunidad, salvo en el caso de flagrante delito.",
+        "d": "Corresponde decidir, en todo caso, sobre su inculpación, prisión, procesamiento y juicio al Tribunal Supremo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "Es incorrecta porque el fuero penal de los procuradores corresponde al Tribunal Superior de Justicia de Castilla y León dentro del territorio de la Comunidad[cite: 41]."
+    },
+    {
+      "numero": 43,
+      "enunciado": "Conforme a lo establecido en el art. 25 del Estatuto de Autonomía de Castilla y León, el ejercicio de la iniciativa legislativa popular y de los Ayuntamientos, para aquellas materias que sean competencia de la Comunidad Autónoma, se regulará por:",
+      "opciones": {
+        "a": "Ley de las Cortes de Castilla y León.",
+        "b": "Ley de las Cortes Generales.",
+        "c": "Decreto legislativo.",
+        "d": "Decreto-ley."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 6. Las Cortes de Castilla y León",
+      "explicación": "El Estatuto reserva a una ley propia de las Cortes autonómicas la regulación de estas formas de participación legislativa[cite: 87]."
+    }
+  ]
+}
