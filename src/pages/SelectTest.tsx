@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { storageService } from '../services/storageService';
 import { statsService } from '../services/statsService';
-import type { Test, ActiveTest, ActiveQuestion } from '../models/types';
+import type { Test, ActiveTest, ActiveQuestion, Question } from '../models/types';
 import { Upload, Play, Settings, CheckSquare, Square, TrendingDown } from 'lucide-react';
 import PageHeader from '../components/PageHeader';
 
@@ -35,11 +35,8 @@ const SelectTest: React.FC = () => {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const navigate = useNavigate();
 
-  useEffect(() => {
-    loadTests();
-  }, []);
 
-  const loadTests = () => {
+  useEffect(() => {
     const storedTests = storageService.get<Test[]>('saved_tests') || [];
 
     // Cargar tests estáticos de la carpeta src/data dinámicamente
@@ -47,10 +44,10 @@ const SelectTest: React.FC = () => {
     const staticTests: Test[] = [];
 
     for (const path in dataModules) {
-      const module = dataModules[path] as any;
+      const module = dataModules[path] as { default?: unknown };
       const json = module.default || module;
-      // Una comprobación rápida de que al menos tiene la estructura base antes de hacer el push
-      if (json && typeof json === 'object' && json.tema && Array.isArray(json.preguntas)) {
+      const jsonObj = json as Record<string, unknown>;
+      if (jsonObj && typeof jsonObj === 'object' && jsonObj.tema && Array.isArray(jsonObj.preguntas)) {
         staticTests.push(json as Test);
       }
     }
@@ -62,22 +59,25 @@ const SelectTest: React.FC = () => {
 
     const combinedTests = Array.from(combinedMap.values());
 
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setTests(combinedTests);
-    // Seleccionar todos los temas por defecto para el test global
     setSelectedGlobalTopics(combinedTests.map(t => t.tema));
-  };
+  }, []);
 
-  const validateTest = (data: any): data is Test => {
-    if (!data.tema || typeof data.tema !== 'string') return false;
-    if (!Array.isArray(data.preguntas)) return false;
+  const validateTest = (data: unknown): data is Test => {
+    if (!data || typeof data !== 'object') return false;
+    const d = data as Record<string, unknown>;
+    if (!d.tema || typeof d.tema !== 'string') return false;
+    if (!Array.isArray(d.preguntas)) return false;
 
-    for (const q of data.preguntas) {
+    for (const q of d.preguntas as Record<string, unknown>[]) {
       if (typeof q.numero !== 'number') return false;
       if (typeof q.enunciado !== 'string') return false;
       if (!q.opciones || typeof q.opciones !== 'object') return false;
-      if (!q.opciones.a || !q.opciones.b || !q.opciones.c || !q.opciones.d) return false;
+      const opc = q.opciones as Record<string, unknown>;
+      if (!opc.a || !opc.b || !opc.c || !opc.d) return false;
       if (typeof q.respuesta_correcta !== 'string') return false;
-      if (typeof q.explicación !== 'string') return false;
+      if (typeof (q as Record<string, unknown>)['explicaci\u00f3n'] !== 'string') return false;
     }
     return true;
   };
@@ -95,7 +95,7 @@ const SelectTest: React.FC = () => {
         } else {
           alert('El archivo no tiene el formato de test válido.');
         }
-      } catch (error) {
+      } catch {
         alert('Error al leer el archivo JSON.');
       }
       if (fileInputRef.current) {
@@ -106,7 +106,7 @@ const SelectTest: React.FC = () => {
   };
 
   const saveTest = (newTest: Test) => {
-    let currentTests = storageService.get<Test[]>('saved_tests') || [];
+    const currentTests = storageService.get<Test[]>('saved_tests') || [];
 
     const existingIndex = currentTests.findIndex(t => t.tema === newTest.tema);
     if (existingIndex >= 0) {
@@ -201,7 +201,7 @@ const SelectTest: React.FC = () => {
   };
 
   // ----- GENERADOR COMÚN -----
-  const createAndNavigateTest = (title: string, questionsPool: any[], limit: number, tipoTest: 'tema' | 'aleatorio', temasIncluidos: string[]) => {
+  const createAndNavigateTest = (title: string, questionsPool: (Question & { tema?: string })[], limit: number, tipoTest: 'tema' | 'aleatorio', temasIncluidos: string[]) => {
     const shuffledQuestions = shuffleArray(questionsPool);
     const selectedQuestions = shuffledQuestions.slice(0, limit);
 
@@ -214,15 +214,17 @@ const SelectTest: React.FC = () => {
         texto: q.opciones[k]
       }));
 
-      const { opciones, ...questionData } = q;
+      // eslint-disable-next-line @typescript-eslint/no-unused-vars
+      const { opciones: _opciones, ...questionData } = q;
       return {
         ...questionData,
         opcionesAleatorias
       };
     });
 
+    const testId = crypto.randomUUID();
     const activeTest: ActiveTest = {
-      testId: crypto.randomUUID ? crypto.randomUUID() : Math.random().toString(),
+      testId,
       tema: title,
       tipoTest,
       temasIncluidos,
@@ -235,22 +237,22 @@ const SelectTest: React.FC = () => {
     navigate('/execute');
   };
 
-  const uploadAction = (<></>
-    // <>
-    //   <input
-    //     type="file"
-    //     accept=".json"
-    //     ref={fileInputRef}
-    //     style={{ display: 'none' }}
-    //     onChange={handleFileUpload}
-    //   />
-    //   <button
-    //     className="btn-primary row"
-    //     onClick={() => fileInputRef.current?.click()}
-    //   >
-    //     <Upload size={18} /> Cargar JSON
-    //   </button>
-    // </>
+  const uploadAction = (
+    <>
+      <input
+        type="file"
+        accept=".json"
+        ref={fileInputRef}
+        style={{ display: 'none' }}
+        onChange={handleFileUpload}
+      />
+      <button
+        className="btn-primary row"
+        onClick={() => fileInputRef.current?.click()}
+      >
+        <Upload size={18} /> Cargar JSON
+      </button>
+    </>
   );
 
   return (
