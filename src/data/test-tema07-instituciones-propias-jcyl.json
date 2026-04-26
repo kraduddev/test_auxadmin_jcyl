@@ -1,0 +1,486 @@
+{
+  "tema": "Tema 7. Instituciones propias de la JCyL",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El procedimiento para la elección del Procurador del Común, está regulado en:",
+      "opciones": {
+        "a": "La Ley Orgánica 14/2007, de 30 de noviembre.",
+        "b": "La Ley 2/2002, de 9 de abril.",
+        "c": "La Ley 2/1994, de 9 de marzo.",
+        "d": "La Constitución Española."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La Ley 2/1994 es la norma específica dictada por las Cortes de Castilla y León para regular la figura, composición y funcionamiento del Procurador del Común[cite: 14, 1027]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "Según lo establecido en la Ley 2/1994, de 9 de marzo, el Procurador del Común de Castilla y León:",
+      "opciones": {
+        "a": "Es el Alto Comisionado de las Cortes de Castilla y León, elegido por éstas, para un periodo de cinco años.",
+        "b": "No está sujeto a mandato imperativo alguno.",
+        "c": "No podrá ser reelegido para un segundo mandato.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El artículo 1.4 establece que actúa con independencia y no está sometido a mandato imperativo; el periodo de elección es de cuatro años y sí se permite una única reelección[cite: 35, 38, 39, 1032]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "Respecto a su relación con las Cortes de Castilla y León:",
+      "opciones": {
+        "a": "Se relacionará con éstas a través de una Comisión constituida con esta finalidad.",
+        "b": "En cualquier momento el Procurador del Común puede dirigirse a esta Comisión Parlamentaria y a su vez la Comisión puede solicitar su comparecencia para informar de asuntos de su competencia.",
+        "c": "Anualmente, presentará un informe a las Cortes sobre su actuación.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La ley establece que la relación con la Cámara se articula mediante una comisión específica, permitiendo comparecencias mutuas y la obligación de presentar un informe anual[cite: 40, 41, 47, 1040]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "Siguiendo con lo establecido en la Ley 2/1994, de 9 de marzo, sobre la elección de la institución del Procurador del Común, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Será elegido en sesión plenaria de las Cortes de Castilla y León, convocada por este motivo.",
+        "b": "La Comisión Parlamentaria presentará a la Mesa de las Cortes, en el plazo máximo de un mes, el candidato o los candidatos al cargo.",
+        "c": "La Mesa de las Cortes, de acuerdo con la Junta de Portavoces, elevará al Pleno de la Cámara, en el plazo de veinte días, el nombre de un candidato.",
+        "d": "El Procurador del Común de Castilla y León será elegido por mayoría de las tres quintas partes."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Es incorrecta porque el plazo para que la Mesa eleve el nombre del candidato al Pleno es de un mes, no de veinte días[cite: 74, 1046]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "De conformidad con lo establecido en el art. 8 de la Ley 2/1994, de 9 de marzo, el cargo de Procurador del Común es incompatible, en todo caso, con:",
+      "opciones": {
+        "a": "Cualquier cargo político o mandato representativo en el Estado, Comunidades Autónomas, Entes Locales, Unión Europea u Organismos Internacionales",
+        "b": "La afiliación o el ejercicio de funciones directivas o ejecutivas en los partidos políticos, sindicatos o asociaciones empresariales.",
+        "c": "El desempeño de funciones directivas en Asociaciones, Fundaciones y Colegios Profesionales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El régimen de incompatibilidades es muy estricto para garantizar la independencia, prohibiendo cargos políticos, mandatos representativos y funciones directivas en diversas organizaciones sociales[cite: 81, 82, 83, 85, 1056]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "Según el art. 17.1 de la Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, el Consejo deberá emitir su dictamen en el plazo de:",
+      "opciones": {
+        "a": "Diez días desde la recepción del expediente.",
+        "b": "Veinte días desde la recepción del expediente.",
+        "c": "Diez días desde la recepción de la petición.",
+        "d": "Veinte días desde la recepción de la petición."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La ley establece un plazo ordinario de veinte días para la emisión del dictamen, computados desde que se recibe el expediente completo[cite: 433, 1059]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Según la Ley 13/1990, de 28 de noviembre, del Consejo Económico y Social, No forma parte de dicho órgano:",
+      "opciones": {
+        "a": "Doce representantes de las Organizaciones Sindicales más representativas de la Comunidad Autónoma de Castilla y León.",
+        "b": "Seis expertos designados por el Presidente de la Junta de Castilla y León.",
+        "c": "Cuatro representantes de las Organizaciones Profesionales Agrarias de ámbito regional designados por ellas mismas.",
+        "d": "Un representante de las Cooperativas y Sociedades Anónimas Laborales designado por sus organizaciones de ámbito regional."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "De los seis expertos del tercer grupo, cuatro son designados por la Junta y dos por las Cortes; no son los seis designados por el Presidente[cite: 837, 1065]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Conforme al art. 18 del Estatuto de Autonomía de Castilla y León, las competencias, organización y funcionamiento del Procurador del Común se regularán por:",
+      "opciones": {
+        "a": "Un reglamento de las Cortes de Castilla y León.",
+        "b": "Un Decreto de la Junta de Castilla y León.",
+        "c": "Una Ley de las Cortes de Castilla y León.",
+        "d": "Un Real Decreto del Gobierno."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El Estatuto de Autonomía reserva a una ley autonómica la regulación de las instituciones propias de la Comunidad[cite: 13, 1072]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "Conforme a lo dispuesto en la Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, señale la opción incorrecta:",
+      "opciones": {
+        "a": "El Consejo Consultivo velará, en el ejercicio de sus funciones, por la observancia de la Constitución, del Estatuto de Autonomía de Castilla y León y de todo el ordenamiento jurídico.",
+        "b": "Sus dictámenes se fundamentarán en derecho, sin que puedan extenderse a valoraciones de oportunidad o conveniencia, salvo que así le sea expresamente solicitado por la autoridad consultante.",
+        "c": "Sus dictámenes serán vinculantes, salvo en los casos que así se establezca en las respectivas leyes.",
+        "d": "La consulta al Consejo Consultivo será preceptiva cuando así se establezca en las leyes, y facultativa en los demás casos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Es incorrecta porque la regla general es que los dictámenes no son vinculantes, a menos que una ley disponga lo contrario[cite: 271, 1080]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "De acuerdo con la literalidad del art. 11 de la Ley 2/1994, de 9 de marzo, señale la opción incorrecta:",
+      "opciones": {
+        "a": "El Procurador del Común podrá actuar en la protección y defensa de los derechos individuales y colectivos de los ciudadanos, de oficio o a instancia de parte.",
+        "b": "Podrán dirigirse al Procurador del Común de Castilla y León para solicitarle que actúe en relación con la queja que se formule, las personas físicas o jurídicas que manifiesten un interés legítimo relativo al objeto de la queja.",
+        "c": "No podrán presentarse quejas cuando hubiere transcurrido el plazo de dos años desde que el afectado tuvo conocimiento de la conducta o de los hechos susceptibles de motivar la queja.",
+        "d": "El Procurador del Común no investigará las quejas cuyo objeto se encuentre pendiente de resolución judicial."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La opción es falsa porque el plazo máximo para presentar una queja es de un año desde el conocimiento de los hechos, no dos[cite: 142, 1093]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Siguiendo con la institución del Procurador del Común, indique la opción correcta:",
+      "opciones": {
+        "a": "Sus decisiones y resoluciones, referentes a las quejas, serán susceptibles del recurso que proceda en vía administrativa o jurisdiccional.",
+        "b": "Una vez admitida la queja a trámite o iniciadas las actuaciones de oficio, el Procurador del Común de Castilla y León acordará las medidas que considere oportunas para su aclaración, pudiendo ponerlo en conocimiento del Órgano Administrativo, Entidad o Corporación afectados para que se le informe por escrito sobre la cuestión planteada en el plazo de quince días.",
+        "c": "Los que impidan la actuación del Procurador del Común Castilla y León de cualquier forma podrán incurrir en responsabilidad penal.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La ley contempla la posible responsabilidad penal para quienes obstaculicen su labor; sus decisiones no son recurribles y el plazo de informe administrativo es de un mes, no quince días[cite: 150, 153, 174, 1101]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "De conformidad con lo dispuesto en el art. 4 de la Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, No es una consulta preceptiva:",
+      "opciones": {
+        "a": "Los Anteproyectos de reforma del Estatuto de Autonomía elaborados por la Junta de Castilla y León.",
+        "b": "Los Anteproyectos de ley de presupuestos anuales de la Comunidad de Castilla y León.",
+        "c": "Los Acuerdos de cooperación con otras Comunidades Autónomas que requieran autorización de las Cortes Generales de acuerdo con lo previsto en la Constitución.",
+        "d": "Los Proyectos de legislación delegada."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La Ley exceptúa expresamente los anteproyectos de ley de presupuestos anuales de la obligación de ser dictaminados por el Consejo Consultivo[cite: 284, 1105]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "La Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, dispone en su art. 16 que los acuerdos del Consejo Consultivo se adoptarán por:",
+      "opciones": {
+        "a": "Mayoría simple de los votos de los asistentes. En caso de empate, decidirá el Presidente con su voto de calidad.",
+        "b": "Mayoría de dos tercios de los miembros asistentes, sin necesidad del voto de calidad del Presidente.",
+        "c": "Mayoría de tres quintos de los miembros asistentes a la reunión.",
+        "d": "Mayoría absoluta de votos de los asistentes. En caso de empate, decidirá el Presidente con su voto de calidad."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Los acuerdos requieren mayoría absoluta de los asistentes, otorgando al Presidente la capacidad de deshacer empates mediante voto de calidad[cite: 429, 430, 1114]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "De conformidad con lo establecido en la Ley 1/2002, de 9 de abril, sobre la composición del Consejo Consultivo de Castilla y León, señale la opción incorrecta:",
+      "opciones": {
+        "a": "El Consejo Consultivo está compuesto por Consejeros electivos y natos.",
+        "b": "Los Consejeros electivos serán tres y se designarán por las Cortes de Castilla y León.",
+        "c": "Son Consejeros natos del Consejo Consultivo los ex Presidentes de la Junta de Castilla y León que, habiendo accedido a dicha responsabilidad al comienzo de una legislatura autonómica, gocen de la condición de ciudadanos de Castilla y León.",
+        "d": "El mandato de los miembros natos será, con carácter general, ininterrumpido hasta los sesenta y cinco años."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Es incorrecta porque el mandato de los consejeros natos (ex presidentes) se prolonga, con carácter general, hasta los setenta años[cite: 328, 1125]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "De conformidad con lo establecido en el art. 9 de la Ley 1/2002, de 9 de abril, No es una función del Presidente del Consejo Consultivo de Castilla y León:",
+      "opciones": {
+        "a": "Ostentar la representación del Consejo.",
+        "b": "Autorizar con su firma los dictámenes emitidos por el Consejo.",
+        "c": "Presidir, convocar y fijar el orden del día de las sesiones.",
+        "d": "Aprobar la Memoria Anual del Consejo consultivo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La aprobación de la Memoria Anual es una competencia atribuida legalmente al Pleno del Consejo, no de forma individual a su Presidente[cite: 457, 1130]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Según lo establecido en el art. 11 de la Ley 1/2002, de 9 de abril, sobre las incompatibilidades de los miembros del Consejo Consultivo de Castilla y León:",
+      "opciones": {
+        "a": "Los Consejeros electivos que incurran en incompatibilidad apreciada por el Pleno del Consejo Consultivo serán cesados.",
+        "b": "Los Consejeros natos que incurran en incompatibilidad, apreciada por el Pleno del Consejo Consultivo, serán suspendidos de su condición de miembro del mismo hasta que dicha incompatibilidad desaparezca.",
+        "c": "Tanto los Consejeros electivos como los Consejeros natos, que incurran en incompatibilidad, apreciada por las Cortes de Castilla y León, serán cesados.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "En el caso de los consejeros natos, la incompatibilidad conlleva la suspensión temporal de su condición, mientras que para los electivos supone el cese apreciado por las Cortes[cite: 377, 378, 1134]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Conforme a lo establecido en el art. 19 de la Ley 1/2002, de 9 de abril, corresponde al Pleno del Consejo Consultivo de Castilla y León:",
+      "opciones": {
+        "a": "Emitir dictamen sobre los Anteproyectos de reforma del Estatuto de Autonomía elaborados por la Junta de Castilla y León y las proposiciones de reforma estatutaria que afecten a la protección y desarrollo de los derechos y deberes de los castellanos y leoneses con carácter previo a su toma en consideración.",
+        "b": "Emitir dictamen sobre los Recursos de inconstitucionalidad y conflictos de competencia con carácter previo a su interposición por la Junta de Castilla y León.",
+        "c": "La aprobación de la Memoria Anual del Consejo Consultivo.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El Pleno tiene reservadas las funciones de mayor relevancia institucional, incluyendo reformas estatutarias, conflictos constitucionales y la gestión de la propia memoria de la institución[cite: 451, 454, 457, 1141]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Conforme a lo establecido en el art. 20 de la Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, señale la opción correcta:",
+      "opciones": {
+        "a": "El Consejo Consultivo de Castilla y León, salvo para los asuntos que son competencia del Pleno, funcionará a través de Comisiones.",
+        "b": "Cada Comisión estará presidida por un Consejero con la asistencia de un letrado.",
+        "c": "El número de Comisiones, los Consejeros que las integran, y la distribución de los asuntos entre las mismas, se determinará por el Reglamento de las Cortes de Castilla y León.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Las opciones son incorrectas porque el Consejo funciona a través de 'Secciones', no de 'Comisiones', y su organización interna se determina en su propio Reglamento Orgánico[cite: 459, 465, 466, 1152]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "El art. 2.1 de la Ley 13/1990, de 28 de noviembre, del Consejo Económico y Social, establece que:",
+      "opciones": {
+        "a": "Es un órgano colegiado de carácter consultivo y asesor en materia socioeconómica de la Comunidad de Castilla y León, dotado de personalidad jurídica propia.",
+        "b": "Es un órgano colegiado de asesoramiento en materia socioeconómica de la Comunidad de Castilla y León, que carece de personalidad jurídica propia.",
+        "c": "Es un órgano de carácter consultivo en materia socioeconómica y laboral de la Comunidad de Castilla y León, dotado de personalidad jurídica única.",
+        "d": "Es un órgano asesor en materia socioeconómica, laboral y administrativa de la Comunidad de Castilla y León, que carece de personalidad jurídica propia."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La ley define al CES como un órgano con personalidad jurídica propia y funciones de consulta y asesoramiento en el ámbito socioeconómico regional[cite: 791, 1154]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Según lo establecido en la Ley 2/2002, de 9 de abril, reguladora del Consejo de Cuentas de Castilla y León, están sometidos a la fiscalización de esta institución:",
+      "opciones": {
+        "a": "La administración de las Cortes de Castilla y León, y de los órganos e instituciones dependientes de ellas.",
+        "b": "Las Entidades Locales del ámbito territorial de la Comunidad Autónoma.",
+        "c": "La Administración General de la Comunidad Autónoma y el resto de entidades del sector público autonómico.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El ámbito de actuación del Consejo de Cuentas abarca todo el sector público autonómico y local, incluyendo la propia administración de las Cortes[cite: 506, 512, 513, 1162]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "De conformidad con lo establecido en el art. 1 de la Ley 13/1990, de 28 de noviembre, del Consejo Económico y Social, la sede de esta institución se encuentra en:",
+      "opciones": {
+        "a": "Valladolid.",
+        "b": "Zamora.",
+        "c": "Palencia.",
+        "d": "León."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La Ley 13/1990 establece explícitamente que la sede del Consejo Económico y Social de Castilla y León se sitúa en Valladolid[cite: 782, 1019, 1164]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "De conformidad con lo establecido en la Ley 2/2002, de 9 de abril, sobre la función fiscalizadora del Consejo de Cuentas de Castilla y León, señale la opción incorrecta:",
+      "opciones": {
+        "a": "El Consejo de Cuentas realizará sus funciones de fiscalización conforme al Plan anual que elabore y someta a la aprobación de las Cortes de Castilla y León.",
+        "b": "Dicho Plan concretará todas las actuaciones a llevar a cabo durante el ejercicio correspondiente, incluyendo las relativas a la declaración definitiva de la Cuenta General de la Comunidad, las fiscalizaciones a realizar por mandato legal, y las fiscalizaciones especiales a realizar como consecuencia de la iniciativa fiscalizadora que corresponde al propio Consejo y a las Cortes de Castilla y León.",
+        "c": "En todo caso, el Plan anual establecerá también los criterios generales para la fiscalización de las subvenciones, créditos, avales y contratos en los que la aprobación del gasto corresponda a la Junta de Castilla y León.",
+        "d": "El Plan anual de fiscalizaciones podrá ser modificado a lo largo del año a que se refiera, por acuerdo del Consejo de Cuentas, a iniciativa propia o a propuesta de las Cortes de Castilla y León."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Es incorrecta porque la competencia para modificar el Plan anual corresponde a las Cortes de Castilla y León, no al propio Consejo de Cuentas[cite: 523, 1180]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Según lo establecido en el art. 14 de la Ley 2/2002, de 9 de abril, El Consejo de Cuentas cumplirá su función fiscalizadora mediante la emisión de informes. En sus informes, el Consejo de Cuentas se referirá a la observancia de:",
+      "opciones": {
+        "a": "La Constitución Española.",
+        "b": "El Estatuto de Autonomía.",
+        "c": "Las leyes reguladoras de los ingresos y los gastos de las entidades públicas y, en general, de las leyes que afecten a la actividad económico-financiera de las mismas.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El Consejo debe verificar la adecuación de la actividad económica del sector público a todo el bloque de legalidad, desde la Constitución hasta las normas financieras específicas[cite: 598, 1186]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "De acuerdo con la literalidad del art. 18 de la Ley 2/2002, de 9 de abril, el Consejo de Cuentas está integrado por los siguientes órganos:",
+      "opciones": {
+        "a": "El Presidente y los Consejeros.",
+        "b": "El Pleno, el Presidente y los Consejeros.",
+        "c": "El Pleno, el Presidente, los Vicepresidentes y los Consejeros.",
+        "d": "El Pleno, el Presidente, las Comisiones y los Consejeros."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La estructura orgánica básica del Consejo de Cuentas se compone del Pleno (órgano colegiado), el Presidente y los Consejeros[cite: 622, 1189]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "No corresponde al Pleno del Consejo de Cuentas:",
+      "opciones": {
+        "a": "Ejercer la función fiscalizadora.",
+        "b": "Elaborar y someter a la aprobación de las Cortes de Castilla y León el proyecto del Plan anual de fiscalizaciones.",
+        "c": "Aprobar el anteproyecto de presupuestos del Consejo y remitirlo a la Junta de Castilla y León.",
+        "d": "Aprobar los informes, memorias, dictámenes y otros documentos a que puedan dar lugar los procedimientos de fiscalización."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El anteproyecto de presupuestos, una vez aprobado por el Pleno, debe remitirse a las Cortes para su integración en los Presupuestos Generales, no a la Junta[cite: 658, 1197]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "Según lo establecido en el art. 3 de la Ley 13/1990, de 28 de noviembre, No corresponde al Consejo Económico y Social de Castilla y León:",
+      "opciones": {
+        "a": "Emitir, con carácter previo y preceptivo, informes sobre los anteproyectos de leyes relacionados con la política socioeconómica.",
+        "b": "Servir de cauce de participación de los interlocutores sociales en el debate de asuntos socioeconómicos.",
+        "c": "El examen y comprobación de la Cuenta General de la Comunidad Autónoma de Castilla y León.",
+        "d": "Formular propuestas a la Junta de Castilla y León sobre materias competencia de este Consejo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El examen de la Cuenta General es una competencia exclusiva del Consejo de Cuentas, no del Consejo Económico y Social[cite: 533, 1207]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "Respecto al nombramiento y mandato de los miembros del Consejo Económico y Social, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Los nombramientos y ceses se publicarán en el Boletín Oficial de Castilla y León.",
+        "b": "El nombramiento será por un periodo de cuatro años y solamente podrán ser reelegidos para un segundo mandato.",
+        "c": "La condición de miembro del Consejo no dará derecho a retribución económica.",
+        "d": "Los miembros del Consejo Económico y Social, en su condición de tales, no percibirán indemnización alguna, incluidas dietas y gastos de locomoción, por asistir a las reuniones de la institución a la que pertenecen ni por desempeñar las funciones propias de su condición de miembros."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Es incorrecta porque la ley permite la reelección de los miembros sin establecer explícitamente el límite de un único segundo mandato para los consejeros generales[cite: 863, 1212]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "Conforme a lo establecido en el art. 9 de la Ley 13/1990, de 28 de noviembre, el supremo órgano de decisión y formación de la voluntad del Consejo Económico y Social es:",
+      "opciones": {
+        "a": "El Presidente.",
+        "b": "El Pleno.",
+        "c": "La Comisión Permanente.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El Pleno es el órgano máximo del CES, donde reside la voluntad de la institución y se adoptan los acuerdos principales[cite: 897, 898, 1218]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "De conformidad con lo establecido en el art. 10 de la Ley 13/1990, de 28 de noviembre, el Pleno del Consejo Económico y Social:",
+      "opciones": {
+        "a": "Se reunirá, previa convocatoria de su Presidente, al menos una vez al semestre.",
+        "b": "Asimismo, podrá reunirse con carácter extraordinario a iniciativa del Presidente, de la Comisión Permanente o de una quinta parte de sus miembros.",
+        "c": "Quedará válidamente constituido en primera convocatoria cuando asistan dos tercios de sus miembros, y, en segunda convocatoria con la asistencia, como mínimo, de la mitad más uno de sus componentes.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La ley establece este quórum específico para la constitución válida del Pleno; las sesiones ordinarias deben ser al menos trimestrales y las extraordinarias requieren un tercio de miembros[cite: 907, 908, 909, 1227]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "De conformidad con lo establecido en el art. 13 de la Ley 13/1990, de 28 de noviembre, el Presidente del Consejo Económico y Social:",
+      "opciones": {
+        "a": "Será nombrado, de entre los miembros del Consejo, por las Cortes de Castilla y León por mayoría absoluta, a propuesta de, al menos, tres quintos del Consejo.",
+        "b": "El Presidente de la Junta de Castilla y León acreditará con su firma el nombramiento y cese del Presidente del Consejo Económico y Social, que se publicará en el Boletín Oficial de Castilla y León.",
+        "c": "El mandato del Presidente tendrá la misma duración que el de los miembros del Consejo y solo podrá ser reelegido para un segundo mandato.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El Presidente tiene un mandato de cuatro años y una limitación de dos mandatos; es nombrado por las Cortes a propuesta de dos tercios del Consejo[cite: 922, 924, 925, 1239]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "De acuerdo a lo establecido en el art. 13 de la Ley 13/1990, de 28 de noviembre, No es una función específica del Presidente del Consejo Económico y Social:",
+      "opciones": {
+        "a": "Ostentar la representación del Consejo.",
+        "b": "Nombrar y cesar a los Vicepresidentes del Consejo.",
+        "c": "Dirimir los empates con voto de calidad.",
+        "d": "Dirigir los servicios técnicos y administrativos del Consejo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Los Vicepresidentes no son nombrados libremente por el Presidente, sino que son elegidos por el Pleno de entre sus miembros[cite: 956, 1243]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "De acuerdo con la literalidad del art. 8 de la Ley 13/1990, de 28 de noviembre, No es un órgano del Consejo Económico y Social:",
+      "opciones": {
+        "a": "El Pleno.",
+        "b": "La Comisión Permanente.",
+        "c": "El Presidente.",
+        "d": "El Grupo de Enlace."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El Grupo de Enlace es un instrumento de conexión con la sociedad civil, pero el artículo 8 no lo incluye en la lista formal de órganos del Consejo[cite: 889, 895, 1250]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "Según lo dispuesto en el art. 8 de la Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León, sobre el Presidente del Consejo, señale la opción correcta:",
+      "opciones": {
+        "a": "Será nombrado por las Cortes de Castilla y León por mayoría absoluta, a propuesta del Pleno del Consejo de entre sus miembros electivos.",
+        "b": "Su mandato tendrá la misma duración que el de los Consejeros y solo podrá ser reelegido para un segundo mandato.",
+        "c": "Perderá su condición de Presidente por la pérdida de la condición de miembro del Consejo.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El régimen del Presidente del Consejo Consultivo incluye su elección parlamentaria, la duración limitada del mandato y las causas de cese vinculadas a su condición de consejero[cite: 333, 335, 336, 337, 1257]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "De conformidad con lo establecido en el art. 12 de la Ley 1/2002, de 9 de abril, los miembros del Consejo Consultivo perderán su condición de Consejero por:",
+      "opciones": {
+        "a": "La pérdida de la condición política de ciudadano de Castilla y León.",
+        "b": "Incumplimiento de las obligaciones del cargo apreciado por las Cortes de Castilla y León.",
+        "c": "Por extinción del mandato al expirar el plazo, sin perjuicio de su posible reelección.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La ley detalla múltiples causas para la pérdida de la condición, incluyendo motivos personales, sancionadores y temporales[cite: 391, 394, 396, 399, 1267]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "A tenor de lo dispuesto en el art. 16 de la Ley 1/2002, de 9 de abril, sobre la aprobación de los dictámenes del Consejo Consultivo, señale la opción correcta:",
+      "opciones": {
+        "a": "Los acuerdos se adoptarán por mayoría absoluta de votos de los miembros del Consejo.",
+        "b": "En caso de empate, se repetirá la votación y será suficiente la mayoría simple de votos de los asistentes.",
+        "c": "Quienes discrepen del acuerdo mayoritario podrán formular voto particular por escrito que se incorporará al dictamen.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "Se reconoce el derecho a formular votos particulares discrepantes; los acuerdos se toman por mayoría de los 'asistentes', no del total de 'miembros', y decide el voto de calidad[cite: 429, 430, 431, 1272]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "Conforme la literalidad del art. 90 del Estatuto de Autonomía de Castilla y León, las competencias, organización y funcionamiento del Consejo de Cuentas se regularán por:",
+      "opciones": {
+        "a": "Un reglamento de las Cortes de Castilla y León.",
+        "b": "Un Decreto de la Junta de Castilla y León.",
+        "c": "Una Ley de Cortes.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "El Estatuto de Autonomía exige rango de Ley de las Cortes de Castilla y León para regular sus instituciones propias[cite: 13, 1277]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "La sede del Consejo Consultivo de Castilla y León se encuentra en:",
+      "opciones": {
+        "a": "León.",
+        "b": "Palencia.",
+        "c": "Valladolid.",
+        "d": "Zamora."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 7. Instituciones propias de la JCyL",
+      "explicación": "La sede institucional del Consejo Consultivo de Castilla y León está fijada en la ciudad de Zamora[cite: 1019, 1283]."
+    }
+  ]
+}
