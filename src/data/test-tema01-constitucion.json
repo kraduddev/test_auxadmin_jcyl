@@ -1,0 +1,395 @@
+{
+  "tema": "Tema 1. La Constitución Española",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Cuáles son los valores superiores del ordenamiento jurídico del Estado español propugnados por la Constitución Española de 1978? Señale la respuesta correcta:",
+      "opciones": {
+        "a": "La libertad, la justicia y la igualdad.",
+        "b": "La libertad, la justicia, la igualdad y el pluralismo político.",
+        "c": "La justicia, la igualdad, el pluralismo político y la pluralidad de las normas.",
+        "d": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas y la igualdad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 1.1 de la Constitución establece explícitamente que España propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político [1, 2]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿En qué fecha fue publicada la Constitución Española en el Boletín Oficial del Estado?:",
+      "opciones": {
+        "a": "El 6 de diciembre de 1978.",
+        "b": "El 27 de diciembre de 1978.",
+        "c": "El 29 de diciembre de 1978.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El texto de la Constitución Española fue publicado oficialmente en el BOE el 29 de diciembre de 1978 [2, 3]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Quién aprobó la Constitución Española? Señale la respuesta correcta:",
+      "opciones": {
+        "a": "El Rey.",
+        "b": "El pueblo español.",
+        "c": "Las Cortes Generales.",
+        "d": "El Congreso de los Diputados."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El texto definitivo de la Constitución fue aprobado de manera conjunta por las Cortes Generales (Congreso de los Diputados y Senado) el 31 de octubre de 1978 [2, 3]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Quién ratificó la Constitución Española de 1978? Señale la respuesta correcta:",
+      "opciones": {
+        "a": "El pueblo español.",
+        "b": "Las Cortes Generales.",
+        "c": "El Rey.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "La Constitución de 1978 fue ratificada por el pueblo español a través del referéndum celebrado el 6 de diciembre de 1978 [3, 4]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué parte de la Constitución Española no tiene fuerza jurídica?:",
+      "opciones": {
+        "a": "Todas las partes de la Constitución Española tienen fuerza jurídica.",
+        "b": "Las disposiciones adicionales.",
+        "c": "El Título Preliminar.",
+        "d": "El Preámbulo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El Preámbulo de la Constitución tiene un valor puramente declarativo y no preceptivo; su contenido carece de fuerza jurídica directa para fundamentar pretensiones ante tribunales [4, 5]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿A qué materia está dedicado el Título IV de la Constitución Española?:",
+      "opciones": {
+        "a": "A las Cortes Generales.",
+        "b": "Al Gobierno.",
+        "c": "Al Gobierno y a las Cortes Generales.",
+        "d": "Al Gobierno y a la Administración."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El Título IV de la Constitución Española de 1978 Ileva expresamente por rúbrica 'Del Gobierno y de la Administración' [5, 6]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cuántas disposiciones adicionales tiene la Constitución Española de 1978?:",
+      "opciones": {
+        "a": "Nueve.",
+        "b": "Cinco.",
+        "c": "Cuatro.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El texto constitucional se complementa con cuatro disposiciones adicionales, nueve transitorias, una derogatoria y una disposición final [3, 6]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "De conformidad con lo establecido en el artículo 1 de la Constitución Española, ¿en qué tipo de Estado se constituye el Estado español?:",
+      "opciones": {
+        "a": "Social, libre y de derecho.",
+        "b": "Social, democrático y de derecho.",
+        "c": "Social, democrático y capitalista.",
+        "d": "La constitución del Estado español no se recoge en el artículo citado en el enunciado de la pregunta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 1.1 dictamina claramente que España se constituye en un Estado social y democrático de Derecho [3, 6]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "De conformidad con lo establecido en el artículo 1.3 de la Constitución Española, ¿cuál es la forma política del Estado español?:",
+      "opciones": {
+        "a": "Estado democrático.",
+        "b": "Estado social y democrático de derecho.",
+        "c": "Monarquía parlamentaria.",
+        "d": "Estado constitucional y democrático."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 1.3 señala sin lugar a dudas que la forma política del Estado español es la Monarquía parlamentaria [7, 8]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "De conformidad con lo establecido en el artículo 8 de la Constitución Española, ¿a quién le corresponde la defensa del ordenamiento constitucional?:",
+      "opciones": {
+        "a": "Al Tribunal Constitucional.",
+        "b": "A las Fuerzas Armadas.",
+        "c": "A las Cortes Generales.",
+        "d": "Al Gobierno."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 8 confía a las Fuerzas Armadas la misión de garantizar la soberanía e independencia de España, así como defender su integridad territorial y su ordenamiento constitucional [7, 8]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Según lo establecido en el artículo 9 de la Constitución Española, ¿a qué están sujetos los poderes públicos y los ciudadanos?:",
+      "opciones": {
+        "a": "A la Constitución y a la Ley.",
+        "b": "A la ley y al ordenamiento jurídico.",
+        "c": "A la Constitución y al resto del ordenamiento jurídico.",
+        "d": "A la Constitución, a la ley y al resto del ordenamiento jurídico."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 9.1 establece que tanto los ciudadanos como los poderes públicos están sujetos plenamente a la Constitución y al resto del ordenamiento jurídico [9, 10]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿En qué fecha fue aprobada la Constitución Española de 1978?:",
+      "opciones": {
+        "a": "El 31 de octubre de 1978.",
+        "b": "El 6 de diciembre de 1978.",
+        "c": "El 30 de noviembre de 1978.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "La aprobación de la Constitución por parte de las Cortes Generales se llevó a cabo formalmente el 31 de octubre de 1978 [11, 12]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "Según lo establecido en el artículo 10 de la Constitución Española, ¿a qué edad se alcanza la mayoría de edad?:",
+      "opciones": {
+        "a": "A los dieciocho años.",
+        "b": "A los dieciocho años, pero no se regula en el artículo 10 sino en el artículo 15.",
+        "c": "A los dieciocho años, pero no se regula en el artículo 10.",
+        "d": "A los dieciocho años, pero se regula en el artículo 18."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "Aunque la mayoría de edad se fija a los 18 años, esta condición jurídica no está regulada en el artículo 10 de la Constitución, sino en el artículo 12 [13, 14]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "El artículo 20 de la Constitución Española de 1978:",
+      "opciones": {
+        "a": "Determina que toda persona tiene derecho a la libertad y a la seguridad.",
+        "b": "Garantiza la libertad ideológica, religiosa y de culto...",
+        "c": "Protege y reconoce la libertad de cátedra.",
+        "d": "Reconoce el derecho de reunión pacífica y sin armas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 20.1.c) es el que protege de forma específica y reconoce el derecho a la libertad de cátedra [13, 14]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "De conformidad con el artículo 25 de la Constitución Española, la Administración Civil:",
+      "opciones": {
+        "a": "Podrá imponer sanciones que, subsidiariamente, impliquen privación de libertad.",
+        "b": "Podrá imponer sanciones de reeducación y reinserción social.",
+        "c": "No podrá imponer sanciones pecuniarias.",
+        "d": "No podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 25.3 veta expresamente a la Administración Civil la posibilidad de imponer sanciones que impliquen de forma directa o subsidiaria cualquier privación de libertad [13, 14]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "El derecho de asociación:",
+      "opciones": {
+        "a": "Podrá suspenderse cuando se declare el estado de excepción.",
+        "b": "Podrá suspenderse cuando se declare el estado de sitio.",
+        "c": "Podrá suspenderse cuando se declare el estado de excepción o de sitio.",
+        "d": "Solo podrá suspenderse en virtud de resolución judicial motivada."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "Según el artículo 22.4 de la Constitución, las asociaciones únicamente pueden disolverse o suspenderse en sus actividades a través de una resolución judicial que esté debidamente motivada [15, 16]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Cuántos artículos tiene la Constitución Española de 1978?:",
+      "opciones": {
+        "a": "159.",
+        "b": "165.",
+        "c": "168.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "Ninguna de las cifras dadas es correcta, puesto que el texto de la Constitución Española consta oficialmente de 169 artículos [15, 16]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "La organización territorial del Estado está regulada en nuestra Constitución en el Título:",
+      "opciones": {
+        "a": "V",
+        "b": "VI",
+        "c": "VII",
+        "d": "VIII"
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "Todo lo relativo a la organización territorial del Estado (incluyendo municipios, provincias y comunidades autónomas) está regulado íntegramente en el Título VIII [17, 18]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "La igualdad de los españoles ante la ley, está recogida en nuestra Constitución:",
+      "opciones": {
+        "a": "En el artículo 13.",
+        "b": "En el artículo 14.",
+        "c": "En el artículo 15.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El precepto que establece la igualdad ante la ley de todos los españoles y prohíbe cualquier tipo de discriminación es el artículo 14 [17, 18]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Los principios rectores de la política social y económica, están regulados en nuestra Constitución Española, en el/la:",
+      "opciones": {
+        "a": "Capítulo I del Título I.",
+        "b": "Capítulo II del Título I.",
+        "c": "Capítulo III del Título I.",
+        "d": "Sección segunda del Capítulo II del Título I."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "Estos principios orientadores se localizan de manera estructurada en el Capítulo III correspondiente al Título I de la Carta Magna [19, 20]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "De conformidad con lo establecido en el artículo 59 de la Constitución Española, la Regencia se ejercerá por mandato:",
+      "opciones": {
+        "a": "Institucional y siempre en nombre del propio Regente.",
+        "b": "Institucional y siempre en nombre del Rey.",
+        "c": "Constitucional y siempre en nombre del Rey.",
+        "d": "Constitucional y siempre en nombre de las Cortes Generales."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "La Constitución marca en su artículo 59.5 que la Regencia siempre se ejercerá por mandato constitucional y en representación o en nombre del Rey [21, 22]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Según el artículo 59.3 de la Constitución Española, si no hubiere ninguna persona a quien corresponda la Regencia:",
+      "opciones": {
+        "a": "Ésta será nombrada por el Consejo de Ministros, y se compondrá de tres personas.",
+        "b": "Ésta será nombrada por las Cortes Generales, y se compondrá de una, tres o cinco personas.",
+        "c": "Ésta será nombrada por las Cortes Generales, y se compondrá de cuatro personas.",
+        "d": "Ésta será nombrada por la mayoría absoluta del Congreso de los Diputados, y se compondrá de una, tres o cinco personas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "Si se agota la línea de quienes pueden asumir la Regencia, el artículo 59.3 indica que las Cortes Generales serán las encargadas de nombrarla y estará compuesta por 1, 3 o 5 individuos [21, 22]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "De conformidad con lo establecido en el artículo 60 de la Constitución Española, será tutor del Rey menor de edad:",
+      "opciones": {
+        "a": "El hermano de mayor edad.",
+        "b": "El ascendente directo de menor edad.",
+        "c": "La persona que en su testamento hubiese nombrado el Rey difunto.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "Para el nombramiento de tutor en caso de minoría de edad del Rey, el artículo 60.1 prefiere y establece como primera opción a la persona designada en el testamento por el Rey difunto [21, 22]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "De conformidad con lo establecido en el artículo 62 de la Constitución Española, es función del Rey:",
+      "opciones": {
+        "a": "Convocar y disolver las Cortes Generales.",
+        "b": "Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.",
+        "c": "Expedir los decretos acordados en Consejo de Ministros.",
+        "d": "Todas las anteriores son funciones del Rey."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 62 enumera explícitamente estas competencias y atribuye al Rey la convocatoria y disolución de Cortes, el nombramiento/cese del Gobierno según la propuesta del Presidente y la expedición de reales decretos, entre otras [21, 22]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "Según lo establecido en el Título II de la Constitución Española, ¿cuál de los siguientes actos necesita refrendo?:",
+      "opciones": {
+        "a": "El nombramiento de los miembros civiles y militares de la Casa Real.",
+        "b": "La disolución de las Cámaras.",
+        "c": "La distribución de la cantidad global, que recibe de los Presupuestos del Estado, para el sostenimiento de su Familia y Casa.",
+        "d": "Todos los actos anteriores necesitan refrendo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El nombramiento del personal de su Casa y la gestión de su presupuesto son actos exclusivos sin necesidad de refrendo. Sí requiere refrendo, en cambio, la disolución de las Cámaras legislativas [21, 22]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "Todos los españoles, respecto al castellano, tienen el:",
+      "opciones": {
+        "a": "Derecho-deber de conocerlo.",
+        "b": "Derecho de usar y deber de conocerlo.",
+        "c": "Derecho-deber de usarlo.",
+        "d": "Nada de lo anterior."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 3 consagra el castellano como lengua española oficial, indicando de forma literal que todos los españoles tienen el 'deber de conocerla y el derecho a usarla' [23, 24]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "La capital del Estado en España es:",
+      "opciones": {
+        "a": "La propia de cada Comunidad Autónoma.",
+        "b": "Madrid.",
+        "c": "Aquella donde se establezca en cada momento el Gobierno.",
+        "d": "Aquella en la que resida generalmente el Rey."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 5 de la Carta Magna establece directamente y sin salvedades que la capital del Estado es la villa de Madrid [23, 24]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "El Título de la Constitución que trata de la reforma constitucional es el:",
+      "opciones": {
+        "a": "Primero.",
+        "b": "Décimo.",
+        "c": "Noveno.",
+        "d": "Undécimo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "Las disposiciones sobre las formas de revisión de la Carta Magna están aglutinadas en el Título X ('De la reforma constitucional') [23, 24]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "El régimen público de seguridad social abarcará, según la Constitución:",
+      "opciones": {
+        "a": "A los ciudadanos que coticen a tal efecto.",
+        "b": "A todos los ciudadanos.",
+        "c": "A todos los ciudadanos, excepto militares.",
+        "d": "Ninguna de estas respuestas es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El mandato del artículo 41 establece la responsabilidad de los poderes públicos de mantener un régimen público de Seguridad Social pensado para todos los ciudadanos en situaciones de necesidad [25, 26]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿A quién corresponde, según la Constitución, promover las condiciones para que la libertad y la igualdad de todos los españoles sean reales y efectivas?:",
+      "opciones": {
+        "a": "Exclusivamente al gobierno de la nación.",
+        "b": "A todos los poderes públicos.",
+        "c": "Exclusivamente a los tribunales de justicia.",
+        "d": "Exclusivamente al tribunal constitucional."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 1. La Constitución Española",
+      "explicación": "El artículo 9.2 asigna de manera genérica a 'los poderes públicos' el deber de promover estas condiciones para garantizar la igualdad y libertad real de las personas y los grupos [25, 27]."
+    }
+  ]
+}
