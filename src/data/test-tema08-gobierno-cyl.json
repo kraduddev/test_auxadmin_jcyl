@@ -1,0 +1,629 @@
+{
+  "tema": "Tema 8. El Gobierno de JCyL",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "De acuerdo con el artículo 2 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la dirección de la Administración de la Comunidad corresponde:",
+      "opciones": {
+        "a": "A La Junta de Castilla y León.",
+        "b": "Al Presidente de la Junta.",
+        "c": "Al Consejero titular de la Consejería de Presidencia.",
+        "d": "A las Cortes de Castilla y León."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 2.1 establece que la Junta es el órgano de gobierno y supremo órgano de administración [cite: 24], mientras que el artículo 2.2 especifica que dirige tanto la política como la Administración[cite: 25]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "De conformidad con lo establecido en los artículos 6 y 7 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, cuál de estas atribuciones No corresponde al Presidente de la Junta de Castilla y León:",
+      "opciones": {
+        "a": "Mantener las debidas relaciones con las demás Administraciones e Instituciones Públicas.",
+        "b": "Coordinar la acción política de la Junta de Castilla y León.",
+        "c": "Nombrar y separar libremente a los demás miembros de la Junta, comunicándolo seguidamente a las Cortes de Castilla y León.",
+        "d": "Firmar los Convenios y Acuerdos de Cooperación que suscriba la Comunidad Autónoma en los casos que proceda."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "Aunque el Presidente dirige y coordina la acción de gobierno [cite: 59], la coordinación política a nivel territorial corresponde al Delegado Territorial [cite: 257, 258], siendo las otras opciones facultades presidenciales explícitas[cite: 51, 53, 60]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "De conformidad con lo establecido en el Título 3 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, el número de Vicepresidentes será de:",
+      "opciones": {
+        "a": "Uno",
+        "b": "Dos",
+        "c": "Uno o mas",
+        "d": "Ninguno"
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 23.1 faculta al Presidente para nombrar y separar libremente a uno o más Vicepresidentes según su criterio[cite: 191, 264]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "De acuerdo con lo establecido en esta Ley, la estructura orgánica de la Administración de la Comunidad de Castilla y León se aprueba:",
+      "opciones": {
+        "a": "Por Ley.",
+        "b": "Por la Junta de Castilla y León.",
+        "c": "Por el Presidente de la Junta.",
+        "d": "Por la Consejería de Presidencia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 16.k otorga específicamente a la Junta la competencia para aprobar la estructura orgánica de la Administración autonómica[cite: 141, 268]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "De conformidad con lo establecido en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, el nombramiento del Presidente de la Junta corresponde:",
+      "opciones": {
+        "a": "A las Cortes de Castilla y León.",
+        "b": "Al Presidente de las Cortes de Castilla y León.",
+        "c": "Al Rey.",
+        "d": "Al Consejero de Presidencia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 5 de la Ley, en consonancia con el Estatuto de Autonomía, determina que el Presidente será elegido por las Cortes pero nombrado por el Rey[cite: 36, 279]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "Actualmente, el número de Vicepresidentes de la Junta de Castilla y León es de:",
+      "opciones": {
+        "a": "Uno",
+        "b": "Dos",
+        "c": "Tres",
+        "d": "Ninguno"
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "La Ley permite uno o más [cite: 191], pero la organización actual bajo el Decreto del Presidente establece un único Vicepresidente[cite: 282]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "De acuerdo con lo establecido en el Título I de la Ley 3/2001, de 3 de julio, No es competencia del Presidente de la Junta:",
+      "opciones": {
+        "a": "Firmar los Decretos de la Junta.",
+        "b": "Resolver los conflictos de atribuciones entre las Consejerías.",
+        "c": "Convocar las elecciones a las Cortes de Castilla y León.",
+        "d": "Ratificar convenios."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "La ratificación de convenios es competencia de las Cortes de Castilla y León según su Estatuto [cite: 290], mientras que las otras opciones son atribuciones presidenciales directas[cite: 41, 66, 70]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Según lo establecido en el art. 18 de la Ley 3/2001, de 3 de julio, la Convocatoria del Consejo de Gobierno corresponde:",
+      "opciones": {
+        "a": "Al Secretario.",
+        "b": "Al Presidente.",
+        "c": "Al Vicepresidente.",
+        "d": "A cualquiera de ellos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 18.1 establece claramente que el Consejo se reúne previa convocatoria de su Presidente [cite: 159, 293], quien además fija el orden del día[cite: 62]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "De conformidad con lo establecido en el artículo 18 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, los acuerdos del Consejo de Gobierno:",
+      "opciones": {
+        "a": "Constarán en acta.",
+        "b": "Constituyen la expresión unitaria de la voluntad de sus miembros.",
+        "c": "Para su válida adopción es necesaria la presencia del Presidente o de quien legalmente le sustituya y de, al menos, la mitad de los Consejeros.",
+        "d": "Todas son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 18 regula que los acuerdos deben constar en acta [cite: 164], expresan la voluntad unitaria [cite: 163] y requieren el quórum de asistencia del Presidente y la mitad de los Consejeros[cite: 161]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "De conformidad con lo establecido en el artículo 18 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, el secreto de las deliberaciones:",
+      "opciones": {
+        "a": "Solo alcanza al Presidente.",
+        "b": "Obliga a todos los miembros del Consejo de Gobierno.",
+        "c": "Se da para los casos recogidos en una Ley.",
+        "d": "Las deliberaciones del Consejo de Gobierno no son secretas"
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 18.3 decreta el carácter secreto de las deliberaciones, obligación que se hace extensiva a todos los asistentes a la reunión[cite: 162, 167, 303]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "De acuerdo a lo establecido en el Título II de la Ley 3/2001, de 3 de julio, No es una atribución de la Junta de Castilla y León:",
+      "opciones": {
+        "a": "Preparar y presentar los anteproyectos de ley.",
+        "b": "Desarrollar sus propios Presupuestos.",
+        "c": "Resolver los recursos en vía administrativa en los casos previstos por las Leyes.",
+        "d": "Deliberar sobre la cuestión de confianza."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "Preparar y presentar anteproyectos de ley es una atribución de cada Consejero en su ámbito [cite: 212, 311], mientras que la Junta como cuerpo colegiado aprueba los proyectos finales[cite: 123]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "Según el art. 12 de la Ley 3/2001, de 3 de julio, el Presidente de la Junta cesa:",
+      "opciones": {
+        "a": "Por la celebración de elecciones a las Cortes de Castilla y León.",
+        "b": "Por sentencia firme que le inhabilite para el desempeño del cargo.",
+        "c": "Por pérdida de la condición de procurador en las Cortes de Castilla y León.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 12 enumera las causas de cese incluyendo elecciones [cite: 96], sentencia de inhabilitación [cite: 103], pérdida de condición de procurador [cite: 102], dimisión o fallecimiento[cite: 100, 101]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "De conformidad con lo establecido en el art. 22, la Junta de Castilla y León cesará:",
+      "opciones": {
+        "a": "Por aprobación de una moción de censura.",
+        "b": "Por fallecimiento de su Presidente.",
+        "c": "Por dimisión de su Presidente.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 22.1 vincula el cese de la Junta al cese del Presidente [cite: 185], el cual ocurre por cualquiera de las causas mencionadas[cite: 97, 100, 101]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "De conformidad con lo establecido en el Título 2 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, el Portavoz de la Junta:",
+      "opciones": {
+        "a": "Deberá ser su Secretario.",
+        "b": "Tiene que ser miembro de la Junta.",
+        "c": "Puede no ser miembro de la Junta.",
+        "d": "Lo nombrará el Vicepresidente 1º."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 18.6 permite al Presidente nombrar un Portavoz que no sea miembro de la Junta, aunque en tal caso debe guardar secreto de las deliberaciones[cite: 168, 328]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "La resolución de conflictos de atribuciones entre las Consejerías corresponde:",
+      "opciones": {
+        "a": "Al Presidente de la Junta de Castilla y León.",
+        "b": "Al Tribunal Superior de Justicia de Castilla y León.",
+        "c": "A la Junta de Castilla y León..",
+        "d": "Al Consejero de la Presidencia."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 7.9 asigna explícitamente al Presidente la tarea de resolver los conflictos de atribuciones que surjan entre las distintas Consejerías[cite: 70, 331]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "El Presidente de la Junta recibirá el tratamiento de:",
+      "opciones": {
+        "a": "Excelencia.",
+        "b": "Señoría.",
+        "c": "Ilustrísima.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "Según el artículo 10.1, el Presidente de la Junta de Castilla y León tiene derecho al tratamiento de Excelencia y a los honores correspondientes a su cargo[cite: 88, 336]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Según el art. 13 de la Ley 3/2001, de 3 de julio, en caso de ausencia del Presidente, le sustituirá:",
+      "opciones": {
+        "a": "El Consejero de Presidencia.",
+        "b": "El Jefe de su gabinete.",
+        "c": "Uno de los Vicepresidentes, si los hubiera.",
+        "d": "Nadie puede sustituir al Presidente en su ausencia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 13 remite al orden de sustitución por Vicepresidentes o, en su defecto, el Consejero más antiguo, salvo designación expresa del Presidente[cite: 110, 113]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "De conformidad con lo establecido en el art. 10, los gastos de representación del Presidente de la Junta:",
+      "opciones": {
+        "a": "Se fijarán en los Presupuestos de la Comunidad.",
+        "b": "Se fijarán por Ley.",
+        "c": "Se fijarán por Decreto.",
+        "d": "Se deciden por la Junta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 10.2 determina que tanto la retribución como los gastos de representación del Presidente se fijan anualmente en los Presupuestos de la Comunidad[cite: 90, 351]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "De conformidad con el artículo 25 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, los Consejeros iniciarán su mandato:",
+      "opciones": {
+        "a": "Tras la publicación de su nombramiento.",
+        "b": "En el momento de su toma de posesión ante el Presidente de la Junta de Castilla y León.",
+        "c": "Tras la primera sesión del Consejo de Gobierno de la Comunidad Autónoma.",
+        "d": "Tras su nombramiento por el órgano correspondiente."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 25 establece que el mandato de los Consejeros comienza formalmente en el acto de toma de posesión ante el Presidente[cite: 200, 357]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "No es una causa de cese de los Consejeros:",
+      "opciones": {
+        "a": "La revocación de su nombramiento por las Cortes de Castilla y León.",
+        "b": "Sentencia firme que le inhabilite para el desempeño del cargo.",
+        "c": "El cese del Presidente de la Junta.",
+        "d": "Su dimisión aceptada por el Presidente."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "La revocación es una decisión libre y exclusiva del Presidente [cite: 240, 362], no de las Cortes, aunque sí cesan por inhabilitación judicial [cite: 242] o cese del Presidente[cite: 238]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "En caso de ausencia o enfermedad de un Consejero, le sustituirá:",
+      "opciones": {
+        "a": "El Vicepresidente.",
+        "b": "El Secretario General de esa Consejería.",
+        "c": "Otro miembro de la Junta designado por el Presidente.",
+        "d": "Otro miembro de la Junta designado por el propio Consejero."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 30 estipula que la sustitución de Vicepresidentes y Consejeros la decide el Presidente designando a otro miembro de la Junta[cite: 244, 369]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Según lo establecido en el art 23 de la Ley 3/2001, de 3 de julio, el Vicepresidente o Vicepresidentes que asuman la titularidad de una Consejería:",
+      "opciones": {
+        "a": "Deberán ostentar una sola condición, Vicepresidente o Consejero.",
+        "b": "Ostentarán, además de la condición de Vicepresidente, la de Consejero.",
+        "c": "Solo ostentarán la condición de Consejero.",
+        "d": "El Vicepresidente no puede asumir la titularidad de ninguna Consejería."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 23.2 aclara que los Vicepresidentes que sean titulares de una Consejería ostentarán ambas condiciones simultáneamente[cite: 193, 378]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "De conformidad con lo dispuesto en el art. 26 de la Ley 3/2001, de 3 de julio, los Decretos y Acuerdos propuestos por un Consejero los firma:",
+      "opciones": {
+        "a": "El Consejero.",
+        "b": "El Consejero junto con el Presidente.",
+        "c": "El Consejero junto con el Vicepresidente.",
+        "d": "El Presidente."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 26.1.m indica que el Consejero proponente debe firmar estos documentos conjuntamente con el Presidente de la Junta[cite: 222, 383]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "Para la realización de sus atribuciones, el Vicepresidente podrá contar con un Gabinete como órgano de asesoramiento y apoyo, cuyo personal eventual será nombrado y cesado libremente:",
+      "opciones": {
+        "a": "Por el Presidente.",
+        "b": "Por la Junta.",
+        "c": "Por el Vicepresidente.",
+        "d": "Por las Cortes."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 23.3 permite a los Vicepresidentes gestionar su propio Gabinete y personal eventual de asesoramiento[cite: 194, 389]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "De conformidad con lo establecido en el artículo 20 de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la realización de las tareas preparatorias de las reuniones de la Junta corresponde:",
+      "opciones": {
+        "a": "Al Secretario de la Junta.",
+        "b": "A la Comisión de Secretarios Generales de las distintas Consejerías.",
+        "c": "A las Consejerías.",
+        "d": "Al Portavoz de la Junta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 20 dispone que el Consejo de Gobierno sea asistido por una Comisión de Secretarios Generales para preparar sus sesiones[cite: 174, 393]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "Según establece la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, el control de la acción política y de gobierno de la Junta y de su Presidente se ejerce:",
+      "opciones": {
+        "a": "Por las Cortes.",
+        "b": "Por el propio Presidente de la Junta.",
+        "c": "Por el Consejo de Gobierno.",
+        "d": "Por ninguno de los anteriores."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 21.2 establece que las Cortes de Castilla y León ejercen el control político y de gobierno según el Estatuto y su propio Reglamento[cite: 183, 397]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "Según lo establecido en el art. 19 de la Ley 3/2001, de 3 de julio, la creación de Comisiones Delegadas se produce por:",
+      "opciones": {
+        "a": "Decreto.",
+        "b": "Acuerdo.",
+        "c": "Orden.",
+        "d": "Ley."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 19.2 especifica que la creación de estas comisiones para asuntos que afecten a varias consejerías debe formalizarse mediante Decreto[cite: 172, 406]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "No es una atribución del Consejero:",
+      "opciones": {
+        "a": "Crear, modificar o suprimir Consejerías.",
+        "b": "Preparar y presentar a la Junta anteproyectos de ley.",
+        "c": "Ostentar la representación de la Consejería.",
+        "d": "Firmar, junto con el Presidente, los Acuerdos y Decretos por él propuestos."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "La creación, modificación o supresión de Consejerías es una atribución exclusiva del Presidente[cite: 74, 411], no de los Consejeros."
+    },
+    {
+      "numero": 29,
+      "enunciado": "De acuerdo con lo establecido en el Decreto 1/2022, de 19 de abril, la Administración de la Comunidad de Castilla y León se organiza en departamentos. Actualmente este número es de:",
+      "opciones": {
+        "a": "8",
+        "b": "9",
+        "c": "10",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "La estructura vigente establece un total de 10 consejerías o departamentos para el desarrollo de la acción administrativa[cite: 419]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿quién firma los convenios y acuerdos de cooperación y colaboración que suscribe la Comunidad Autónoma?:",
+      "opciones": {
+        "a": "El Presidente de la Junta.",
+        "b": "Los Secretarios Generales correspondientes por razón de materia.",
+        "c": "Los Consejeros respectivos.",
+        "d": "Ninguno de los anteriores."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 6.5 otorga al Presidente la facultad de firmar los convenios y acuerdos de cooperación suscritos por la Comunidad[cite: 53, 423]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "Según el artículo 29 de la Ley 3/2001, los Vicepresidentes y los Consejeros cesan en sus funciones:",
+      "opciones": {
+        "a": "Por dimisión aceptada por las Cortes de Castilla y León.",
+        "b": "Por acuerdo de una mayoría de 2/3 de los miembros de las Cortes de Castilla y León.",
+        "c": "Por dimisión aceptada por el Presidente de la Junta.",
+        "d": "Por acuerdo de la mayoría simple de los miembros de las Cortes de Castilla y León."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 29.b establece que el cese se produce por dimisión, siempre que esta sea aceptada por el Presidente[cite: 239, 430]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "Dictar Decretos Legislativos es una atribución que corresponde:",
+      "opciones": {
+        "a": "A las Cortes de Castilla y León.",
+        "b": "Al Presidente de la Junta de Castilla y León.",
+        "c": "A la Junta de Castilla y León.",
+        "d": "Son correctas las opciones b y c."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 16.b atribuye específicamente a la Junta, como órgano colegiado, la potestad de dictar Decretos Legislativos en los términos del Estatuto[cite: 124, 440]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "¿Quién aprueba el Proyecto de Ley de Presupuestos de la Comunidad Autónoma?:",
+      "opciones": {
+        "a": "El Presidente de la Junta.",
+        "b": "La Junta de Castilla y León.",
+        "c": "Las opciones a y b son correctas.",
+        "d": "El Consejero de Economía y Hacienda."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "La aprobación del Proyecto de Ley de Presupuestos para su remisión a las Cortes es una competencia de la Junta[cite: 126, 444]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "De las siguientes atribuciones ¿cuál No es de la Junta?:",
+      "opciones": {
+        "a": "Ejecutar y desarrollar sus propios presupuestos.",
+        "b": "Acordar la interposición de recursos de inconstitucionalidad.",
+        "c": "Aprobar los reglamentos para el desarrollo y ejecución de las leyes emanadas de las Cortes de Castilla y León.",
+        "d": "Asegurar la coordinación entre distintas Consejerías y resolver los conflictos de atribuciones entre las mismas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "La coordinación entre Consejerías y la resolución de sus conflictos es una atribución presidencial según el artículo 7.9[cite: 70, 452]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "¿Quién nombra y cesa a los cargos con categoría igual, superior o asimilable a la de Director General?:",
+      "opciones": {
+        "a": "El Presidente de la Junta.",
+        "b": "Los Consejeros correspondientes.",
+        "c": "Los Secretarios Generales de los cuales dependan.",
+        "d": "La Junta de Castilla y León."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 16.l establece que estos nombramientos los realiza la Junta a propuesta del Consejero titular[cite: 142, 457]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "De conformidad con lo establecido en la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León, la Junta de Castilla y León es un:",
+      "opciones": {
+        "a": "Órgano de gobierno.",
+        "b": "Órgano consultivo.",
+        "c": "Órgano legislativo.",
+        "d": "Todas las opciones anteriores son falsas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 2.1 define a la Junta explícitamente como el órgano de gobierno y el supremo órgano de administración de la Comunidad[cite: 24, 459]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "De conformidad con lo establecido en el Titulo II de la Ley 3/2001, No es una atribución de la Junta de Castilla y León:",
+      "opciones": {
+        "a": "Acordar el planteamiento de conflictos de competencias con el Estado u otras Comunidades Autónomas.",
+        "b": "Aprobar la estructura orgánica de la Administración de la Comunidad de Castilla y León.",
+        "c": "Solicitar dictamen del Consejo Consultivo de Castilla y León en los supuestos en que proceda.",
+        "d": "Autorizar la celebración de contratos en los supuestos legalmente previstos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "Solicitar dictámenes al Consejo Consultivo o al de Estado es una facultad del Presidente [cite: 72, 471], mientras que las otras son competencias de la Junta[cite: 136, 141, 146]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "La Comunidad Autónoma de Castilla y León podrá establecer acuerdos de cooperación con otras Comunidades Autónomas:",
+      "opciones": {
+        "a": "Previa autorización del Presidente de la Junta de Castilla y León.",
+        "b": "Previa autorización de las Cortes Generales.",
+        "c": "Previa autorización de las Cortes de Castilla y León.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "Según el artículo 60.3 del Estatuto de Autonomía, los acuerdos de cooperación requieren la previa autorización de las Cortes Generales[cite: 475]."
+    },
+    {
+      "numero": 39,
+      "enunciado": "Según la Ley 3/2001, ¿qué atribución No corresponde al Presidente de la Junta de Castilla y León?:",
+      "opciones": {
+        "a": "Nombrar y cesar a los cargos con categoría igual, superior o asimilable a la de Director General.",
+        "b": "Nombrar y separar libremente a los demás miembros de la Junta, comunicándolo seguidamente a las Cortes de Castilla y León.",
+        "c": "Nombrar a los representantes de la Comunidad Autónoma en Comisiones, Organismos, Instituciones y entidades.",
+        "d": "Dirigir y coordinar la acción de gobierno."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El nombramiento de altos cargos como Directores Generales compete a la Junta [cite: 142, 480], aunque el Presidente sí nombra a los miembros del gobierno[cite: 60]."
+    },
+    {
+      "numero": 40,
+      "enunciado": "¿por quién será sustituido el Presidente en caso de fallecimiento o sentencia firme que le inhabilite?:",
+      "opciones": {
+        "a": "Por el Consejero más antiguo, y en otro caso, por el Secretario General más antiguo.",
+        "b": "Por el Consejero de más edad.",
+        "c": "Por uno de los Vicepresidentes, si los hubiere, según su orden y, en otro caso, por el Consejero más antiguo y, en caso de igualdad, por el de mayor edad.",
+        "d": "Por uno de los Viceconsejeros, si los hubiere."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 12.2 establece un orden de prelación claro: Vicepresidentes, Consejero más antiguo y, finalmente, Consejero de mayor edad[cite: 110, 488]."
+    },
+    {
+      "numero": 41,
+      "enunciado": "Indique cuál de los siguientes enunciados NO es correcto:",
+      "opciones": {
+        "a": "Para el ejercicio de las atribuciones de la Junta, sus miembros se reúnen en Consejo de Gobierno y Comisiones Delegadas.",
+        "b": "El Decreto de creación de las Comisiones Delegadas deberá contener, al menos, los miembros, presidencia y funciones.",
+        "c": "El Consejo de Gobierno estará asistido por una Comisión de Secretarios Generales.",
+        "d": "La presidencia de la Comisión de Secretarios Generales se establece por Decreto del Presidente."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 20 especifica que tanto la presidencia como el funcionamiento de la Comisión de Secretarios Generales se establecen por Decreto de la Junta, no del Presidente[cite: 175, 503]."
+    },
+    {
+      "numero": 42,
+      "enunciado": "La Ley de Gobierno en su art. 15 determina que la Junta de Castilla y León se compone:",
+      "opciones": {
+        "a": "Del Presidente, del Vicepresidente y de un máximo de quince Consejeros.",
+        "b": "Del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de un máximo de diez Consejeros.",
+        "c": "Del Presidente, los Vicepresidentes, un máximo de ocho Consejeros y los Viceconsejeros.",
+        "d": "Del Presidente, en su caso del Vicepresidente y de un máximo de quince Consejeros."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 15 limita explícitamente la composición de la Junta al Presidente, Vicepresidentes y un máximo de diez Consejeros[cite: 119, 120, 506]."
+    },
+    {
+      "numero": 43,
+      "enunciado": "El art. 16 establece que la Junta tiene, entre otras, la siguiente atribución:",
+      "opciones": {
+        "a": "Aprobar Proyectos de Ley y acordar su retirada según el Estatuto.",
+        "b": "Dictar Reales Decretos Legislativos.",
+        "c": "Aprobar el Anteproyecto de Ley de Presupuestos.",
+        "d": "Ejecutar y desarrollar sus propios Presupuestos."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "La Junta tiene la potestad directa de ejecutar y desarrollar sus propios presupuestos según el artículo 16.d[cite: 127, 515]."
+    },
+    {
+      "numero": 44,
+      "enunciado": "El art. 26 fija las atribuciones de los consejeros, entre las que se encuentran:",
+      "opciones": {
+        "a": "Preparar anteproyectos de Ley, proyectos de Decretos, proyectos de Decreto-Ley y propuestas de Acuerdos.",
+        "b": "Ejercer exclusivamente la potestad ejecutiva.",
+        "c": "Nombrar y cesar a los titulares de puestos de concurso.",
+        "d": "Celebrar los contratos en materias propias de su competencia, con el límite fijado en los Presupuestos."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 26.1.k otorga a los Consejeros la facultad de contratar en su ámbito competencial dentro de los límites presupuestarios establecidos[cite: 220, 522]."
+    },
+    {
+      "numero": 45,
+      "enunciado": "La Ley de Gobierno en su art. 28, establece que:",
+      "opciones": {
+        "a": "Los Vicepresidentes y los Consejeros no están sujetos a las mismas incompatibilidades que el Presidente.",
+        "b": "Los Vicepresidentes y los Consejeros están sujetos a las mismas incompatibilidades que el Presidente de la Junta.",
+        "c": "Los Vicepresidentes y los Consejeros están sujetos a las mismas incompatibilidades que el Presidente de las Cortes.",
+        "d": "Los Vicepresidentes y los Consejeros no tienen las mismas incompatibilidades que el Presidente de las Cortes."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 28 iguala el régimen de incompatibilidades de todos los miembros de la Junta (Vicepresidentes y Consejeros) al del Presidente[cite: 234, 531]."
+    },
+    {
+      "numero": 46,
+      "enunciado": "En relación con la designación de los Consejeros: ¿Cuál de las siguientes es la respuesta correcta?",
+      "opciones": {
+        "a": "Los consejeros son nombrados y separados libremente por el Presidente, comunicándolo seguidamente a las Cortes de Castilla y León.",
+        "b": "Los consejeros son nombrados y separados libremente por la Junta.",
+        "c": "Los consejeros son nombrados y separados por el Presidente, comunicándolo a las Cortes Generales.",
+        "d": "Los consejeros son nombrados por el Presidente de las Cortes."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 25 ratifica que el nombramiento y cese es facultad libre del Presidente, con la única obligación de informar a las Cortes autonómicas[cite: 199, 535]."
+    },
+    {
+      "numero": 47,
+      "enunciado": "De conformidad con lo establecido en el art. 22, la Junta en funciones:",
+      "opciones": {
+        "a": "Podrá aprobar el Proyecto de Ley de Presupuestos.",
+        "b": "Podrá presentar Proyectos de Ley a las Cortes.",
+        "c": "Podrá gestionar el despacho ordinario de los asuntos públicos.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 22.2 limita la actividad de la Junta cesante al despacho ordinario, prohibiéndole expresamente presentar leyes o presupuestos[cite: 186, 187, 543]."
+    },
+    {
+      "numero": 48,
+      "enunciado": "De conformidad con la literalidad del art. 1, ésta tiene por objeto:",
+      "opciones": {
+        "a": "Regular la composición, organización y funciones del Gobierno.",
+        "b": "La regulación de la organización y funcionamiento del Gobierno y de la Administración de Castilla y León.",
+        "c": "Regular organización y competencias en el marco de la legislación básica.",
+        "d": "La regulación de la composición, organización y funciones de ambos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 8. El Gobierno de JCyL",
+      "explicación": "El artículo 1 define el objeto de la Ley 3/2001 como la regulación de la organización y el funcionamiento tanto del Gobierno como de la Administración autonómica[cite: 16, 17, 547]."
+    }
+  ]
+}
