@@ -18,11 +18,11 @@ const shuffleArray = <T,>(array: T[]): T[] => {
 
 const SelectTest: React.FC = () => {
   const [tests, setTests] = useState<Test[]>([]);
-  
+
   // Estados para Test por Tema
   const [selectedTestIndex, setSelectedTestIndex] = useState<number | null>(null);
   const [numQuestions, setNumQuestions] = useState<number>(10);
-  
+
   // Estados para Test Global Aleatorio
   const [selectedGlobalTopics, setSelectedGlobalTopics] = useState<string[]>([]);
   const [globalNumQuestions, setGlobalNumQuestions] = useState<number>(20);
@@ -31,7 +31,7 @@ const SelectTest: React.FC = () => {
   // Estados para Test de Refuerzo
   const [weakNumQuestions, setWeakNumQuestions] = useState<number>(15);
   const weakTopics = useMemo(() => statsService.getWeakTopics(), []);
-  
+
   const fileInputRef = useRef<HTMLInputElement>(null);
   const navigate = useNavigate();
 
@@ -41,11 +41,11 @@ const SelectTest: React.FC = () => {
 
   const loadTests = () => {
     const storedTests = storageService.get<Test[]>('saved_tests') || [];
-    
+
     // Cargar tests estáticos de la carpeta src/data dinámicamente
     const dataModules = import.meta.glob('../data/*.json', { eager: true });
     const staticTests: Test[] = [];
-    
+
     for (const path in dataModules) {
       const module = dataModules[path] as any;
       const json = module.default || module;
@@ -59,7 +59,7 @@ const SelectTest: React.FC = () => {
     const combinedMap = new Map<string, Test>();
     staticTests.forEach(t => combinedMap.set(t.tema, t));
     storedTests.forEach(t => combinedMap.set(t.tema, t));
-    
+
     const combinedTests = Array.from(combinedMap.values());
 
     setTests(combinedTests);
@@ -107,7 +107,7 @@ const SelectTest: React.FC = () => {
 
   const saveTest = (newTest: Test) => {
     let currentTests = storageService.get<Test[]>('saved_tests') || [];
-    
+
     const existingIndex = currentTests.findIndex(t => t.tema === newTest.tema);
     if (existingIndex >= 0) {
       if (!window.confirm(`El tema "${newTest.tema}" ya existe. ¿Deseas sobrescribirlo?`)) {
@@ -117,7 +117,7 @@ const SelectTest: React.FC = () => {
     } else {
       currentTests.push(newTest);
     }
-    
+
     storageService.set('saved_tests', currentTests);
     setTests(currentTests);
     setSelectedGlobalTopics(prev => prev.includes(newTest.tema) ? prev : [...prev, newTest.tema]);
@@ -146,7 +146,7 @@ const SelectTest: React.FC = () => {
   }, [tests, selectedGlobalTopics]);
 
   const toggleGlobalTopic = (tema: string) => {
-    setSelectedGlobalTopics(prev => 
+    setSelectedGlobalTopics(prev =>
       prev.includes(tema) ? prev.filter(t => t !== tema) : [...prev, tema]
     );
   };
@@ -208,7 +208,7 @@ const SelectTest: React.FC = () => {
     const activeQuestions: ActiveQuestion[] = selectedQuestions.map(q => {
       const keys = ['a', 'b', 'c', 'd'] as const;
       const shuffledKeys = shuffleArray([...keys]);
-      
+
       const opcionesAleatorias = shuffledKeys.map(k => ({
         claveOriginal: k,
         texto: q.opciones[k]
@@ -235,32 +235,33 @@ const SelectTest: React.FC = () => {
     navigate('/execute');
   };
 
-  const uploadAction = (
-    <>
-      <input
-        type="file"
-        accept=".json"
-        ref={fileInputRef}
-        style={{ display: 'none' }}
-        onChange={handleFileUpload}
-      />
-      <button
-        className="btn-primary row"
-        onClick={() => fileInputRef.current?.click()}
-      >
-        <Upload size={18} /> Cargar JSON
-      </button>
-    </>
+  const uploadAction = (<></>
+    // <>
+    //   <input
+    //     type="file"
+    //     accept=".json"
+    //     ref={fileInputRef}
+    //     style={{ display: 'none' }}
+    //     onChange={handleFileUpload}
+    //   />
+    //   <button
+    //     className="btn-primary row"
+    //     onClick={() => fileInputRef.current?.click()}
+    //   >
+    //     <Upload size={18} /> Cargar JSON
+    //   </button>
+    // </>
   );
 
   return (
     <div className="page fade-in">
       <PageHeader
         title="Selección de Test"
-        subtitle="Elige un tema para empezar o carga uno nuevo"
+        // subtitle="Elige un tema para empezar o carga uno nuevo"
+        subtitle="Elige un tema para empezar"
         action={uploadAction}
       />
-      
+
       {tests.length === 0 ? (
         <div className="card glass-card" style={{ textAlign: 'center', padding: '4rem 2rem' }}>
           <h3 style={{ marginBottom: '1rem', color: 'var(--text-muted)' }}>No hay tests disponibles</h3>
@@ -289,17 +290,17 @@ const SelectTest: React.FC = () => {
                   <label style={{ display: 'block', fontSize: '0.9rem', color: 'var(--text-muted)', marginBottom: '0.5rem' }}>
                     Número de preguntas (Máximo: {weakQuestionsAvailable}):
                   </label>
-                  <input 
-                    type="number" 
-                    min={1} 
-                    max={weakQuestionsAvailable} 
+                  <input
+                    type="number"
+                    min={1}
+                    max={weakQuestionsAvailable}
                     value={weakNumQuestions}
                     onChange={(e) => setWeakNumQuestions(parseInt(e.target.value) || 1)}
                     style={{ width: '100%', padding: '0.8rem', borderRadius: '8px', border: '1px solid rgba(239,68,68,0.3)', background: 'rgba(0,0,0,0.2)', color: 'white', fontSize: '1rem' }}
                   />
                 </div>
-                <button 
-                  className="btn-primary" 
+                <button
+                  className="btn-primary"
                   style={{ flex: 1, padding: '0.8rem', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '0.5rem', background: 'linear-gradient(135deg, #ef4444, #dc2626)' }}
                   onClick={generateWeaknessTest}
                 >
@@ -326,25 +327,25 @@ const SelectTest: React.FC = () => {
                 <div style={{ marginBottom: '1.5rem' }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1rem' }}>
                     <h3 style={{ fontSize: '1.1rem' }}>Selecciona Temas a incluir</h3>
-                    <button 
-                      onClick={toggleAllGlobalTopics} 
-                      className="btn-option" 
+                    <button
+                      onClick={toggleAllGlobalTopics}
+                      className="btn-option"
                       style={{ padding: '0.4rem 0.8rem', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}
                     >
-                      {selectedGlobalTopics.length === tests.length ? <CheckSquare size={16}/> : <Square size={16}/>}
+                      {selectedGlobalTopics.length === tests.length ? <CheckSquare size={16} /> : <Square size={16} />}
                       Todos
                     </button>
                   </div>
-                  
+
                   <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))', gap: '0.8rem' }}>
                     {tests.map(test => {
                       const isSelected = selectedGlobalTopics.includes(test.tema);
                       return (
-                        <div 
+                        <div
                           key={test.tema}
                           onClick={() => toggleGlobalTopic(test.tema)}
-                          style={{ 
-                            padding: '0.8rem', 
+                          style={{
+                            padding: '0.8rem',
                             background: isSelected ? 'rgba(99, 102, 241, 0.2)' : 'rgba(255,255,255,0.05)',
                             border: `1px solid ${isSelected ? 'var(--primary-color)' : 'transparent'}`,
                             borderRadius: '8px',
@@ -355,10 +356,10 @@ const SelectTest: React.FC = () => {
                             transition: 'all 0.2s'
                           }}
                         >
-                           {isSelected ? <CheckSquare size={18} color="var(--primary-color)"/> : <Square size={18} color="var(--text-muted)"/>}
-                           <span style={{ fontSize: '0.95rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
-                             {test.tema}
-                           </span>
+                          {isSelected ? <CheckSquare size={18} color="var(--primary-color)" /> : <Square size={18} color="var(--text-muted)" />}
+                          <span style={{ fontSize: '0.95rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                            {test.tema}
+                          </span>
                         </div>
                       )
                     })}
@@ -366,26 +367,26 @@ const SelectTest: React.FC = () => {
                 </div>
 
                 <div style={{ display: 'flex', alignItems: 'flex-end', gap: '1.5rem' }}>
-                   <div style={{ flex: 1 }}>
-                      <label style={{ display: 'block', fontSize: '0.9rem', color: 'var(--text-muted)', marginBottom: '0.5rem' }}>
-                        Número de preguntas (Máximo: {globalQuestionsAvailable}):
-                      </label>
-                      <input 
-                        type="number" 
-                        min={1} 
-                        max={globalQuestionsAvailable} 
-                        value={globalNumQuestions}
-                        onChange={(e) => setGlobalNumQuestions(parseInt(e.target.value) || 1)}
-                        style={{ width: '100%', padding: '0.8rem', borderRadius: '8px', border: '1px solid var(--glass-border)', background: 'rgba(0,0,0,0.2)', color: 'white', fontSize: '1rem' }}
-                      />
-                   </div>
-                   <button 
-                      className="btn-primary" 
-                      style={{ flex: 1, padding: '0.8rem', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '0.5rem' }}
-                      onClick={generateGlobalTest}
-                    >
-                      <Play size={18} /> Iniciar Test Global
-                    </button>
+                  <div style={{ flex: 1 }}>
+                    <label style={{ display: 'block', fontSize: '0.9rem', color: 'var(--text-muted)', marginBottom: '0.5rem' }}>
+                      Número de preguntas (Máximo: {globalQuestionsAvailable}):
+                    </label>
+                    <input
+                      type="number"
+                      min={1}
+                      max={globalQuestionsAvailable}
+                      value={globalNumQuestions}
+                      onChange={(e) => setGlobalNumQuestions(parseInt(e.target.value) || 1)}
+                      style={{ width: '100%', padding: '0.8rem', borderRadius: '8px', border: '1px solid var(--glass-border)', background: 'rgba(0,0,0,0.2)', color: 'white', fontSize: '1rem' }}
+                    />
+                  </div>
+                  <button
+                    className="btn-primary"
+                    style={{ flex: 1, padding: '0.8rem', display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '0.5rem' }}
+                    onClick={generateGlobalTest}
+                  >
+                    <Play size={18} /> Iniciar Test Global
+                  </button>
                 </div>
               </div>
             )}
@@ -402,32 +403,32 @@ const SelectTest: React.FC = () => {
                   <p style={{ color: 'var(--text-muted)', marginBottom: '1.5rem' }}>
                     {test.preguntas.length} Preguntas Totales
                   </p>
-                  
+
                   {isSelected ? (
                     <div className="config-form fade-in" style={{ marginTop: '1rem', borderTop: '1px solid rgba(255,255,255,0.1)', paddingTop: '1rem' }}>
                       <div style={{ marginBottom: '1rem' }}>
                         <label style={{ display: 'block', fontSize: '0.9rem', color: 'var(--text-muted)', marginBottom: '0.5rem' }}>
                           Número de preguntas:
                         </label>
-                        <input 
-                          type="number" 
-                          min={1} 
-                          max={test.preguntas.length} 
+                        <input
+                          type="number"
+                          min={1}
+                          max={test.preguntas.length}
                           value={numQuestions}
                           onChange={(e) => setNumQuestions(parseInt(e.target.value) || 1)}
                           style={{ width: '100%', padding: '0.5rem', borderRadius: '6px', border: '1px solid var(--glass-border)', background: 'rgba(0,0,0,0.2)', color: 'white' }}
                         />
                       </div>
                       <div style={{ display: 'flex', gap: '0.5rem' }}>
-                        <button 
-                          className="btn-primary" 
+                        <button
+                          className="btn-primary"
                           style={{ flex: 1, display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '0.5rem' }}
                           onClick={() => generateSpecificTest(test)}
                         >
                           <Play size={16} /> Iniciar
                         </button>
-                        <button 
-                          className="btn-option" 
+                        <button
+                          className="btn-option"
                           style={{ padding: '0.8rem' }}
                           onClick={() => setSelectedTestIndex(null)}
                         >
@@ -436,8 +437,8 @@ const SelectTest: React.FC = () => {
                       </div>
                     </div>
                   ) : (
-                    <button 
-                      className="btn-primary" 
+                    <button
+                      className="btn-primary"
                       style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}
                       onClick={() => handleSelectClick(index, test.preguntas.length)}
                     >
