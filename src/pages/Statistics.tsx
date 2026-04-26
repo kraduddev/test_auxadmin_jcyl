@@ -3,6 +3,7 @@ import { storageService } from '../services/storageService';
 import { statsService } from '../services/statsService';
 import type { TestResult } from '../models/types';
 import { TrendingUp, TrendingDown, Target, Award, BrainCircuit, Activity } from 'lucide-react';
+import PageHeader from '../components/PageHeader';
 
 const Statistics: React.FC = () => {
   const history = storageService.get<TestResult[]>('test_history') || [];
@@ -54,10 +55,10 @@ const Statistics: React.FC = () => {
 
   return (
     <div className="page fade-in">
-      <header className="page-header">
-        <h1>Análisis de Rendimiento</h1>
-        <p>Tus estadísticas detalladas basadas en {stats.totalTests} tests</p>
-      </header>
+      <PageHeader
+        title="Análisis de Rendimiento"
+        subtitle={`Tus estadísticas detalladas basadas en ${stats.totalTests} tests`}
+      />
       
       <div className="dashboard-cards" style={{ marginBottom: '3rem' }}>
         <div className="card glass-card" style={{ display: 'flex', alignItems: 'center', gap: '1rem', borderLeft: '4px solid var(--primary-color)' }}>

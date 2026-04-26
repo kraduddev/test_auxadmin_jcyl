@@ -4,6 +4,7 @@ import { storageService } from '../services/storageService';
 import { statsService } from '../services/statsService';
 import type { Test, ActiveTest, ActiveQuestion } from '../models/types';
 import { Upload, Play, Settings, CheckSquare, Square, TrendingDown } from 'lucide-react';
+import PageHeader from '../components/PageHeader';
 
 // Función para mezclar arrays (Fisher-Yates)
 const shuffleArray = <T,>(array: T[]): T[] => {
@@ -234,31 +235,31 @@ const SelectTest: React.FC = () => {
     navigate('/execute');
   };
 
+  const uploadAction = (
+    <>
+      <input
+        type="file"
+        accept=".json"
+        ref={fileInputRef}
+        style={{ display: 'none' }}
+        onChange={handleFileUpload}
+      />
+      <button
+        className="btn-primary row"
+        onClick={() => fileInputRef.current?.click()}
+      >
+        <Upload size={18} /> Cargar JSON
+      </button>
+    </>
+  );
+
   return (
     <div className="page fade-in">
-      <header className="page-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-        <div>
-          <h1>Selección de Test</h1>
-          <p>Elige un tema para empezar o carga uno nuevo</p>
-        </div>
-        <div>
-           <input 
-             type="file" 
-             accept=".json" 
-             ref={fileInputRef} 
-             style={{ display: 'none' }} 
-             onChange={handleFileUpload} 
-           />
-           <button 
-             className="btn-primary" 
-             style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}
-             onClick={() => fileInputRef.current?.click()}
-           >
-             <Upload size={18} />
-             Cargar JSON
-           </button>
-        </div>
-      </header>
+      <PageHeader
+        title="Selección de Test"
+        subtitle="Elige un tema para empezar o carga uno nuevo"
+        action={uploadAction}
+      />
       
       {tests.length === 0 ? (
         <div className="card glass-card" style={{ textAlign: 'center', padding: '4rem 2rem' }}>

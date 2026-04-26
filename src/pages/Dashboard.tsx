@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { storageService } from '../services/storageService';
 import type { TestResult } from '../models/types';
 import { Play, TrendingUp, BookOpen, Clock, Trash2 } from 'lucide-react';
+import PageHeader from '../components/PageHeader';
 
 const Dashboard: React.FC = () => {
   const navigate = useNavigate();
@@ -48,24 +49,25 @@ const Dashboard: React.FC = () => {
     }
   };
 
+  const resetAction = (
+    <button
+      className="btn-option row"
+      onClick={handleResetData}
+      title="Borrar todos los datos y empezar de cero"
+      style={{ color: '#ef4444', borderColor: 'rgba(239,68,68,0.3)' }}
+    >
+      <Trash2 size={18} /> Resetear Datos
+    </button>
+  );
+
   return (
     <div className="page fade-in">
-      <header className="page-header" style={{ marginBottom: '3rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-        <div>
-          <h1 style={{ fontSize: '2.5rem', marginBottom: '0.5rem', background: 'linear-gradient(to right, #fff, #a5b4fc)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
-            Bienvenido de nuevo
-          </h1>
-          <p style={{ fontSize: '1.2rem', color: 'var(--text-muted)' }}>¿Listo para seguir practicando?</p>
-        </div>
-        <button 
-          className="btn-option" 
-          onClick={handleResetData}
-          style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', color: '#ef4444', borderColor: 'rgba(239, 68, 68, 0.3)' }}
-          title="Borrar todos los datos y empezar de cero"
-        >
-          <Trash2 size={18} /> Resetear Datos
-        </button>
-      </header>
+      <PageHeader
+        title="Bienvenido de nuevo"
+        subtitle="¿Listo para seguir practicando?"
+        gradient
+        action={resetAction}
+      />
       
       <div className="dashboard-cards" style={{ marginBottom: '3rem' }}>
         <div className="card glass-card" style={{ borderLeft: '4px solid #8b5cf6' }}>
