@@ -1,4 +1,4 @@
-# 🎓 TestApp Pro (Preparación de Oposiciones)
+# 🎓 Test JCyL - AuxAdmin (Preparación de Oposiciones)
 
 Una aplicación web SPA (Single Page Application) diseñada específicamente para la práctica, evaluación y seguimiento de test de oposiciones o exámenes tipo test. Orientada a la maximización del aprendizaje mediante análisis de datos y la personalización de los repasos.
 

@@ -37,7 +37,7 @@ const Layout: React.FC = () => {
     <div className="app-container">
       {/* ---- Barra superior (solo visible en móvil / tablet) ---- */}
       <header className="mobile-header">
-        <span className="mobile-header-title">TestApp Pro</span>
+        <span className="mobile-header-title">JCyL AuxAdmin</span>
         <button
           className="hamburger-btn"
           onClick={() => setIsOpen(true)}
@@ -57,7 +57,7 @@ const Layout: React.FC = () => {
       {/* ---- Sidebar / Drawer ---- */}
       <nav className={`sidebar ${isOpen ? 'open' : ''}`} aria-label="Menú principal">
         <div className="sidebar-header">
-          <h2>TestApp Pro</h2>
+          <h2>JCyL AuxAdmin</h2>
           {/* Botón cerrar (solo visible en móvil) */}
           <button
             className="sidebar-close-btn"
