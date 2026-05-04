@@ -1,0 +1,395 @@
+{
+  "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El artículo 38 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, define la sede electrónica de la Administración como:",
+      "opciones": {
+        "a": "Aquella dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública, o bien a uno o varios organismos públicos o entidades de Derecho Público en el ejercicio de sus competencias.",
+        "b": "El punto de acceso electrónico cuya titularidad corresponde a una Administración Pública, organismo público o entidad de Derecho Público, que permite el acceso a través de Internet a la información publicada y, en su caso, a la sede electrónica correspondiente.",
+        "c": "El punto de acceso electrónico a la información relativa a sus servicios e iniciativas y facilitar a los ciudadanos sus relaciones con la Administración de la Comunidad de Castilla y León. El objetivo es velar por la actualidad y exactitud de dicha información, si bien este extremo no puede ser plenamente garantizado.",
+        "d": "Un archivo electrónico que contiene el Depósito de Originales Electrónicos y permite el acceso de las personas interesadas al estado de la tramitación de los procedimientos gestionados electrónicamente, utilizando herramientas para la gestión electrónica de los expedientes."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La opción (a) reproduce la definición legal exacta del artículo 38.1 de la LRJSP, centrada en la titularidad y el ejercicio de competencias[cite: 199]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "De acuerdo con lo previsto en el artículo 40 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, las Administraciones Públicas podrán identificarse mediante el uso de:",
+      "opciones": {
+        "a": "Un sello electrónico o huella electrónica.",
+        "b": "Una firma electrónica basada en un certificado electrónico reconocido o cualificado.",
+        "c": "Un código seguro de verificación basado en un certificado electrónico reconocido o cualificado.",
+        "d": "Un sello electrónico basado en un certificado electrónico reconocido o cualificado."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El artículo 40 de la Ley 40/2015 especifica que las Administraciones se identifican mediante sellos electrónicos basados en certificados reconocidos o cualificados[cite: 933]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "El artículo 38 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, fija una serie de principios que habrán de ser observados por las sedes electrónicas, entre los que NO se encuentra:",
+      "opciones": {
+        "a": "Transparencia.",
+        "b": "Responsabilidad.",
+        "c": "Objetividad.",
+        "d": "Interoperabilidad."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "Los principios regulados en el artículo 38 incluyen transparencia, responsabilidad e interoperabilidad, pero la objetividad no figura en esta lista específica de la sede[cite: 201, 206]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué normativa establece, en su artículo 47, la regulación de la sede electrónica de la Administración de la Comunidad de Castilla y León?:",
+      "opciones": {
+        "a": "Ley 2/2010, de 11 de marzo.",
+        "b": "Decreto 7/2013, de 14 de febrero.",
+        "c": "Real Decreto 203/2021 de 30 de marzo.",
+        "d": "Decreto 193/2001, de 19 de julio."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El artículo 47 de la Ley 2/2010 es el precepto autonómico que regula la ubicación y los principios de la sede electrónica de Castilla y León[cite: 108, 297]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "El artículo 11 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de Actuación y Funcionamiento del Sector Público por medios electrónicos, recoge el contenido y servicios de las sedes electrónicas y sedes asociadas, estableciendo un contenido mínimo a disposición de las personas interesadas:",
+      "opciones": {
+        "a": "La identificación de la sede electrónica o sede asociada, así como del órgano u organismo titular de la misma y de los órganos competentes para la gestión de la información, servicios, procedimientos y trámites puestos a disposición en ella.",
+        "b": "La relación de sistemas de identificación y firma electrónica que sean admitidos o utilizados en la misma.",
+        "c": "La normativa reguladora del Registro al que se acceda a través de la sede electrónica.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El artículo 11 del reglamento estatal detalla todos estos puntos como parte del contenido mínimo obligatorio de cualquier sede electrónica[cite: 241, 243, 246, 247]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "El Decreto 7/2013, de 14 de febrero, de utilización de medios electrónicos en la Administración de la Comunidad de Castilla y León, recoge en su artículo 7 que 'la titularidad de la sede electrónica corresponde a la Administración de la Comunidad de Castilla y León y la información, los servicios y los procedimientos electrónicos ofrecidos a través de la sede electrónica respetarán los principios de':",
+      "opciones": {
+        "a": "Confidencialidad, disponibilidad e integridad.",
+        "b": "Accesibilidad, igualdad y usabilidad.",
+        "c": "Publicidad, disponibilidad y neutralidad.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "Según el artículo 7.5 del Decreto 7/2013, la información y servicios en la sede deben cumplir estrictamente con los principios de accesibilidad, igualdad y usabilidad[cite: 302]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "El artículo 9 del Decreto 7/2013, de 14 de febrero, regula el contenido de la Sede Electrónica de la Comunidad de Castilla y León, que dispondrá al menos, del siguiente contenido (señale la opción incorrecta):",
+      "opciones": {
+        "a": "La identificación de la sede y de su titular.",
+        "b": "La relación actualizada de los servicios y trámites administrativos que pueden realizarse por medios electrónicos.",
+        "c": "Los medios disponibles para la formulación de quejas y sugerencias.",
+        "d": "Acceso al Boletín Oficial del Estado."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La normativa autonómica establece que el acceso obligatorio es al Boletín Oficial de Castilla y León (BOCYL), no al del Estado (BOE)[cite: 329]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "La Sede Electrónica de la Administración de la Comunidad de Castilla y León contiene en su página principal un apartado donde se pone a disposición las notificaciones electrónicas, que se corresponde con:",
+      "opciones": {
+        "a": "El Registro Electrónico de Apoderamientos.",
+        "b": "Carpeta ciudadana.",
+        "c": "Servicios de Respuesta Inmediata.",
+        "d": "Portales de interés."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La 'Carpeta Ciudadana' es la sección de la sede diseñada específicamente para que los interesados gestionen sus notificaciones y comunicaciones[cite: 368, 375]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "A tenor de lo establecido en el art. 9 del Decreto 12/2024, de 27 de junio, por el que se regula la atención a la ciudadanía prestada a través del Servicio 012 de la Administración de la Comunidad de Castilla y León, este servicio tiene entre sus funciones:",
+      "opciones": {
+        "a": "Información administrativa de carácter general que ofrezca una visión global, homogénea y sistematizada de la actividad administrativa, y sirva de orientación a la ciudadanía que haya de relacionarse con la Administración autonómica.",
+        "b": "Información especializada que requiera conocimientos técnicos y cualificados para ser facilitada, sobre Mujer.",
+        "c": "Envío de alertas a través de SMS y correo electrónico de convocatorias de ayudas, subvenciones, becas, oposiciones y demás procesos selectivos publicados en el B.O.C. y L.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El Decreto 12/2024 unifica todas estas funciones (general, especializada por temáticas y sistema de alertas) dentro de las competencias del 012[cite: 488, 489, 501, 525]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "La Sede Electrónica de la Administración de la Comunidad de Castilla y León está accesible a través de la siguiente url:",
+      "opciones": {
+        "a": "www.sedeelectronica.jcyl.es",
+        "b": "www.registroelectronico.jcyl.es",
+        "c": "www.tramitacastillayleon.jcyl.es",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La dirección oficial que aloja la sede y todos los trámites electrónicos de la Comunidad es tramitacastillayleon.jcyl.es[cite: 296, 437]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "De conformidad con la ORDEN de 17 de mayo de 2002, de desarrollo del Decreto 193/2001 de 19 de julio, por el que se regula el Servicio Telefónico 012 de Información Administrativa y Atención al Ciudadano de la Administración de la Comunidad de Castilla y León, y se organiza dicho servicio, el Servicio 012:",
+      "opciones": {
+        "a": "Prestará sus servicios en horario de mañana y tarde, de lunes a viernes.",
+        "b": "Realizará sus funciones en horario de mañana de lunes a sábados, excepto festivos.",
+        "c": "Desarrollará sus funciones en horario de mañana y tarde, de lunes a viernes y en horario de mañana los sábados, excepto festivos.",
+        "d": "Desarrollará sus funciones durante las 24 horas del día, los 365 días del año."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La Orden de 17 de mayo de 2002 establece que el servicio debe estar operativo las 24 horas todos los días del año[cite: 533]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "El Servicio Telefónico 012 realizará las siguientes funciones establecidas en el Decreto 12/2024, de 27 de junio, por el que se regula la atención a la ciudadanía prestada a través del Servicio 012 de la Administración de la Comunidad de Castilla y León (señale la incorrecta):",
+      "opciones": {
+        "a": "Asistencia técnica informática y resolución de incidencias que se presenten en el uso de la administración electrónica autonómica.",
+        "b": "Información administrativa de carácter general, sobre el estado o contenido de los procedimientos tramitados a través del Servicio 012.",
+        "c": "Realización de trámites de procedimientos y servicios en nombre de los ciudadanos, cuando así se establezca.",
+        "d": "Información en atención social, personas vulnerables o con riesgo de exclusión social, asistencia y atención individual profesional."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "Es incorrecta porque la información sobre el estado o contenido de procedimientos tramitados es información de carácter 'particular', no 'general'[cite: 521]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "El art. 4 del Decreto 12/2024, de 27 de junio recoge que 'la encargada de coordinar, impulsar y gestionar la prestación del servicio de información y atención ciudadana, realizada a través del Servicio 012, velando en todo momento por la calidad de la información que se ofrece' es:",
+      "opciones": {
+        "a": "La consejería competente en materia de información y atención al ciudadano.",
+        "b": "La Junta de Castilla y León.",
+        "c": "La Consejería de Industria, Comercio y Empleo.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El decreto asigna específicamente esta competencia a la consejería que tenga atribuidas las funciones de atención al ciudadano[cite: 473]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "Conforme a lo establecido en el art. 3 del Decreto 12/2024, de 27 de junio, El sistema de información y atención ciudadana que se presta a través del Servicio 012, se regirá por los siguientes principios:",
+      "opciones": {
+        "a": "Objetividad, eficacia y eficiencia.",
+        "b": "Igualdad de acceso y no discriminación.",
+        "c": "Proactividad, proximidad y empatía.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El artículo 3 enumera una amplia lista de principios que incluyen todos los mencionados, buscando una atención humana y eficiente[cite: 475, 476, 477, 481]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "Para la efectiva aplicación de la Ley 39/2015, el Consejo de Gobierno de la Junta de Castilla y León aprobó el 25 de marzo de 2021 medidas como:",
+      "opciones": {
+        "a": "Generalización del uso de las comunicaciones interiores electrónicas (HERMES).",
+        "b": "Uso de Cl@ve como medida de identificación, autenticación y firma en la nube del ciudadano en los procedimientos y servicios de la Administración Autonómica.",
+        "c": "Generalización del nuevo módulo de notificaciones electrónicas (NOTI).",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El Acuerdo de 2021 establece herramientas clave como HERMES, Cl@ve y NOTI para lograr la plena administración sin papel[cite: 174, 178, 179, 185]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "La separación entre identificación y firma electrónica y la simplificación de los medios para acreditar una y otra, se recoge en el Título I de la Ley 39/2015 de 1 de octubre, de modo que, con carácter general, para realizar cualquier actuación prevista en el procedimiento administrativo:",
+      "opciones": {
+        "a": "Solo será necesaria la identificación.",
+        "b": "La firma electrónica solo será necesaria cuando el interesado no se identifique.",
+        "c": "Serán necesarias tanto la identificación como la firma electrónica para cualquier operación que desee realizarse por medios electrónicos.",
+        "d": "Solo será necesaria la identificación, y se exigirá la firma electrónica cuando deba acreditarse la voluntad y el consentimiento del interesado."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La Ley 39/2015 distingue ambos conceptos: la identificación basta para acceder, pero la firma se reserva para actos que impliquen voluntad jurídica (solicitudes, recursos)[cite: 858, 877]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Según el art. 39 de la LRJSP, el punto de acceso electrónico cuya titularidad corresponde a una administración pública, organismo público o entidad de derecho público, se denomina:",
+      "opciones": {
+        "a": "Página web.",
+        "b": "Sede electrónica.",
+        "c": "Portal de Internet.",
+        "d": "Punto de Acceso General."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El portal de internet se define legalmente como el punto de acceso que permite llegar a la información y a la sede[cite: 542]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Según recoge el artículo 11 de la Ley 39/2015, de 1 de octubre, se requerirá a los interesados el uso obligatorio de la firma para:",
+      "opciones": {
+        "a": "Interponer recursos.",
+        "b": "Formular solicitudes.",
+        "c": "Presentar declaraciones responsables.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El artículo 11 detalla expresamente estos tres supuestos como actos donde la firma es un requisito ineludible[cite: 877, 878, 879, 880]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "De conformidad con lo previsto en el artículo 9 de la Ley 39/2015, de 1 de octubre, los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes:",
+      "opciones": {
+        "a": "Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la 'Lista de confianza de prestadores de servicios de certificación'.",
+        "b": "Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la 'Lista de confianza de prestadores de servicios de certificación'.",
+        "c": "Sistemas basados en certificados electrónicos cualificados de sello electrónico expedidos por prestadores incluidos en la 'Lista de confianza de prestadores de servicios de certificación'.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "Para la identificación (no firma), la ley permite tanto el uso de certificados de firma como de certificados de sello electrónico[cite: 890, 891]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "De acuerdo con lo establecido en el artículo 26 de la Ley 39/2015, de 1 de octubre, 'no requerirán de firma electrónica...':",
+      "opciones": {
+        "a": "Los documentos emitidos por las Administraciones Públicas que se publiquen con carácter meramente informativo.",
+        "b": "Los documentos emitidos por las Administraciones Públicas que formen parte de un expediente administrativo.",
+        "c": "Los documentos emitidos por las Administraciones Públicas que se refieran a información clasificada, a la seguridad pública, a la defensa nacional o a otras actuaciones para cuya realización esté legalmente justificado el anonimato.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "Los documentos informativos y los que no formen parte del expediente están exentos de firma, aunque deben identificar su origen[cite: 954, 955]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Conforme a la literalidad del artículo 38 de la Ley 40/2015, de 1 de octubre, 'el establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de...':",
+      "opciones": {
+        "a": "El establecimiento de medidas de seguridad en su puesta en marcha y funcionamiento.",
+        "b": "La integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma.",
+        "c": "No conlleva ninguna responsabilidad ya que la información contenida en este sitio web tiene únicamente carácter informativo.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "A diferencia de un portal genérico, la sede exige responsabilidad legal sobre la exactitud de su contenido y servicios[cite: 200, 270]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "En la página principal del portal web de la Junta de Castilla y León, se ofrecen los enlaces a los sitios web más destacados, como los siguientes (señale la opción incorrecta):",
+      "opciones": {
+        "a": "BOCYL.",
+        "b": "Sede electrónica.",
+        "c": "012.",
+        "d": "Gobierno abierto."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "Los enlaces destacados principales mostrados gráficamente en el portal son BOCYL, Sede, 012, 112 y Transparencia, pero no 'Gobierno abierto' en ese nivel [cite: 677, 683-692]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Señale cuál de las siguientes afirmaciones No es correcta sobre el portal web de la Junta de Castilla y León:",
+      "opciones": {
+        "a": "Con carácter general, la información contenida en este sitio web tiene únicamente carácter informativo.",
+        "b": "A través de este portal, la Junta de Castilla y León pretende fomentar el acceso del público a la información relativa a sus servicios e iniciativas y facilitar a los ciudadanos sus relaciones con la Administración de la Comunidad de Castilla y León.",
+        "c": "No se permite la reutilización de los documentos.",
+        "d": "Las 'cookies' utilizadas por este portal, se asocian únicamente con un usuario anónimo y su ordenador, y no proporcionan por sí los datos personales del usuario."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "Es incorrecta porque el portal permite expresamente la reutilización de documentos para fines comerciales y no comerciales[cite: 590, 591]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "De conformidad con lo establecido en el art. 8 del Decreto 7/2013 de 14 de febrero, la responsabilidad de la veracidad y actualización de los datos publicados en la sede electrónica corresponde a:",
+      "opciones": {
+        "a": "Las consejerías.",
+        "b": "Los organismos autónomos.",
+        "c": "Los entes públicos de derecho privado, cuando ejerzan potestades públicas.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La responsabilidad se distribuye entre todos los órganos competentes que publican información sobre sus procedimientos en la sede[cite: 311]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "Según el art. 43 de la Ley 2/2010, ¿quién elaborará, con carácter anual, un informe sobre la implantación de la administración electrónica?",
+      "opciones": {
+        "a": "El titular de la Consejería de la Presidencia.",
+        "b": "La Junta de Castilla y León.",
+        "c": "La Dirección General de Economía y Hacienda.",
+        "d": "La consejería competente en materia de simplificación administrativa."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La Ley 2/2010 atribuye a la Junta de Castilla y León, como órgano colegiado, la elaboración de este informe para las Cortes[cite: 89]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "Según establece el Decreto 193/2001, ¿Cuál de las siguientes funciones no se realiza a través del servicio telefónico 012?",
+      "opciones": {
+        "a": "Ofrecer información administrativa general.",
+        "b": "Orientar a los ciudadanos sobre la estructura de la Administración.",
+        "c": "Asistir a los ciudadanos en el ejercicio del derecho de petición del art. 29 CE.",
+        "d": "La gestión de poderes en el registro de apoderamientos mediante comparecencia personal."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La gestión presencial de apoderamientos es una función propia de las oficinas de registro físicas, no de un servicio telefónico[cite: 435, 1122]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "De conformidad con lo establecido en el artículo 8 del Decreto 12/2024, no es un canal de acceso al Servicio 012:",
+      "opciones": {
+        "a": "Correo electrónico o postal.",
+        "b": "Correo postal y presencial.",
+        "c": "Telefónico y redes sociales.",
+        "d": "SMS o correo electrónico."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El Servicio 012 es multicanal (digital y telefónico), pero la vía 'presencial' y el 'correo postal' tradicional no son sus canales de acceso regulados[cite: 431, 432, 1127]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "Según el artículo 2 del Real Decreto 203/2021 de 30 de marzo, el sector público deberá respetar en sus actuaciones y relaciones electrónicas, entre otros, el principio de:",
+      "opciones": {
+        "a": "Compatibilidad electrónica.",
+        "b": "Operabilidad.",
+        "c": "Accesibilidad.",
+        "d": "Eficiencia administrativa."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "La accesibilidad es un principio fundamental que garantiza que todos puedan usar los servicios digitales sin barreras[cite: 1131, 418]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿A quién le corresponde aprobar la política de firma electrónica y de certificados de la Administración de Castilla y León?",
+      "opciones": {
+        "a": "A la Consejería de la Presidencia.",
+        "b": "A la Consejería de Economía y Hacienda.",
+        "c": "A la Consejería de Movilidad y Transformación Digital.",
+        "d": "A la Junta de Castilla y León."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "Como máxima autoridad ejecutiva de la Comunidad, la Junta aprueba las soluciones corporativas y políticas de medios electrónicos[cite: 164, 1142]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "De conformidad con el Decreto 7/2013, los ciudadanos podrán elegir la manera de comunicarse por medios electrónicos con la Administración de Castilla y León:",
+      "opciones": {
+        "a": "En el inicio del procedimiento.",
+        "b": "Durante la fase de instrucción del procedimiento.",
+        "c": "Nunca se puede cambiar la forma elegida.",
+        "d": "En cualquier momento de la tramitación del procedimiento."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 22. Administración Electrónica - Información y Atención al Ciudadano",
+      "explicación": "El derecho a elegir el canal de comunicación es flexible y puede ejercerse en cualquier fase de la tramitación[cite: 1147]."
+    }
+  ]
+}
