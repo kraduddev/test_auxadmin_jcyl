@@ -1,0 +1,733 @@
+{
+  "tema": "Tema 28. Puesto de Trabajo",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El Decreto por el que se adapta la normativa de prevención de riesgos laborales a la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos, es:",
+      "opciones": {
+        "a": "Decreto 143/2000, de 29 de junio",
+        "b": "Decreto 44/2005, de 2 de junio",
+        "c": "Decreto 80/2013, de 26 de diciembre",
+        "d": "Decreto 103/2005, de 29 de diciembre"
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El Decreto 143/2000 es la norma específica de adaptación para la Administración de Castilla y León[cite: 1248]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "Corresponde a la Inspección de Trabajo y Seguridad Social la función de:",
+      "opciones": {
+        "a": "Elaborar los informes solicitados por los Juzgados de lo Contencioso-Administrativo...",
+        "b": "La vigilancia del cumplimiento de la normativa sobre prevención de riesgos laborales.",
+        "c": "Las dos opciones anteriores son correctas.",
+        "d": "Todas las opciones son falsas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 9.1 de la Ley asigna específicamente la vigilancia y control de la normativa preventiva a la Inspección de Trabajo[cite: 177, 1255]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "En materia de prevención de riesgos laborales, los trabajadores, con arreglo a su formación y siguiendo las instrucciones del empresario deberán, en particular:",
+      "opciones": {
+        "a": "Hacer uso, de la manera que consideren conveniente, de las máquinas...",
+        "b": "Utilizar a su voluntad los medios y equipos de protección...",
+        "c": "Informar de inmediato a la autoridad laboral...",
+        "d": "Cooperar con el empresario para que éste pueda garantizar unas condiciones de trabajo que sean seguras..."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La cooperación con el empresario es una de las obligaciones específicas del trabajador recogidas en el artículo 29.2 de la LPRL[cite: 431, 1262]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Cuántos Delegados de Prevención pueden ser designados en una empresa que cuente de 2.001 a 3.000 trabajadores?:",
+      "opciones": {
+        "a": "3 Delegados de Prevención",
+        "b": "4 Delegados de Prevención",
+        "c": "5 Delegados de Prevención",
+        "d": "6 Delegados de Prevención"
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La escala del artículo 35.2 establece exactamente 6 Delegados para este rango de plantilla[cite: 556, 1268]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "Esta Ley y sus normas de desarrollo serán de aplicación en el ámbito de:",
+      "opciones": {
+        "a": "Las relaciones laborales reguladas en el Estatuto de los Trabajadores.",
+        "b": "Las relaciones de carácter administrativo o estatutario al servicio de las Administraciones Públicas.",
+        "c": "Los servicios operativos de protección civil y peritaje forense en casos de grave riesgo.",
+        "d": "Las opciones a) y b) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La ley tiene vocación de universalidad, aplicándose tanto al sector privado como al personal de las Administraciones Públicas[cite: 69, 1277]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "De acuerdo con los principios de acción preventiva, el orden de actuación del empresario sería:",
+      "opciones": {
+        "a": "Evitar los riesgos, proteger colectivamente y proteger individualmente.",
+        "b": "Evitar los riesgos, evaluar los riesgos inevitables, anteponer la protección individual a la colectiva.",
+        "c": "Evaluar los riesgos, proteger individualmente y evitar los riesgos.",
+        "d": "Evitar los riesgos, evaluar los riesgos inevitables, anteponer la protección colectiva a la individual."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 15.1 establece jerárquicamente evitar riesgos, evaluar los inevitables y priorizar siempre la protección colectiva[cite: 261, 262, 275, 1282]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Las disposiciones de carácter laboral contenidas en la Ley y sus normas reglamentarias tendrán carácter de:",
+      "opciones": {
+        "a": "Derecho necesario máximo indistinto.",
+        "b": "Derecho necesario mínimo indisponible.",
+        "c": "Derecho necesario mínimo indistinto.",
+        "d": "Derecho necesario máximo indisponible."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Se consideran un 'suelo' legal que no puede ser rebajado ni pactado en perjuicio del trabajador [cite: 54, 60-62, 1285]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "En exposición a agentes susceptibles de causar daños graves, existe riesgo grave e inminente cuando:",
+      "opciones": {
+        "a": "...siempre que éstos se manifiesten de forma inmediata.",
+        "b": "Sea cierto racionalmente que se materialice...",
+        "c": "Resulte probable racionalmente... aun cuando éstos no se manifiesten de forma inmediata.",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La definición legal incluye daños diferidos en el tiempo si la exposición inmediata es probable[cite: 92, 1291]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "Según el artículo 16, el plan de prevención de riesgos laborales deberá incluir:",
+      "opciones": {
+        "a": "Estructura organizativa, responsabilidades, funciones, prácticas y procesos.",
+        "b": "Evaluación de riesgos y planificación de la actividad preventiva.",
+        "c": "Evaluación inicial de los riesgos.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 16 integra todos estos elementos como instrumentos esenciales de gestión [cite: 285-287, 1303]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "El trabajador, ante un riesgo para la seguridad por motivos razonables, deberá informar de inmediato a:",
+      "opciones": {
+        "a": "Al empresario.",
+        "b": "A los Delegados de Prevención.",
+        "c": "A cualquier superior jerárquico.",
+        "d": "A su superior jerárquico directo y a los trabajadores designados o servicio de prevención."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 29.2 define este canal específico de comunicación para garantizar la rapidez de la acción correctiva[cite: 429, 1308]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Los trabajadores, con arreglo a su formación, deberán en particular (señale la correcta):",
+      "opciones": {
+        "a": "Utilizar correctamente los medios y equipos de protección facilitados.",
+        "b": "Poner fuera de funcionamiento los dispositivos de seguridad.",
+        "c": "Cooperar con el empresario en condiciones seguras.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Tanto el uso de EPIs como la cooperación son deberes positivos del trabajador; poner fuera de uso dispositivos es una prohibición[cite: 427, 428, 431, 1314]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "Respecto a los daños para la salud producidos por el trabajo, el empresario:",
+      "opciones": {
+        "a": "Deberá comunicarlo por escrito a la autoridad laboral.",
+        "b": "Deberá comunicarlo verbalmente a la autoridad laboral.",
+        "c": "Deberá comunicarlo si así se establece en el plan de prevención.",
+        "d": "No está obligado a comunicarlo."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La notificación por escrito es una obligación legal ineludible según el artículo 23.3[cite: 383, 1316]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "El conjunto de medios humanos y materiales necesarios para realizar actividades preventivas se entiende como:",
+      "opciones": {
+        "a": "Plan de prevención de riesgos laborales.",
+        "b": "Recurso preventivo.",
+        "c": "Servicio de prevención.",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Es la definición técnica literal del artículo 31.2 para el sistema de soporte preventivo[cite: 468, 1328]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "Referido a la protección de la maternidad (art. 26):",
+      "opciones": {
+        "a": "El empresario adoptará medidas para evitar la exposición al riesgo.",
+        "b": "Se puede adaptar el puesto o el tiempo de trabajo.",
+        "c": "Se puede desempeñar un puesto diferente y compatible.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La ley establece una escala de medidas: adaptación, cambio de puesto y, finalmente, suspensión por riesgo [cite: 397-400, 1334]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "Se entiende como 'condición de trabajo' (señale la incluida):",
+      "opciones": {
+        "a": "Características generales de locales, instalaciones y equipos.",
+        "b": "Procesos, actividades o productos potencialmente peligrosos.",
+        "c": "Máquinas, aparatos o instrumentos utilizados.",
+        "d": "Todas las opciones son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Aunque las otras son equipos de trabajo o procesos, la definición de condición de trabajo se centra en el entorno y características del centro[cite: 96, 102, 1338]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Sobre los objetivos de la política de prevención (Capítulo II):",
+      "opciones": {
+        "a": "Elevar el nivel de protección de seguridad y salud.",
+        "b": "Participación de organizaciones empresariales y sindicales.",
+        "c": "Promoción de la igualdad entre mujeres y hombres.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 5 abarca la promoción, la participación institucional y el enfoque de género en prevención[cite: 111, 114, 125, 1352]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "El Gobierno regulará vía reglamento las siguientes materias (señale la incorrecta):",
+      "opciones": {
+        "a": "Requisitos máximos de las condiciones de trabajo.",
+        "b": "Limitaciones o prohibiciones de agentes peligrosos.",
+        "c": "Calificación de enfermedades profesionales.",
+        "d": "Medidas en trabajos especialmente peligrosos."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El error es la palabra 'máximos'; la ley siempre establece requisitos **mínimos** indisponibles[cite: 133, 1355]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Funciones de las Administraciones Públicas en materia laboral:",
+      "opciones": {
+        "a": "Promoción de la prevención y asesoramiento.",
+        "b": "Vigilancia y control del cumplimiento.",
+        "c": "Sanción del incumplimiento.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 7.1 detalla estas funciones como el eje de la actuación pública[cite: 148, 1363]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué derecho no forma parte de la protección eficaz según el art. 14.1?:",
+      "opciones": {
+        "a": "Derecho de información, consulta y participación.",
+        "b": "Derecho a indemnización por incumplimiento.",
+        "c": "Derecho a la formación preventiva.",
+        "d": "Derecho a la paralización de la actividad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La indemnización es una consecuencia de la responsabilidad, pero no se enumera como un derecho preventivo en el artículo 14.1[cite: 251, 1365]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Plazo para que la autoridad laboral ratifique o anule una paralización acordada por los representantes:",
+      "opciones": {
+        "a": "24 horas.",
+        "b": "48 horas.",
+        "c": "72 horas.",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Debido a la gravedad del riesgo, el artículo 21.3 exige una resolución administrativa inmediata en 24 horas[cite: 354, 1371]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Sobre derechos de participación y representación, señale la incorrecta:",
+      "opciones": {
+        "a": "Centros con 6 o más trabajadores usan representantes.",
+        "b": "Defensa de intereses solo si el empresario autoriza.",
+        "c": "Representantes usan el Estatuto de los Trabajadores.",
+        "d": "En AA.PP. se constituye un Comité de Seguridad y Salud único."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La defensa de los intereses en prevención es un derecho legal autónomo, no requiere autorización previa del empresario[cite: 533, 1383]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Sobre los Delegados de Prevención:",
+      "opciones": {
+        "a": "Son designados por y entre los representantes del personal.",
+        "b": "En empresas de hasta 30 trabajadores el Delegado de Personal es el de Prevención.",
+        "c": "En empresas de 31 a 49 hay un Delegado elegido por y entre los de personal.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Aunque 'b' y 'c' parecen correctas, el test indica 'a' como la respuesta base del artículo 35.2[cite: 551, 1387]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Es competencia de los Delegados de Prevención (art. 36):",
+      "opciones": {
+        "a": "Ejercer labor de vigilancia y control sobre la normativa.",
+        "b": "Acompañar a los técnicos en evaluaciones.",
+        "c": "Ser informados por el empresario sobre daños.",
+        "d": "Proponer la paralización de actividades."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Vigilar y controlar es una **competencia**, mientras que acompañar, ser informado o proponer son **facultades**[cite: 579, 1395]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "En facultades de los Delegados de Prevención, señale la incorrecta:",
+      "opciones": {
+        "a": "Tener acceso a información y documentación.",
+        "b": "Realizar visitas a los lugares de trabajo.",
+        "c": "Promover y fomentar la cooperación de los trabajadores.",
+        "d": "Recabar del empresario la adopción de medidas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Promover la cooperación es técnicamente una **competencia** (art. 36.1), no una facultad (art. 36.2)[cite: 577, 1411]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "Sobre el Comité de Seguridad y Salud, señale la correcta:",
+      "opciones": {
+        "a": "Empresario y representantes en número igual o superior.",
+        "b": "Se constituye en empresas o centros con 50 o más trabajadores.",
+        "c": "En reuniones participan con voz y voto delegados sindicales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El umbral obligatorio de constitución es de 50 trabajadores; los delegados sindicales tienen voz pero no voto[cite: 615, 624, 1417]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "No es competencia del Comité de Seguridad y Salud (art. 39):",
+      "opciones": {
+        "a": "Participar en planes y programas de prevención.",
+        "b": "Promover iniciativas sobre métodos preventivos.",
+        "c": "Ser consultados por el empresario antes de introducir nuevas tecnologías.",
+        "d": "Todas las anteriores son competencias."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La consulta previa sobre organización del trabajo es una competencia específica de los Delegados de Prevención[cite: 578, 1425]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "En facultades del Comité de Seguridad y Salud, señale la incorrecta:",
+      "opciones": {
+        "a": "Conocer directamente la situación de prevención.",
+        "b": "Sustituir al Delegado de Prevención si no existe.",
+        "c": "Conocer y analizar daños producidos en la salud.",
+        "d": "Conocer e informar memoria y programación anual."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Un órgano colegiado (Comité) no puede sustituir funcionalmente a la figura del Delegado en centros que no alcancen el umbral[cite: 1429]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "Se consideran recursos preventivos asignables por el empresario:",
+      "opciones": {
+        "a": "Trabajadores designados por la empresa.",
+        "b": "Miembros del servicio de prevención propio.",
+        "c": "Miembros de servicios de prevención ajenos.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 32 bis.2 contempla estas tres modalidades para asegurar la presencia preventiva en tareas peligrosas [cite: 506-511, 1441]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "Principio de la acción preventiva (art. 15.1):",
+      "opciones": {
+        "a": "Combatir los riesgos en su destino.",
+        "b": "Evaluar los riesgos que no se puedan evitar.",
+        "c": "Adaptar la persona al trabajo.",
+        "d": "Anteponer protección individual a colectiva."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La ley obliga a evaluar lo inevitable, combatir en origen y adaptar el trabajo a la persona[cite: 262, 1444]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "Para actuar como servicios de prevención, las entidades deben:",
+      "opciones": {
+        "a": "Tener informe previo del Comité.",
+        "b": "Tener acreditación del Comité.",
+        "c": "Tener acreditación por la autoridad laboral.",
+        "d": "No precisan acreditación."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La acreditación administrativa es requisito legal indispensable para garantizar la calidad del servicio[cite: 491, 1451]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "El empresario debe auditar su sistema de prevención si:",
+      "opciones": {
+        "a": "No hubiera designado trabajadores.",
+        "b": "No hubiera concertado servicio ajeno.",
+        "c": "Es recomendable pero no obligatorio.",
+        "d": "Siempre."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 30.6 obliga al control externo si la empresa gestiona la prevención internamente sin recurrir a servicios ajenos[cite: 456, 1455]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "La Comisión Nacional de Seguridad y Salud en el Trabajo es:",
+      "opciones": {
+        "a": "Órgano asesor en la formulación de políticas.",
+        "b": "Órgano científico técnico especializado.",
+        "c": "Órgano de participación institucional.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Se define como órgano colegiado asesor y de participación institucional (art. 13.1); el científico es el INSHT[cite: 222, 1462]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "El servicio de prevención tendrá carácter:",
+      "opciones": {
+        "a": "Sanitario.",
+        "b": "Administrativo.",
+        "c": "Interdisciplinario.",
+        "d": "Temporal."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Debe integrar diversas disciplinas técnicas para un abordaje global del riesgo laboral (art. 31.4)[cite: 486, 1471]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "La participación de trabajadores se canaliza vía representantes en centros con:",
+      "opciones": {
+        "a": "6 o más trabajadores.",
+        "b": "10 o más trabajadores.",
+        "c": "30 o más trabajadores.",
+        "d": "50 o más trabajadores."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "A partir de 6 trabajadores la ley prevé la articulación de la representación unitaria en prevención[cite: 532, 1474]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "Si la empresa no usa recursos propios para la prevención, la asunción de funciones:",
+      "opciones": {
+        "a": "Se hará judicialmente.",
+        "b": "Solo podrá hacerse por un servicio de prevención ajeno.",
+        "c": "No podrá llevarse a cabo.",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 31.3 limita la externalización exclusivamente a entidades acreditadas como servicios ajenos[cite: 484, 1480]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "Corresponde la defensa de intereses en prevención a:",
+      "opciones": {
+        "a": "Comités de Empresa.",
+        "b": "Delegados de Personal.",
+        "c": "Representantes sindicales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 34.2 extiende esta labor de defensa a todos los cauces legales de representación de los trabajadores[cite: 533, 1487]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "El Instituto Nacional de Seguridad e Higiene en el Trabajo es:",
+      "opciones": {
+        "a": "Órgano paritario de consulta periódica.",
+        "b": "Órgano colegiado asesor de políticas.",
+        "c": "Órgano científico técnico especializado.",
+        "d": "Órgano de vigilancia y control."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Se define por su misión analítica y de estudio técnico de las condiciones de trabajo[cite: 161, 1491]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "Representantes con funciones específicas en prevención:",
+      "opciones": {
+        "a": "Servicios de Prevención.",
+        "b": "Delegados Sindicales.",
+        "c": "Delegados de Prevención.",
+        "d": "Delegados de Personal."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Es la figura especializada creada por la LPRL dentro de la representación de los trabajadores[cite: 550, 1501]."
+    },
+    {
+      "numero": 39,
+      "enunciado": "Delegados en una empresa de 70 trabajadores:",
+      "opciones": {
+        "a": "2 Delegados de Prevención.",
+        "b": "3 Delegados de Prevención.",
+        "c": "4 Delegados de Prevención.",
+        "d": "5 Delegados de Prevención."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Según la escala del art. 35.2, de 50 a 100 trabajadores corresponden 2 Delegados[cite: 552, 1504]."
+    },
+    {
+      "numero": 40,
+      "enunciado": "Delegados en una empresa de 1.000 trabajadores:",
+      "opciones": {
+        "a": "3 Delegados de Prevención.",
+        "b": "4 Delegados de Prevención.",
+        "c": "5 Delegados de Prevención.",
+        "d": "6 Delegados de Prevención."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Para el rango de 501 a 1.000 trabajadores, el artículo 35.2 fija 4 Delegados[cite: 554, 1510]."
+    },
+    {
+      "numero": 41,
+      "enunciado": "Delegados en una empresa de 3.501 trabajadores:",
+      "opciones": {
+        "a": "5 Delegados de Prevención.",
+        "b": "6 Delegados de Prevención.",
+        "c": "7 Delegados de Prevención.",
+        "d": "8 Delegados de Prevención."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "En empresas de 3.001 a 4.000 trabajadores corresponden 7 Delegados[cite: 557, 1516]."
+    },
+    {
+      "numero": 42,
+      "enunciado": "La Inspección de Trabajo y Seguridad Social es el órgano cuya misión es:",
+      "opciones": {
+        "a": "Órgano colegiado asesor.",
+        "b": "Órgano paritario de participación.",
+        "c": "Órgano científico técnico.",
+        "d": "Vigilancia y control de la normativa."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Su función central es garantizar el cumplimiento de las leyes mediante la inspección[cite: 177, 1522]."
+    },
+    {
+      "numero": 43,
+      "enunciado": "Número mínimo de trabajadores para constituir un Comité de Seguridad y Salud:",
+      "opciones": {
+        "a": "10.",
+        "b": "25.",
+        "c": "50.",
+        "d": "100."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 38.2 establece este órgano colegiado paritario solo a partir de 50 empleados[cite: 615, 1531]."
+    },
+    {
+      "numero": 44,
+      "enunciado": "No es competencia de los Delegados de Prevención (art. 36.1):",
+      "opciones": {
+        "a": "Colaborar en la mejora de la acción preventiva.",
+        "b": "Promover la cooperación de los trabajadores.",
+        "c": "Promover iniciativas sobre métodos preventivos.",
+        "d": "Ejercer vigilancia y control sobre la normativa."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Promover iniciativas sobre métodos es competencia del Comité de Seguridad y Salud (art. 39.1)[cite: 634, 1537]."
+    },
+    {
+      "numero": 45,
+      "enunciado": "La presencia de recursos preventivos es necesaria cuando:",
+      "opciones": {
+        "a": "Riesgos agravados por operaciones diversas.",
+        "b": "Actividades reglamentariamente peligrosas.",
+        "c": "Requerido por la Inspección de Trabajo.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Son los tres supuestos legales obligatorios recogidos en el artículo 32 bis.1 [cite: 498-505, 1543]."
+    },
+    {
+      "numero": 46,
+      "enunciado": "Se entenderá como servicio de prevención:",
+      "opciones": {
+        "a": "Conjunto de personas ante emergencias.",
+        "b": "Conjunto de medios humanos y materiales para actividades preventivas.",
+        "c": "Servicio en caso de enfermedad profesional.",
+        "d": "Locales sanitarios obligatorios."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Define la estructura técnica operativa encargada de la prevención en la empresa[cite: 468, 1546]."
+    },
+    {
+      "numero": 47,
+      "enunciado": "El servicio de prevención asesora y asiste:",
+      "opciones": {
+        "a": "Al empresario.",
+        "b": "A los trabajadores y representantes.",
+        "c": "A los órganos de representación especializados.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Su función de asesoría es transversal a todos los actores de la prevención (art. 31.2)[cite: 468, 1559]."
+    },
+    {
+      "numero": 48,
+      "enunciado": "El Comité de Seguridad y Salud en el Trabajo es:",
+      "opciones": {
+        "a": "Órgano paritario y colegiado de participación.",
+        "b": "Órgano colegiado asesor de políticas.",
+        "c": "Órgano científico técnico especializado.",
+        "d": "Órgano de participación institucional."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Se define por su naturaleza paritaria (empresa/trabajadores) y de consulta periódica[cite: 614, 1562]."
+    },
+    {
+      "numero": 49,
+      "enunciado": "¿Qué artículo obliga al empresario a analizar situaciones de emergencia y adoptar medidas de primeros auxilios?:",
+      "opciones": {
+        "a": "Artículo 19.",
+        "b": "Artículo 20.",
+        "c": "Artículo 21.",
+        "d": "Artículo 22."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 20 regula específicamente las medidas de emergencia, lucha contra incendios y evacuación[cite: 334, 1568]."
+    },
+    {
+      "numero": 50,
+      "enunciado": "En funciones públicas, ¿dónde no se aplica la ley?:",
+      "opciones": {
+        "a": "Establecimientos penitenciarios.",
+        "b": "Trabajo de empleados públicos.",
+        "c": "Policía, seguridad y resguardo aduanero.",
+        "d": "Centros y establecimientos militares."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Actividades de policía y seguridad tienen normativa específica por sus particularidades de riesgo[cite: 74, 1575]."
+    },
+    {
+      "numero": 51,
+      "enunciado": "Vigilar y controlar la normativa de prevención es competencia de:",
+      "opciones": {
+        "a": "El Comité de Seguridad y Salud.",
+        "b": "La Inspección de Trabajo.",
+        "c": "Los Delegados de Prevención.",
+        "d": "El empresario."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Es la competencia específica reconocida a esta figura en el artículo 36.1.d[cite: 579, 1581]."
+    },
+    {
+      "numero": 52,
+      "enunciado": "Para calificar un riesgo por su gravedad, se valora conjuntamente:",
+      "opciones": {
+        "a": "Calificación del daño y severidad.",
+        "b": "Probabilidad y lugar de origen.",
+        "c": "Probabilidad de que se produzca y severidad del daño.",
+        "d": "Calificación del daño y dónde se ha producido."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "La gravedad es el producto de cuán probable es el evento y qué tan grave será su impacto[cite: 89, 1586]."
+    },
+    {
+      "numero": 53,
+      "enunciado": "Sobre la vigilancia de la salud (art. 22):",
+      "opciones": {
+        "a": "Obligatoria para todos sin excepción.",
+        "b": "Solo cuando el empresario lo considere.",
+        "c": "Consentimiento del trabajador, salvo casos justificados.",
+        "d": "No es un derecho."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Es voluntaria como norma general, salvo si es necesaria para evaluar efectos de condiciones de trabajo o proteger a terceros[cite: 359, 360, 1596]."
+    },
+    {
+      "numero": 54,
+      "enunciado": "¿De qué fecha es la Ley 31/1995, de Prevención de Riesgos Laborales?:",
+      "opciones": {
+        "a": "5 de noviembre.",
+        "b": "7 de noviembre.",
+        "c": "8 de noviembre.",
+        "d": "5 de diciembre."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Es la fecha oficial de la Ley 31/1995, publicada el 10 de noviembre en el BOE[cite: 43, 691, 1605]."
+    },
+    {
+      "numero": 55,
+      "enunciado": "Los principios generales de la LPRL son para:",
+      "opciones": {
+        "a": "Protección de seguridad y salud.",
+        "b": "Eliminación o disminución de riesgos.",
+        "c": "Información, consulta y formación.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "El artículo 2.1 establece estos pilares fundamentales para la protección del trabajador[cite: 52, 1611]."
+    },
+    {
+      "numero": 56,
+      "enunciado": "La vigilancia y control de la normativa preventiva corresponde a:",
+      "opciones": {
+        "a": "Asesoramiento técnico (INSHT).",
+        "b": "Colaboración internacional (INSHT).",
+        "c": "Estadísticas sanitarias.",
+        "d": "La Inspección de Trabajo y Seguridad Social."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 28. Puesto de Trabajo",
+      "explicacion": "Es la función central ejecutiva de la ITSS según el artículo 9.1 de la Ley[cite: 177, 1708]."
+    }
+  ]
+}
