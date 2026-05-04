@@ -1,0 +1,616 @@
+{
+  "tema": "Temas 20 y 21. Derechos en relaciones con AA.PP. y Oficinas de Asistencia en Materia de Registros",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Según establece el artículo 10 del Decreto 13/2021 de 20 de mayo... el horario de asistencia a la ciudadanía de lunes a viernes de 8.30 h a 14.30 h y de lunes a jueves de 16.30 horas a 18.30 horas, exceptuando los meses de julio y agosto, corresponde a:",
+      "opciones": {
+        "a": "Los puntos de asistencia en materia de registros.",
+        "b": "Las oficinas departamentales en materia de registros.",
+        "c": "Las oficinas generales de asistencia en materia de registros.",
+        "d": "Otros órganos y unidades, centrales o periféricos autorizados para este servicio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 21",
+      "explicación": "El artículo 10.1 del Decreto 13/2021 establece específicamente este horario para las Oficinas Generales. Las departamentales y puntos tienen horarios distintos (9-14h y 8.30-14.30h respectivamente)."
+    },
+    {
+      "numero": 2,
+      "enunciado": "El artículo 25 del Decreto 13/2021... sobre práctica de la notificación o comunicación en soporte no electrónico, establece su admisión:",
+      "opciones": {
+        "a": "Cuando no consten los datos de identificación de la persona interesada o de su representante en el procedimiento.",
+        "b": "Cuando la notificación no se encuentre disponible en la sede electrónica autonómica.",
+        "c": "Cuando se produzca cualquier incidencia técnica que lo impida.",
+        "d": "Cuando la persona interesada, o su representante, comparezca personalmente ante la oficina de asistencia habilitada, se identifique ante el personal funcionario y firme el modelo establecido para el acceso a esta asistencia electrónica."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 21",
+      "explicación": "El artículo 25.2 detalla los requisitos formales (comparecencia, identificación y firma del modelo) para esta asistencia. Las opciones a, b y c son causas de inadmisión."
+    },
+    {
+      "numero": 3,
+      "enunciado": "El artículo 40.2 del Decreto 7/2013, de 14 de febrero... expone que:",
+      "opciones": {
+        "a": "Los aspectos relativos a la gestión y conservación de los documentos electrónicos se ajustarán a lo establecido en las correspondientes Normas Técnicas de Interoperabilidad...",
+        "b": "El Depósito de Originales Electrónicos que será único para toda la Administración de la Comunidad de Castilla y León, garantizará la calidad y protección...",
+        "c": "Para preservar la conservación, el acceso y la legibilidad de los documentos electrónicos archivados podrán realizarse operaciones de conversión de formatos...",
+        "d": "La obtención de copia se realizará de forma que permita mantener la confidencialidad de aquellos datos de carácter personal que no afecten al interesado."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 21",
+      "explicación": "La opción c refleja correctamente la capacidad de realizar conversiones de formato para preservar la legibilidad y conservación a largo plazo según la normativa técnica."
+    },
+    {
+      "numero": 4,
+      "enunciado": "Según el artículo 20 de la Ley 2/2010... los ciudadanos tienen derecho a que la Administración Autonómica les notifique la resolución expresa de los procedimientos... Indique el plazo máximo:",
+      "opciones": {
+        "a": "Los procedimientos nunca tienen resolución expresa, no existe plazo máximo.",
+        "b": "El plazo máximo previsto para notificar la resolución expresa de los procedimientos es de ocho meses.",
+        "c": "El plazo máximo es el previsto en sus normas reguladoras o, en su defecto, en el plazo máximo de tres meses.",
+        "d": "El plazo se fija en el momento de solicitar el inicio del procedimiento."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 20",
+      "explicación": "El artículo 20.1 de la Ley 2/2010 remite a la legislación estatal, estableciendo el plazo máximo de tres meses en defecto de norma específica."
+    },
+    {
+      "numero": 5,
+      "enunciado": "Conforme lo establecido en el artículo 25 de la Ley 2/2010... los ciudadanos tienen derecho a exigir responsabilidades por los retrasos injustificados... pudiendo para ello:",
+      "opciones": {
+        "a": "Ejercer su derecho a identificar a las autoridades y empleados públicos responsables de la tramitación de los procedimientos.",
+        "b": "Ejercer su derecho siempre que no se identifique a las autoridades y empleados públicos.",
+        "c": "Ejercer su derecho solamente en los expedientes sancionadores.",
+        "d": "En el artículo 25 no viene regulado tal derecho."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 20",
+      "explicación": "El artículo 25 faculta expresamente al ciudadano a identificar a los responsables de la tramitación para exigir las responsabilidades correspondientes por retrasos o perjuicios."
+    },
+    {
+      "numero": 6,
+      "enunciado": "Indique la normativa que, en su Título Preliminar, regula el derecho y la obligación de relacionarse electrónicamente con las Administraciones Públicas, así como los canales...",
+      "opciones": {
+        "a": "El Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.",
+        "b": "La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.",
+        "c": "La Ley 3/2015, de 4 de marzo, de Transparencia y participación ciudadana de Castilla y León.",
+        "d": "La Ley 2/2010, de 11 de marzo, de Derechos de los Ciudadanos en sus relaciones con la Administración de la Comunidad de Castilla y León."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 20",
+      "explicación": "El Real Decreto 203/2021 regula en su Título Preliminar tanto la obligación de relacionarse electrónicamente como los canales de asistencia (arts. 3 y 4)."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Según el art. 14.3 de la Ley 39/2015, de 1 de octubre, las administraciones podrán establecer, reglamentariamente:",
+      "opciones": {
+        "a": "La obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas.",
+        "b": "La obligación de relacionarse con ellas a través de medios electrónicos para ciertos colectivos de personas jurídicas.",
+        "c": "La obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos.",
+        "d": "La obligación de relacionarse con ellas a través de medios electrónicos para todos los procedimientos y para todos los colectivos de personas físicas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 20",
+      "explicación": "El artículo 14.3 permite la obligatoriedad reglamentaria de relación electrónica tanto para procedimientos específicos como para colectivos de personas físicas con capacidad técnica acreditada."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Según lo establecido en el artículo 14 de la Ley 39/2015... estarán obligados a relacionarse a través de medios electrónicos...:",
+      "opciones": {
+        "a": "Las personas jurídicas.",
+        "b": "Los empleados de las Administraciones Públicas, para los trámites y actuaciones que realicen por razón de su condición de empleado público.",
+        "c": "Las entidades sin personalidad jurídica.",
+        "d": "Todos los sujetos anteriores."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 20",
+      "explicación": "El artículo 14.2 de la Ley 39/2015 enumera a todos los mencionados (personas jurídicas, entidades sin personalidad, empleados públicos, etc.) como sujetos obligados."
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué normativa estatal estableció el derecho de los ciudadanos a relacionarse electrónicamente con las Administraciones Públicas...?:",
+      "opciones": {
+        "a": "El Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.",
+        "b": "La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.",
+        "c": "La Ley 3/2015, de 4 de marzo, de Transparencia y participación ciudadana de Castilla y León.",
+        "d": "La Ley 2/2010, de 11 de marzo, de Derechos de los Ciudadanos en sus relaciones con la Administración de la Comunidad de Castilla y León."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 20",
+      "explicación": "La Ley 11/2007 fue el hito normativo que reconoció explícitamente el derecho de los ciudadanos a relacionarse electrónicamente (aunque esté actualmente derogada)."
+    },
+    {
+      "numero": 10,
+      "enunciado": "El Real Decreto 203/2021... establece en su artículo 4, que las Administraciones Públicas prestarán la asistencia necesaria... a través de alguno/s de los siguientes canales:",
+      "opciones": {
+        "a": "Presencial, a través de las oficinas de asistencia en materia de registros.",
+        "b": "Redes sociales.",
+        "c": "Sedes electrónicas.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 21",
+      "explicación": "El artículo 4 del RD 203/2021 enumera estos canales (presencial, portales/sedes, redes sociales, telefónico, etc.) de forma no exhaustiva."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Según el art. 16 de la Ley 39/2015... en relación con los registros, ¿cuál de las siguientes afirmaciones no es correcta?:",
+      "opciones": {
+        "a": "El Registro Electrónico General de cada administración funcionará como un portal que facilitará el acceso a los registros electrónicos de cada organismo.",
+        "b": "En la sede electrónica de acceso a cada registro figurará la relación actualizada de trámites que pueden finalizarse en el mismo.",
+        "c": "Los organismos públicos vinculados o dependientes de cada administración podrán disponer de su propio registro electrónico.",
+        "d": "Cada administración dispondrá de un Registro Electrónico General."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 21",
+      "explicación": "El artículo 16.1 establece que la sede electrónica debe indicar los trámites que pueden iniciarse (no finalizarse) en el registro."
+    },
+    {
+      "numero": 12,
+      "enunciado": "Según lo establecido en el artículo 3 del Decreto 13/2021... la asistencia presencial se regirá por los siguientes principios (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Igualdad, mérito, capacidad y publicidad.",
+        "b": "Colaboración, cooperación y coordinación con otras administraciones públicas.",
+        "c": "Servicio efectivo, gratuito y universal.",
+        "d": "Racionalización, agilidad y seguridad jurídica."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 21",
+      "explicación": "Los principios de igualdad, mérito y capacidad son propios del acceso al empleo público, no de la gestión de oficinas de registro."
+    },
+    {
+      "numero": 13,
+      "enunciado": "El artículo 6 de la Ley 39/2015... regula los Registros electrónicos de apoderamientos. Los asientos... deberán contener, al menos, la siguiente información:",
+      "opciones": {
+        "a": "Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del poderdante.",
+        "b": "Nombre y apellidos o la denominación o razón social, documento nacional de identidad, número de identificación fiscal o documento equivalente del apoderado.",
+        "c": "Periodo de tiempo por el cual se otorga el poder.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 21",
+      "explicación": "El artículo 6.3 de la Ley 39/2015 exige explícitamente estos datos (identidad de poderdante/apoderado y periodo de vigencia) en los asientos registrales."
+    },
+    {
+      "numero": 14,
+      "enunciado": "Siguiendo con el artículo 6 de la Ley 39/2015, señale la opción correcta:",
+      "opciones": {
+        "a": "El apoderamiento \"apud acta\" se otorgará mediante comparecencia electrónica en la correspondiente sede electrónica... o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros.",
+        "b": "Los poderes inscritos en el registro tendrán una validez determinada máxima de 3 años a contar desde la fecha de inscripción.",
+        "c": "Las solicitudes de inscripción del poder, de revocación, de prórroga o de denuncia del mismo surtirán efectos desde el día siguiente a la fecha en que se produzca dicha inscripción.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 21",
+      "explicación": "La opción a refleja exactamente el art. 6.5. Las opciones b (es 5 años) y c (surte efectos desde el mismo día) son erróneas."
+    },
+    {
+      "numero": 15,
+      "enunciado": "Según lo establecido en el Decreto 13/2021... las oficinas generales de asistencia en materia de registro:",
+      "opciones": {
+        "a": "Son las oficinas autonómicas que prestan la asistencia presencial a la ciudadanía, fundamentalmente en materias de carácter departamental o sectorial...",
+        "b": "Son las oficinas autonómicas en materia de registro que existirán en las dependencias administrativas pertenecientes a las delegaciones territoriales que... se ubican en localidades distintas a la capital...",
+        "c": "Son las oficinas autonómicas que prestan atención presencial a la ciudadanía en el ámbito provincial de la Administración de la Comunidad de Castilla y León.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 21",
+      "explicación": "El art. 6.1 define a las oficinas generales como aquellas que prestan la atención presencial a nivel provincial en las delegaciones territoriales."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Conforme a lo establecido en el art. 12 del Decreto 13/2021... las oficinas de asistencia en materia de registros desarrollarán... las siguientes funciones:",
+      "opciones": {
+        "a": "Información administrativa general y, en su caso, particular.",
+        "b": "Recepción y registro de documentos a las personas obligadas a relacionarse electrónicamente con la administración.",
+        "c": "Asistencia en el uso de medios electrónicos a las personas interesadas, obligadas a relación electrónica con la administración, que así lo soliciten...",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 21",
+      "explicación": "Las opciones b y c son incorrectas porque la asistencia se presta específicamente a personas NO obligadas a relación electrónica (art. 12.2)."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Según el art. 16 del Decreto 13/2021... la información administrativa general:",
+      "opciones": {
+        "a": "Se facilitará obligatoriamente a las personas sin exigir para ello la acreditación de la personalidad o legitimación alguna.",
+        "b": "Se facilitará electrónicamente en todo caso.",
+        "c": "Se podrá facilitar a las personas, previa petición.",
+        "d": "Se facilitará a las personas, previa acreditación de la personalidad."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 21",
+      "explicación": "El art. 16.2 especifica que la información general se presta sin necesidad de acreditar la personalidad o legitimación."
+    },
+    {
+      "numero": 18,
+      "enunciado": "La Ley 2/2010... tiene como objeto fundamental:",
+      "opciones": {
+        "a": "Garantizar que la actuación de la Administración de la Comunidad de Castilla y León se oriente a la adecuada atención a los ciudadanos.",
+        "b": "Regular y desarrollar el derecho a una buena administración reconocido en el artículo 12 del Estatuto de Autonomía de Castilla y León, en el marco del propio Estatuto de Autonomía y de la legislación básica del Estado.",
+        "c": "Garantizar la efectividad de los derechos y la prestación de unos servicios públicos de calidad.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 20",
+      "explicación": "El artículo 1 de la Ley 2/2010 define su objeto como el desarrollo del derecho a una buena administración del Estatuto de Autonomía de CyL."
+    },
+    {
+      "numero": 19,
+      "enunciado": "Según la Ley 39/2015... las personas físicas podrán elegir si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no:",
+      "opciones": {
+        "a": "Cuando solicitan el inicio del expediente.",
+        "b": "En todo momento.",
+        "c": "En cualquier momento, pero no podrán modificar el medio elegido.",
+        "d": "En todo momento, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 20",
+      "explicación": "El artículo 14.1 reconoce este derecho de elección a las personas físicas, exceptuando a aquellos colectivos que, por ley, están obligados a relación electrónica."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Según la Ley 39/2015... en todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite... (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Las entidades sin personalidad jurídica.",
+        "b": "Quienes representen a un interesado, esté en obligado a relacionarse electrónicamente con la Administración.",
+        "c": "Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria...",
+        "d": "Los empleados de las Administraciones Públicas para todos los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público..."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 20",
+      "explicación": "La obligación de los empleados públicos (art. 14.2.e) no es \"para todos los trámites\", sino para los realizados en su condición de tales, según se determine reglamentariamente."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Según el Decreto 13/2021... la identificación de las autoridades y personal al servicio de la Administración Autonómica bajo cuya responsabilidad se tramiten los procedimientos, se corresponde con:",
+      "opciones": {
+        "a": "La información administrativa electrónica.",
+        "b": "La información administrativa particular.",
+        "c": "La información administrativa general.",
+        "d": "La información administrativa pública."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 21",
+      "explicación": "El art. 17.1 define la información particular como aquella sobre el estado de procedimientos y la identificación de responsables de su tramitación."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Según el art. 7 del anteriormente citado Decreto 13/2021, las oficinas departamentales:",
+      "opciones": {
+        "a": "Están localizadas en las dependencias administrativas de las delegaciones territoriales y estarán adscritas orgánicamente a la respectiva delegación.",
+        "b": "Están localizadas en la sede de las consejerías y estarán adscritas orgánicamente a la correspondiente consejería.",
+        "c": "Están localizadas en las dependencias administrativas pertenecientes a las delegaciones territoriales.",
+        "d": "Están localizadas en la sede de las delegaciones territoriales y estarán adscritas orgánicamente a la correspondiente consejería."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 21",
+      "explicación": "El art. 7.1 del Decreto indica que las oficinas departamentales se localizan en la sede de las consejerías y se adscriben a su secretaría general."
+    },
+    {
+      "numero": 23,
+      "enunciado": "El derecho a una buena administración se regula en el Estatuto de Autonomía de Castilla y León:",
+      "opciones": {
+        "a": "En el artículo 12.",
+        "b": "En el artículo 13.",
+        "c": "En el artículo 14.",
+        "d": "En el artículo 15."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 20",
+      "explicación": "El artículo 12 de la Ley Orgánica 14/2007 (Estatuto de Autonomía de CyL) establece expresamente el derecho a una buena Administración."
+    },
+    {
+      "numero": 24,
+      "enunciado": "La Ley 2/2010... reconoce diferentes formas ejercitar el derecho de participación (señale la incorrecta):",
+      "opciones": {
+        "a": "Derecho de consulta.",
+        "b": "Derecho a formular quejas.",
+        "c": "Derecho de participación en políticas públicas.",
+        "d": "Derecho a formular sugerencias."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 20",
+      "explicación": "La formulación de quejas es un derecho recogido en el Capítulo V, pero no dentro de los derechos de participación (Capítulo VII)."
+    },
+    {
+      "numero": 25,
+      "enunciado": "De conformidad con la literalidad del art. 18 de la Ley 2/2010... los interesados aportarán al procedimiento administrativo...:",
+      "opciones": {
+        "a": "Todos los datos y documentos previstos en la normativa aplicable.",
+        "b": "Únicamente los datos y documentos que sean preceptivos para la resolución del procedimiento.",
+        "c": "Únicamente los datos y documentos que le sean requeridos por la Administración.",
+        "d": "Todos los datos y documentos previstos en la normativa aplicable, así como aquellos que estimen convenientes."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 20",
+      "explicación": "El artículo 18.1 faculta a los interesados para aportar tanto los datos exigidos por la norma como los que consideren convenientes para la defensa de sus intereses."
+    },
+    {
+      "numero": 26,
+      "enunciado": "De acuerdo con lo establecido en la Ley 2/2010... sobre el derecho a formular quejas, la Administración autonómica dará respuesta por escrito a dichas quejas:",
+      "opciones": {
+        "a": "En un plazo máximo de un mes.",
+        "b": "En un plazo máximo de dos meses.",
+        "c": "En el plazo máximo de tres meses.",
+        "d": "En un plazo máximo de seis meses."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 20",
+      "explicación": "El artículo 24.2 de la Ley 2/2010 establece el plazo máximo de tres meses para dar respuesta escrita a las quejas ciudadanas."
+    },
+    {
+      "numero": 27,
+      "enunciado": "De acuerdo con lo regulado por la Ley 2/2010, en su art. 30, si un escrito de petición se dirigiese a un órgano de la Administración Autonómica que no fuera competente para pronunciarse sobre ella:",
+      "opciones": {
+        "a": "Este extremo se comunicará al interesado, devolviéndole el escrito a fin de que lo presente ante el órgano competente.",
+        "b": "Se remitirá al órgano competente y se advertirá de tal circunstancia al firmante.",
+        "c": "Se remitirá al órgano competente sin más trámites.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 20",
+      "explicación": "El artículo 30.3 establece la obligación de la Administración de remitir el escrito al órgano competente y avisar al peticionario."
+    },
+    {
+      "numero": 28,
+      "enunciado": "La Ley 2/2010... tiene como finalidad:",
+      "opciones": {
+        "a": "La gestión pública y las medidas de modernización y mejora de la Administración de la Comunidad.",
+        "b": "La evaluación de las políticas públicas y de la calidad de los servicios públicos de la Administración autonómica.",
+        "c": "Garantizar que la actuación de la Administración de la Comunidad de Castilla y León se oriente a la adecuada atención a los ciudadanos, a la efectividad de sus derechos y a la prestación de unos servicios públicos de calidad...",
+        "d": "Establecer el régimen jurídico de la utilización por la Administración Autonómica de medios electrónicos..."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 20",
+      "explicación": "Esta opción recoge la definición íntegra del artículo 2 de la Ley 2/2010 sobre la orientación de la Administración hacia la atención y derechos ciudadanos."
+    },
+    {
+      "numero": 29,
+      "enunciado": "Según lo establecido en el art. 53 de la Ley 39/2015... es un derecho del interesado en el procedimiento administrativo:",
+      "opciones": {
+        "a": "Identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+        "b": "No presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario.",
+        "c": "A formular alegaciones en cualquier fase del procedimiento anterior al trámite de audiencia.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 20",
+      "explicación": "Todas las opciones son derechos recogidos explícitamente en el artículo 53.1 de la Ley 39/2015 para quienes tienen la condición de interesados."
+    },
+    {
+      "numero": 30,
+      "enunciado": "Según la Ley 39/2015... NO es un derecho de las personas en sus relaciones con las Administraciones Publicas recogido en el art. 13:",
+      "opciones": {
+        "a": "A utilizar las lenguas oficiales en el territorio de su Comunidad Autónoma...",
+        "b": "Ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+        "c": "A actuar asistidos de asesor cuando lo consideren conveniente en defensa de sus intereses.",
+        "d": "A exigir las responsabilidades de las Administraciones Públicas y autoridades cuando así corresponda legalmente."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 20",
+      "explicación": "El derecho a actuar asistido de asesor es un derecho de los interesados en el procedimiento (art. 53), no un derecho general de las personas en el art. 13."
+    },
+    {
+      "numero": 31,
+      "enunciado": "De acuerdo con la Ley 2/2010... ¿qué órgano es el encargado de hacer pública y mantener actualizada la relación de oficinas de asistencia en materia de registros?:",
+      "opciones": {
+        "a": "La Consejería competente en materia de función pública.",
+        "b": "La Consejería competente en materia de administración electrónica.",
+        "c": "La Consejería competente en materia de atención al ciudadano.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 21",
+      "explicación": "El artículo 18.3 de la Ley 2/2010 (y reforzado por el Decreto 13/2021) asigna la actualización de la relación de oficinas a la Consejería competente en atención al ciudadano."
+    },
+    {
+      "numero": 32,
+      "enunciado": "De conformidad con lo establecido en el art. 60 del Real Decreto 203/2021... las interconexiones entre Registros de las Administraciones Públicas deberán realizarse a través del:",
+      "opciones": {
+        "a": "Sistema de Registro Único de la Administración.",
+        "b": "Sistema de Interconexión de Registros (SIR).",
+        "c": "Registro Electrónico General de la Administración General del Estado.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 21",
+      "explicación": "El art. 60.2 del RD 203/2021 estipula que las interconexiones deben realizarse obligatoriamente a través del SIR."
+    },
+    {
+      "numero": 33,
+      "enunciado": "De acuerdo a lo establecido en el artículo 4 del Real Decreto 203/2021... la asistencia de la Administración de la Comunidad de Castilla y León se articula actualmente en torno a los siguientes canales:",
+      "opciones": {
+        "a": "Red de oficinas de asistencia en materia de registros.",
+        "b": "La sede electrónica www.tramitacastillayleon.jcyl.es.",
+        "c": "Servicio 012.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 21",
+      "explicación": "El manual del Tema 21 confirma que la red de oficinas, el 012 y la sede electrónica son los tres pilares del modelo de asistencia de la Junta de CyL."
+    },
+    {
+      "numero": 34,
+      "enunciado": "Según lo establecido en el artículo 13 del Decreto 13/2021... las oficinas de asistencia en materia de registros de la Administración de la Comunidad de Castilla y León:",
+      "opciones": {
+        "a": "No suministran información alguna en materia de protección de datos...",
+        "b": "Deben requerir el consentimiento de la ciudadanía para proceder al tratamiento de sus datos personales.",
+        "c": "Suministrarán a la persona interesada la información sobre la protección de datos correspondiente al tratamiento de los datos personales que efectúen en el curso de la prestación de los servicios.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 21",
+      "explicación": "El art. 13.3 del Decreto impone a las oficinas la obligación de facilitar la información sobre protección de datos del tratamiento que realizan en el ejercicio de sus funciones."
+    },
+    {
+      "numero": 35,
+      "enunciado": "De conformidad con lo establecido en el art. 12 del Decreto 13/2021... las oficinas de asistencia en materia de registros, serán competentes para la expedición de copias auténticas:",
+      "opciones": {
+        "a": "De documentos públicos administrativos, que sean originales o copias auténticas de originales, aunque no se presenten a registro.",
+        "b": "De documentos públicos administrativos o privados presentados a registro, en soporte papel u otro soporte no electrónico susceptible de digitalización, a efectos de su incorporación al correspondiente expediente administrativo electrónico.",
+        "c": "De documentos privados, siempre que sean originales.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 21",
+      "explicación": "El art. 12.1.c establece la competencia para expedir copias auténticas de documentos (públicos o privados) presentados a registro para su digitalización e incorporación al expediente."
+    },
+    {
+      "numero": 36,
+      "enunciado": "De conformidad con lo establecido en el art. 6 de la Ley 39/2015... sobre el apoderamiento \"apud acta\", señale la opción correcta:",
+      "opciones": {
+        "a": "Se otorgará mediante comparecencia electrónica en la correspondiente sede electrónica... o bien mediante comparecencia personal en las oficinas de asistencia en materia de registros.",
+        "b": "Es necesaria su inscripción en el registro electrónico general de apoderamientos de la Administración Pública u Organismo competente.",
+        "c": "Dicha inscripción deberá realizarse por quien ostente la condición de interesado en un procedimiento administrativo a favor de representante, para actuar en su nombre ante las Administraciones Públicas.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 21",
+      "explicación": "Las opciones a, b y c recogen fielmente los apartados 6.5 y 6.1 de la Ley 39/2015 sobre la naturaleza y forma de otorgamiento del poder apud acta."
+    },
+    {
+      "numero": 37,
+      "enunciado": "De conformidad con la literalidad del artículo 37 del Real Decreto 203/2021... los registros electrónicos de las Administraciones Públicas:",
+      "opciones": {
+        "a": "Recibirán y remitirán documentos electrónicos normalizados correspondientes a los servicios, procedimientos y trámites que se especifiquen...",
+        "b": "Admitirán cualquier solicitud, escrito o comunicación distinta de los mencionados en la opción a) dirigida a cualquier Administración Pública.",
+        "c": "Las opciones a) y b) son correctas.",
+        "d": "Ninguna de las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 21",
+      "explicación": "El art. 37.3 admite tanto documentos normalizados como solicitudes/escritos que no lo estén (genéricos) siempre que se dirijan a una Administración Pública."
+    },
+    {
+      "numero": 38,
+      "enunciado": "Según lo establecido en el artículo 5 del Decreto 13/2021... las oficinas de asistencia en materia de registros de la Administración de la Comunidad de Castilla y León son:",
+      "opciones": {
+        "a": "Los puntos.",
+        "b": "Las Oficinas Generales y Oficinas Departamentales.",
+        "c": "Otros órganos y unidades que pueden prestar servicios de asistencia en materia de registros.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 21",
+      "explicación": "El artículo 5 y siguientes del Decreto 13/2021 engloban todas estas tipologías (Generales, Departamentales, Puntos y Otros órganos autorizados) dentro de las oficinas de asistencia."
+    },
+    {
+      "numero": 39,
+      "enunciado": "El artículo 25 del Decreto 13/2021... regula la práctica de la notificación o comunicación en soporte no electrónico. Señale la opción incorrecta:",
+      "opciones": {
+        "a": "Para la práctica de la notificación... será necesario que la persona interesada, o su representante, comparezca personalmente ante la oficina...",
+        "b": "La práctica de la notificación en soporte no electrónico... se llevará a cabo a solicitud de la persona interesada o su representante, estée no obligado a relacionarse electrónicamente...",
+        "c": "La práctica de la notificación efectuada... supondrá la expedición a la persona interesada... de copia auténtica en soporte papel de la respectiva notificación...",
+        "d": "La práctica de la notificación o comunicación en soporte no electrónico por las oficinas de asistencia... dejará constancia de la recepción mediante funcionariado habilitado..."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 21",
+      "explicación": "La opción b es la incorrecta (según la clave del test) probablemente por un matiz de redacción o tipo de obligatoriedad, aunque el resto son literales del decreto."
+    },
+    {
+      "numero": 40,
+      "enunciado": "De conformidad con el artículo 16 de la Ley 39/2015... sobre los registros, señale la opción correcta:",
+      "opciones": {
+        "a": "Cada Administración dispondrá de un Registro Electrónico General, en el que se hará el correspondiente asiento de todo documento que sea presentado o que se reciba...",
+        "b": "Los asientos se anotarán respetando el orden temporal de recepción o salida de los documentos, e indicarán la fecha del día en que se produzcan.",
+        "c": "Concluido el trámite de registro, los documentos serán cursados sin dilación a sus destinatarios y a las unidades administrativas correspondientes desde el registro...",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 21",
+      "explicación": "El artículo 16 de la Ley 39/2015 contiene los apartados 1 y 2 que recogen correctamente todas las afirmaciones expuestas."
+    },
+    {
+      "numero": 41,
+      "enunciado": "Respecto de las copias auténticas de documentos privados realizadas por las Administraciones Públicas, de conformidad con el artículo 27 de la Ley 39/2015...:",
+      "opciones": {
+        "a": "Surten únicamente efectos administrativos.",
+        "b": "Las copias auténticas realizadas por una Administración Pública tendrán validez en todas las Administraciones.",
+        "c": "Cada Administración Pública determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas de los documentos públicos administrativos o privados.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 20",
+      "explicación": "El artículo 27.1 de la Ley 39/2015 establece estas tres reglas: efecto solo administrativo para documentos privados, validez interadministrativa de las copias y competencia de cada Administración para designar órganos expedidores."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Respecto de las copias auténticas de documentos públicos administrativos realizadas por una Administración Pública... señale la opción incorrecta:",
+      "opciones": {
+        "a": "Tendrán la misma validez y eficacia que los documentos originales.",
+        "b": "Los interesados podrán solicitar, en cualquier momento, la expedición de copias auténticas de los documentos públicos administrativos que hayan sido válidamente emitidos por las Administraciones Públicas.",
+        "c": "La solicitud se dirigirá al órgano que emitió el documento original, debiendo expedirse... en el plazo de veinte días a contar desde la recepción de la solicitud...",
+        "d": "Las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados..."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 20",
+      "explicación": "El artículo 27.4 de la Ley 39/2015 establece el plazo de 15 días (no 20) para la expedición de copias auténticas desde la recepción de la solicitud."
+    },
+    {
+      "numero": 43,
+      "enunciado": "Según lo establecido en la Disposición adicional primera del Decreto 13/2021... el personal funcionario que presta sus servicios en las oficinas autonómicas de asistencia en materia de registros, se encuentra habilitado:",
+      "opciones": {
+        "a": "Para la identificación y firma electrónica de las personas interesadas en aquellos trámites y procedimientos que se determinen.",
+        "b": "Para la expedición de copias electrónicas auténticas de cualquier documento que presenten las personas interesadas a registro para su posterior incorporación a un expediente administrativo.",
+        "c": "Las opciones a) y b) son correctas.",
+        "d": "La disposición adicional primera no habla de la habilitación de los funcionarios que prestan servicios en las oficinas autonómicas de asistencia en materia de registros."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 21",
+      "explicación": "La Disposición adicional primera habilita expresamente a este personal tanto para la firma electrónica como para la expedición de copias auténticas."
+    },
+    {
+      "numero": 44,
+      "enunciado": "Conforme a lo establecido en el artículo 8 del Decreto 13/2021... sobre los puntos de asistencia en materia de registros... señale la opción correcta:",
+      "opciones": {
+        "a": "Por razones de servicio público y eficacia administrativa, se ubican en localidades distintas a la capital de la provincia.",
+        "b": "Se adscriben orgánicamente a la correspondiente delegación territorial a través de su oficina general.",
+        "c": "Existirán en las dependencias administrativas pertenecientes a las delegaciones territoriales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 21",
+      "explicación": "El artículo 8 del Decreto define los puntos de asistencia con esas características: ubicación territorial, adscripción jerárquica a la oficina general y dependencia provincial."
+    },
+    {
+      "numero": 45,
+      "enunciado": "Los empleados públicos, de conformidad con lo establecido en el art. 14.2 de la LPACAP:",
+      "opciones": {
+        "a": "Son sujetos obligados a relacionarse electrónicamente con las Administraciones Públicas, en cualquier caso.",
+        "b": "No están obligados a relacionarse de forma electrónica con las Administraciones Públicas para los trámites y actuaciones que realicen con éstas por razón de su condición de empleados públicos.",
+        "c": "Estarán obligados a relacionarse electrónicamente con las Administraciones Públicas en la forma en que se determine reglamentariamente por cada Administración.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 20",
+      "explicación": "El art. 14.2.e obliga a los empleados públicos en sus trámites profesionales, pero en la forma que determine la reglamentación de cada Administración."
+    },
+    {
+      "numero": 46,
+      "enunciado": "Según el art. 5 de la Ley 2/2010... la actuación de la Administración autonómica ha de poner en práctica métodos que permitan sistemáticamente detectar sus deficiencias, corregirlas y prestar sus servicios... de acuerdo con el principio de:",
+      "opciones": {
+        "a": "Modernización e innovación.",
+        "b": "Responsabilidad.",
+        "c": "Mejora continua.",
+        "d": "Prevención."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 20",
+      "explicación": "El artículo 5 de la Ley 2/2010 (aunque el test lo sitúa ahí, el concepto se alinea con el Título II) describe la mejora continua como el proceso de detección y corrección de deficiencias."
+    },
+    {
+      "numero": 47,
+      "enunciado": "Señale la respuesta incorrecta. Según el art. 16 del Decreto 13/2021... la información administrativa general prestada a la ciudadanía versa sobre:",
+      "opciones": {
+        "a": "La identificación, fines, competencias, estructura, funcionamiento y localización de las distintas consejerías, centros directivos, órganos y unidades administrativas autonómicas.",
+        "b": "La información administrativa concerniente al estado o contenido de los procedimientos, en tramitación o finalizados.",
+        "c": "Los procedimientos administrativos, servicios públicos y demás prestaciones de competencia autonómica.",
+        "d": "Cualesquiera otros datos que la ciudadanía tenga necesidad de conocer en su relación con la Administración de la Comunidad de Castilla y León en su conjunto o con alguno de sus ámbitos de actuación."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 21",
+      "explicación": "La información sobre el estado o contenido de procedimientos en tramitación se clasifica como información administrativa PARTICULAR (art. 17), no general."
+    }
+  ]
+}
