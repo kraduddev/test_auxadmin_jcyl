@@ -1,0 +1,941 @@
+{
+  "tema": "Tema 11. Las fuentes del derecho administrativo",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El Derecho Administrativo se considera:",
+      "opciones": {
+        "a": "Derecho Constitucional.",
+        "b": "Derecho Público.",
+        "c": "Derecho Privado.",
+        "d": "Derecho Común."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El Derecho administrativo se define como aquella parte del Derecho público que regula la organización y el funcionamiento del Poder ejecutivo[cite: 6, 159]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "Respecto al Derecho Administrativo, la situación de la Administración:",
+      "opciones": {
+        "a": "Es de privilegio.",
+        "b": "Es similar y correlativa a la que se reconoce a los ciudadanos.",
+        "c": "Es de sumisión a los ciudadanos.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La Administración cuenta con prerrogativas y poderes exorbitantes para protegerse frente a la arbitrariedad, situándola en una posición de privilegio legal[cite: 11, 324]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "La Administración queda sometida al Derecho privado:",
+      "opciones": {
+        "a": "En todo caso.",
+        "b": "Nunca.",
+        "c": "Cuando ejerza poderes exorbitantes.",
+        "d": "Cuando actúe como un particular, sin hacer uso de las prerrogativas que tiene concedidas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La Administración puede actuar como un particular cuando no ejerce sus facultades públicas de mando[cite: 19]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "No es fuente del Derecho Administrativo:",
+      "opciones": {
+        "a": "La Costumbre.",
+        "b": "La Ley.",
+        "c": "Los Reglamentos.",
+        "d": "Todas las anteriores son fuente del Derecho Administrativo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Tanto la ley y el reglamento (fuentes formales) como la costumbre son medios de manifestación del derecho administrativo[cite: 24, 164]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "Una de las clasificaciones de las fuentes del Derecho distingue entre fuentes primarias y fuentes secundarias, entre las primarias no se encuentra la siguiente:",
+      "opciones": {
+        "a": "La Constitución.",
+        "b": "La Ley.",
+        "c": "Las disposiciones normativas con valor de Ley.",
+        "d": "Los principios generales del Derecho. (fuente subsidiaria)"
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Los principios generales del derecho se consideran fuentes subsidiarias que solo se aplican en defecto de fuentes primarias escritas[cite: 29, 192, 194]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "Las Comunidades Autónomas, en las materias objeto de su competencia, pueden dictar leyes de igual rango que las del Estado. La relación entre unas y otras se rige por el:",
+      "opciones": {
+        "a": "Principio de Jerarquía Normativa.",
+        "b": "Principio de separación de competencias.",
+        "c": "Principio de materias reservadas.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Dado que tienen el mismo rango, la relación entre ley estatal y autonómica se explica a través del principio de competencia y no de jerarquía[cite: 33, 352, 360]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "La no convalidación por el Congreso de un Decreto-Ley implica que:",
+      "opciones": {
+        "a": "Debe tramitarse como Ley por el procedimiento de urgencia.",
+        "b": "No surte efectos desde que se dictó.",
+        "c": "Automáticamente deja de surtir efectos. (deja de tener vigencia)",
+        "d": "Debe aprobarse como Decreto Legislativo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Si el Congreso no convalida el Decreto-Ley dentro del plazo, este pierde su vigencia[cite: 44, 421]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Requiere ley Orgánica:",
+      "opciones": {
+        "a": "La aprobación de los Estatutos de Autonomía.",
+        "b": "El régimen electoral general.",
+        "c": "La regulación de los estados de alarma, excepción y de sitio.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El artículo 81 de la Constitución reserva estas materias específicamente a la regulación por Ley Orgánica [cite: 50, 337-343]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "Cuando el Gobierno desarrolla una Ley de Bases aprueba un:",
+      "opciones": {
+        "a": "Texto Refundido.",
+        "b": "Real Decreto.",
+        "c": "Texto Articulado.",
+        "d": "Decreto-Ley."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La delegación mediante Ley de Bases obliga al Gobierno a aprobar un Texto Articulado[cite: 54, 391, 392]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "El control de la potestad reglamentaria se reserva, según nuestra Constitución, a:",
+      "opciones": {
+        "a": "Los Tribunales.",
+        "b": "Al Tribunal Constitucional.",
+        "c": "La propia Administración.",
+        "d": "La jurisdicción penal."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El artículo 106.1 de la Constitución establece que los Tribunales controlan la legalidad de la actuación administrativa y la potestad reglamentaria[cite: 57, 58]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Los reglamentos emanados del Consejo de Ministros adoptan la forma de:",
+      "opciones": {
+        "a": "Reales Decretos-Leyes.",
+        "b": "Reales Decretos Legislativos.",
+        "c": "Reales Decretos.",
+        "d": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Según la Ley del Gobierno, los reglamentos aprobados en Consejo de Ministros toman la forma de Reales Decretos[cite: 65, 458]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "Los Decretos-Leyes del Gobierno de la Nación se convalidan por el/las:",
+      "opciones": {
+        "a": "Gobierno.",
+        "b": "Las Cortes.",
+        "c": "El Congreso.",
+        "d": "El Senado."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La convalidación de los Decretos-Leyes es competencia exclusiva del Congreso de los Diputados, no de ambas Cámaras[cite: 74, 422]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "Los Decretos-Leyes del Gobierno de la Nación pueden regular materias relacionadas con:",
+      "opciones": {
+        "a": "El Derecho electoral general.",
+        "b": "Derechos, deberes y libertades de los ciudadanos.",
+        "c": "El Derecho Tributario.",
+        "d": "Las instituciones básicas del Estado."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Aunque tienen límites, la materia tributaria no está incluida en la prohibición absoluta del artículo 86.1 de la Constitución[cite: 79, 413]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "El procedimiento de convalidación o derogación de un Decreto-Ley del Gobierno es:",
+      "opciones": {
+        "a": "Anterior a su promulgación.",
+        "b": "Similar al procedimiento seguido en los Decretos Legislativos.",
+        "c": "El ordinario de aprobación de una Ley.",
+        "d": "Especial y sumario."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La Constitución exige un procedimiento especial y sumario para la convalidación en el Congreso[cite: 85, 415]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "El plazo para llevar a cabo el procedimiento del enunciado anterior es de:",
+      "opciones": {
+        "a": "Dos meses.",
+        "b": "Treinta días.",
+        "c": "Sesenta días.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El Congreso debe pronunciarse sobre el Decreto-Ley en el plazo de los treinta días siguientes a su promulgación[cite: 88, 414]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "La autorización al Gobierno para dictar un Texto Refundido ha de efectuarse a través de:",
+      "opciones": {
+        "a": "Decreto-Ley.",
+        "b": "Ley Orgánica.",
+        "c": "Decreto Legislativo.",
+        "d": "Ley Ordinaria."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La delegación para refundir textos legales debe otorgarse mediante una ley ordinaria[cite: 95, 391, 701]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un Decreto Legislativo del Gobierno de la nación sí puede regular:",
+      "opciones": {
+        "a": "Una libertad pública. (No, requiere Ley Orgánica)",
+        "b": "Un Estatuto de Autonomía. (No, requiere Ley Orgánica)",
+        "c": "La materia de una Ley Ordinaria.",
+        "d": "El Régimen Electoral General. (No, requiere Ley Orgánica)"
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El Decreto Legislativo puede regular cualquier materia no reservada a Ley Orgánica[cite: 99, 396]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Las disposiciones y resoluciones de un Consejero de la Comunidad Autónoma de Castilla y León adoptarán la forma de:",
+      "opciones": {
+        "a": "Decreto.",
+        "b": "Real Decreto.",
+        "c": "Orden del mismo.",
+        "d": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Según la Ley 3/2001 de Castilla y León, las disposiciones de los Consejeros adoptan la forma de Órdenes[cite: 108, 462, 746]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "Requiere Ley Orgánica:",
+      "opciones": {
+        "a": "La Regulación del Defensor del Pueblo.",
+        "b": "La Regulación del Tribunal Constitucional.",
+        "c": "La aprobación de los Presupuestos Generales del Estado.",
+        "d": "Las opciones a) y b) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Tanto el Defensor del Pueblo como el Tribunal Constitucional tienen reservada su regulación a Ley Orgánica por la Constitución[cite: 114, 344, 345]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Un reglamento organizativo:",
+      "opciones": {
+        "a": "Puede afectar a los derechos de los particulares.",
+        "b": "Regula las relaciones entre la Administración Pública y los interesados.",
+        "c": "Se circunscribe al ámbito interno de la Administración Pública.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Los reglamentos administrativos o de organización se limitan a regular la estructura interna de la Administración[cite: 119, 482, 483]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Los reglamentos ejecutivos:",
+      "opciones": {
+        "a": "Son aquellos que operan sobre ámbitos distintos de los regulados por las Leyes.",
+        "b": "Desarrollan las disposiciones contenidas previamente en una Ley.",
+        "c": "Son aquellas normas que dicta la Administración para hacer frente a situaciones extraordinarias.",
+        "d": "Son aquellos que regulan o establecen derechos e imponen deberes en el ámbito de la relación de supremacía general entre las Administraciones Públicas y los ciudadanos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Estos reglamentos completan y desarrollan las disposiciones de una ley previa, normalmente bajo su mandato[cite: 123, 487, 725]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Los reglamentos independientes:",
+      "opciones": {
+        "a": "Son aquellos que operan sobre ámbitos distintos de los regulados por las Leyes.",
+        "b": "Son aquellas normas que dicta la Administración para hacer frente a situaciones extraordinarias.",
+        "c": "Se dictan en ausencia de una ley en determinadas materias que a la Administración le interesa regular para satisfacer necesidades públicas.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Operan en ámbitos no regulados por ley para satisfacer necesidades públicas de organización[cite: 130, 488, 733]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "El conjunto de normas que nacen de las mismas fuentes que el Derecho General cuyo objetivo es la actividad de la Administración Pública o relaciones administrativas se denomina:",
+      "opciones": {
+        "a": "Derecho Administrativo.",
+        "b": "Derecho Público.",
+        "c": "Derecho Privado.",
+        "d": "Derecho Común."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Es la definición técnica del Derecho Administrativo como regulador de la función administrativa[cite: 540, 158]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "De acuerdo con nuestra Constitución, la Administración Pública, respecto a los intereses generales:",
+      "opciones": {
+        "a": "Ha de ser eficaz.",
+        "b": "Los sirve con objetividad.",
+        "c": "Está sometida a la Ley y al Derecho.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El artículo 103.1 de la Constitución especifica que la Administración sirve con objetividad los intereses generales[cite: 546]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los Decretos-Leyes del Gobierno de la Nación:",
+      "opciones": {
+        "a": "No pueden contradecir una Ley anterior.",
+        "b": "No pueden derogar una Ley anterior.",
+        "c": "Pueden modificar y derogar una Ley anterior.",
+        "d": "Solo pueden modificar y derogar una Ley anterior cuando haya una autorización expresa de la Constitución, según la materia regulada."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Al tener fuerza de ley, un Decreto-Ley puede derogar o modificar leyes anteriores de su mismo rango[cite: 552]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "Un Decreto-Ley del Gobierno de la Nación puede regular, entre otras materias:",
+      "opciones": {
+        "a": "El Derecho Electoral General.",
+        "b": "Un derecho fundamental del ciudadano español.",
+        "c": "El régimen de una Comunidad Autónoma.",
+        "d": "La organización de un Ministerio."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La organización ministerial no está dentro de las materias excluidas por el artículo 86 de la Constitución[cite: 558, 413]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "La delegación de las Cortes Generales en el Gobierno de la Nación para regular el derecho de expresión, ha de hacerse:",
+      "opciones": {
+        "a": "Ley Orgánica.",
+        "b": "Ley Ordinaria.",
+        "c": "Decreto Legislativo.",
+        "d": "No puede hacerse."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El derecho de expresión es un derecho fundamental y su regulación está reservada a Ley Orgánica, materia que no puede delegarse[cite: 564, 396]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "Las Leyes de las Cortes Generales son sancionadas y promulgadas por:",
+      "opciones": {
+        "a": "El Presidente del Gobierno de la Nación.",
+        "b": "El Rey.",
+        "c": "El Presidente de las Cortes Generales.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Corresponde al Rey sancionar y promulgar las leyes según el artículo 91 de la Constitución[cite: 572, 292]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "La delegación legislativa se agota por el uso que de ella haga el Gobierno mediante:",
+      "opciones": {
+        "a": "La autorización de la modificación de la propia Ley de Bases.",
+        "b": "La publicación de la norma correspondiente.",
+        "c": "La subdelegación a autoridades distintas al Gobierno.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El uso de la delegación se consuma con la publicación de la disposición legislativa correspondiente[cite: 577, 393]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "La delegación legislativa supone una relación entre:",
+      "opciones": {
+        "a": "El Estado y las Comunidades Autónomas.",
+        "b": "Las Cortes Generales y el Gobierno.",
+        "c": "Las Cortes Generales y el Estado.",
+        "d": "Las Cortes Generales y la Administración."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Es el acto por el cual el poder legislativo autoriza al ejecutivo para dictar normas con rango de ley[cite: 582, 389]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "Las disposiciones del Poder Ejecutivo con fuerza de ley son:",
+      "opciones": {
+        "a": "Leyes de delegación.",
+        "b": "Decretos Legislativos.",
+        "c": "Decretos-Leyes.",
+        "d": "Decretos-Leyes y Decretos Legislativos."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Tanto el Decreto-Ley como el Decreto Legislativo tienen el mismo valor que las leyes del Parlamento[cite: 589, 205, 386]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "Las Leyes de Bases:",
+      "opciones": {
+        "a": "Son Leyes de habilitación al Gobierno para la aprobación de Decretos Legislativos.",
+        "b": "Son una modalidad de la Ley de Delegación.",
+        "c": "Implican la aprobación de un Texto Articulado.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Son el instrumento de delegación para que el Gobierno elabore textos articulados siguiendo bases fijadas[cite: 594, 391]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "Las Leyes de Delegación son Leyes:",
+      "opciones": {
+        "a": "Ordinarias.",
+        "b": "Orgánicas.",
+        "c": "Especiales.",
+        "d": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La delegación se otorga mediante Ley Ordinaria (o de bases)[cite: 596, 391]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "Las Leyes de las Asambleas Legislativas de las Comunidades Autónomas son sancionadas y promulgadas por:",
+      "opciones": {
+        "a": "El Presidente del Gobierno de la Nación.",
+        "b": "El Rey.",
+        "c": "El Presidente de la respectiva Asamblea.",
+        "d": "El Presidente de la Comunidad Autónoma de que se trate."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Es el Presidente de la Comunidad quien sanciona estas leyes en nombre del Rey[cite: 608]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "La delegación legislativa reviste la forma de:",
+      "opciones": {
+        "a": "Decreto Legislativo.",
+        "b": "Decreto-Ley.",
+        "c": "Decreto Legislativo o Decreto-Ley.",
+        "d": "Ley."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La delegación (el encargo de las Cortes) debe realizarse necesariamente mediante una Ley[cite: 613, 390]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "La delegación legislativa se realiza por:",
+      "opciones": {
+        "a": "El Gobierno de la Nación.",
+        "b": "Las Cortes Generales.",
+        "c": "El Congreso.",
+        "d": "Ninguna de las anteriores."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Solo el poder legislativo (Cortes Generales) puede delegar su potestad al Gobierno[cite: 616, 389]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "Las formas de legislación delegada son:",
+      "opciones": {
+        "a": "Leyes de Bases y Leyes Ordinarias.",
+        "b": "Decretos Legislativos y Decretos-Leyes.",
+        "c": "Textos Refundidos o Leyes de Bases.",
+        "d": "Textos Articulados o Leyes Ordinarias."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El Gobierno recibe el encargo de refundir textos o articular bases legislativas[cite: 622, 391, 392]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "La diferencia fundamental entre un Decreto Legislativo y un Decreto-Ley radica en:",
+      "opciones": {
+        "a": "El Decreto-Ley precisa convalidación.",
+        "b": "El Decreto Legislativo es legislación provisional.",
+        "c": "El Decreto Legislativo precisa convalidación.",
+        "d": "No existe diferencia entre Decreto Legislativo y Decreto-Ley."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El Decreto-Ley es provisional y requiere convalidación del Congreso; el Legislativo nace de una delegación previa y es definitivo[cite: 625, 397, 414]."
+    },
+    {
+      "numero": 39,
+      "enunciado": "Respecto a las Leyes de las Comunidades Autónomas:",
+      "opciones": {
+        "a": "Están jerárquicamente subordinadas a la Constitución y a su respectivo Estatuto de Autonomía.",
+        "b": "Su rango es inferior a las Leyes del Estado.",
+        "c": "Son sancionadas y promulgadas por el Rey a tenor del art. 62 de la Constitución Española.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La ley autonómica debe respetar la norma suprema y su propio Estatuto, que actúa como su norma de cabecera[cite: 630, 353]."
+    },
+    {
+      "numero": 40,
+      "enunciado": "De conformidad con lo establecido en el artículo 150.1 de la Constitución Española hablamos de:",
+      "opciones": {
+        "a": "Leyes Marco.",
+        "b": "Leyes de Transferencia o de Delegación.",
+        "c": "Leyes de Armonización.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El artículo 150.1 define las leyes marco, donde el Estado fija principios para que la Comunidad legisle[cite: 640, 367]."
+    },
+    {
+      "numero": 41,
+      "enunciado": "El plazo que tiene el Rey para sancionar las Leyes de las Comunidades Autónomas:",
+      "opciones": {
+        "a": "Depende de cuándo se presenten a sanción.",
+        "b": "Es de quince días.",
+        "c": "Quince días, contados desde aquél en que la sanción le hubiese sido oficialmente comunicada.",
+        "d": "No existe, al no ejercer esta competencia."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El Rey no sanciona las leyes autonómicas; esta función la realiza el Presidente de la Comunidad Autónoma[cite: 648, 608]."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Los Decretos-Leyes son disposiciones legislativas:",
+      "opciones": {
+        "a": "De duración indefinida.",
+        "b": "Provisionales.",
+        "c": "Excepcionales.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La Constitución los define como disposiciones legislativas provisionales hasta su convalidación[cite: 651, 413]."
+    },
+    {
+      "numero": 43,
+      "enunciado": "La aprobación de Leyes Orgánicas exigirá mayoría absoluta:",
+      "opciones": {
+        "a": "Del Congreso.",
+        "b": "Del Senado.",
+        "c": "Del Congreso y del Senado.",
+        "d": "Del Congreso y del Senado en votación final sobre el conjunto del proyecto."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El artículo 81.2 exige la mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto[cite: 655, 346]."
+    },
+    {
+      "numero": 44,
+      "enunciado": "Los derechos fundamentales y libertades públicas, reconocidos en la Constitución Española podrán ser regulados, respetando su contenido esencial, mediante:",
+      "opciones": {
+        "a": "Ley.",
+        "b": "Ley Ordinaria.",
+        "c": "Ley Orgánica.",
+        "d": "Decreto-Ley."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "El desarrollo de los derechos fundamentales y libertades públicas está reservado exclusivamente a Ley Orgánica[cite: 662, 339]."
+    },
+    {
+      "numero": 45,
+      "enunciado": "La materia reservada a las Leyes Orgánicas podrá ser objeto de delegación legislativa:",
+      "opciones": {
+        "a": "Nunca.",
+        "b": "Siempre.",
+        "c": "Siempre, si la delegación se aprueba por mayoría absoluta del Congreso.",
+        "d": "Siempre, si la delegación se aprueba por mayoría absoluta de ambas Cámaras."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Está explícitamente prohibido delegar en el Gobierno materias reservadas a Ley Orgánica[cite: 669, 396]."
+    },
+    {
+      "numero": 46,
+      "enunciado": "Conforme al art. 81 de la Constitución Española, la diferencia entre Ley Orgánica y Ley Ordinaria es:",
+      "opciones": {
+        "a": "La Ley Orgánica regula aspectos muy específicos y tiene rango superior a la Ley Ordinaria.",
+        "b": "La Ley Orgánica aprueba por mayoría de los miembros presentes de las Cámaras y la Ley Ordinaria por mayoría absoluta del Congreso.",
+        "c": "El contenido que regulan y la forma de aprobarse.",
+        "d": "Las Leyes orgánicas se aprueban por mayoría absoluta del Senado y las Leyes Ordinarias por el pueblo en referéndum."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Se diferencian por la materia (reservada en el caso de las orgánicas) y por la mayoría requerida para su aprobación[cite: 676, 349]."
+    },
+    {
+      "numero": 47,
+      "enunciado": "Una nota esencial de las leyes de delegación es:",
+      "opciones": {
+        "a": "Señalar fórmulas adicionales de control.",
+        "b": "Indicar los principios y criterios que han de seguirse en su ejercicio.",
+        "c": "Fijar el plazo para su ejercicio.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Deben ser expresas para materia concreta, fijar plazos y pueden establecer controles adicionales[cite: 682, 393, 398]."
+    },
+    {
+      "numero": 48,
+      "enunciado": "Según el artículo 1 del Código Civil, señale la respuesta correcta:",
+      "opciones": {
+        "a": "Los principios generales del derecho se aplicarán en defecto de Ley o costumbre, sin perjuicio de su carácter complementario del ordenamiento jurídico.",
+        "b": "La jurisprudencia informará el ordenamiento jurídico con la doctrina del Tribunal Supremo.",
+        "c": "Los Jueces deben resolver asuntos ateniéndose al sistema de fuentes, salvo motivos de urgencia.",
+        "d": "Carecerán de validez las disposiciones que contradigan otra de rango superior."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Es la formulación directa del principio de jerarquía normativa recogido en el Código Civil[cite: 689, 221]."
+    },
+    {
+      "numero": 49,
+      "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto al principio de jerarquía normativa?:",
+      "opciones": {
+        "a": "Ley Orgánica y Ley Ordinaria tienen el mismo rango jurídico.",
+        "b": "El Real Decreto Legislativo es superior en rango jurídico al Decreto Legislativo.",
+        "c": "Un Reglamento tiene el mismo rango que un Tratado Internacional.",
+        "d": "El Decreto-Ley tiene rango jurídico superior al Decreto Legislativo."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Tienen idéntico rango; su relación se rige por la materia (competencia) y no por jerarquía[cite: 691, 349]."
+    },
+    {
+      "numero": 50,
+      "enunciado": "La delegación legislativa deberá otorgarse mediante:",
+      "opciones": {
+        "a": "Ley de Bases cuando su objeto sea la formación de textos articulados.",
+        "b": "Ley Ordinaria cuando su objeto se trate de refundir varios textos legales en uno solo.",
+        "c": "Las opciones a) y b) son correctas.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La Constitución prevé estas dos formas dependiendo de si se trata de crear un texto nuevo o refundir existentes[cite: 702, 391, 392]."
+    },
+    {
+      "numero": 51,
+      "enunciado": "El principio de jerarquía normativa implica:",
+      "opciones": {
+        "a": "La Constitución es superior a cualquier otra norma.",
+        "b": "Una norma de rango inferior no puede contradecir otra de rango superior.",
+        "c": "Una norma posterior deroga a otra anterior del mismo rango.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Define la estructura piramidal del ordenamiento y la prevalencia de las normas según su nivel y tiempo [cite: 708, 222-224, 707]."
+    },
+    {
+      "numero": 52,
+      "enunciado": "El principio de supremacía de la Ley implica:",
+      "opciones": {
+        "a": "Toda norma con rango de ley tiene fuerza derogatoria sobre cualquier reglamento.",
+        "b": "La Ley puede entrar a regular cualquier materia regulada previamente por el reglamento.",
+        "c": "Materias reservadas a la Ley pueden ser reguladas por reglamentos si no hay Ley.",
+        "d": "Las opciones a) y b) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La ley siempre prima sobre el reglamento y puede invadir cualquier materia que este haya regulado[cite: 713, 435, 436]."
+    },
+    {
+      "numero": 53,
+      "enunciado": "El ejercicio de la potestad reglamentaria corresponde a:",
+      "opciones": {
+        "a": "Gobierno de la Nación.",
+        "b": "Los órganos de gobierno de las Comunidades Autónomas.",
+        "c": "Los órganos de gobierno locales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La potestad reglamentaria se reconoce a los tres niveles de la Administración: estatal, autonómica y local[cite: 718, 444]."
+    },
+    {
+      "numero": 54,
+      "enunciado": "Por su relación con la Ley, los reglamentos se clasifican en:",
+      "opciones": {
+        "a": "Ejecutivos, jurídicos y de necesidad.",
+        "b": "Jurídicos, independientes y de necesidad.",
+        "c": "Ejecutivos, independientes y de necesidad.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Es la clasificación clásica basada en si desarrollan una ley, actúan al margen de ella o por emergencia[cite: 722, 486]."
+    },
+    {
+      "numero": 55,
+      "enunciado": "Los reglamentos ejecutivos son aquellas normas que:",
+      "opciones": {
+        "a": "Desarrollan las disposiciones contenidas previamente en una Ley.",
+        "b": "Dicta la Administración para hacer frente a situaciones extraordinarias.",
+        "c": "Se dictan en ausencia de una Ley en materias de interés público.",
+        "d": "Regulan derechos e imponen deberes en la relación de supremacía general."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Su función es complementar y ejecutar lo dispuesto en una ley superior[cite: 725, 487]."
+    },
+    {
+      "numero": 56,
+      "enunciado": "Según la Ley 3/2001 de Castilla y León, las disposiciones administrativas se ajustan a la jerarquía:",
+      "opciones": {
+        "a": "Decretos de la Junta y Órdenes de los Consejeros.",
+        "b": "Decretos de la Junta, Acuerdos y Órdenes.",
+        "c": "Decretos de la Junta y su Presidente, Órdenes y otras disposiciones inferiores.",
+        "d": "Decretos, Acuerdos de la Junta y su Presidente, Órdenes y disposiciones inferiores."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La ley autonómica establece este orden descendente de validez normativa [cite: 738, 461-463]."
+    },
+    {
+      "numero": 57,
+      "enunciado": "Según el artículo 70 de la Ley 3/2001 de Castilla y León:",
+      "opciones": {
+        "a": "Adoptarán la forma de Decreto las disposiciones de la Junta y su Presidente.",
+        "b": "Adoptarán la forma de Acuerdo las resoluciones administrativas de la Junta.",
+        "c": "Los Decretos que afecten a varias Consejerías serán propuestos por el Consejero de Presidencia.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Regula las formas que adoptan las decisiones del ejecutivo autonómico según su naturaleza [cite: 744, 740-743]."
+    },
+    {
+      "numero": 58,
+      "enunciado": "Según el artículo 70 de la Ley 3/2001 sobre las Órdenes:",
+      "opciones": {
+        "a": "Las disposiciones de los Consejeros adoptan forma de Orden y van firmadas por ellos.",
+        "b": "Las Órdenes van firmadas por el titular de Economía.",
+        "c": "Las Órdenes que afecten a varias Consejerías se aprueban por el Consejero de Presidencia.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Define la firma de las órdenes departamentales y la competencia cuando hay concurrencia de consejerías [cite: 749, 746-748]."
+    },
+    {
+      "numero": 59,
+      "enunciado": "Los reglamentos:",
+      "opciones": {
+        "a": "Son disposiciones normativas de carácter general.",
+        "b": "Son revisables ante la jurisdicción contencioso-administrativa.",
+        "c": "Emanan de la Administración en ejercicio de competencias propias.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Son normas generales dictadas por la administración bajo control judicial [cite: 758, 465-472]."
+    },
+    {
+      "numero": 60,
+      "enunciado": "Para la validez de un reglamento es necesario:",
+      "opciones": {
+        "a": "Que el órgano que lo dicta tenga competencia para ello.",
+        "b": "Que la Administración respete las materias reservadas a la potestad reglamentaria.",
+        "c": "La no infracción del principio de jerarquía.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Requiere competencia del órgano y subordinación jerárquica a la ley; no existen materias reservadas al reglamento[cite: 763, 493, 494, 436]."
+    },
+    {
+      "numero": 61,
+      "enunciado": "Los reglamentos independientes son aquellas normas que:",
+      "opciones": {
+        "a": "Pueden ir contra la Ley.",
+        "b": "Regulan supuestos no contemplados en la Ley.",
+        "c": "Completan lo que aparece en una Ley previa o anterior.",
+        "d": "Solo se dictan para desarrollar una Ley."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Se dictan sobre materias no reguladas por leyes, generalmente en el ámbito organizativo[cite: 766, 488]."
+    },
+    {
+      "numero": 62,
+      "enunciado": "Desde su respectivo ámbito competencial vale más un/a:",
+      "opciones": {
+        "a": "Decreto del Consejo de Ministros que una Ley.",
+        "b": "Decreto del Consejo de Ministros que un Decreto autonómico.",
+        "c": "Orden Ministerial que una Orden del Consejero autonómico.",
+        "d": "Nada de lo anterior, al tratarse del ámbito competencial propio."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Si cada uno actúa en su competencia, no hay invasión ni jerarquía entre normas de distintos entes territoriales[cite: 773, 352, 360]."
+    },
+    {
+      "numero": 63,
+      "enunciado": "La infracción del principio de jerarquía normativa supone:",
+      "opciones": {
+        "a": "Que las Cortes invaden la potestad reglamentaria.",
+        "b": "Que el TC entiende el asunto por Recurso de Inconstitucionalidad.",
+        "c": "Que la Administración atenta contra fuentes supletorias.",
+        "d": "No existir legalmente y carecer de efectos la norma que la efectúe."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Las normas que contradigan otra de rango superior carecen de validez legal[cite: 778, 221]."
+    },
+    {
+      "numero": 64,
+      "enunciado": "El principio de reserva de ley significa:",
+      "opciones": {
+        "a": "Los reglamentos ejecutivos pueden desarrollar una Ley.",
+        "b": "Los reglamentos no pueden ir contra la Ley.",
+        "c": "Los reglamentos no pueden regular determinadas materias.",
+        "d": "Los reglamentos no pueden ser derogados por actos singulares."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Implica que ciertas materias solo pueden ser reguladas por ley y no por reglamento[cite: 782, 438, 439]."
+    },
+    {
+      "numero": 65,
+      "enunciado": "Según establece el principio de inderogabilidad singular de los reglamentos:",
+      "opciones": {
+        "a": "Una norma general se deroga con otra general, no con una singular.",
+        "b": "El acto administrativo jamás podrá contradecir al reglamento.",
+        "c": "Las resoluciones particulares no pueden vulnerar disposiciones generales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Prohíbe que un acto administrativo establezca excepciones particulares a lo dispuesto en un reglamento[cite: 792, 514, 516]."
+    },
+    {
+      "numero": 66,
+      "enunciado": "Según el art. 1 del Código Civil, ¿cuándo se aplica la costumbre como fuente del derecho?:",
+      "opciones": {
+        "a": "En defecto de Ley aplicable.",
+        "b": "En cualquier caso en que resulte de aplicación.",
+        "c": "Cuando no existan principios generales aplicables.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La costumbre tiene carácter subsidiario y solo rige en defecto de ley escrita[cite: 794, 182]."
+    },
+    {
+      "numero": 67,
+      "enunciado": "Supuesta la validez del Reglamento, su eficacia:",
+      "opciones": {
+        "a": "Se condiciona a la necesidad de su publicación.",
+        "b": "Entra en vigor a los veinte días salvo otro plazo.",
+        "c": "A nivel autonómico se publican en el BOCYL.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La publicación es requisito para la eficacia y determina el inicio de la vigencia de la norma [cite: 802, 509-511]."
+    },
+    {
+      "numero": 68,
+      "enunciado": "La prohibición de que los poderes públicos actúen conforme a la mera voluntad de sus titulares se enmarca en el principio de:",
+      "opciones": {
+        "a": "Materias reservadas.",
+        "b": "Interdicción de la arbitrariedad.",
+        "c": "Irretroactividad.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Principio recogido en el artículo 9 de la Constitución que impide el actuar caprichoso del poder[cite: 806, 495, 496]."
+    },
+    {
+      "numero": 69,
+      "enunciado": "El procedimiento para la aprobación de reglamentos en nuestra Comunidad se regula en:",
+      "opciones": {
+        "a": "El artículo 26 de la Ley 50/1997.",
+        "b": "Los artículos 75 y 76 de la Ley 3/2001.",
+        "c": "El artículo 47 de la Ley 39/2015.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La Ley del Gobierno y la Administración de Castilla y León establece los pasos para sus propias normas[cite: 811, 507]."
+    },
+    {
+      "numero": 70,
+      "enunciado": "Los decretos legislativos:",
+      "opciones": {
+        "a": "Son disposiciones del Gobierno que contienen legislación delegada.",
+        "b": "Deben ser convalidados por el Congreso en 30 días.",
+        "c": "Se otorgan mediante ley ordinaria para textos articulados.",
+        "d": "Son normas reglamentarias sin rango de Ley."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Se dictan por el Gobierno en virtud de una delegación expresa de las Cortes[cite: 819, 389]."
+    },
+    {
+      "numero": 71,
+      "enunciado": "La autorización al Gobierno de la Nación para dictar textos articulados se efectúa a través de:",
+      "opciones": {
+        "a": "Ley de bases.",
+        "b": "Ley ordinaria.",
+        "c": "Decreto legislativo.",
+        "d": "Decreto-Ley."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "La Ley de Bases es el instrumento constitucional para delegar la creación de un texto articulado[cite: 824, 391]."
+    },
+    {
+      "numero": 72,
+      "enunciado": "¿Qué implica la inderogabilidad singular a que se refiere el artículo 37 de la LPACAP?",
+      "opciones": {
+        "a": "Los actos particulares no vulneran disposiciones particulares.",
+        "b": "Resoluciones particulares no podrán vulnerar lo establecido en una disposición general.",
+        "c": "Actos particulares no vulneran disposiciones generales de inferior jerarquía.",
+        "d": "Resoluciones generales no vulneran disposiciones particulares."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 11. Las fuentes del derecho administrativo",
+      "explicación": "Aunque procedan de un órgano superior, los actos administrativos deben respetar los reglamentos vigentes[cite: 830, 516]."
+    }
+  ]
+}
