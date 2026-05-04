@@ -1,0 +1,1227 @@
+{
+  "tema": "Tema 13. LPAC",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Conforme a lo establecido en el art. 53 de la LPACAP, ¿cuál de los siguientes derechos se atribuye por la LPACAP a los interesados en un procedimiento administrativo?:",
+      "opciones": {
+        "a": "A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados.",
+        "b": "a conocer el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo.",
+        "c": "A conocer el órgano competente para su instrucción, en su caso, y resolución.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 53.1.a) de la Ley 39/2015 engloba todos estos derechos, permitiendo al interesado conocer el estado, el silencio aplicable y las autoridades responsables del expediente[cite: 74, 101, 103, 453]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "De conformidad con lo establecido en el Capítulo II del Título IV, la LPACAP trata de la iniciación del procedimiento administrativo, ¿de qué forma puede iniciarse el mismo?:",
+      "opciones": {
+        "a": "Exclusivamente de oficio por la Administración competente.",
+        "b": "De oficio o a solicitud del ciudadano.",
+        "c": "De oficio o a solicitud del interesado.",
+        "d": "De oficio por solicitud del ciudadano."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 54 establece que los procedimientos pueden comenzar bien por propia iniciativa de la Administración (de oficio) o por petición de quien ostente la condición de interesado[cite: 145, 457]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "De conformidad con la literalidad del art. 53 de la LPACAP, ¿cuál de los siguientes derechos No reconoce la LPACAP a los interesados en un procedimiento administrativo?:",
+      "opciones": {
+        "a": "A conocer los actos de trámite dictados.",
+        "b": "A acceder y a obtener los documentos contenidos en el citado procedimiento.",
+        "c": "A identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos.",
+        "d": "Todos los anteriores son derechos reconocidos por la LPACAP a los interesados."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La respuesta es la 'b' porque la ley especifica el derecho a acceder y obtener 'copia' de los documentos, no simplemente obtener los documentos originales o el acceso genérico sin la facultad de copia[cite: 75, 104, 462]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "El enunciado \"La Ley regulará la audiencia a los ciudadanos en el procedimiento de elaboración de las disposiciones administrativas que les afecten, así como el procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia a los interesados\", aparece recogido en la Constitución Española en el artículo:",
+      "opciones": {
+        "a": "103.",
+        "b": "104.",
+        "c": "105.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 105 de la Constitución Española es el que fundamenta constitucionalmente la existencia y regulación del procedimiento administrativo y el derecho de audiencia[cite: 16, 468]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "Según la LPACAP, ¿qué objeto tiene la apertura de un periodo de información o actuaciones previas?:",
+      "opciones": {
+        "a": "Garantizar la resolución de la eficacia que pudiera recaer.",
+        "b": "Garantizar las circunstancias del caso concreto.",
+        "c": "Establecer la conveniencia de tomar medidas preventivas.",
+        "d": "Conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 55.1 define estas actuaciones como un paso facultativo para que el órgano competente decida si existen fundamentos suficientes para abrir un expediente formal[cite: 152, 479]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué órgano puede abrir un periodo de información o actuaciones previas?:",
+      "opciones": {
+        "a": "El órgano competente.",
+        "b": "El órgano instructor.",
+        "c": "El superior jerárquico del instructor.",
+        "d": "El órgano colegiado superior de la entidad."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley atribuye específicamente al 'órgano competente' (generalmente el de inicio o resolución) la potestad de abrir este periodo previo de información[cite: 152, 481]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "De conformidad con lo establecido en el art. 56 de la LPACAP, antes de la iniciación del procedimiento administrativo, el órgano competente para iniciar o instruir el procedimiento, podrá adoptar las medidas provisionales que resulten necesarias y proporcionadas:",
+      "opciones": {
+        "a": "Solo de oficio.",
+        "b": "Solo a instancia de parte.",
+        "c": "De oficio o a instancia de parte, y siempre de forma motivada.",
+        "d": "Siempre de oficio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 56.2 permite adoptar medidas provisionalísimas antes del inicio tanto por decisión propia de la Administración como a petición del interesado, exigiendo siempre motivación[cite: 162, 488]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "En el caso de procedimientos de naturaleza sancionadora, según establece el art. 55 de la LPACAP, ¿cuál es el objeto de la apertura de un periodo de actuaciones previas?:",
+      "opciones": {
+        "a": "Determinar con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas culpables y las circunstancias relevantes que concurran en unos y otros.",
+        "b": "Garantizar las circunstancias del caso concreto.",
+        "c": "Determinar con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.",
+        "d": "Conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "En materia sancionadora, el objetivo es precisar hechos y sujetos responsables; la opción 'a' es incorrecta porque usa el término 'culpables', cuando legalmente se habla de 'presuntos responsables'[cite: 153, 494]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "Según lo establecido en el art. 55 de la LPACAP, ¿qué órganos pueden realizar las actuaciones previas al inicio de un procedimiento administrativo?:",
+      "opciones": {
+        "a": "Los que tengan atribuidas funciones de investigación, averiguación e inspección en la materia y, en defecto de éstos, por la persona u órgano administrativo que se determine por el órgano competente para la iniciación o resolución del procedimiento.",
+        "b": "El órgano instructor.",
+        "c": "El órgano competente por razón de territorio.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley prioriza a los órganos con funciones inspectoras o investigadoras para realizar estas diligencias preliminares[cite: 154, 498]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Cuál de los siguientes derechos No corresponde, de acuerdo con la literalidad del art. 53 de la LPACAP, a los interesados en un procedimiento administrativo?:",
+      "opciones": {
+        "a": "A formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico y, a aportar documentos en cualquier fase del procedimiento, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
+        "b": "A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.",
+        "c": "A obtener información y orientación acerca de los requisitos jurídicos o técnicos que las disposiciones vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar.",
+        "d": "A actuar asistidos de asesor, cuando lo consideren conveniente, en defensa de sus intereses."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La opción 'a' es incorrecta porque el derecho a alegar y aportar documentos tiene un límite temporal: debe ejercerse en cualquier fase 'anterior al trámite de audiencia'[cite: 111, 118, 510]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Según lo establecido en el artículo 53 de la LPACAP, ¿cuál de los siguientes derechos es enunciado como específico para los presuntos responsables en un procedimiento administrativo sancionador?:",
+      "opciones": {
+        "a": "A no presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario.",
+        "b": "A actuar asistidos de asesor, cuando lo consideren conveniente, en defensa de sus intereses.",
+        "c": "A ser notificado de los hechos que se le imputen, de las infracciones que tales hechos puedan constituir y de las sanciones que, en su caso, se les pudieran imponer, así como de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 53.2.a) detalla los derechos informativos básicos de los que goza el presunto infractor para asegurar su derecho de defensa en el ámbito sancionador[cite: 135, 136, 519]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "Señala la LPACAP, en su art. 56.3, al listar las potenciales medidas provisionales que pudieran acordarse para garantizar la eficacia de la resolución que pudiera recaer, que las mismas podrán acordarse conforme a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil. Entre las mismas se encuentra:",
+      "opciones": {
+        "a": "La prestación de fianzas.",
+        "b": "La intervención y depósito de ingresos obtenidos mediante una actividad que se considere lícita y cuya prohibición o cesación se pretenda.",
+        "c": "La retención de ingresos a cuenta que deban abonar las Administraciones Públicas.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley enumera una lista abierta de medidas, incluyendo fianzas, depósitos de ingresos ilícitos (la opción 'b' del test tiene una errata al decir 'lícita') y retenciones[cite: 164, 166, 170, 173, 528]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "Señala la LPACAP, al hablar de las medidas provisionales, que las mismas pueden tomarse antes de la iniciación del procedimiento. En este sentido, una vez se tomara el acuerdo de iniciación del procedimiento:",
+      "opciones": {
+        "a": "El mismo no podrá ser objeto de recurso.",
+        "b": "El mismo podrá ser objeto del recurso que proceda.",
+        "c": "Al igual que la recusación, no podrá ser recurrido en vía administrativa.",
+        "d": "Al igual que la recusación, podrá ser recurrido en vía administrativa."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El acuerdo de iniciación que ratifique o modifique medidas provisionales previas es recurrible para evitar la indefensión del interesado[cite: 162, 537]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "Conforme a lo establecido en el Capítulo II del Título IV de la LPACAP, las medidas provisionales pueden tomarse antes de la iniciación del procedimiento. ¿Qué ocurre si el acuerdo de iniciación no contiene el pronunciamiento expreso acerca de las mismas?:",
+      "opciones": {
+        "a": "Que las medidas provisionales quedarán sin efecto.",
+        "b": "Que las medidas provisionales no podrán adoptarse.",
+        "c": "Que las medidas provisionales se mantendrán hasta la finalización del procedimiento.",
+        "d": "Que las medidas provisionales podrán ser levantadas, modificadas o suprimidas de oficio."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Las medidas previas son temporales y caducan automáticamente si el acuerdo de inicio no las confirma expresamente en el plazo de quince días[cite: 163, 542]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Cuál de las siguientes medidas provisionales permite acordar la LPACAP para garantizar la eficacia de la resolución que pudiera recaer, todo ello conforme a la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil?:",
+      "opciones": {
+        "a": "La suspensión definitiva de actividades.",
+        "b": "El depósito, retención o inmovilización de cosa inmueble.",
+        "c": "La consignación o constitución de depósito de las cantidades que se reclamen.",
+        "d": "Todas las anteriores medidas provisionales son citadas en la LPACAP."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La opción 'c' es correcta según el art. 56.3.g). Las otras son incorrectas porque la suspensión debe ser 'temporal' y la inmovilización sobre cosa 'mueble'[cite: 165, 169, 172, 549]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Según el artículo 58 de la LPACAP, cuando los procedimientos se inicien de oficio por la administración, lo harán por acuerdo del órgano competente, por propia iniciativa o:",
+      "opciones": {
+        "a": "Como consecuencia de orden superior.",
+        "b": "A petición razonada de otros órganos.",
+        "c": "Por denuncia.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El inicio de oficio admite cuatro modalidades: iniciativa propia, orden superior, petición de otro órgano o denuncia de un particular[cite: 190, 555]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Establece la LPACAP en su art. 57 que el órgano administrativo que inicie o tramite un procedimiento, podrá disponer su acumulación a otros con los que guarde identidad sustancial o íntima conexión:",
+      "opciones": {
+        "a": "Por motivos de urgencia.",
+        "b": "Siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento.",
+        "c": "Siempre que sean diferentes los órganos que tramiten y resuelvan el procedimiento.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La acumulación por identidad sustancial requiere lógicamente que sea el mismo órgano el encargado de la tramitación y resolución conjunta[cite: 62, 187, 558]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Siguiendo con el acuerdo de acumulación, señale la opción correcta:",
+      "opciones": {
+        "a": "Podrá disponerse, únicamente de oficio, por el órgano administrativo que inicie o tramite los procedimientos entre los que hay identidad sustancial o íntima conexión.",
+        "b": "Será susceptible de recurso.",
+        "c": "Contra el acuerdo de acumulación no procederá recurso alguno.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 57 prohíbe expresamente la interposición de recursos contra la decisión de acumular expedientes[cite: 188, 571]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "De conformidad con lo establecido en el artículo 66 de la LPACAP, complete el siguiente enunciado: \"De las solicitudes, comunicaciones y escritos que presenten los interesados electrónicamente o en las oficinas de asistencia en materia de registros de la Administración, podrán éstos exigir\":",
+      "opciones": {
+        "a": "El correspondiente recibo que acredite la fecha y hora de presentación.",
+        "b": "Un escrito confirmatorio.",
+        "c": "Una copia de su solicitud.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Los interesados tienen derecho a obtener un recibo que garantice la constancia de la presentación de sus documentos ante la Administración[cite: 233, 574]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "De conformidad con lo establecido en el art. 67 de la LPACAP, ¿cuándo podrán presentar los interesados la solicitud de inicio de un procedimiento de responsabilidad patrimonial?:",
+      "opciones": {
+        "a": "Cuando lo hagan telemáticamente en tiempo y forma.",
+        "b": "Sólo podrán solicitar el inicio de este procedimiento mientras no haya prescrito su derecho a reclamar.",
+        "c": "Pueden presentarla mientras no haya caducado la lesión producida.",
+        "d": "En tanto en cuando la administración responsable no estime la caducidad del procedimiento."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El derecho a reclamar prescribe al año de producirse el hecho o manifestarse el efecto lesivo; pasado ese plazo, no puede iniciarse el procedimiento[cite: 214, 248, 249, 580]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Según lo establecido en el artículo 66 de la LPACAP, en los procedimientos iniciados a instancia de la persona interesada, el escrito de solicitud deberá contener:",
+      "opciones": {
+        "a": "Identificación del medio electrónico, o en su defecto, lugar físico en que desea que se practique la notificación.",
+        "b": "Hechos, razones y petición en que se concrete, con toda claridad, la solicitud.",
+        "c": "Firma del solicitante o acreditación de la autenticidad de su voluntad expresada por cualquier otro medio.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 66.1 detalla los requisitos formales mínimos que debe reunir cualquier solicitud para ser admitida a trámite [cite: 223-230, 587]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Según recoge la LPACAP, en los procedimientos de responsabilidad patrimonial, en la solicitud de iniciación por parte del interesado, se deberán especificar:",
+      "opciones": {
+        "a": "Las lesiones producidas.",
+        "b": "La presunta relación de causalidad entre éstas y el funcionamiento del servicio público.",
+        "c": "La evaluación económica de la responsabilidad patrimonial, si fuera posible.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Además de los datos generales, el art. 67.2 exige precisar el daño, el nexo causal y la valoración económica de la indemnización pretendida [cite: 250-253, 597]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Según recoge el art. 68 de la LPACAP, en el supuesto de que la solicitud de iniciación por el interesado, no reúna los requisitos exigidos por la legislación aplicable, el órgano competente para la instrucción, le requerirá para que subsane la falta o acompañe los documentos preceptivos, en un plazo de:",
+      "opciones": {
+        "a": "5 días.",
+        "b": "10 días.",
+        "c": "15 días.",
+        "d": "20 días."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El plazo general para la subsanación de deficiencias en la solicitud inicial es de diez días[cite: 243, 600]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "El plazo anterior podrá ser ampliado prudencialmente, hasta cinco días, cuando la aportación de los documentos requeridos presente dificultades especiales:",
+      "opciones": {
+        "a": "A petición del interesado, en todos los procedimientos.",
+        "b": "A iniciativa del órgano, en todos los procedimientos.",
+        "c": "A petición del interesado o a iniciativa del órgano, en todos los procedimientos.",
+        "d": "A petición del interesado o a iniciativa del órgano, siempre que no se trate de procedimientos selectivos o de concurrencia competitiva."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ampliación del plazo de subsanación está prohibida en procedimientos de concurrencia competitiva para no romper la igualdad entre aspirantes[cite: 244, 608]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Permite la LPACAP que los interesados puedan presentar simultáneamente varias solicitudes?:",
+      "opciones": {
+        "a": "Sí, y las Administraciones Públicas deberán establecer modelos y sistemas de presentación masiva para ello.",
+        "b": "Sí, y las Administraciones Públicas deberán establecer plataformas de presentación electrónica para ello.",
+        "c": "No, salvo que los poderes públicos establezcan plataformas de presentación electrónica para ello.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 66.4 obliga a la Administración a facilitar sistemas para la presentación masiva de solicitudes idénticas o similares[cite: 234, 610]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "Según la literalidad del artículo 66.6 de la LPACAP, referido a las solicitudes de iniciación, complete el enunciado: \"Cuando la Administración en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes\":",
+      "opciones": {
+        "a": "Deberán ser admitidos y tenidos en cuenta en el registro en el que se presenten.",
+        "b": "Éstos serán de uso obligatorio por los interesados.",
+        "c": "Podrán ser tenidos en cuenta por los interesados.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Si existe un formulario normalizado obligatorio para un trámite específico, el interesado debe utilizarlo necesariamente[cite: 236, 621]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "A los efectos de la LPACAP, ¿en qué momento pueden las Administraciones requerir a los interesados la documentación que acredite los requisitos señalados en una declaración responsable?:",
+      "opciones": {
+        "a": "En cualquier momento.",
+        "b": "En el mes siguiente a su presentación.",
+        "c": "Dentro de los dos meses siguientes a su presentación.",
+        "d": "Mientras el derecho permanecía latente."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La potestad de comprobación de la Administración es permanente; puede exigir la acreditación de lo declarado en cualquier fase del ejercicio de la actividad[cite: 271, 625]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "A los efectos de la LPACAP, ¿qué se entiende por comunicación?:",
+      "opciones": {
+        "a": "Aquel documento suscrito por un interesado en el que éste manifiesta, bajo su responsabilidad, que cumple los requisitos establecidos en la normativa vigente para obtener el reconocimiento de un derecho o facultad o para su ejercicio.",
+        "b": "Aquel documento suscrito por un interesado en el que éste manifiesta sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.",
+        "c": "Aquel documento mediante el cual los interesados ponen en conocimiento de la Administración Pública competente sus datos identificativos o cualquier otro dato relevante para el inicio de una actividad o el ejercicio de un derecho.",
+        "d": "Aquel documento mediante el cual los interesados ponen en conocimiento de la Administración Pública competente que se comprometen a mantener el cumplimiento de las anteriores obligaciones durante el periodo de tiempo inherente a dicho reconocimiento o ejercicio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La comunicación es el acto de poner datos en conocimiento de la autoridad para iniciar una actividad, diferenciándose de la declaración responsable por no incluir necesariamente una manifestación de cumplimiento de requisitos[cite: 272, 633]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "Según la LPACAP, ¿cuál de las siguientes características no es predicable de los expedientes administrativos?:",
+      "opciones": {
+        "a": "Que se forman mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, acuerdos, notificaciones y demás diligencias deban integrarlos.",
+        "b": "Que tendrán formato electrónico e en papel.",
+        "c": "Que contendrán un índice numerado de todos los documentos que contengan cuando se remitan.",
+        "d": "Que deberá constar en el expediente copia electrónica certificada de la resolución adoptada."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley establece imperativamente que los expedientes tendrán 'formato electrónico', eliminando la dualidad con el papel como norma general[cite: 289, 637]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "Según recoge el artículo 70 de la LPACAP, no formará parte del expediente administrativo:",
+      "opciones": {
+        "a": "La información que tenga carácter auxiliar o de apoyo.",
+        "b": "Los juicios de valor emitidos por las Administraciones Públicas, salvo que se trate de informes, preceptivos y facultativos, solicitados antes de la resolución administrativa que ponga fin al procedimiento.",
+        "c": "Las opciones a) y b) son correctas.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 70.4 excluye expresamente notas, borradores e información auxiliar, salvo que sean informes reglados previos a la resolución[cite: 305, 648]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "A tenor de lo establecido en el art. 70 de la LPACAP, ¿qué se entiende por expediente administrativo?:",
+      "opciones": {
+        "a": "Aquel conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la decisión administrativa, así como las diligencias encaminadas a su resolución.",
+        "b": "Aquel conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.",
+        "c": "Aquel conjunto de actos de instrucción que sirven de antecedente y fundamento a la decisión administrativa, así como las diligencias encaminadas a su resolución.",
+        "d": "Aquel conjunto de actos de instrucción que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La definición legal destaca que el expediente incluye no solo lo previo a la resolución, sino también las actuaciones necesarias para su ejecución[cite: 288, 652]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "De conformidad con lo establecido en el art. 72 de la LPACAP, ¿en qué consiste la concentración de trámites a que alude la LPACAP?:",
+      "opciones": {
+        "a": "En el impulso, de oficio o a instancia de parte, mediante la acumulación rigurosa de expedientes de homogénea naturaleza.",
+        "b": "En acordar en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligatorio su cumplimiento sucesivo.",
+        "c": "En el impulso, de oficio, mediante la acumulación rigurosa de expedientes de homogénea naturaleza.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La concentración busca la eficiencia al agrupar en una sola decisión administrativa varios trámites compatibles entre sí[cite: 61, 322, 658]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "Según recoge el art. 71 de la LPACAP, \"el procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos\". ¿Qué principios deben respetarse?:",
+      "opciones": {
+        "a": "Los principios de eficacia, transparencia y publicidad.",
+        "b": "Los principios de eficacia y eficiencia.",
+        "c": "Los principios de eficacia, eficiencia, transparencia y publicidad.",
+        "d": "Los principios de transparencia y publicidad."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 71.1 asocia específicamente el impulso de oficio y el uso de medios electrónicos con el respeto a la transparencia y publicidad[cite: 307, 666]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "Según lo establecido en el Capítulo III del Título IV de la LPACAP, \"Las personas designadas como órgano instructor o, en su caso, los titulares de las unidades administrativas que tengan atribuida tal función, serán responsables directos de\":",
+      "opciones": {
+        "a": "Garantizar el libre acceso por parte de los interesados al conocimiento del expediente, a través del trámite de audiencia.",
+        "b": "La tramitación del procedimiento y, en especial, del cumplimiento de los plazos establecidos.",
+        "c": "Del cumplimiento de los plazos establecidos y, en especial, de la tramitación del procedimiento.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley asigna una responsabilidad directa al instructor tanto por el avance del expediente como por el respeto estricto a los tiempos legales[cite: 311, 674]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "¿Qué sucede cuando un interesado no cumple con los trámites en el plazo concedido cuando es requerido por la Administración?:",
+      "opciones": {
+        "a": "Que serán declarados decaídos de oficio.",
+        "b": "Que serán declarados decaídos de plano.",
+        "c": "Que se entenderá que renuncian a su derecho.",
+        "d": "Que se les podrá declarar decaídos en su derecho al trámite correspondiente."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El incumplimiento de plazos por el interesado puede conllevar la pérdida del derecho a realizar ese trámite concreto mediante una declaración de decaimiento[cite: 315, 681]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "¿Qué señala la LPACAP sobre las cuestiones incidentales?:",
+      "opciones": {
+        "a": "Que cuando se susciten en el procedimiento suspenderán la tramitación de éste.",
+        "b": "Que salvo que se refieran a la nulidad de actuaciones, no suspenderán la tramitación del procedimiento, sea cual sea el momento en el que se susciten.",
+        "c": "Que cuando se susciten en el procedimiento no suspenderán la tramitación de éste, incluso las referidas a vicios de las actuaciones.",
+        "d": "Que de entre todas las que pueden suscitarse en la tramitación del procedimiento, solo la recusación suspenderá la tramitación del mismo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Para evitar parálisis innecesarias, la ley dicta que solo la recusación tiene efecto suspensivo automático sobre el curso del procedimiento[cite: 324, 687]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "La LPACAP establece que cabe la posibilidad de utilizar la figura de la acumulación en la iniciación o tramitación de un procedimiento. ¿Cabe recurso ante el acuerdo de acumulación?:",
+      "opciones": {
+        "a": "No.",
+        "b": "Sí, recurso de alzada.",
+        "c": "Sí, tanto recurso de alzada como recurso de reposición.",
+        "d": "No en vía administrativa."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La decisión de acumular expedientes es un acto de trámite no cualificado y la ley prohíbe explícitamente recurrirla[cite: 188, 690]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "Según el artículo 56 de la LPACAP, una vez iniciado el procedimiento, ¿de acuerdo con qué principios se pueden adoptar medidas provisionales para asegurar la eficacia de la resolución?:",
+      "opciones": {
+        "a": "De proporcionalidad, efectividad y menor onerosidad.",
+        "b": "De efectividad, flexibilidad y eficacia.",
+        "c": "De buena fe y celeridad.",
+        "d": "De eficacia, buena fe y transparencia."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La Administración debe equilibrar la protección del interés público con el menor perjuicio posible al interesado[cite: 161, 700]."
+    },
+    {
+      "numero": 39,
+      "enunciado": "Los principios informadores del Procedimiento Administrativo Común son consecuencia tanto de los principios generales que señala la Constitución Española en su artículo 103 como de los derechos que la propia LPACAP reconoce a los interesados en los artículos 13 y 53. Entre estos principios No se encuentra:",
+      "opciones": {
+        "a": "Flexibilidad, igualdad y contradicción de los interesados en el procedimiento.",
+        "b": "Celeridad en la tramitación, simplificación administrativa y economía procesal.",
+        "c": "Antiformalismo.",
+        "d": "Todos los anteriores son principios informadores del Procedimiento Administrativo Común."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Todos los mencionados son pilares del procedimiento común destinados a garantizar los derechos ciudadanos y la eficacia administrativa[cite: 56, 60, 70, 708]."
+    },
+    {
+      "numero": 40,
+      "enunciado": "De acuerdo con el art. 21 de la LPACAP, ¿cuál es el plazo máximo para resolver y notificar un procedimiento administrativo iniciado de oficio si no está fijado dicho plazo por las normas que lo regulan?",
+      "opciones": {
+        "a": "3 meses desde la entrada de la solicitud en el registro electrónico de la Administración u Organismo competente para su recepción.",
+        "b": "3 meses desde la fecha del acuerdo de iniciación.",
+        "c": "6 meses desde la entrada de la solicitud en el registro electrónico de la Administración u Organismo competente para su recepción.",
+        "d": "6 meses desde la fecha del acuerdo de iniciación."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "En ausencia de norma específica, el plazo supletorio es de tres meses, contados desde la fecha del acuerdo de inicio en procedimientos de oficio[cite: 711]."
+    },
+    {
+      "numero": 41,
+      "enunciado": "Conforme al artículo 73 de la LPACAP, los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de:",
+      "opciones": {
+        "a": "diez días a partir de la notificación del correspondiente acto.",
+        "b": "Quince días a partir del día siguiente al de la notificación del correspondiente acto.",
+        "c": "Quince días a partir de la notificación del correspondiente acto.",
+        "d": "Diez días a partir del día siguiente al de la notificación del correspondiente acto."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El cómputo de plazos por días se inicia siempre el día siguiente a la notificación, siendo el plazo general de diez días para trámites de interesados[cite: 313, 718]."
+    },
+    {
+      "numero": 42,
+      "enunciado": "De conformidad con lo establecido en el artículo 4 de la presente ley, se consideran interesados en el procedimiento administrativo:",
+      "opciones": {
+        "a": "Quienes lo promuevan como titulares de derechos o intereses legítimos, individuales o colectivos.",
+        "b": "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+        "c": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+        "d": "Todos los anteriores se consideran interesados en el procedimiento administrativo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley reconoce tres tipos de interesados basándose en si inician el trámite, tienen derechos afectados o intereses legítimos sobrevenidos [cite: 146-148, 728]."
+    },
+    {
+      "numero": 43,
+      "enunciado": "Conforme a lo establecido en el artículo 56 de la LPACAP, antes de la iniciación del procedimiento administrativo, el órgano competente para iniciar o instruir, de oficio o a instancia de parte, podrá adoptar de forma motivada, medidas provisionales que:",
+      "opciones": {
+        "a": "Deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación del procedimiento.",
+        "b": "Dicho acuerdo de iniciación deberá efectuarse dentro de los quince días siguientes a su adopción.",
+        "c": "Dichas medidas quedarán sin efecto si no se inicia el procedimiento en dicho plazo o cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de las mismas.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Las medidas previas al inicio tienen un régimen de ratificación muy estricto para proteger la seguridad jurídica del ciudadano[cite: 162, 163, 733]."
+    },
+    {
+      "numero": 44,
+      "enunciado": "De acuerdo con el art. 21.2 de la LPACAP, el plazo máximo en que debe notificarse resolución expresa de un procedimiento:",
+      "opciones": {
+        "a": "Será de 2 meses en todo caso.",
+        "b": "Será de 3 meses en todo caso.",
+        "c": "No podrá exceder en ningún caso de 6 meses.",
+        "d": "Será el fijado por la norma reguladora del correspondiente procedimiento."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La norma que regula cada procedimiento específico es la que tiene la prioridad para fijar el tiempo de resolución y notificación[cite: 738]."
+    },
+    {
+      "numero": 45,
+      "enunciado": "De conformidad con la literalidad del art. 21 de la LPACAP, la Administración está obligada a dictar resolución expresa y a notificarla:",
+      "opciones": {
+        "a": "En todos los procedimientos iniciados de oficio.",
+        "b": "En todos los procedimientos iniciados a solicitud del interesado.",
+        "c": "En todos los procedimientos cualquiera que sea su forma de iniciación.",
+        "d": "En todos los procedimientos cualquiera que sea su forma de iniciación, salvo en los supuestos de terminación del procedimiento por pacto o convenio."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Aunque existe obligación general de resolver, los acuerdos convencionales (pactos o convenios) finalizan el procedimiento por sí mismos sin necesidad de resolución unilateral posterior[cite: 744]."
+    },
+    {
+      "numero": 46,
+      "enunciado": "Según regula el art. 55 de la LPACAP, con anterioridad al inicio del procedimiento, el órgano competente podrá:",
+      "opciones": {
+        "a": "Abrir un periodo de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.",
+        "b": "Dar audiencia a los interesados. Solo si éstos no presentan alegaciones se podrá acordar el sobreseimiento.",
+        "c": "Abrir un periodo de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto.",
+        "d": "Abrir un periodo de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto, solamente en los procedimientos de naturaleza sancionadora."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley permite esta fase preliminar en cualquier tipo de procedimiento, no solo en los sancionadores, para valorar la oportunidad de la incoación[cite: 152, 747]."
+    },
+    {
+      "numero": 47,
+      "enunciado": "De conformidad con lo establecido en el art. 21 de la LPACAP, el plazo máximo en que debe notificarse la resolución expresa, por parte de la Administración, se contará:",
+      "opciones": {
+        "a": "En los procedimientos iniciados de oficio, desde la fecha del acuerdo de iniciación.",
+        "b": "En los iniciados a solicitud del interesado, desde el día siguiente a aquel en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+        "c": "En los iniciados a solicitud del interesado, desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente para su tramitación.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El cómputo difiere según el inicio: fecha de acuerdo para oficio y fecha de entrada en registro para instancia de parte[cite: 759]."
+    },
+    {
+      "numero": 48,
+      "enunciado": "Según el art. 3 de la LPACAP, ¿qué quiénes tienen capacidad de obrar ante las Administraciones Públicas?",
+      "opciones": {
+        "a": "Los grupos de afectados, las uniones y entidades con personalidad jurídica y los patrimonios independientes o autónomos organizados.",
+        "b": "Solo las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+        "c": "Los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos cuando la Ley así lo declare expresamente.",
+        "d": "Las personas jurídicas inscritas en el Registro de la Propiedad."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La capacidad de obrar administrativa es más amplia que la civil, incluyendo entes sin personalidad jurídica si una ley lo autoriza[cite: 763]."
+    },
+    {
+      "numero": 49,
+      "enunciado": "Según el art. 123 de la LPACAP, los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos:",
+      "opciones": {
+        "a": "En alzada.",
+        "b": "Potestativamente en reposición.",
+        "c": "En alzada y potestativamente en reposición.",
+        "d": "Únicamente podrán recurrirse en vía judicial."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Los actos que agotan la vía administrativa solo pueden recurrirse ante el mismo órgano que los dictó (reposición) o directamente en la vía judicial[cite: 767]."
+    },
+    {
+      "numero": 50,
+      "enunciado": "¿Quiénes de los siguientes sujetos estarán obligados a relacionarse, en todo caso, a través de medios electrónicos con las Administraciones Públicas, de acuerdo con la Ley 39/2015?:",
+      "opciones": {
+        "a": "Las personas físicas.",
+        "b": "Quienes representen a un interesado, aunque éste no esté obligado a relacionarse electrónicamente con la Administración.",
+        "c": "Los empleados de las Administraciones Públicas.",
+        "d": "Los notarios y registradores de la propiedad y mercantiles."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 14.2 establece colectivos obligados por su capacidad profesional, como notarios, registradores y personas jurídicas[cite: 779]."
+    },
+    {
+      "numero": 51,
+      "enunciado": "En el artículo 27 de la LPACAP se establece que la solicitud de expedición de las copias auténticas de los documentos públicos administrativos deberán expedirse en el plazo de:",
+      "opciones": {
+        "a": "10 días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.",
+        "b": "15 días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.",
+        "c": "20 días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.",
+        "d": "30 días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La expedición de copias auténticas tiene un plazo máximo de quince días desde que la solicitud llega al registro del órgano emisor[cite: 783, 1087]."
+    },
+    {
+      "numero": 52,
+      "enunciado": "En relación con la emisión de informes, ¿cuál de las siguientes afirmaciones es incorrecta?:",
+      "opciones": {
+        "a": "Salvo disposición expresa en contrario, serán facultativos y no vinculantes.",
+        "b": "Los informes serán emitidos a través de medios electrónicos en el plazo de diez días.",
+        "c": "De no emitirse el informe en el plazo señalado, se podrán proseguir las actuaciones salvo cuando se trate de un informe facultativo.",
+        "d": "Si el informe debe ser emitido por otra Administración y transcurre el plazo, se podrán proseguir las actuaciones."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La opción 'c' es falsa porque la interrupción de actuaciones solo se produce ante la falta de informes 'preceptivos' (obligatorios), no facultativos[cite: 791]."
+    },
+    {
+      "numero": 53,
+      "enunciado": "De conformidad con lo establecido en el artículo 76 de la LPACAP, ¿en qué momento del procedimiento los interesados podrán aducir alegaciones y aportar documentos?:",
+      "opciones": {
+        "a": "En cualquier momento del procedimiento, pero solamente para aportar documentos u otros elementos de juicio.",
+        "b": "En cualquier momento del procedimiento anterior al trámite de audiencia.",
+        "c": "Con la modificación del 19 de octubre de 2022 de la Ley 39/2015, ya no existe esta posibilidad.",
+        "d": "En cualquier momento del procedimiento, pero solamente podrán aducir alegaciones."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El trámite de audiencia marca el fin del periodo en el que el interesado puede introducir nuevos elementos de hecho o derecho al expediente[cite: 335, 806]."
+    },
+    {
+      "numero": 54,
+      "enunciado": "Se entiende por denuncia:",
+      "opciones": {
+        "a": "El acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo.",
+        "b": "La actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación.",
+        "c": "La propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar el mismo.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La denuncia es la vía por la que un externo comunica hechos a la Administración para que esta decida si inicia o no un procedimiento de oficio[cite: 205, 812]."
+    },
+    {
+      "numero": 55,
+      "enunciado": "¿Cómo debe actuarse en los procedimientos iniciados a solicitud del interesado cuando el órgano competente recabe la modificación o mejora voluntaria de la solicitud?:",
+      "opciones": {
+        "a": "Levantándose acta motivada, que se incorporará al procedimiento.",
+        "b": "Deberá levantarse acta sucinta, que se incorporará al procedimiento.",
+        "c": "Se levantará relación procedimental sucinta de los documentos aportados.",
+        "d": "Deberá levantarse relación motivada de documentos no aportados."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 68.3 permite mejorar la solicitud inicial, dejando constancia de los cambios mediante un acta breve o sucinta[cite: 246, 818]."
+    },
+    {
+      "numero": 56,
+      "enunciado": "A los efectos de la LPACAP, se entenderá por declaración responsable:",
+      "opciones": {
+        "a": "El documento suscrito por un interesado en el que éste manifiesta que cumple con los requisitos establecidos.",
+        "b": "Manifiesta que dispone de la documentación que así lo acredita y la pondrá a disposición de la Administración.",
+        "c": "Se compromete a mantener el cumplimiento de las obligaciones durante el periodo de tiempo inherente.",
+        "d": "Todas las opciones anteriores son ciertas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La declaración responsable es un compromiso integral que incluye cumplimiento, posesión de pruebas y mantenimiento de condiciones [cite: 267-270, 829]."
+    },
+    {
+      "numero": 57,
+      "enunciado": "De conformidad con lo establecido en el art. 75 de la LPACAP, los actos de instrucción necesarios para la comprobación de los hechos:",
+      "opciones": {
+        "a": "Se realizarán de oficio o a instancia de parte y a través de medios electrónicos por el órgano que tramite el procedimiento.",
+        "b": "Se realizarán de oficio y a través de medios electrónicos por el órgano que tramite el procedimiento.",
+        "c": "Los interesados tendrán derecho a proponer aquellas actuaciones que requieran su intervención o constituyan trámites legal o reglamentariamente establecidos.",
+        "d": "Son correctas las opciones b) y c)."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La instrucción es impulsada por la Administración, pero se garantiza al interesado proponer sus propias pruebas y actuaciones[cite: 329, 331, 834]."
+    },
+    {
+      "numero": 58,
+      "enunciado": "¿Cómo señala la LPACAP que cabe la acreditación de los hechos relevantes para la decisión de un procedimiento?:",
+      "opciones": {
+        "a": "Por cualquier medio de prueba admisible en derecho.",
+        "b": "Mediante solicitud al instructor del mismo.",
+        "c": "Aportándolos antes del trámite de audiencia.",
+        "d": "Aportándolos en el trámite de audiencia."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Rige el principio de libertad de prueba, permitiendo cualquier medio válido (documentos, peritos, testigos, etc.)[cite: 346, 836]."
+    },
+    {
+      "numero": 59,
+      "enunciado": "Según lo establecido en el artículo 77 de la LPACAP, ¿qué plazo establece para el periodo de prueba?:",
+      "opciones": {
+        "a": "No inferior a 10 días ni superior a 15.",
+        "b": "No superior a 20 días ni inferior a 10.",
+        "c": "No superior a 30 días ni inferior a 10.",
+        "d": "No inferior a 15 días ni superior a 30."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El periodo ordinario de prueba no puede exceder de treinta días ni ser más corto de diez para asegurar la práctica de las mismas[cite: 347, 843]."
+    },
+    {
+      "numero": 60,
+      "enunciado": "¿Cabe inadmitir las pruebas propuestas por los interesados, por parte del órgano instructor del procedimiento?",
+      "opciones": {
+        "a": "Sí, cuando sean manifiestamente improcedentes.",
+        "b": "Sí, cuando sean manifiestamente improcedentes o innecesarias, mediante resolución motivada.",
+        "c": "Sí, cuando sean manifiestamente innecesarias, mediante resolución.",
+        "d": "No, dado que se trata de un derecho de los interesados en el procedimiento."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La Administración puede rechazar pruebas, pero debe justificar motivadamente por qué no aportan nada relevante al caso[cite: 348, 851]."
+    },
+    {
+      "numero": 61,
+      "enunciado": "Según señala la LPACAP en su artículo 80, los informes serán, salvo disposición expresa en contrario:",
+      "opciones": {
+        "a": "Preceptivos y vinculantes.",
+        "b": "Vinculantes y facultativos.",
+        "c": "No vinculantes y preceptivos.",
+        "d": "Facultativos y no vinculantes."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Como regla general, los informes no obligan a la Administración a seguir su criterio ni es obligatorio pedirlos si la ley no lo dice[cite: 371, 858]."
+    },
+    {
+      "numero": 62,
+      "enunciado": "Conforme a lo establecido en el artículo 82 de la LPACAP, que regula el trámite de audiencia, ¿en qué plazo los interesados podrán alegar?:",
+      "opciones": {
+        "a": "No inferior a 15 días ni superior a 20.",
+        "b": "No más de 10 días.",
+        "c": "No inferior a 10 días ni superior a 15.",
+        "d": "No superior a 30 días ni inferior a 10."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El trámite de audiencia tiene un plazo específico de entre diez y quince días antes de redactar la propuesta de resolución[cite: 374, 862]."
+    },
+    {
+      "numero": 63,
+      "enunciado": "En los procedimientos iniciados a solicitud del interesado, ¿cuál de las siguientes opciones sobre la resolución es correcta?:",
+      "opciones": {
+        "a": "Será congruente con las peticiones formuladas por el interesado sin que en ningún caso pueda agravar su situación inicial.",
+        "b": "Contendrá el pronunciamiento de la Administración, que será motivada en los casos a que se refiere el artículo 35.",
+        "c": "Expresará los recursos que contra la misma procedan.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La resolución debe responder a lo pedido, estar motivada y ofrecer información sobre cómo impugnarla para ser válida[cite: 407, 408, 869]."
+    },
+    {
+      "numero": 64,
+      "enunciado": "El acuerdo de realización de actuaciones complementarias se notificará a los interesados concediéndoles un plazo de:",
+      "opciones": {
+        "a": "5 días.",
+        "b": "7 días para formular las alegaciones.",
+        "c": "10 días.",
+        "d": "15 días."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Tras concluir las actuaciones complementarias, los interesados disponen de siete días para manifestar lo que consideren oportuno[cite: 440, 877]."
+    },
+    {
+      "numero": 65,
+      "enunciado": "Establece la LPACAP al hablar de las medidas provisionales, ¿qué sucede si no se inicia al procedimiento en el plazo de quince días tras tomarlas antes del inicio?:",
+      "opciones": {
+        "a": "Que las medidas provisionales se mantendrán hasta la finalización del procedimiento.",
+        "b": "Que las medidas provisionales podrán ser levantadas, modificadas o suprimidas de oficio.",
+        "c": "Que las medidas provisionales quedarán sin efecto.",
+        "d": "Que las medidas provisionales no podrán adoptarse."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La caducidad de las medidas provisionalísimas es automática a los quince días si no se formaliza la apertura del expediente[cite: 183, 883]."
+    },
+    {
+      "numero": 66,
+      "enunciado": "¿Cuál de los siguientes derechos es enunciado como específico para los presuntos responsables en un procedimiento administrativo sancionador?:",
+      "opciones": {
+        "a": "A conocer el sentido del silencio administrativo que corresponda.",
+        "b": "A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.",
+        "c": "A acceder y a obtener los documentos contenidos en los citados procedimientos.",
+        "d": "A la no presunción de existencia de responsabilidad disciplinaria o administrativa."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El artículo 53.2.b) consagra la presunción de inocencia administrativa como un derecho fundamental del expedientado[cite: 142, 887]."
+    },
+    {
+      "numero": 67,
+      "enunciado": "¿Qué se entiende por orden superior a efectos de la LPACAP?:",
+      "opciones": {
+        "a": "La emitida por un órgano administrativo superior jerárquico del competente para la iniciación del procedimiento.",
+        "b": "La emitida por un órgano administrativo superior jerárquico que no tiene competencia para iniciar el procedimiento.",
+        "c": "La emitida por un órgano colegiado de la Administración competente.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Es el mandato de un superior que obliga al inferior competente a dar inicio formal a las actuaciones administrativas[cite: 193, 892]."
+    },
+    {
+      "numero": 68,
+      "enunciado": "¿Cuál de los siguientes elementos no resulta exigible al interponer una denuncia?:",
+      "opciones": {
+        "a": "La identidad de la persona o personas que las presentan.",
+        "b": "Cuando los hechos pudieran constituir una infracción penal, recogerán la fecha de su comisión.",
+        "c": "El relato de los hechos que se ponen en conocimiento de la Administración.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley administrativa regula denuncias sobre infracciones 'administrativas', no 'penales', por lo que la literalidad de la opción 'b' es incorrecta legalmente[cite: 206, 905]."
+    },
+    {
+      "numero": 69,
+      "enunciado": "¿Cómo corresponde actuar respecto del denunciante una vez se toma el acuerdo de iniciación en un procedimiento sancionador?:",
+      "opciones": {
+        "a": "Tal acuerdo se le comunicará, con traslado de cuantas actuaciones existan al respecto.",
+        "b": "Tal acuerdo se le comunicará, junto con los datos del presunto inculpado.",
+        "c": "Tal acuerdo se le comunicará cuando las normas reguladoras del procedimiento así lo prevean.",
+        "d": "Tal acuerdo se le comunicará en un plazo no superior a diez días."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El denunciante no es automáticamente interesado; su notificación depende de lo que dicte la normativa sectorial de cada materia[cite: 212, 911]."
+    },
+    {
+      "numero": 70,
+      "enunciado": "¿Qué pueden exigir los interesados de un escrito que presenten electrónicamente o en las oficinas de asistencia en materia de registros?:",
+      "opciones": {
+        "a": "Un recibo acreditativo de la fecha y hora de la presentación.",
+        "b": "Una copia acreditativa con la fecha y hora de presentación.",
+        "c": "Un escrito confirmatorio con indicación de la fecha y hora de presentación.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El recibo es el medio oficial de prueba para que el ciudadano demuestre que cumplió con los plazos de entrega[cite: 233, 914]."
+    },
+    {
+      "numero": 71,
+      "enunciado": "Conforme a lo establecido en la LPACAP, ¿cabe ampliar el plazo de subsanación y mejora de la solicitud?:",
+      "opciones": {
+        "a": "Sí, este plazo podrá ser ampliado prudencialmente hasta 10 días.",
+        "b": "Sí, siempre, en todo caso, y motivadamente hasta 10 días.",
+        "c": "Sí, siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, este plazo podrá ser ampliado prudencialmente hasta 5 días.",
+        "d": "Sí, siempre, en todo caso, y motivadamente, hasta 5 días."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ampliación es excepcional (máximo cinco días) y está limitada a procedimientos donde no se compita con otros aspirantes[cite: 244, 921, 922]."
+    },
+    {
+      "numero": 72,
+      "enunciado": "¿Cómo procede actuar por parte de la Administración si un sujeto obligado a presentación electrónica de una solicitud lo hiciera presencialmente?:",
+      "opciones": {
+        "a": "Deberá levantarse acta sucinta, que se incorporará al procedimiento.",
+        "b": "Se le requerirá para que la subsane a través de su presentación electrónica.",
+        "c": "Ciertas las opciones a) y b).",
+        "d": "Se dará por inadmitida su solicitud."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La falta de uso del medio electrónico obligado se considera un defecto subsanable; la fecha de presentación será la de la subsanación electrónica[cite: 931]."
+    },
+    {
+      "numero": 73,
+      "enunciado": "Según establece la LPACAP, el procedimiento está sometido al principio de celeridad. ¿Cómo se impulsará?:",
+      "opciones": {
+        "a": "De oficio o a instancia de parte en todos sus trámites y a través de medios electrónicos.",
+        "b": "De oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad.",
+        "c": "A instancia de parte en todos sus trámites y a través de medios electrónicos.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El impulso de oficio significa que la Administración debe avanzar el expediente sin esperar a que el interesado lo pida[cite: 64, 307, 937]."
+    },
+    {
+      "numero": 74,
+      "enunciado": "Conforme a lo establecido en el artículo 71 de la LPACAP, ¿qué orden debe guardarse en el despacho de los expedientes?:",
+      "opciones": {
+        "a": "El orden riguroso de incoación en asuntos de homogénea naturaleza, salvo que por el titular de la unidad administrativa se dé orden motivada en contrario.",
+        "b": "Exclusivamente el orden riguroso de incoación en asuntos de homogénea naturaleza.",
+        "c": "El riguroso de incoación en asuntos similares.",
+        "d": "El más eficiente de incoación en asuntos de homogénea naturaleza."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Rige el principio 'prior in tempore', debiendo resolverse antes lo que entró antes, salvo justificación motivada[cite: 309, 942]."
+    },
+    {
+      "numero": 75,
+      "enunciado": "¿Qué sucede cuando no se sigue el orden riguroso de incoación y no hubiera orden motivada en contrario?:",
+      "opciones": {
+        "a": "Que dará lugar a la existencia de sanción disciplinaria por falta grave.",
+        "b": "Que dará lugar a la exigencia de responsabilidad disciplinaria del infractor y, en su caso, será causa de remoción del puesto de trabajo.",
+        "c": "Que dará lugar a la existencia de sanción disciplinaria del infractor.",
+        "d": "Que dará lugar a la existencia de sanción disciplinaria por falta muy grave."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Saltarse el orden de los expedientes sin causa es una infracción que acarrea responsabilidad para el funcionario responsable[cite: 310, 949]."
+    },
+    {
+      "numero": 76,
+      "enunciado": "¿Qué responsabilidad atribuye la LPACAP a los instructores respecto del procedimiento?:",
+      "opciones": {
+        "a": "La de responsables directos del cumplimiento de los plazos establecidos y, supletoriamente, de la tramitación.",
+        "b": "La de garantizar el libre acceso al conocimiento del expediente, antes del trámite de audiencia.",
+        "c": "La de garantizar el libre acceso al conocimiento del expediente, en todas las fases.",
+        "d": "La de responsables directos de la tramitación del procedimiento y, en especial, del cumplimiento de los plazos establecidos."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El instructor es el garante de que el procedimiento no se detenga injustificadamente y se cumplan los tiempos legales[cite: 311, 961]."
+    },
+    {
+      "numero": 77,
+      "enunciado": "Según lo establecido en el artículo 77 de la LPACAP, ¿qué plazo extraordinario se establece para el periodo de prueba?:",
+      "opciones": {
+        "a": "No superior a 30 días ni inferior a 10.",
+        "b": "No superior a 10 días.",
+        "c": "No superior a 15 días.",
+        "d": "No inferior a 15 días ni superior a 30."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Además del periodo ordinario, se puede abrir un plazo extra de máximo diez días si el instructor lo ve necesario a petición de parte[cite: 347, 964]."
+    },
+    {
+      "numero": 78,
+      "enunciado": "En relación con la realización de las pruebas, ¿qué debe incluirse en la comunicación a los interesados?:",
+      "opciones": {
+        "a": "Lugar, fecha y hora en la que se practicará la prueba.",
+        "b": "Los exigidos específicamente en la regulación de cada procedimiento específico.",
+        "c": "Los suficientes para atender al requerimiento en tiempo y forma.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La comunicación debe ser precisa para que el interesado pueda asistir y, si lo desea, nombrar técnicos que le asistan[cite: 359, 968]."
+    },
+    {
+      "numero": 79,
+      "enunciado": "A tenor de lo establecido en el art. 78 de la LPACAP, ¿qué ocurre cuando un interesado propone una prueba?:",
+      "opciones": {
+        "a": "Que si su realización implica gastos que no debe soportar la Administración, ésta podrá exigir el anticipo de los mismos.",
+        "b": "Si su realización implica gastos que deba soportar la Administración, ésta podrá exigir el anticipo.",
+        "c": "Si su realización implica gastos que no deba soportar la Administración, ésta podrá exigir la liquidación uniendo presupuestos.",
+        "d": "Si su realización implica gastos que deba soportar la Administración, ésta no podrá exigir el anticipo."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Si el interesado pide una prueba costosa (como un peritaje), la Administración puede pedirle que pague por adelantado esos costes[cite: 366, 974]."
+    },
+    {
+      "numero": 80,
+      "enunciado": "¿En qué momento pueden los interesados alegar un defecto de tramitación que suponga paralización?:",
+      "opciones": {
+        "a": "En cualquier momento antes de la propuesta de resolución.",
+        "b": "En el plazo de diez días desde la comunicación de la propuesta de resolución.",
+        "c": "En todo momento.",
+        "d": "En cualquier momento antes del trámite de audiencia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Los defectos de forma que paralizan el expediente pueden denunciarse siempre para corregirlos antes de que se dicte la resolución definitiva[cite: 343, 985]."
+    },
+    {
+      "numero": 81,
+      "enunciado": "¿En qué plazo deben emitirse los informes según la LPACAP?:",
+      "opciones": {
+        "a": "En el de 15 días.",
+        "b": "En el de 10 días.",
+        "c": "En el de 10 días naturales.",
+        "d": "En el de 15 días naturales."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El plazo general subsidiario para emitir cualquier informe solicitado es de diez días hábiles[cite: 372, 995]."
+    },
+    {
+      "numero": 82,
+      "enunciado": "Según el artículo 88, ¿cómo debe procederse cuando la competencia para instruir y resolver no recaiga en el mismo órgano?:",
+      "opciones": {
+        "a": "En este caso será necesario que el órgano competente para resolver solicite informe al órgano instructor.",
+        "b": "En este caso la resolución deberá ser motivada.",
+        "c": "En este caso será necesario que el instructor eleve al órgano competente para resolver una propuesta de resolución.",
+        "d": "En este caso la propuesta de resolución deberá notificarse a los interesados."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El instructor termina su labor redactando la solución que propone, la cual debe ser enviada al órgano que tiene el poder de decidir[cite: 394, 1006]."
+    },
+    {
+      "numero": 83,
+      "enunciado": "En relación con las actuaciones complementarias, ¿cuál de las siguientes opciones no es correcta?:",
+      "opciones": {
+        "a": "Que el acuerdo para la realización de las mismas deberá ser motivado.",
+        "b": "Que corresponde adoptarlas al órgano instructor del procedimiento.",
+        "c": "Que tienen que ser indispensables para resolver el procedimiento.",
+        "d": "Todas las opciones anteriores son falsas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La decisión de realizar estas actuaciones finales corresponde al órgano que va a resolver, no al que instruyó el caso[cite: 438, 1011]."
+    },
+    {
+      "numero": 84,
+      "enunciado": "Dentro de la tramitación del procedimiento administrativo, ¿dónde se encuadra el trámite de audiencia?:",
+      "opciones": {
+        "a": "Dentro de la instrucción del procedimiento.",
+        "b": "Dentro de la ordenación del procedimiento.",
+        "c": "Dentro de la finalización del procedimiento.",
+        "d": "Dentro de la iniciación del procedimiento."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La audiencia es el último acto de la fase de instrucción, permitiendo al interesado revisar todo lo actuado antes de la propuesta final[cite: 1015]."
+    },
+    {
+      "numero": 85,
+      "enunciado": "¿Cuándo se sitúa la audiencia en casos donde se solicite Dictamen del Consejo de Estado?:",
+      "opciones": {
+        "a": "Posterior a la recepción de dicho informe.",
+        "b": "Antes de la solicitud de dicho informe.",
+        "c": "Una vez instruidos los procedimientos, e inmediatamente antes de redactar la propuesta de resolución.",
+        "d": "Posterior a dicho informe e inmediatamente antes de redactar la propuesta de resolución."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Para que los órganos consultivos opinen sobre un expediente completo, este debe incluir ya las alegaciones finales del interesado[cite: 375, 1022]."
+    },
+    {
+      "numero": 86,
+      "enunciado": "La resolución es una forma de finalización del procedimiento administrativo. ¿Cuál de los siguientes elementos exige la LPACAP?:",
+      "opciones": {
+        "a": "Una decisión sobre las cuestiones planteadas por los interesados.",
+        "b": "Cierta la opción a), así como otras conexas no planteadas por los interesados.",
+        "c": "Ciertas las opciones a) y b), debe ser motivada.",
+        "d": "Cierta la opción c), debe dictarse en un plazo no superior a 15 días."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La resolución debe ser exhaustiva (decidir todo lo planteado y lo derivado) y motivada para garantizar la legalidad[cite: 406, 1039]."
+    },
+    {
+      "numero": 87,
+      "enunciado": "La LPACAP incorpora el desistimiento por parte de la Administración. ¿Cuál de las siguientes opciones es correcta?:",
+      "opciones": {
+        "a": "Que solo opera en los procedimientos iniciados de oficio.",
+        "b": "Que dicho desistimiento deberá ser motivado.",
+        "c": "Que solo procede en los supuestos y con los requisitos previstos en las Leyes.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La Administración puede desistir de sus propios procedimientos de oficio siempre que la ley lo permita y justifique sus razones[cite: 411, 1046]."
+    },
+    {
+      "numero": 88,
+      "enunciado": "¿Cómo debe actuar la Administración ante la renuncia al derecho o el desistimiento a la solicitud por parte del interesado?:",
+      "opciones": {
+        "a": "Aceptándolo de plano y declarándolo concluso, salvo que se hubiesen personado terceros interesados.",
+        "b": "Aceptándolo de plano y declarándolo concluso, en todo caso.",
+        "c": "Aceptándolo como concluso y declarándolo plano.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Si hay otros interesados que quieren que el caso continúe, la Administración no puede cerrarlo solo porque el solicitante principal se retire[cite: 413, 1052]."
+    },
+    {
+      "numero": 89,
+      "enunciado": "A tenor de lo dispuesto en el artículo 27 de la LPACAP, las copias auténticas realizadas por una Administración Pública:",
+      "opciones": {
+        "a": "Tendrán validez únicamente en esa Administración.",
+        "b": "Tendrán validez en determinados procedimientos, pero no con carácter general.",
+        "c": "No tendrán validez ni eficacia en otras Administraciones Públicas.",
+        "d": "Tendrán validez en las restantes Administraciones Públicas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "Una de las ventajas del sistema común es que las copias auténticas tienen plena validez ante cualquier organismo público de España[cite: 1072]."
+    },
+    {
+      "numero": 90,
+      "enunciado": "¿Cuándo deberá efectuarse el acuerdo de iniciación cuando se hayan adoptado medidas provisionales antes de su inicio?:",
+      "opciones": {
+        "a": "Dentro de los 15 días naturales siguientes a su adopción.",
+        "b": "Dentro de los 20 días siguientes a su adopción.",
+        "c": "Dentro de los 15 días siguientes a su adopción.",
+        "d": "Dentro de los 30 días siguientes a su adopción."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 13. LPAC",
+      "explicación": "El plazo de quince días para iniciar el expediente es una garantía esencial cuando se han tomado medidas restrictivas previas[cite: 182, 1076]."
+    },
+    {
+      "numero": 91,
+      "enunciado": "Según lo establecido en la LPACAP, la propuesta de resolución se redactará:",
+      "opciones": {
+        "a": "Antes del trámite de audiencia a los interesados.",
+        "b": "Después del trámite de audiencia.",
+        "c": "Después de concluir la instrucción y el trámite de prueba.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La propuesta debe incorporar la valoración de las alegaciones hechas por el interesado en el trámite de audiencia[cite: 336, 1080]."
+    },
+    {
+      "numero": 92,
+      "enunciado": "Según lo establecido en el artículo 2, la LPACAP se aplica a:",
+      "opciones": {
+        "a": "Administración General del Estado.",
+        "b": "Administraciones de las Comunidades Autónomas.",
+        "c": "Entidades que integran la Administración Local.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley tiene carácter común, por lo que su cumplimiento es obligatorio para todos los niveles de la administración pública española[cite: 27, 1098]."
+    },
+    {
+      "numero": 93,
+      "enunciado": "Tendrán capacidad de obrar ante las Administraciones Públicas:",
+      "opciones": {
+        "a": "Las personas físicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+        "b": "Las personas jurídicas.",
+        "c": "Los menores de edad para el ejercicio de sus derechos cuya actuación esté permitida por el Ordenamiento Jurídico.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La ley administrativa reconoce capacidad a personas físicas, jurídicas y, en ciertos casos, a menores de edad sin necesidad de tutores[cite: 1104]."
+    },
+    {
+      "numero": 94,
+      "enunciado": "De acuerdo con el artículo 95 de la LPACAP, ¿cuál de los siguientes requisitos y efectos de la caducidad no es correcto?:",
+      "opciones": {
+        "a": "En los procedimientos iniciados a solicitud del interesado, se producirá la caducidad tras tres meses de paralización imputable al mismo.",
+        "b": "Podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites no indispensables.",
+        "c": "La caducidad no producirá por sí sola la prescripción de las acciones.",
+        "d": "Podrá no ser aplicable la caducidad si la cuestión afecta al interés general."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 13. LPAC",
+      "explicación": "La opción 'b' es incorrecta porque la ley prohíbe caducar el expediente si el trámite omitido por el particular no es esencial para dictar resolución[cite: 418, 1115]."
+    }
+  ]
+}
