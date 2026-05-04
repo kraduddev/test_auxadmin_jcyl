@@ -1,0 +1,1037 @@
+{
+  "tema": "Tema 12. El acto administrativo",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Cuando la Administración Pública actúa como persona de Derecho Privado:",
+      "opciones": {
+        "a": "Solo puede ser controlada por los Tribunales Contencioso-Administrativos.",
+        "b": "No dicta actos administrativos.",
+        "c": "Su actividad es puramente discrecional.",
+        "d": "Puede actuar sin límite alguno, como cualquier particular."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Un acto administrativo es una declaración dictada en ejercicio de una potestad administrativa sujeta a Derecho Administrativo [cite: 49, 50, 61]; cuando la Administración actúa bajo el Derecho privado, sus actuaciones no tienen tal consideración[cite: 68]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "El contenido de un acto administrativo ha de ser:",
+      "opciones": {
+        "a": "Lícito e indeterminado.",
+        "b": "Imposible y lícito.",
+        "c": "Determinado o determinable e ilícito.",
+        "d": "Posible, lícito y determinado."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Según el ordenamiento y el Código Civil, el objeto o contenido del acto debe ser lícito, posible y determinado [cite: 101, 120], siendo nulo de pleno derecho si su contenido es imposible[cite: 122]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+      "opciones": {
+        "a": "Los actos que se dicten en el ejercicio de potestades discrecionales.",
+        "b": "Los actos que rechacen pruebas propuestas por los interesados.",
+        "c": "Los actos que se separen del dictamen de órganos consultivos.",
+        "d": "Todos los actos anteriores deben motivarse."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "El artículo 35.1 de la Ley 39/2015 exige motivación específica para actos discrecionales, rechazo de pruebas y separación de criterios precedentes o de órganos consultivos[cite: 189, 192, 195]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "Según que provengan de un solo órgano administrativo o de dos o más órganos administrativos, los actos administrativos se clasifican en:",
+      "opciones": {
+        "a": "Actos únicos y múltiples.",
+        "b": "Actos simples y complejos.",
+        "c": "Actos singulares y plurales.",
+        "d": "Actos singulares y generales."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Aunque el texto se centra en otras clasificaciones, la doctrina distingue entre actos simples (un órgano) y complejos (varios órganos) en función de su procedencia subjetiva[cite: 157]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "El acto administrativo está sujeto al principio de legalidad:",
+      "opciones": {
+        "a": "Siempre.",
+        "b": "Cuando se trate de actos reglados.",
+        "c": "Según los casos.",
+        "d": "No necesariamente."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "Toda actuación administrativa debe someterse plenamente a la Ley y al Derecho, ajustándose el contenido de los actos siempre al ordenamiento jurídico[cite: 101, 113, 178]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "Un ejemplo de acto de trámite es un/una",
+      "opciones": {
+        "a": "Decisión con que concluye el procedimiento.",
+        "b": "Renuncia.",
+        "c": "Informe emitido en un procedimiento.",
+        "d": "Ninguno de los anteriores es un acto de trámite."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "Los actos de trámite son aquellos que preparan la decisión final, como los informes, a diferencia de los definitivos que ponen fin al procedimiento[cite: 140, 142]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Los actos administrativos deben motivarse:",
+      "opciones": {
+        "a": "Siempre.",
+        "b": "Nunca.",
+        "c": "Cuando decidan un procedimiento.",
+        "d": "Cuando la Ley lo prescriba."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La motivación no es universal, sino que se requiere para los supuestos tasados en el artículo 35 de la Ley 39/2015 o cuando una disposición legal así lo exija[cite: 179, 195]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "De las siguientes afirmaciones sobre el acto administrativo, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Es un acto jurídico sometido a Derecho Administrativo.",
+        "b": "Tienen siempre carácter unilateral.",
+        "c": "Ha de ser dictado por un órgano administrativo en el ejercicio de su competencia.",
+        "d": "Se dicta en base a una potestad reglamentaria, entendiendo como tal el poder concedido por la Ley a la Administración Pública y de cuyo ejercicio se producen efectos jurídicos."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La opción es falsa porque el acto administrativo se dicta en ejercicio de una potestad administrativa distinta de la reglamentaria, la cual genera normas de carácter general[cite: 49, 64, 70]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "Según el artículo 39 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Públicas sujetos a Derecho Administrativo se presumirán válidos y producirán efectos:",
+      "opciones": {
+        "a": "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+        "b": "Desde la fecha en que se notifiquen, salvo que en ellos se disponga otra cosa.",
+        "c": "Al día siguiente de la fecha en que sucedan, salvo que en ellos se disponga otra cosa.",
+        "d": "Al día siguiente de la fecha en que se dicten, salvo que en ellos se disponga otra cosa."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "La presunción de validez y la eficacia inmediata operan, por regla general, desde el momento en que el acto es dictado por el órgano competente[cite: 298]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "Según el artículo 35 de la Ley 39/2015, los actos administrativos serán motivados, con sucinta referencia de hechos y fundamentos de derecho cuando:",
+      "opciones": {
+        "a": "Limiten derechos objetivos o intereses legítimos.",
+        "b": "Resuelvan procedimientos de revisión de oficio.",
+        "c": "Acepten pruebas propuestas por los interesados.",
+        "d": "Las opciones b) y c) son correctas."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "La revisión de oficio requiere motivación [cite: 182]; la opción 'a' es incorrecta por usar 'objetivos' en lugar de 'subjetivos' [cite: 181] y la 'c' es incorrecta porque se motivan los rechazos de prueba, no las aceptaciones[cite: 192]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Según establece el artículo 40 de la Ley 39/2015, toda notificación deberá contener:",
+      "opciones": {
+        "a": "El texto íntegro de la resolución con indicación de si pone fin o no a la vía administrativa.",
+        "b": "La expresión de los recursos que procedan en su caso, en vía administrativa y judicial.",
+        "c": "El órgano ante el que hubieran de presentarse los recursos y el plazo para interponerlos.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "El artículo 40.2 detalla que para que una notificación sea completa debe incluir el texto íntegro, el agotamiento de la vía administrativa y el régimen de recursos aplicable[cite: 212]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "Según el artículo 41 de la Ley 39/2015, en ningún caso se efectuarán por medios electrónicos las notificaciones que:",
+      "opciones": {
+        "a": "Contengan medios de pago a favor de los obligados, tales como cheques.",
+        "b": "Sean susceptibles de conversión en formato electrónico.",
+        "c": "Indiquen plazo máximo de duración de los procedimientos.",
+        "d": "Todas las respuestas anteriores son incorrectas."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "La ley prohíbe explícitamente la vía electrónica para notificaciones con medios de pago o elementos no convertibles a formato digital[cite: 232, 233, 234]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "Según el artículo 47 de la Ley 39/2015, son actos administrativos nulos de pleno derecho:",
+      "opciones": {
+        "a": "Los dictados por un órgano manifiestamente incompetente por razón de jerarquía.",
+        "b": "Los que lesionen derechos y libertades susceptibles de amparo constitucional.",
+        "c": "Los que tengan un contenido posible.",
+        "d": "Los dictados prescindiendo parcialmente del procedimiento legalmente establecido."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "La lesión de derechos fundamentales (arts. 14-29 CE) es causa de nulidad absoluta[cite: 360, 361]. La incompetencia jerárquica solo implica anulabilidad[cite: 367, 374]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "Tal y como regula el artículo 43 de la Ley 39/2015, cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido:",
+      "opciones": {
+        "a": "15 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+        "b": "10 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+        "c": "10 días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+        "d": "15 días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "El plazo de caducidad para el acceso a notificaciones electrónicas obligatorias es de 10 días naturales, tras los cuales se considera rechazada[cite: 261]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "Según lo establecido en el artículo 42 de la LPACAP sobre la práctica de las notificaciones en papel, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación:",
+      "opciones": {
+        "a": "Podrá hacerse cargo de la misma cualquier persona que se encuentre en el domicilio.",
+        "b": "Podrá hacerse cargo de la misma cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad.",
+        "c": "Si nadie se hiciera cargo de la notificación, se hará constar esta circunstancia en el expediente, junto con el día y la hora en que se intentó la notificación, intento que se repetirá por una sola vez y en una hora distinta dentro de los cinco días siguientes.",
+        "d": "Las opciones b) y c) son correctas."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "La ley permite la recepción por mayores de 14 años[cite: 252]. La opción 'c' es falsa porque el segundo intento debe realizarse en los 3 días siguientes, no 5[cite: 253]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Conforme a lo establecido en el artículo 43 de la Ley 39/2015, las notificaciones por medios electrónicos:",
+      "opciones": {
+        "a": "Se practicarán mediante comparecencia en la sede electrónica de la Administración u Organismo actuante, a través de la dirección electrónica habilitada única o mediante ambos sistemas, según disponga cada Administración u Organismo.",
+        "b": "Se entenderá por comparecencia en la sede electrónica el acceso por el interesado o su representante debidamente identificado al contenido de la notificación.",
+        "c": "Se entenderán practicadas en el momento en el que se produzca el acceso a su contenido.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "El artículo 43 define la comparecencia electrónica como el acceso identificado al contenido y establece dicho momento como el de la práctica efectiva[cite: 258, 259, 260]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Según lo establecido en el artículo 40 de la Ley 39/2015:",
+      "opciones": {
+        "a": "Toda notificación deberá ser cursada dentro del plazo de diez días naturales a partir de la fecha en que el acto haya sido dictado.",
+        "b": "Toda notificación deberá contener el texto integro de la resolución, con indicación de si pone fin o no a la vía administrativa, la expresión de los recursos que procedan, en su caso, en vía administrativa y judicial, el órgano ante el que hubieran de presentarse y el plazo para interponerlos.",
+        "c": "Las notificaciones que, conteniendo el texto íntegro del acto, omitiesen alguno de los demás requisitos previstos en la opción anterior, no surtirán efecto.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "La opción 'a' es falsa porque el plazo es de 10 días hábiles [cite: 211]; la 'c' es falsa porque las notificaciones defectuosas surten efecto si el interesado conoce el contenido o recurre[cite: 213]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Según lo establecido en el artículo 45 de la Ley 39/2015, serán objeto de publicación, surtiendo ésta los efectos de la notificación, los actos administrativos en los siguientes casos:",
+      "opciones": {
+        "a": "Cuando el acto tenga por destinatario a una pluralidad indeterminada de personas.",
+        "b": "Cuando la Administración estime que la notificación efectuada a un solo interesado es insuficiente para garantizar la notificación a todos.",
+        "c": "Cuando se trate de actos integrantes de un procedimiento selectivo o de concurrencia competitiva de cualquier tipo.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La publicación sustituye a la notificación ante pluralidades indeterminadas, insuficiencia de notificación individual o en procesos selectivos/competitivos[cite: 275, 277, 278]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "Cuando un órgano administrativo ejerce su potestad administrativa para fines distintos a los fijados por el Ordenamiento Jurídico:",
+      "opciones": {
+        "a": "Debe motivar el acto.",
+        "b": "Vicia el acto de que se trate.",
+        "c": "No puede hacerlo.",
+        "d": "Debe justificar por qué lo hace."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Esta actuación constituye un vicio de 'desviación de poder', que el artículo 48.1 de la Ley 39/2015 tipifica expresamente como causa de anulabilidad[cite: 97, 413, 414]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Los actos administrativos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados, se consideran:",
+      "opciones": {
+        "a": "Válidos.",
+        "b": "Anulables.",
+        "c": "Irregulares.",
+        "d": "Nulos de pleno derecho."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La ausencia total de procedimiento o de reglas esenciales en órganos colegiados es uno de los supuestos más graves de invalidez tasados en el artículo 47.1.e)[cite: 381, 999]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Según lo establecido en el artículo 37 de la Ley 39/2015, las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general. Aquellas que lo vulneren serán:",
+      "opciones": {
+        "a": "Nulas.",
+        "b": "Anulables.",
+        "c": "Irregulares.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "El principio de inderogabilidad singular prohíbe que actos particulares vulneren reglamentos, sancionando dicha infracción con la nulidad de pleno derecho[cite: 1000, 1002, 1143]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "A tenor de lo establecido en el artículo 41 de la LPACAP, las notificaciones se practicarán preferentemente:",
+      "opciones": {
+        "a": "Por vía postal.",
+        "b": "Por vía telefónica.",
+        "c": "Por medios electrónicos.",
+        "d": "Por el medio más rápido y económico para la Administración."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "La Ley 39/2015 prioriza el uso de medios electrónicos para las comunicaciones entre la Administración y los ciudadanos[cite: 217, 1013]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Para que un acto tenga eficacia retroactiva es necesario que:",
+      "opciones": {
+        "a": "Limite derechos de los particulares.",
+        "b": "Restrinja el ejercicio de facultades de los particulares.",
+        "c": "Imponga deberes u obligaciones.",
+        "d": "No se lesionen derechos o intereses legítimos de otras personas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La retroactividad solo es posible si el acto es favorable, los hechos ya existían y no se perjudica a terceros[cite: 332, 1020]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "Los efectos de la declaración de nulidad absoluta se producen desde:",
+      "opciones": {
+        "a": "La notificación del acto anulatorio.",
+        "b": "El momento de la declaración de nulidad.",
+        "c": "La notificación o publicación del acto anulatorio, según los casos.",
+        "d": "Desde que se dictó el acto anulado."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La nulidad de pleno derecho tiene efectos 'ex tunc', es decir, retroactivos desde el origen del acto porque se considera que nunca existió válidamente[cite: 402, 1025]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los defectos de forma en un acto, según reconoce expresamente la LPACAP en su art. 48:",
+      "opciones": {
+        "a": "Lo vician con nulidad absoluta.",
+        "b": "Lo vician con anulabilidad en todo caso.",
+        "c": "Pueden dar lugar a la nulidad absoluta si producen indefensión del interesado.",
+        "d": "Pueden dar lugar a la anulabilidad si produce indefensión del interesado."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Por el principio antiformalista, el defecto de forma solo invalida (vía anulabilidad) si el acto no alcanza su fin o causa indefensión real[cite: 423, 430, 1030]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "Según lo establecido en el artículo 52 de la LPACAP que regula la Convalidación:",
+      "opciones": {
+        "a": "La Administración podrá convalidad los actos nules, subsanando los vicios de que adolezcan.",
+        "b": "El acto de convalidación producirá efectos desde su fecha, salvo lo dispuesto en el art. 39.3 para la retroactividad de los actos administrativos.",
+        "c": "Si el vicio consistiese en falta de alguna autorización, podrá ser convalidado el acto mediante el otorgamiento de la misma por el órgano superior jerárquico del que dictó el acto viciado.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "La convalidación no es aplicable a actos nulos[cite: 476, 1032]. En caso de falta de autorización, debe otorgarla el órgano competente, no necesariamente el superior[cite: 482, 1037]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "Dentro de las características y efectos de los actos nulos de pleno derecho",
+      "opciones": {
+        "a": "El vicio de nulidad es susceptible de sanación, mediante la convalidación.",
+        "b": "La falta de impugnación en plazo, del acto nulo, hace a éste inatacable.",
+        "c": "Cuando se declara la nulidad del acto, subsisten los efectos producidos por éste anteriores a tal declaración.",
+        "d": "Sus efectos son 'erga omnes'."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Los actos nulos no son convalidables [cite: 407], no sanan por falta de impugnación [cite: 405] y su nulidad es retroactiva [cite: 1045]; sus efectos vinculan a todos[cite: 411, 1046]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "Cuando hablamos de Transmisibilidad se refiere a que:",
+      "opciones": {
+        "a": "La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero.",
+        "b": "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto, producirán los efectos de éste.",
+        "c": "El órgano que declare la nulidad o anule las actuaciones, dispondrá siempre la conservación de aquellos actos y tramites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.",
+        "d": "La Administración podrá convalidad los actos anulables, subsanando los vicios de que adolezcan."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "La transmisibilidad garantiza que la invalidez de un trámite no 'contamine' a otros actos independientes del mismo procedimiento[cite: 455, 1054]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "La presunción de legitimidad de los actos administrativos:",
+      "opciones": {
+        "a": "No admite prueba en contrario.",
+        "b": "Dependerá de lo que el propio acto establezca.",
+        "c": "Puede ser objeto de impugnación por el particular.",
+        "d": "Solo se da cuando la Ley expresamente lo diga."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "Es una presunción 'iuris tantum', lo que significa que el particular puede y debe impugnarla aportando pruebas que demuestren su invalidez[cite: 302, 303]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "Cuando un órgano administrativo, al dictar un acto, se desvía de un dictamen vinculante de un órgano consultivo:",
+      "opciones": {
+        "a": "No puede hacerlo, su cumplimiento es obligatorio para la validez del acto final.",
+        "b": "El acto dictado es contrario al ordenamiento jurídico, incurriendo generalmente en anulabilidad.",
+        "c": "Debe motivar las razones de dicho desvío.",
+        "d": "Las opciones a) y b) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Un dictamen vinculante obliga al órgano decisor; separarse de él implica una ilegalidad que vicia el acto, además de ser una infracción de fondo[cite: 1067, 1070]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "En cambio, si se separa de un dictamen facultativo de un órgano consultivo:",
+      "opciones": {
+        "a": "Vicia el acto.",
+        "b": "Debe motivarlo.",
+        "c": "No puede hacerlo.",
+        "d": "Al ser facultativo, no es necesaria la motivación del acto."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Aunque no esté obligado a seguir el dictamen facultativo, el órgano debe motivar obligatoriamente las razones por las que decide apartarse de él[cite: 189, 1073]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "Los actos administrativos que se manifiestan en virtud del silencio administrativo son:",
+      "opciones": {
+        "a": "Actos expresos.",
+        "b": "Actos presuntos.",
+        "c": "Actos desfavorables o de gravamen.",
+        "d": "Actos neutrales."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "El silencio administrativo es una ficción legal que permite presumir una respuesta administrativa (estimatoria o desestimatoria) ante la falta de resolución expresa[cite: 388, 1078]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "Contra los actos definitivos:",
+      "opciones": {
+        "a": "No cabe recurso.",
+        "b": "No cabe recurso administrativo pero sí jurisdiccional.",
+        "c": "Cabe recurso administrativo pero no jurisdiccional.",
+        "e": "Son todos recurribles."
+      },
+      "respuesta_correcta": "e",
+      "explicacion": "Los actos definitivos (resoluciones) son siempre impugnables, ya sea en vía administrativa o directamente ante los tribunales si agotan dicha vía[cite: 140, 141, 1089]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "Contra los actos que agotan la vía administrativa:",
+      "opciones": {
+        "a": "No cabe recurso administrativo.",
+        "b": "No cabe recurso administrativo ordinario alguno, salvo el potestativo de reposición.",
+        "c": "El interesado puede interponer un recurso contencioso-administrativo.",
+        "d": "Las opciones b) y c) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Al agotarse la vía administrativa, el interesado puede elegir entre el recurso administrativo de reposición ante el mismo órgano o acudir a la justicia contenciosa[cite: 150, 826, 1095]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "Frente a los actos que No agotan la vía administrativa:",
+      "opciones": {
+        "a": "No cabe recurso alguno.",
+        "b": "El interesado en recurrirlo deberá necesariamente interponer recurso contencioso-administrativo.",
+        "c": "El interesado en recurrirlo deberá necesariamente interponer, con carácter previo, un recurso administrativo de alzada, ante el órgano superior jerárquico del que dictó el acto administrativo.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "Si el acto no agota la vía, es preceptivo interponer recurso de alzada ante el superior jerárquico antes de poder acudir a la vía judicial[cite: 152, 798, 800, 1099]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "Según lo establecido en el artículo 24 de la LPACAP, el silencio administrativo es positivo por regla general, excepto en supuestos como:",
+      "opciones": {
+        "a": "Una norma con rango de Ley o de Derecho de la UE establezcan lo contrario.",
+        "b": "Procedimientos de revisión de oficio a solicitud del interesado.",
+        "c": "Procedimientos relativos al ejercicio del derecho de petición.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Aunque la regla general es el silencio positivo, la ley establece excepciones críticas donde el silencio es negativo por razones de interés público o legal[cite: 1102, 1106]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "En los procedimientos iniciados de oficio, el vencimiento del plazo máximo sin resolución produce:",
+      "opciones": {
+        "a": "En procedimientos de reconocimiento de derechos, el silencio es positivo.",
+        "b": "En procedimientos sancionadores o de intervención desfavorables, se producirá la caducidad.",
+        "c": "Si el procedimiento se paraliza por causa de la Administración, se interrumpe el plazo.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "En procedimientos de oficio desfavorables, la inacción administrativa se castiga con la caducidad y archivo de las actuaciones[cite: 1113, 1114]. La 'a' es falsa porque el silencio es negativo[cite: 1109]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "Según dispone el artículo 52 de la LPACAP relativo a la convalidación:",
+      "opciones": {
+        "a": "Si el vicio consistiera en incompetencia determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico.",
+        "b": "Si el vicio consistiera en incompetencia no determinante de nulidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico.",
+        "c": "Si el vicio consistiera en incompetencia no determinante de anulabilidad, la convalidación podrá realizarse por el órgano competente cuando sea superior jerárquico.",
+        "d": "Si el vicio consistiera en incompetencia determinante de nulidad, la convalidación podrá realizarse por el órgano que dictó el acto viciado."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Solo los vicios de anulabilidad (como la incompetencia jerárquica) pueden convalidarse; la incompetencia de materia o territorio causa nulidad y no es subsanable[cite: 367, 479, 1120]."
+    },
+    {
+      "numero": 39,
+      "enunciado": "La acción de subsanar los vicios de que adolezca un acto anulable para transformarlo en un acto válido, se conoce como:",
+      "opciones": {
+        "a": "Conversión de actos viciados.",
+        "b": "Conservación de actos y trámites.",
+        "c": "Convalidación.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "La convalidación es la técnica específica mediante la cual la propia Administración 'cura' un acto anulable dictando uno nuevo que subsana el defecto anterior[cite: 475, 1126]."
+    },
+    {
+      "numero": 40,
+      "enunciado": "Sobre la anulabilidad, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, excepto la desviación de poder.",
+        "b": "El defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+        "c": "La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.",
+        "d": "La anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "La afirmación es incorrecta porque la desviación de poder está incluida explícitamente como causa de anulabilidad en el artículo 48.1[cite: 413, 1130]."
+    },
+    {
+      "numero": 41,
+      "enunciado": "¿Qué implica la inderogabilidad singular a que se refiere el art. 37 de la LPACAP?:",
+      "opciones": {
+        "a": "Que los actos particulares no vulneran disposiciones particulares de igual jerarquía.",
+        "b": "Que las resoluciones particulares no podrán vulnerar lo establecido en una disposición general, aunque procedan de órgano de igual o superior jerarquía.",
+        "c": "Que los actos particulares no vulneran disposiciones generales de inferior jerarquía.",
+        "d": "Que las resoluciones generales no vulneran disposiciones particulares de superior jerarquía."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Garantiza la primacía del reglamento (norma general) frente al acto administrativo (norma particular), impidiendo excepciones 'ad hoc' injustificadas[cite: 1000, 1143]."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Contra las disposiciones administrativas de carácter general:",
+      "opciones": {
+        "a": "No cabrá recurso en vía administrativa.",
+        "b": "Cabe interponer únicamente el recurso de alzada.",
+        "c": "Cabe interponer los recursos de alzada y el potestativo de reposición.",
+        "d": "Únicamente cabe interponer el recurso extraordinario de revisión."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "Los reglamentos no pueden ser recurridos administrativamente de forma directa; el ciudadano debe acudir directamente a la jurisdicción contencioso-administrativa[cite: 703, 716, 1153]."
+    },
+    {
+      "numero": 43,
+      "enunciado": "En Castilla y León, ponen fin a la vía administrativa:",
+      "opciones": {
+        "a": "Las resoluciones de la Junta de Castilla y León y las de su Presidente.",
+        "b": "Las resoluciones de los Consejeros, Secretarios Generales y de los Directores Generales en materia de personal.",
+        "c": "Las resoluciones de los procedimientos en materia sancionadora.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "La Ley 3/2001 otorga carácter definitivo en vía administrativa a los actos del máximo nivel ejecutivo regional[cite: 741, 1158]."
+    },
+    {
+      "numero": 44,
+      "enunciado": "Según el art. 112 de la LPACAP, contra la resolución de un recurso de alzada:",
+      "opciones": {
+        "a": "Podrá interponerse recurso potestativo de reposición o contencioso-administrativo.",
+        "b": "Únicamente cabrá interponer recurso potestativo de reposición.",
+        "c": "No cabe ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el art. 125.1.",
+        "d": "No cabrá ningún otro recurso administrativo."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "La resolución de alzada agota la vía administrativa; no cabe reposición sobre alzada, solo acudir al juez o usar la vía extraordinaria de revisión[cite: 824, 1165, 1416]."
+    },
+    {
+      "numero": 45,
+      "enunciado": "El órgano a quien competa resolver el recurso podrá suspender la ejecución del acto impugnado cuando:",
+      "opciones": {
+        "a": "La ejecución pudiera causar perjuicios de imposible o difícil reparación.",
+        "b": "La impugnación se fundamente en alguna de las causas de anulabilidad previstas en el artículo 48.",
+        "c": "Que no se haya dado audiencia a los interesados.",
+        "d": "El órgano no podrá suspender la ejecución en ningún caso."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "La regla es la ejecutividad del acto, pero se admite la suspensión si hay riesgo de daños irreparables o si hay causa de nulidad de pleno derecho[cite: 779, 780, 1169]."
+    },
+    {
+      "numero": 46,
+      "enunciado": "¿Qué recursos pueden interponerse contra aquellos actos de trámite que determinen la imposibilidad de continuar con el procedimiento?:",
+      "opciones": {
+        "a": "El recurso de alzada o el potestativo de revisión.",
+        "b": "El recurso de alzada o el potestativo de reposición.",
+        "c": "El recurso de alzada exclusivamente.",
+        "d": "El proceso de impugnación especial en materia de derechos fundamentales."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Los actos de trámite 'cualificados' (que impiden continuar o causan indefensión) se equiparan a los definitivos a efectos de recursos[cite: 143, 692, 1182]."
+    },
+    {
+      "numero": 47,
+      "enunciado": "¿Suspende la interposición de cualquier recurso la ejecución del acto impugnado?:",
+      "opciones": {
+        "a": "Sí, paraliza la misma de manera inmediata.",
+        "b": "No, salvo en los casos en que una disposición establezca lo contrario.",
+        "c": "Sí, de oficio.",
+        "d": "Sí, salvo una serie de circunstancias sobrevenidas."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "La interposición de un recurso no tiene efectos suspensivos automáticos sobre el acto administrativo debido a la prerrogativa de ejecutividad de la Administración[cite: 777, 1187]."
+    },
+    {
+      "numero": 48,
+      "enunciado": "De conformidad con el art. 114 de la LPACAP, ¿cuál de las siguientes opciones no pone fin a la vía administrativa?:",
+      "opciones": {
+        "a": "Las resoluciones de los recursos de alzada.",
+        "b": "Las resoluciones de los procedimientos de impugnación que sustituyen al recurso de alzada.",
+        "c": "Los acuerdos, pactos, convenios o contratos que finalizan el procedimiento.",
+        "d": "Todas las anteriores ponen fin a la vía administrativa."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "El artículo 114 lista exhaustivamente los supuestos que cierran la vía administrativa, permitiendo el acceso a la vía judicial[cite: 720, 722, 729, 1194]."
+    },
+    {
+      "numero": 49,
+      "enunciado": "En Organismos públicos dependientes de la AGE, ¿qué actos ponen fin a la vía administrativa?:",
+      "opciones": {
+        "a": "Los emanados de los miembros jerárquicos del Gobierno.",
+        "b": "Los emanados de los máximos órganos de dirección unipersonales o colegiados, según sus estatutos.",
+        "c": "Los emanados de los Ministros en ejercicio de sus competencias.",
+        "d": "Los emanados de Directores Generales en materia de personal."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "En entes instrumentales, la cúpula directiva (órgano rector) es la que suele dictar los actos definitivos que agotan la vía administrativa[cite: 737, 1197]."
+    },
+    {
+      "numero": 50,
+      "enunciado": "¿Puede existir otro procedimiento de impugnación que sustituya el recurso potestativo de reposición?:",
+      "opciones": {
+        "a": "No, en ningún caso.",
+        "b": "Sí, cuando la especificidad de la materia así lo justifique.",
+        "c": "Sí, las leyes podrán sustituirlo por mediación o arbitraje, respetando su carácter potestativo.",
+        "d": "No, aunque pueden sustituir el de alzada."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "El legislador puede prever mecanismos alternativos (conciliación, arbitraje) siempre que se mantenga la voluntariedad de su uso para el interesado[cite: 695, 1209]."
+    },
+    {
+      "numero": 51,
+      "enunciado": "¿Cómo procede actuar contra un acto administrativo que pone fin a la vía administrativa si el mismo no fuera expreso?:",
+      "opciones": {
+        "a": "No podrá interponerse recurso contencioso-administrativo.",
+        "b": "El solicitante podrá interponer recurso de reposición en cualquier momento tras producirse el acto presunto.",
+        "c": "Podrá interponerse recurso contencioso-administrativo y recurso de alzada.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Ante el silencio administrativo en actos definitivos, no hay plazo preclusivo para interponer reposición; se puede hacer en cualquier momento tras el silencio[cite: 837, 1214]."
+    },
+    {
+      "numero": 52,
+      "enunciado": "¿Ante qué órgano podrá interponerse recurso de alzada?:",
+      "opciones": {
+        "a": "Ante el competente para resolverlo.",
+        "b": "Ante el mismo órgano que dictó la resolución.",
+        "c": "Las opciones a) y b) son correctas.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "El recurso puede presentarse ante el órgano que dictó el acto (que lo elevará al superior) o directamente ante el superior jerárquico competente para resolverlo[cite: 811, 1221]."
+    },
+    {
+      "numero": 53,
+      "enunciado": "En Castilla y León, los procedimientos de revisión de oficio serán iniciados:",
+      "opciones": {
+        "a": "Por el órgano autor, de oficio.",
+        "b": "Por el órgano autor, de oficio o a instancia del interesado.",
+        "c": "Por el órgano superior jerárquico a instancia del interesado.",
+        "d": "Por el órgano superior jerárquico de oficio."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "La Ley 3/2001 establece que el propio órgano que cometió la nulidad es el responsable de incoar el expediente para su revisión[cite: 570, 675, 1225]."
+    },
+    {
+      "numero": 54,
+      "enunciado": "¿Podrá el órgano de revisión de oficio inadmitir solicitudes sin recabar dictamen de órganos consultivos?:",
+      "opciones": {
+        "a": "Sí, en todo caso.",
+        "b": "No, siempre hay que recabar dictamen.",
+        "c": "Sí, debiendo informar al superior.",
+        "d": "Sí, motivadamente."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Si la solicitud carece de fundamento, no se basa en causas de nulidad o es idéntica a otra ya desestimada, se puede inadmitir directamente[cite: 554, 1237]."
+    },
+    {
+      "numero": 55,
+      "enunciado": "¿En qué deberá fundarse la interposición de un recurso potestativo de reposición?:",
+      "opciones": {
+        "a": "En cualquiera de los motivos de nulidad o anulabilidad previstos en los arts. 47 y 48.",
+        "b": "En cualquiera de los motivos de nulidad o anulabilidad previstos en los arts. 57 y 58.",
+        "c": "En cualquiera de los motivos de nulidad o anulabilidad previstos en los arts. 87 y 48.",
+        "d": "En vicios de legalidad exclusivamente."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "Al ser un recurso ordinario, puede basarse en cualquier infracción del ordenamiento jurídico (nulidad o anulabilidad)[cite: 692, 713, 1239]."
+    },
+    {
+      "numero": 56,
+      "enunciado": "¿Qué actos pueden ser revocados por las Administraciones Públicas?:",
+      "opciones": {
+        "a": "Los actos desfavorables o de gravamen, en todo caso.",
+        "b": "Los actos favorables perjudiciales para el interés general.",
+        "c": "Los actos de gravamen o desfavorables, con una serie de limitaciones.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "La revocación solo es posible para actos de gravamen y siempre que no sea contraria al interés público, la igualdad o el ordenamiento[cite: 620, 1247]."
+    },
+    {
+      "numero": 57,
+      "enunciado": "La declaración de lesividad no podrá adoptarse una vez transcurrido:",
+      "opciones": {
+        "a": "6 meses desde que se dictó el acto.",
+        "b": "1 año desde que se dictó el acto.",
+        "c": "2 años desde que se dictó el acto.",
+        "d": "4 años desde que se dictó el acto."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La Administración tiene un plazo máximo de caducidad de 4 años para declarar lesivo un acto anulable antes de impugnarlo judicialmente[cite: 593, 1253]."
+    },
+    {
+      "numero": 58,
+      "enunciado": "¿Qué recurso procede contra actos de trámite que produzcan indefensión?:",
+      "opciones": {
+        "a": "El recurso de alzada exclusivamente.",
+        "b": "El recurso potestativo de reposición exclusivamente.",
+        "c": "El recurso de alzada o el potestativo de reposición.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "La indefensión convierte el trámite en impugnable mediante los recursos administrativos ordinarios disponibles según el caso[cite: 143, 692, 1257]."
+    },
+    {
+      "numero": 59,
+      "enunciado": "¿Qué sucede si el recurrente no califica correctamente un recurso?:",
+      "opciones": {
+        "a": "Exigirá un periodo de subsanación.",
+        "b": "Se abrirá plazo de 10 a 15 días.",
+        "c": "Será obstáculo para su tramitación.",
+        "d": "No será obstáculo siempre que se deduzca su verdadero carácter."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Prevalece el principio antiformalista; la Administración debe tramitar el recurso adecuado si de su contenido se desprende qué se pretende impugnar[cite: 761, 1264]."
+    },
+    {
+      "numero": 60,
+      "enunciado": "La resolución de procedimientos de responsabilidad patrimonial:",
+      "opciones": {
+        "a": "Pone fin a la vía administrativa.",
+        "b": "Es un acto firme en vía administrativa.",
+        "c": "Causa estado.",
+        "d": "No es impugnable en vía administrativa."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "Este tipo de resoluciones cierran el procedimiento en sede administrativa, permitiendo la vía judicial o el recurso de reposición[cite: 730, 1271]."
+    },
+    {
+      "numero": 61,
+      "enunciado": "¿Cuál NO es causa de inadmisión de un recurso potestativo de reposición?:",
+      "opciones": {
+        "a": "Incompetencia del órgano por pertenecer a otra Administración.",
+        "b": "Carecer manifiestamente de fundamento.",
+        "c": "Que no haya transcurrido el plazo para interponerlo.",
+        "d": "Tratarse de un acto no susceptible de recurso."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "El hecho de estar en plazo es un requisito positivo; la inadmisión procedería si el plazo ya hubiera transcurrido (acto firme)[cite: 769, 1275, 1278]."
+    },
+    {
+      "numero": 62,
+      "enunciado": "¿Qué circunstancia permite suspender la ejecución de un acto impugnado?:",
+      "opciones": {
+        "a": "Perjuicios de difícil reparación.",
+        "b": "Impugnación basada en nulidad de pleno derecho.",
+        "c": "Son ciertas las opciones a) y b).",
+        "d": "Solicitud de retroactividad inicial."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "La ley establece estos dos criterios específicos (daño grave o nulidad evidente) para romper la regla de ejecución inmediata del acto[cite: 779, 780, 1283]."
+    },
+    {
+      "numero": 63,
+      "enunciado": "¿Puede existir otro procedimiento de impugnación que sustituya al de alzada en la Administración Local?:",
+      "opciones": {
+        "a": "No, en ningún caso.",
+        "b": "Sí, respetando las facultades resolutorias de órganos electos.",
+        "c": "Sí, siempre que sea potestativo.",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Las leyes pueden prever sustitutos al recurso de alzada en el ámbito local si se respetan las competencias de los órganos representativos[cite: 696, 1287]."
+    },
+    {
+      "numero": 64,
+      "enunciado": "¿A qué órgano corresponde decidir sobre la suspensión del acto impugnado?:",
+      "opciones": {
+        "a": "Al que competa resolver el recurso.",
+        "b": "Al órgano instructor.",
+        "c": "Al órgano resolutor previo dictamen consultivo.",
+        "d": "Al superior jerárquico siempre."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "La competencia para la medida cautelar de suspensión recae sobre el mismo órgano que tiene el poder de decidir sobre el fondo del recurso[cite: 778, 1297]."
+    },
+    {
+      "numero": 65,
+      "enunciado": "¿Qué recurso administrativo procede contra reglamentos o disposiciones generales?:",
+      "opciones": {
+        "a": "Alzada.",
+        "b": "Reposición.",
+        "c": "Revisión.",
+        "d": "Ninguno."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "Las disposiciones de carácter general no son recurribles administrativamente; su control es exclusivamente judicial o vía derogación[cite: 703, 1306]."
+    },
+    {
+      "numero": 66,
+      "enunciado": "Si se solicita suspensión y la Administración no responde en plazo, el silencio es:",
+      "opciones": {
+        "a": "Desestimatorio (1 mes).",
+        "b": "Desestimatorio (3 meses).",
+        "c": "Estimatorio (1 mes).",
+        "d": "Estimatorio (2 meses)."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "Si en un mes desde la entrada de la solicitud de suspensión no hay resolución expresa, la ejecución del acto queda suspendida por silencio positivo[cite: 781, 1310]."
+    },
+    {
+      "numero": 67,
+      "enunciado": "¿Qué plazo de audiencia se otorga a los interesados en la tramitación de recursos?:",
+      "opciones": {
+        "a": "De 5 a 10 días.",
+        "b": "De 10 a 15 días.",
+        "c": "De 15 a 20 días.",
+        "d": "Un mes."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Cuando hay que considerar nuevos hechos o documentos, se abre un trámite de audiencia obligatorio de entre 10 y 15 días[cite: 1314]."
+    },
+    {
+      "numero": 68,
+      "enunciado": "¿Sobre qué cuestiones decidirá el órgano que resuelva un recurso de reposición?:",
+      "opciones": {
+        "a": "Sobre cuestiones de fondo viciadas.",
+        "b": "Sobre cuestiones de forma viciadas de nulidad.",
+        "c": "Sobre cuestiones de forma y fondo alegadas.",
+        "d": "Sobre todas las cuestiones de forma y fondo, alegadas o no."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "El órgano tiene plena potestad para revisar todo el expediente, debiendo oír previamente al interesado si decide sobre algo no alegado[cite: 790, 791, 1326]."
+    },
+    {
+      "numero": 69,
+      "enunciado": "¿Cuándo NO se tendrán en cuenta hechos o alegaciones aportados por el interesado?:",
+      "opciones": {
+        "a": "Cuando se aporten tras la resolución originaria.",
+        "b": "Cuando habiendo podido aportarlos antes, no lo hizo.",
+        "c": "Cuando haya otros interesados.",
+        "d": "Cuando no lo estime el instructor."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Se castiga la negligencia del recurrente: si tuvo la oportunidad procesal de presentar pruebas y no lo hizo, no puede usarlas para dilatar el recurso[cite: 784, 1330]."
+    },
+    {
+      "numero": 70,
+      "enunciado": "¿Qué sentido podrá tener la resolución del recurso de alzada?:",
+      "opciones": {
+        "a": "Estimación total o parcial.",
+        "b": "Inadmisión.",
+        "c": "Desestimación.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La resolución administrativa puede validar la pretensión, rechazarla por el fondo o rechazarla por defectos procesales (inadmisión)[cite: 789, 1337]."
+    },
+    {
+      "numero": 71,
+      "enunciado": "¿Cuál es el plazo de interposición del recurso de alzada?:",
+      "opciones": {
+        "a": "1 mes (expreso) y 3 meses (no expreso).",
+        "b": "3 meses (expreso) y 6 meses (no expreso).",
+        "c": "1 mes (expreso) y sin plazo (no expreso).",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "Para actos expresos es de un mes; para el silencio administrativo, se puede interponer en cualquier momento tras producirse este[cite: 813, 814, 1341]."
+    },
+    {
+      "numero": 72,
+      "enunciado": "El plazo máximo para dictar y notificar la resolución de alzada es de:",
+      "opciones": {
+        "a": "1 mes.",
+        "b": "3 meses.",
+        "c": "6 meses.",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "La Administración debe resolver el recurso de alzada en un periodo máximo de 3 meses; de lo contrario, se entiende desestimado[cite: 816, 823, 1346]."
+    },
+    {
+      "numero": 73,
+      "enunciado": "¿Cuál es el plazo de interposición del recurso potestativo de reposición?:",
+      "opciones": {
+        "a": "1 mes si el acto fuera expreso.",
+        "b": "Transcurrido el mes, solo cabe vía judicial o revisión extraordinaria.",
+        "c": "Si no es expreso, en cualquier momento tras el acto presunto.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "El régimen del recurso de reposición sigue los mismos plazos de interposición que la alzada (1 mes para actos expresos)[cite: 835, 836, 837, 1358]."
+    },
+    {
+      "numero": 74,
+      "enunciado": "El plazo máximo para resolver y notificar el recurso de reposición será de:",
+      "opciones": {
+        "a": "1 mes.",
+        "b": "2 meses.",
+        "c": "3 meses.",
+        "d": "6 meses."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "A diferencia de la alzada, la reposición tiene un plazo de resolución más breve de solo un mes[cite: 839, 1360]."
+    },
+    {
+      "numero": 75,
+      "enunciado": "Contra los actos firmes en vía administrativa podrá interponerse:",
+      "opciones": {
+        "a": "Reposición exclusivamente.",
+        "b": "Reposición o vía judicial.",
+        "c": "Recurso extraordinario de revisión.",
+        "d": "No son recurribles."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "Cuando un acto es firme (no admite recursos ordinarios), solo cabe atacar su validez mediante el recurso extraordinario ante causas tasadas graves[cite: 714, 848, 1367]."
+    },
+    {
+      "numero": 76,
+      "enunciado": "Contra resoluciones que no agotan la vía administrativa en Castilla y León procede:",
+      "opciones": {
+        "a": "Alzada ante el mismo órgano.",
+        "b": "Reposición ante el mismo órgano.",
+        "c": "Alzada ante el superior del órgano que las dictó.",
+        "d": "Reposición ante el superior jerárquico."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "El recurso de alzada es jerárquico por definición, buscando que el superior revise la actuación del órgano inferior[cite: 802, 1372]."
+    },
+    {
+      "numero": 77,
+      "enunciado": "¿Cuándo no podrá solicitarse la realización de la práctica de prueba?:",
+      "opciones": {
+        "a": "Cuando su falta en el procedimiento originario fuera imputable al interesado.",
+        "b": "Cuando haya otros interesados sin pruebas.",
+        "c": "Cuando no lo estime conveniente el instructor.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "No se admite la práctica de pruebas en vía de recurso si el interesado pudo haberlas solicitado en la instrucción y no lo hizo[cite: 785, 1375]."
+    },
+    {
+      "numero": 78,
+      "enunciado": "El plazo para el recurso extraordinario de revisión por error de hecho es de:",
+      "opciones": {
+        "a": "3 meses tras la notificación.",
+        "b": "3 meses tras conocer los documentos.",
+        "c": "4 años tras la notificación.",
+        "d": "4 años tras conocer los documentos."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "El error de hecho derivado del expediente permite un plazo amplio de 4 años; otras causas como prevaricación o documentos nuevos tienen solo 3 meses[cite: 856, 1388]."
+    },
+    {
+      "numero": 79,
+      "enunciado": "Sobre el órgano competente para la resolución del recurso extraordinario de revisión:",
+      "opciones": {
+        "a": "Inadmisión sin dictamen consultivo si no hay causa legal.",
+        "b": "Inadmisión si se desestimaron otros recursos iguales.",
+        "c": "Debe pronunciarse sobre la procedencia y el fondo del asunto.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "El órgano tiene facultades de inadmisión motivada [cite: 870] y debe resolver tanto el acceso al recurso como la cuestión principal si lo admite[cite: 863, 1395]."
+    },
+    {
+      "numero": 80,
+      "enunciado": "El plazo para resolver y notificar el recurso extraordinario de revisión es de:",
+      "opciones": {
+        "a": "3 meses.",
+        "b": "6 meses.",
+        "c": "Si no se resuelve en plazo, se entiende desestimado.",
+        "d": "Las opciones a) y b) son correctas."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "El plazo es de 3 meses [cite: 859] y el silencio administrativo es negativo (desestimatorio), dejando abierta la vía judicial[cite: 864, 1400]."
+    },
+    {
+      "numero": 81,
+      "enunciado": "Contra resoluciones fundadas en nulidad o anulabilidad (arts. 47 y 48) cabe:",
+      "opciones": {
+        "a": "Alzada exclusivamente.",
+        "b": "Alzada y potestativo de reposición.",
+        "c": "Alzada y extraordinario de revisión.",
+        "d": "Cualquier recurso administrativo."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Los recursos ordinarios (alzada y reposición) son los cauces naturales para alegar cualquier infracción legal de los artículos 47 y 48[cite: 692, 1404]."
+    },
+    {
+      "numero": 82,
+      "enunciado": "¿Puede recurrirse la resolución de un recurso de alzada en vía administrativa?:",
+      "opciones": {
+        "a": "No, no cabe ningún otro recurso.",
+        "b": "No, salvo que se interponga reposición.",
+        "c": "No, salvo que quepa el extraordinario de revisión.",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "La alzada es definitiva, por lo que solo admite el recurso excepcional de revisión si se dan las causas gravísimas previstas[cite: 824, 1416]."
+    },
+    {
+      "numero": 83,
+      "enunciado": "¿Qué plazo de caducidad tiene el procedimiento de declaración de lesividad?:",
+      "opciones": {
+        "a": "12 meses.",
+        "b": "6 meses.",
+        "c": "4 años.",
+        "d": "3 meses."
+      },
+      "respuesta_correcta": "b",
+      "explicacion": "Una vez iniciado el procedimiento para declarar lesivo un acto, la Administración tiene 6 meses para finalizarlo o se producirá su caducidad[cite: 580, 581, 1420]."
+    },
+    {
+      "numero": 84,
+      "enunciado": "En Castilla y León, ¿quién declara la lesividad de actos dictados por la propia Junta?:",
+      "opciones": {
+        "a": "El Presidente de la Junta.",
+        "b": "El Consejero competente.",
+        "c": "La Junta de Castilla y León.",
+        "d": "Ninguna es correcta."
+      },
+      "respuesta_correcta": "c",
+      "explicacion": "La competencia para la declaración de lesividad en actos del Gobierno regional recae sobre el propio órgano colegiado (la Junta)[cite: 598, 679, 1426]."
+    },
+    {
+      "numero": 85,
+      "enunciado": "La revocación de actos de gravamen y rectificación de errores corresponde:",
+      "opciones": {
+        "a": "Al propio órgano que dictó el acto.",
+        "b": "Al superior jerárquico.",
+        "c": "Al Consejero de la materia.",
+        "d": "A la Junta exclusivamente."
+      },
+      "respuesta_correcta": "a",
+      "explicacion": "Tanto la retirada de actos desfavorables como el arreglo de errores materiales son facultades del mismo órgano que emitió la declaración original[cite: 645, 686, 1429]."
+    },
+    {
+      "numero": 86,
+      "enunciado": "¿Qué plazo tiene la Administración para declarar de oficio la nulidad si el acto es firme?:",
+      "opciones": {
+        "a": "1 año.",
+        "b": "2 años.",
+        "c": "3 años.",
+        "d": "No existe plazo alguno."
+      },
+      "respuesta_correcta": "d",
+      "explicacion": "La nulidad de pleno derecho puede ser declarada 'en cualquier momento', ya que el paso del tiempo no puede sanar un acto radicalmente nulo[cite: 544, 1437]."
+    }
+  ]
+}
