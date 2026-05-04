@@ -1,0 +1,889 @@
+{
+  "tema": "Tema 15. EBEP",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El Estatuto Básico del Empleado Público (en adelante TREBEP), tiene por objeto:",
+      "opciones": {
+        "a": "Establecer las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación.",
+        "b": "Determinar las normas aplicables al personal laboral al servicio de las Administraciones Públicas.",
+        "c": "Las opciones a) y b) son correctas.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Según los artículos 1.1 y 1.2 del TREBEP, la ley tiene el doble objetivo de establecer las bases para funcionarios y las normas para el personal laboral."
+    },
+    {
+      "numero": 2,
+      "enunciado": "Este Estatuto se aplica al personal funcionario y, en lo que proceda, al personal laboral al servicio de:",
+      "opciones": {
+        "a": "La Administración General del Estado.",
+        "b": "Las Administraciones de las Comunidades Autónomas y de las ciudades de Ceuta y Melilla.",
+        "c": "Las Administraciones de las Entidades Locales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 2.1 del TREBEP enumera de forma exhaustiva todas las Administraciones Públicas incluidas en su ámbito de aplicación, abarcando el Estado, CC.AA. y Entidades Locales."
+    },
+    {
+      "numero": 3,
+      "enunciado": "Este Estatuto se aplica al personal funcionario y, en lo que proceda, al personal laboral al servicio de (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Los Organismos Públicos, Agencias y demás Entidades de derecho público con personalidad jurídica propia, vinculadas o dependientes de cualquiera de las Administraciones Públicas.",
+        "b": "Las Administraciones de las ciudades de Ceuta y Melilla.",
+        "c": "Las Universidades públicas.",
+        "d": "Las Universidades privadas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El TREBEP solo se aplica a las Universidades Públicas (art. 2.1.e), quedando las privadas fuera de su ámbito de aplicación."
+    },
+    {
+      "numero": 4,
+      "enunciado": "El personal docente y el personal estatutario de los Servicios de Salud se regirán por:",
+      "opciones": {
+        "a": "La legislación específica dictada por el Estado.",
+        "b": "La legislación específica dictada por las Comunidades Autónomas en el ámbito de sus respectivas competencias.",
+        "c": "Lo previsto en el Estatuto Básico del Empleado Público excepto el Capítulo II del Título III, salvo el artículo 20 y los artículos 22.3, 24 y 84.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 2.3 establece que este personal tiene un régimen mixto compuesto por su legislación específica estatal y autonómica, además de preceptos seleccionados del TREBEP."
+    },
+    {
+      "numero": 5,
+      "enunciado": "Las disposiciones de este Estatuto sólo se aplicarán directamente cuando así lo disponga su legislación específica al siguiente personal:",
+      "opciones": {
+        "a": "Personal funcionario de las Cortes Generales y de las Asambleas Legislativas de las Comunidades Autónomas.",
+        "b": "Personal militar de las Fuerzas Armadas.",
+        "c": "Personal de las Fuerzas y Cuerpos de Seguridad.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 4 del TREBEP contiene un listado de personal con legislación específica propia a los que el Estatuto solo se aplica de forma directa si su normativa particular lo prevé."
+    },
+    {
+      "numero": 6,
+      "enunciado": "De conformidad con lo establecido en el TREBEP, señale la opción incorrecta:",
+      "opciones": {
+        "a": "El personal funcionario de las Entidades Locales se rige por la legislación estatal que resulte de aplicación, de la que forma parte este Estatuto y por la legislación de las Comunidades Autónomas, con respecto a la autonomía local.",
+        "b": "Cada vez que este Estatuto haga mención al personal funcionario de carrera se entenderá comprendido el personal estatutario de los Servicios de Salud.",
+        "c": "El presente Estatuto tiene carácter supletorio para todo el personal al servicio de las Administraciones Públicas no incluido en su ámbito de aplicación.",
+        "d": "Los Cuerpos de Policía Local se rigen también por este Estatuto y por la legislación de las Comunidades Autónomas, sin excepción."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque los Cuerpos de Policía Local se rigen por el TREBEP y legislación autonómica, pero exceptuando lo establecido en la Ley Orgánica 2/1986 de Fuerzas y Cuerpos de Seguridad."
+    },
+    {
+      "numero": 7,
+      "enunciado": "De conformidad con la literalidad del artículo 9 del TREBEP, corresponde exclusivamente a los funcionarios públicos:",
+      "opciones": {
+        "a": "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas de las Comunidades Autónomas.",
+        "b": "El ejercicio de las funciones que impliquen la participación directa en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas de las Comunidades Autónomas.",
+        "c": "El ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.",
+        "d": "El ejercicio de las funciones que impliquen la participación directa en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 9.2 reserva en exclusiva a los funcionarios el ejercicio de potestades públicas y la salvaguardia de intereses generales, ya sea de forma directa o indirecta."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales para el desempeño de funciones propias de funcionarios de carrera son:",
+      "opciones": {
+        "a": "Funcionarios interinos.",
+        "b": "Personal eventual.",
+        "c": "Personal laboral temporal.",
+        "d": "Personal laboral indefinido."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Esta es la definición exacta de funcionario interino recogida en el artículo 10.1 del TREBEP, basada en la temporalidad por necesidad y urgencia."
+    },
+    {
+      "numero": 9,
+      "enunciado": "De acuerdo con la literalidad del TREBEP, en función de la duración del contrato, el personal laboral al servicio de una Administración Pública se clasifica en:",
+      "opciones": {
+        "a": "Fijo o temporal.",
+        "b": "Permanente, fijo o temporal.",
+        "c": "Fijo, por tiempo indefinido o temporal.",
+        "d": "Interino, fijo o por tiempo indefinido."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 11.1 especifica que el personal laboral puede ser contratado en las modalidades de fijo, por tiempo indefinido o temporal."
+    },
+    {
+      "numero": 10,
+      "enunciado": "Respecto al personal eventual, el artículo 12 señala lo siguiente:",
+      "opciones": {
+        "a": "Las Leyes de Función Pública que se dicten en desarrollo de este Estatuto determinarán los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal.",
+        "b": "El número máximo se establecerá por las Leyes de Función Pública.",
+        "c": "El número y sus condiciones retributivas serán privadas.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 12.2 indica que las leyes de desarrollo determinan qué órganos disponen de este personal, mientras que el número máximo lo fijan los propios órganos de gobierno y debe ser público."
+    },
+    {
+      "numero": 11,
+      "enunciado": "Según el artículo 13 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el TREBEP, se considera personal directivo:",
+      "opciones": {
+        "a": "Quienes en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.",
+        "b": "Quienes por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter temporal para el desempeño de funciones propias de funcionarios de carrera.",
+        "c": "Quienes en virtud de nombramiento y con carácter no permanente, solo realizan funciones expresamente calificadas como de confianza o asesoramiento especial.",
+        "d": "Quienes desarrollan funciones directivas profesionales en las Administraciones Públicas, definidas como tales en las normas específicas de cada Administración."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El personal directivo profesional se define en el artículo 13.1 por el desempeño de funciones directivas profesionales según la norma de cada Administración."
+    },
+    {
+      "numero": 12,
+      "enunciado": "Según establece el artículo 75 del TREBEP, señale la opción correcta:",
+      "opciones": {
+        "a": "Los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo.",
+        "b": "Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por Decreto de la Junta de Castilla y León.",
+        "c": "Cuando en el Decreto de creación de cuerpos se hace referencia a cuerpos y escalas no se entenderá comprendida en ningún caso cualquier otra agrupación de funcionarios.",
+        "d": "El personal funcionario se clasificará de acuerdo con la legislación laboral."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 75.1 define la agrupación en cuerpos y escalas basada en competencias comunes; su creación debe ser siempre por ley, no por decreto (art. 75.2)."
+    },
+    {
+      "numero": 13,
+      "enunciado": "Las Leyes de Función Pública que se dicten en desarrollo del artículo 16 del TREBEP, regularán la carrera profesional aplicable a cada ámbito que podrán consistir, entre otras, en la aplicación aislada o simultánea de alguna o algunas de las siguientes modalidades:",
+      "opciones": {
+        "a": "Carrera horizontal, que consiste en la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+        "b": "Carrera vertical, que consiste en el ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior.",
+        "c": "Promoción interna vertical, que consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional.",
+        "d": "Promoción interna horizontal, que consiste en el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos en el capítulo III del Título V de este Estatuto Básico del Empleado Público."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "La definición de carrera horizontal (art. 16.3.a) es correcta. Las otras opciones intercambian erróneamente las definiciones de carrera vertical y promoción interna."
+    },
+    {
+      "numero": 14,
+      "enunciado": "De conformidad con lo establecido en el artículo 13, podrá/n establecer, en desarrollo de este Estatuto, el régimen jurídico específico del personal directivo así como los criterios para determinar su condición:",
+      "opciones": {
+        "a": "El Gobierno.",
+        "b": "El Gobierno y los órganos de gobierno de las Administraciones Públicas.",
+        "c": "Las Administraciones Públicas.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 13 habilita tanto al Gobierno de la Nación como a los órganos de gobierno de las Comunidades Autónomas para establecer dicho régimen."
+    },
+    {
+      "numero": 15,
+      "enunciado": "Respecto al personal eventual (señale la opción incorrecta):",
+      "opciones": {
+        "a": "El nombramiento y cese serán libres.",
+        "b": "El cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que preste la función de confianza o asesoramiento.",
+        "c": "La condición de personal eventual podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.",
+        "d": "Le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 12.4 prohíbe expresamente que la condición de personal eventual sea considerada mérito para el acceso a la función pública o promoción interna."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Según recoge el art. 13 del TREBEP, la designación del personal directivo profesional:",
+      "opciones": {
+        "a": "Atenderá a los principios de mérito, capacidad y publicidad.",
+        "b": "Atenderá a los principios de mérito y capacidad y a criterios de idoneidad, y se llevará a cabo mediante procesos que garanticen la publicidad y concurrencia.",
+        "c": "Atenderá a los principios de mérito y capacidad y a criterios de idoneidad, y se llevará a cabo mediante procesos que garanticen la imparcialidad y concurrencia.",
+        "d": "Atenderá a los principios de mérito y capacidad y a criterios de idoneidad, y se llevará a cabo mediante procesos que garanticen la publicidad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 13.2 establece que la designación debe basarse en mérito, capacidad e idoneidad, garantizando siempre publicidad y concurrencia."
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Cuál de las siguientes normas No será aplicable al personal laboral al servicio de una Administración Pública?:",
+      "opciones": {
+        "a": "La legislación laboral general.",
+        "b": "Los Convenios Colectivos.",
+        "c": "Algunos preceptos establecidos en el texto refundido del Estatuto Básico del Empleado Público.",
+        "d": "Todas las normas anteriores son de aplicación al personal laboral al servicio de una Administración Púbica."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 7 establece un régimen jurídico para el personal laboral compuesto por el TREBEP (preceptos que así lo dispongan), legislación laboral, convenios y contratos."
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Cuál de los siguientes No es un fundamento de actuación de las diferentes Administraciones Públicas en sus relaciones con los empleados públicos?:",
+      "opciones": {
+        "a": "Desarrollo y cualificación profesional permanente de los empleados públicos.",
+        "b": "Jerarquía en la atribución, ordenación y desempeño de las funciones y tareas.",
+        "c": "Igualdad, mérito y capacidad en el acceso y en la promoción profesional.",
+        "d": "Todos los anteriores son fundamentos de actuación."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Todos los mencionados están incluidos en el listado de fundamentos de actuación del artículo 1.3 del TREBEP (letras g, j y b respectivamente)."
+    },
+    {
+      "numero": 19,
+      "enunciado": "De conformidad con lo establecido en el art. 76 del TREBEP, ¿en cuántos Subgrupos se dividen los diferentes Grupos en que se integran los Cuerpos o Escalas?:",
+      "opciones": {
+        "a": "Todos los Grupos se dividen en dos Subgrupos.",
+        "b": "Los Grupos A y B se dividen en dos Subgrupos.",
+        "c": "Los Grupos A y C se dividen en dos Subgrupos.",
+        "d": "El Grupo A se divide en dos Subgrupos y el Grupo C se divide en tres Subgrupos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 76 especifica que el Grupo A se divide en A1 y A2, y el Grupo C en C1 y C2. El Grupo B no tiene subgrupos."
+    },
+    {
+      "numero": 20,
+      "enunciado": "Según lo establecido en el TREBEP, ¿a qué funcionarios de las siguientes administraciones no le es de aplicación directa este Estatuto?:",
+      "opciones": {
+        "a": "Al personal funcionario al servicio de las Administraciones de las Comunidades Autónomas.",
+        "b": "Al personal funcionario al servicio de la Administración de Justicia.",
+        "c": "Al personal funcionario al servicio de las Corporaciones Locales.",
+        "d": "Al personal funcionario al servicio de la Administración General del Estado."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El personal de la Administración de Justicia tiene legislación específica y el TREBEP solo se aplica directamente cuando su norma lo disponga (art. 4.c)."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Según lo establecido en el art. 25 del TREBEP, a los funcionarios interinos:",
+      "opciones": {
+        "a": "No se les reconoce el derecho a percibir trienios.",
+        "b": "Se les reconocen los trienios correspondientes a los servicios prestados antes de la entrada en vigor del presente Estatuto que tendrán efectos retributivos únicamente a partir de la entrada en vigor del mismo.",
+        "c": "Se les reconocen los trienios correspondientes a los servicios prestados antes de la entrada en vigor del presente Estatuto con efectos retributivos de los cuatro años anteriores de su entrada en vigor.",
+        "d": "El Estatuto no se refiere a los trienios de los interinos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 25.2 reconoce los trienios al personal interino, pero limita los efectos económicos al momento de entrada en vigor de la ley, sin retroactividad previa."
+    },
+    {
+      "numero": 22,
+      "enunciado": "El TREBEP se aplica directamente al personal de las Fuerzas y Cuerpos de Seguridad:",
+      "opciones": {
+        "a": "En todos los aspectos que regula esta ley.",
+        "b": "Cuando así lo disponga su legislación específica.",
+        "c": "No se les aplica en ningún supuesto.",
+        "d": "Se aplica en todo menos en el régimen disciplinario."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Al igual que otros cuerpos especiales, las Fuerzas y Cuerpos de Seguridad se rigen por su normativa propia y solo por el TREBEP si esta lo indica (art. 4.e)."
+    },
+    {
+      "numero": 23,
+      "enunciado": "De conformidad con lo establecido en el art. 13, el personal directivo estará sujeto a evaluación con arreglo a:",
+      "opciones": {
+        "a": "Los criterios de eficacia y eficiencia.",
+        "b": "Responsabilidad por su gestión.",
+        "c": "Control de los resultados en relación con los objetivos que les hayan sido fijados.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 13.3 establece que la evaluación del personal directivo debe basarse en estos tres pilares: eficacia/eficiencia, responsabilidad y resultados."
+    },
+    {
+      "numero": 24,
+      "enunciado": "De acuerdo con la literalidad del art. 12 del TREBEP, ¿qué aspectos relacionados con el personal eventual NO serán públicos?:",
+      "opciones": {
+        "a": "El número de puestos de trabajo reservados al personal eventual.",
+        "b": "Las condiciones retributivas.",
+        "c": "La duración de la relación.",
+        "d": "Todos los aspectos mencionados en las respuestas anteriores serán públicos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 12.2 exige la publicidad del número máximo y de las retribuciones, pero no menciona explícitamente la publicidad de la duración de la relación."
+    },
+    {
+      "numero": 25,
+      "enunciado": "El sistema normativo regulador del empleo público se basa en el modelo de distribución de competencias establecido por la Constitución Española, y supone que:",
+      "opciones": {
+        "a": "El Estado tiene la competencia para determinar las normas aplicables al conjunto de empleados públicos de todas las Administraciones Públicas, de forma taxativa.",
+        "b": "Las Comunidades Autónomas tienen la competencia para determinar las normas aplicables al conjunto de empleados públicos de sus respectivas Administraciones.",
+        "c": "El Estado tiene la competencia para determinar las normas aplicables al conjunto de empleados públicos de todas las Administraciones Públicas y las Comunidades Autónomas para su desarrollo.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Se trata de una competencia compartida donde el Estado dicta las bases (normativa básica) y las CC.AA. dictan el desarrollo legislativo y la ejecución."
+    },
+    {
+      "numero": 26,
+      "enunciado": "El Título III del TREBEP se denomina:",
+      "opciones": {
+        "a": "Personal al servicio de las Administraciones Públicas.",
+        "b": "Objeto y ámbito de aplicación.",
+        "c": "Derechos y Deberes. Código de Conducta de los empleados públicos.",
+        "d": "Adquisición y pérdida de la relación de servicio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Esta es la denominación oficial del Título III, que constituye el núcleo fundamental de la relación de servicio del empleado público."
+    },
+    {
+      "numero": 27,
+      "enunciado": "De conformidad con lo establecido en el artículo 10 del TREBEP, los funcionarios interinos son nombrados como tales con carácter temporal cuando se dé alguna de las siguientes circunstancias (señale la opción incorrecta):",
+      "opciones": {
+        "a": "La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de 3 años.",
+        "b": "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario.",
+        "c": "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más por las Leyes de Función Pública que se dicten en desarrollo de este Estatuto.",
+        "d": "El exceso de acumulación de tareas por un plazo máximo de doce meses, dentro de un periodo de dieciocho meses."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque el artículo 10.1.d establece que el plazo máximo por exceso o acumulación de tareas es de nueve meses, no de doce."
+    },
+    {
+      "numero": 28,
+      "enunciado": "El TREBEP establece una doble clasificación de los derechos de los empleados públicos, distinguiendo entre derechos individuales y derechos individuales ejercidos colectivamente. Entre estos últimos NO se encuentra:",
+      "opciones": {
+        "a": "Derecho a la libertad sindical.",
+        "b": "Derecho a la libertad de expresión dentro de los límites del ordenamiento jurídico.",
+        "c": "Derecho a la negociación colectiva.",
+        "d": "Derecho de reunión."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "La libertad de expresión es un derecho individual recogido en el artículo 14.k, no es un derecho de ejercicio colectivo del artículo 15."
+    },
+    {
+      "numero": 29,
+      "enunciado": "De conformidad con lo establecido en el TREBEP, NO es un derecho individual recogido en el artículo 14:",
+      "opciones": {
+        "a": "Derecho al ejercicio de la huelga, con la garantía del mantenimiento de los servicios esenciales de la comunidad.",
+        "b": "Derecho a la inamovilidad en la condición de funcionario de carrera.",
+        "c": "Derecho a libre asociación profesional.",
+        "d": "Derecho a la adopción de medidas que favorezcan la conciliación de la vida personal, familiar y laboral."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El derecho a la huelga es un derecho individual de ejercicio colectivo y está regulado en el artículo 15.c, no en el catálogo de derechos individuales del artículo 14."
+    },
+    {
+      "numero": 30,
+      "enunciado": "De conformidad con lo establecido en TREBEP, \"el procedimiento mediante el cual se mide y valora la conducta profesional y el rendimiento o el logro de resultados\" se denomina:",
+      "opciones": {
+        "a": "Carrera profesional.",
+        "b": "Promoción profesional.",
+        "c": "Evaluación del desempeño.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Esta es la definición literal que da el artículo 20.1 del TREBEP para la evaluación del desempeño."
+    },
+    {
+      "numero": 31,
+      "enunciado": "Según lo establecido en el TREBEP sobre la promoción interna, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Se realizará mediante procesos que garanticen el cumplimiento de los principios constitucionales de mérito, igualdad y capacidad.",
+        "b": "Además de los principios anteriores, en los procedimientos de selección debe garantizarse de principio de independencia y discrecionalidad técnica en la actuación de los órganos de selección.",
+        "c": "Los funcionarios deberán tener una antigüedad de, al menos, un año de servicio en el inferior Subgrupo, o Grupo de clasificación territorial, en el supuesto de que éste no tenga Subgrupo.",
+        "d": "Los funcionarios deberán superar las correspondientes pruebas selectivas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque el artículo 18.2 exige una antigüedad mínima de dos años de servicio activo en el subgrupo inferior, no de un año."
+    },
+    {
+      "numero": 32,
+      "enunciado": "De conformidad con lo establecido en el TREBEP sobre los derechos retributivos (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Las cuantías de las retribuciones básicas y el incremento de las cuantías globales de las retribuciones complementarias de los funcionarios, deberán reflejarse para cada ejercicio en la correspondiente Ley de Presupuestos.",
+        "b": "Las retribuciones básicas son las que retribuyen al funcionario según la adscripción de su cuerpo o escala a un determinado Subgrupo o Grupo de clasificación profesional, en el supuesto de que éste no tenga Grupo, y por su antigüedad en el mismo.",
+        "c": "Las retribuciones complementarias son las que retribuyen las características de los puestos de trabajo, la carrera profesional o el desempeño, la antigüedad y el rendimiento o resultados alcanzados por el funcionario.",
+        "d": "Dentro de las retribuciones básicas están comprendidas los componentes de sueldo y trienios de las pagas extraordinarias."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque la antigüedad (trienios) forma parte de las retribuciones básicas según el artículo 23.b, no de las complementarias."
+    },
+    {
+      "numero": 33,
+      "enunciado": "De conformidad con la literalidad del artículo 25 del TREBEP, sobre las retribuciones de los funcionarios interinos:",
+      "opciones": {
+        "a": "Percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción, en el supuesto de que éste no tenga Subgrupo, y la totalidad de las retribuciones complementarias.",
+        "b": "Percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción, en el supuesto de que éste no tenga Subgrupo, y la totalidad de las retribuciones complementarias, excepto la que refieren los apartados b), c) y d) del artículo 24.",
+        "c": "Percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción, en el supuesto de que éste no tenga Subgrupo, y la totalidad de las retribuciones complementarias a que se refieren los apartados b), c) y d) del artículo 24.",
+        "d": "Percibirán las retribuciones básicas y las pagas extraordinarias correspondientes al Subgrupo o Grupo de adscripción, en el supuesto de que éste no tenga Subgrupo, la totalidad de las retribuciones complementarias a que se refieren los apartados b), c) y d) del artículo 24, así como las correspondientes a la categoría de entrada en el cuerpo o escala en el que se le nombre."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 25.1 detalla que los interinos cobran básicas, extras y los complementos por puesto, rendimiento y servicios extraordinarios de la categoría de entrada."
+    },
+    {
+      "numero": 34,
+      "enunciado": "De conformidad con lo establecido en el TREBEP sobre el derecho a la negociación colectiva, representación y participación institucional:",
+      "opciones": {
+        "a": "La negociación colectiva estará sujeta a los principios de legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia.",
+        "b": "La negociación colectiva, representación y participación de los empleados públicos con contrato laboral, se regirá exclusivamente por la legislación laboral.",
+        "c": "Las Administraciones Públicas podrán encargar el desarrollo de las actividades de negociación colectiva a órganos creados por ellas, de naturaleza estrictamente económica.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 33.1 enumera estos principios como rectores de la negociación colectiva. La opción B es falsa porque también se les aplican partes del TREBEP (art. 32.1)."
+    },
+    {
+      "numero": 35,
+      "enunciado": "Según lo establecido en el artículo 33 del TREBEP, además de los representantes de la Administración Pública correspondiente, estarán legitimados para estar presentes en las Mesas de Negociación (señala la incorrecta):",
+      "opciones": {
+        "a": "Las organizaciones sindicales más representativas a nivel estatal.",
+        "b": "Las organizaciones sindicales más representativas de la comunidad autónoma.",
+        "c": "Los sindicatos que hayan obtenido el 15 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal, en las unidades electorales comprendidas en el ámbito específico de su constitución.",
+        "d": "Los sindicatos que hayan obtenido el 10 por 100 o más de los representantes en las elecciones para Delegados y Juntas de Personal, en las unidades electorales comprendidas en el ámbito específico de su constitución."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque el umbral de representatividad exigido por la ley es del 10 por 100, no del 15 por 100 (art. 33.1)."
+    },
+    {
+      "numero": 36,
+      "enunciado": "De conformidad con lo establecido en el art. 37 del TREBEP, \"serán objeto de negociación, en su ámbito respectivo y en relación con las competencias de cada Administración Pública y con el alcance que legalmente proceda en cada caso, las materias siguientes\" (señale la opción incorrecta):",
+      "opciones": {
+        "a": "La determinación y aplicación de las retribuciones complementarias de los funcionarios.",
+        "b": "La regulación y determinación concreta, en cada caso, de los sistemas, criterios, órganos y procedimientos de acceso al empleo público y la promoción profesional.",
+        "c": "Las normas que fijen los criterios y mecanismos generales en materia de evaluación del desempeño.",
+        "d": "Los criterios generales sobre las ofertas de empleo público."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "La regulación concreta de los sistemas de acceso y promoción es una materia expresamente excluida de la negociación según el artículo 37.2.e."
+    },
+    {
+      "numero": 37,
+      "enunciado": "Según lo establecido en el TREBEP, sobre los pactos y acuerdos, señale la opción correcta:",
+      "opciones": {
+        "a": "Los pactos celebrados y los acuerdos, una vez ratificados, deberán ser remitidos a la Oficina Pública que cada Administración competente determine y publicados en el Boletín Oficial que corresponda en función del ámbito territorial.",
+        "b": "Los Pactos se celebrarán sobre materias competencia de los órganos de gobierno de las Administraciones Públicas.",
+        "c": "Los Acuerdos versarán sobre materias que se correspondan estrictamente con el ámbito competencial del órgano administrativo que lo suscriba y se aplicarán directamente al personal del ámbito correspondiente.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 38.6 establece estos requisitos de remisión y publicación oficial para la eficacia de ambos instrumentos. Las opciones B y C intercambian las definiciones de Pactos y Acuerdos."
+    },
+    {
+      "numero": 38,
+      "enunciado": "Continuando sobre lo establecido por el TREBEP sobre los pactos y acuerdos, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Los Pactos y Acuerdos deberán determinar las partes que los conciertan, el ámbito personal, funcional, territorial y temporal, así como la forma, plazo de preaviso y condiciones de denuncia de los mismos.",
+        "b": "Para la validez y eficacia tanto de los pactos como de los acuerdos, será necesaria su aprobación expresa y formal por los órganos de gobierno de las Administraciones Públicas.",
+        "c": "Salvo acuerdo en contrario, se prorrogarán de año en año si no mediara denuncia expresa de una de sus partes.",
+        "d": "Los pactos y acuerdos que sucedan a los anteriores los derogan en su integridad, salvo los aspectos que expresamente se acuerde mantener."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque solo los Acuerdos requieren aprobación expresa y formal de los órganos de gobierno (art. 38.3); los Pactos se aplican directamente (art. 38.2)."
+    },
+    {
+      "numero": 39,
+      "enunciado": "De conformidad con lo establecido en el TREBEP sobre los órganos de representación de los funcionarios, señale la opción incorrecta:",
+      "opciones": {
+        "a": "En aquellas unidades electorales donde el número de funcionarios sea igual o superior a 6 e inferior a 50, les corresponde la representación al Delegado de Personal.",
+        "b": "Hasta 30 funcionarios se elegirá un delegado y de 31 a 49 funcionarios se elegirán dos, que ejercerán su representación conjunta y mancomunadamente.",
+        "c": "En las unidades electorales que cuenten con un censo mínimo de 50 funcionarios, se constituirán las Juntas de Personal.",
+        "d": "El número de miembros de la Junta de Personal se determina en función del número de funcionarios de la unidad electoral correspondiente."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque cuando hay entre 31 y 49 funcionarios se deben elegir tres delegados de personal, no dos (art. 39.2)."
+    },
+    {
+      "numero": 40,
+      "enunciado": "Siguiendo con los órganos de representación de los funcionarios, según lo establecido en el artículo 39 del TREBEP, ¿cuál sería el número de miembros de la Junta de Personal en aquella unidad electoral donde el número de funcionarios es de 645?:",
+      "opciones": {
+        "a": "13",
+        "b": "15",
+        "c": "17",
+        "d": "21"
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Según la escala del artículo 39.5, para unidades electorales de 501 a 750 funcionarios corresponden 17 miembros en la Junta de Personal."
+    },
+    {
+      "numero": 41,
+      "enunciado": "Los empleados públicos tienen derecho a la negociación colectiva, representación y participación institucional para la determinación de sus condiciones de trabajo. Señalar la respuesta correcta:",
+      "opciones": {
+        "a": "Por negociación colectiva, a los efectos de esta ley, se entiende el derecho a negociar la determinación de las condiciones de trabajo de los empleados de las Administraciones Públicas.",
+        "b": "Por representación, a efectos de esta ley, se entiende el derecho a participar, a través de organizaciones sindicales, en los órganos de control y seguimiento de las entidades u organismos que legalmente se determine.",
+        "c": "Por participación institucional, a efectos de esta ley, se entiende la facultad de elegir representantes y constituir órganos unitarios a través de los cuales se instrumente la interlocución entre las Administraciones Públicas y sus empleados.",
+        "d": "Todas las opciones son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 31.2 define correctamente la negociación colectiva. Las opciones B y C están intercambiadas (el art. 31.3 define representación y el 31.4 participación institucional)."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Además de las organizaciones sindicales, están legitimados para convocar una reunión, directamente o a través de los Delegados Sindicales, los empleados públicos de las Administraciones respectivas en número no inferior al:",
+      "opciones": {
+        "a": "40% del colectivo convocado.",
+        "b": "60% del colectivo convocado.",
+        "c": "25% del colectivo convocado.",
+        "d": "50% del colectivo convocado."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 46.1.d establece que para que los propios empleados puedan convocar una reunión se requiere al menos el 40% del colectivo afectado."
+    },
+    {
+      "numero": 43,
+      "enunciado": "Los empleados públicos tienen el derecho al ejercicio de la huelga, un derecho individual ejercido de forma colectiva, si bien ha de serlo cumpliendo y respetando, en todo caso, una de las garantías reconocidas de modo expreso en el TREBEP:",
+      "opciones": {
+        "a": "Respeto al derecho de acceso de los ciudadanos a las unidades donde prestan servicio.",
+        "b": "Mantenimiento de los servicios esenciales de la comunidad.",
+        "c": "Atención a los servicios indispensables de la unidad donde prestan servicio.",
+        "d": "Situación de disponibilidad permanente para atender situaciones de emergencia."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 15.c reconoce el derecho a la huelga pero exige explícitamente la garantía de mantener los servicios esenciales para la comunidad."
+    },
+    {
+      "numero": 44,
+      "enunciado": "De acuerdo con la literalidad del art. 8 del TREBEP, son empleados públicos:",
+      "opciones": {
+        "a": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas o Privadas al servicio de los intereses generales.",
+        "b": "Quienes desempeñan funciones retribuidas o no en las Administraciones Públicas al servicio de los intereses públicos.",
+        "c": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.",
+        "d": "Quienes desempeñan funciones retribuidas o no en las Administraciones Públicas o Privadas al servicio de los intereses públicos"
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 8.1 define al empleado público por la retribución de sus funciones, su vinculación a Administraciones Públicas y el servicio a intereses generales."
+    },
+    {
+      "numero": 45,
+      "enunciado": "De acuerdo a lo establecido en el art. 10, la selección de funcionarios interinos habrá de realizarse mediante procedimientos ágiles que respetarán en todo caso los principios de:",
+      "opciones": {
+        "a": "Mérito y capacidad.",
+        "b": "Igualdad, mérito y capacidad.",
+        "c": "Igualdad, mérito, capacidad y publicidad.",
+        "d": "Igualdad, mérito, capacidad, publicidad y celeridad."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 10.2 añade los principios de publicidad y celeridad a los básicos de igualdad, mérito y capacidad para asegurar la cobertura inmediata del puesto."
+    },
+    {
+      "numero": 46,
+      "enunciado": "En el caso de los funcionarios interinos nombrados por la existencia de plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera:",
+      "opciones": {
+        "a": "Dichas plazas vacantes deberán ser objeto de cobertura mediante cualquiera de los mecanismos de provisión o movilidad previstos en la normativa de cada Administración Pública.",
+        "b": "No obstante, transcurridos 3 años desde el nombramiento del personal funcionario interino se producirá el fin de la relación de interinidad.",
+        "c": "Excepcionalmente, el personal interino podrá permanecer en la plaza que ocupe temporalmente, siempre que se haya publicado la correspondiente convocatoria dentro del plazo de los 3 años, a contar desde la fecha del nombramiento del personal interino y sea resuelta conforme a los plazos establecidos en el art. 70 del TREBEP.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Todas estas condiciones están recogidas en el artículo 10.4 para limitar la temporalidad abusiva en plazas vacantes y asegurar su cobertura por personal de carrera."
+    },
+    {
+      "numero": 47,
+      "enunciado": "Según lo establecido en el artículo 39 del TREBEP, ¿cuál sería el número de miembros de la Junta de Personal en aquella unidad electoral donde el número de funcionarios es de 250?:",
+      "opciones": {
+        "a": "5",
+        "b": "9",
+        "c": "13",
+        "d": "17"
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 39.5 establece que para un censo de 101 a 250 funcionarios, la Junta de Personal tendrá 9 miembros."
+    },
+    {
+      "numero": 48,
+      "enunciado": "Según lo establecido en el art. 10 del TREBEP, el cese de los funcionarios interinos se producirá, sin derecho a compensación alguna, además de por las causas previstas en el artículo 63:",
+      "opciones": {
+        "a": "Cuando finalice la causa que dio lugar a su nommramiento.",
+        "b": "Por la dimisión del funcionario.",
+        "c": "Por la apertura de un expediente disciplinario.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 10.3 detalla causas específicas de cese como la finalización de la causa, de los plazos autorizados o la cobertura reglada del puesto por un funcionario de carrera."
+    },
+    {
+      "numero": 49,
+      "enunciado": "De acuerdo con la literalidad del art. 11.3. del TREBEP, los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de:",
+      "opciones": {
+        "a": "Igualdad y mérito.",
+        "b": "Igualdad, mérito y capacidad.",
+        "c": "Igualdad, mérito, capacidad y publicidad.",
+        "d": "Igualdad, mérito, capacidad, publicidad y celeridad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 11.3 menciona específicamente los principios de igualdad, mérito y capacidad para la selección de todo el personal laboral."
+    },
+    {
+      "numero": 50,
+      "enunciado": "De conformidad con lo establecido en el TREBEP, indique qué se entiende por retribuciones diferidas:",
+      "opciones": {
+        "a": "Las indemnizaciones por razón de servicio.",
+        "b": "Los atrasos salariales reconocidos mediante sentencia judicial en un conflicto laboral a iniciativa del empleado público.",
+        "c": "Las gratificaciones por prolongación de la jornada laboral.",
+        "d": "Las cantidades destinadas a financiar aportaciones a planes de pensiones o contratos de seguros."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 29 define las retribuciones diferidas como aquellas aportaciones a planes de pensiones de empleo o contratos de seguros."
+    },
+    {
+      "numero": 51,
+      "enunciado": "El Título IV del TREBEP se denomina:",
+      "opciones": {
+        "a": "Adquisición y pérdida de la relación de servicio.",
+        "b": "Ordenación de la actividad profesional.",
+        "c": "Deberes de los empleados públicos. Código de Conducta.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Este es el nombre oficial del Título IV, que regula desde el acceso al empleo público hasta las causas de jubilación o renuncia."
+    },
+    {
+      "numero": 52,
+      "enunciado": "Según los principios de conducta establecidos en el Estatuto Básico del Empleado Público, los empleados públicos deberán mantener actualizados:",
+      "opciones": {
+        "a": "Los estándares de calidad.",
+        "b": "Los medios de comunicación con los ciudadanos.",
+        "c": "Su formación y cualificación.",
+        "d": "Sus certificados de competencia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 54.8 impone como principio de conducta el deber del empleado de mantener al día su formación y cualificación profesional."
+    },
+    {
+      "numero": 53,
+      "enunciado": "Según lo establecido en el Título III del TREBEP, la cuantía y estructura de las retribuciones complementarias se establecerán atendiendo, entre otros, a los siguientes factores:",
+      "opciones": {
+        "a": "La progresión alcanzada por el funcionario.",
+        "b": "La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo.",
+        "c": "El grado de interés, iniciativa o esfuerzo con que el funcionario desempeña su trabajo y el rendimiento o resultados obtenidos.",
+        "d": "Todas las opciones son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 24 detalla que los complementos retribuyen la carrera (a), las características del puesto (b), el rendimiento (c) y servicios extraordinarios."
+    },
+    {
+      "numero": 54,
+      "enunciado": "En el artículo 1 del TREBEP, se recogen entre otros, los siguientes fundamentos de actuación:",
+      "opciones": {
+        "a": "Servicio a los ciudadanos y a los intereses generales de las Administraciones Públicas.",
+        "b": "Igualdad, mérito y capacidad en el acceso y en la promoción profesional.",
+        "c": "Sometimiento pleno a la ley y al Derecho.",
+        "d": "Todos los anteriores son fundamentos de actuación."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Los tres puntos mencionados son principios básicos (fundamentos) recogidos en el artículo 1.3 (letras a, b y c)."
+    },
+    {
+      "numero": 55,
+      "enunciado": "En relación a los derechos individuales de los empleados públicos, recogidos en el artículo 14 del TREBEP, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Se incluye el derecho al desempeño efectivo de las funciones o tareas propias de su condición profesional y de acuerdo con la progresión alcanzada en su carrera profesional.",
+        "b": "Se incluye el derecho a la defensa jurídica y protección de la Administración Púbica en los procedimientos que sigan ante cualquier orden jurisdiccional como consecuencia del ejercicio legítimo de sus funciones o cargos públicos.",
+        "c": "Se incluye el derecho a la libertad sindical.",
+        "d": "Se incluye el derecho a la libertad de expresión dentro de los límites del ordenamiento jurídico."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "La libertad sindical no es un derecho puramente individual del artículo 14, sino un derecho individual de ejercicio colectivo del artículo 15.a."
+    },
+    {
+      "numero": 56,
+      "enunciado": "Según lo establecido en el artículo 16 del texto refundido de la Ley del Estatuto Básico del Empleado Público, la carrera horizontal consiste en:",
+      "opciones": {
+        "a": "La progresión de grado, categoría, escalón, sin necesidad de cambiar de puesto de trabajo.",
+        "b": "El ascenso en la estructura de puestos de trabajo tras el procedimiento de concurso.",
+        "c": "El ascenso desde un cuerpo o escala de un Subgrupo a otro superior, superando las correspondientes pruebas.",
+        "d": "El ascenso a cuerpos o escalas del mismo Subgrupo profesional."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "La carrera horizontal (art. 16.3.a) permite progresar en escalafones sin cambiar de puesto; el cambio de puesto corresponde a la carrera vertical (art. 16.3.b)."
+    },
+    {
+      "numero": 57,
+      "enunciado": "De conformidad con lo establecido en el art. 35 del TREBEP, que recoge la constitución y composición de las Mesas de Negociación, \"en las normas de desarrollo del presente Estatuto se establecerá la composición numérica de las Mesas correspondientes a sus ámbitos, sin que ninguna de las partes pueda superar el número de\":",
+      "opciones": {
+        "a": "12 miembros.",
+        "b": "15 miembros.",
+        "c": "20 miembros.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 35.4 limita a 15 el número máximo de miembros por cada una de las partes (Administración y sindicatos) en las mesas de negociación."
+    },
+    {
+      "numero": 58,
+      "enunciado": "Conforme a lo establecido en el art. 37 del TREBEP, \"quedan excluidas de la obligatoriedad de la negociación, las materias siguientes\" (señale la opción incorrecta):",
+      "opciones": {
+        "a": "La determinación de las condiciones de trabajo del personal directivo.",
+        "b": "Los poderes de dirección y control propios de la relación jerárquica.",
+        "c": "Las que afecten a las condiciones de trabajo y a las retribuciones de los funcionarios, cuya regulación exija norma con rango de ley.",
+        "d": "Las decisiones de las Administraciones Públicas que afecten a sus potestades de organización."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque las materias de reserva de ley relativas a condiciones de trabajo y retribuciones SÍ deben negociarse obligatoriamente (art. 37.1.k)."
+    },
+    {
+      "numero": 59,
+      "enunciado": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, los sistemas selectivos deberán cumplir que:",
+      "opciones": {
+        "a": "Los órganos de selección velarán por el cumplimiento del principio de igualdad de oportunidades entre sexos.",
+        "b": "Los procesos selectivos tendrán carácter restringido y garantizarán la libre concurrencia, sin perjuicio de lo establecido para la promoción interna.",
+        "c": "Las Administraciones Públicas podrán crear órganos temporales para la organización de procesos selectivos, pudiéndose encomendar estas funciones a los Institutos o Escuelas de Administración Pública.",
+        "d": "Sólo en virtud de decreto podrá aplicarse, con carácter excepcional, el sistema de concurso, que consistirá únicamente en la valoración de méritos."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 61.1 impone explícitamente el deber de velar por la igualdad de sexos; el concurso solo se aplica por Ley (no decreto) y los procesos son abiertos (no restringidos)."
+    },
+    {
+      "numero": 60,
+      "enunciado": "De acuerdo con lo indicado en el art.48 del TREBEP, en caso de accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario de un familiar dentro del segundo grado de consanguinidad o afinidad, los funcionarios tendrán derecho a:",
+      "opciones": {
+        "a": "Un permiso de tres días hábiles, solamente en los casos de consanguinidad.",
+        "b": "Un permiso de cinco días hábiles.",
+        "c": "Un permiso de cuatro días hábiles.",
+        "d": "Un permiso de tres días hábiles."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 48.a establece cuatro días hábiles para el segundo grado, mientras que para el primer grado (o cónyuge/pareja) el permiso es de cinco días."
+    },
+    {
+      "numero": 61,
+      "enunciado": "Según el art. 43 del TREBEP, podrán promover la celebración de elecciones a Delegados y Juntas de Personal:",
+      "opciones": {
+        "a": "Los sindicatos que, sin ser más representativos, hayan conseguido al menos el 10 por 100 de los representantes a los que se refiere este Estatuto en el conjunto de las Administraciones Públicas.",
+        "b": "Los sindicatos que hayan obtenido un porcentaje del 5 por 100 en la unidad electoral en la que se pretende promover las elecciones.",
+        "c": "Los funcionarios de la unidad electoral, por un porcentaje del 40 por 100 de la unidad electoral.",
+        "d": "Los sindicatos menos representativos a nivel de comunidad autónoma, cuando la unidad electoral afectada esté ubicada en su ámbito geográfico."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "La ley permite promover elecciones a los sindicatos con al menos un 10 por 100 de representantes (art. 43). La opción C es falsa porque los funcionarios deben acordarlo por mayoría."
+    },
+    {
+      "numero": 62,
+      "enunciado": "Según el art. 37 del TREBEP quedan excluidas de la obligatoriedad de la negociación:",
+      "opciones": {
+        "a": "Las normas que fijen los criterios generales en materia de acceso, carrera, provisión, sistemas de clasificación de puestos de trabajo y planes e instrumentos de planificación de recursos humanos.",
+        "b": "Las normas que fijen los criterios y mecanismos generales en materia de evaluación del desempeño.",
+        "c": "Los criterios generales de acción social.",
+        "d": "La determinación de condiciones de trabajo del personal directivo."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 37.2.c excluye específicamente las condiciones del personal directivo de la negociación obligatoria. Las otras opciones son materias de negociación obligatoria (art. 37.1)."
+    },
+    {
+      "numero": 63,
+      "enunciado": "¿Cuándo estará sometido a la relación laboral de carácter especial de alta dirección el personal directivo, según lo dispuesto en el art. 13 del TREBEP?",
+      "opciones": {
+        "a": "Cuando reúna la condición de personal laboral.",
+        "b": "Cuando reúna la condición de funcionario interino.",
+        "c": "Cuando reúna la condición de funcionario de carrera.",
+        "d": "Todas las respuestas son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 13.4 indica que si el directivo es personal laboral, su relación se regirá por la normativa de alta dirección."
+    },
+    {
+      "numero": 64,
+      "enunciado": "Según el artículo 53 del TREBEP, es un principio ético de los empleados públicos:",
+      "opciones": {
+        "a": "Ajustarán su actuación a los principios de lealtad y buena fe con la Administración en la que presten sus servicios, y con sus superiores, compañeros, subordinados y con los ciudadanos.",
+        "b": "Informarán a los ciudadanos sobre aquellas materias o asuntos que tengan derecho a conocer, y facilitarán el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+        "c": "Se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía, sin perjuicio de lo establecido en el Código Penal.",
+        "d": "Tratarán con atención y respeto a los ciudadanos, a sus superiores y a los restantes u actuación perseguirá la satisfacción de los intereses generales de los ciudadanos y se fundamentará en consideraciones objetivas orientadas hacia la imparcialidad y el interés común, al margen de cualquier otro factor que exprese posiciones personales, familiares, corporativas, clientelares o cualesquiera otras que puedan colisionar con este principio."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 15. EBEP",
+      "explicación": "La lealtad y buena fe son principios éticos del artículo 53.3. Las opciones B y C son principios de conducta (art. 54)."
+    },
+    {
+      "numero": 65,
+      "enunciado": "Según lo dispuesto en el artículo 34 del Texto Refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, son competencias propias de las Mesas Generales:",
+      "opciones": {
+        "a": "Los temas comunes a los funcionarios del sector que no hayan sido objeto de decisión por parte de la Mesa Sectorial respectiva.",
+        "b": "La determinación de las materias relacionadas con condiciones de trabajo de los funcionarios y del personal laboral de la administración.",
+        "c": "La negociación de las materias y condiciones de trabajo del personal funcionario, estatutario y laboral que señale expresamente la Administración General.",
+        "d": "La negociación de las materias relacionadas con condiciones de trabajo comunes a los funcionarios de su ámbito."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El artículo 34 establece que la Mesa General de Negociación es el órgano para negociar materias comunes a los funcionarios del ámbito correspondiente."
+    },
+    {
+      "numero": 66,
+      "enunciado": "Según el artículo 52 del TREBEP, ¿cuál no es un principio de actuación de los empleados públicos que forme parte de su código de conducta?:",
+      "opciones": {
+        "a": "Objetividad.",
+        "b": "Ejemplaridad.",
+        "c": "Ajuste a las necesidades corporativas.",
+        "d": "Promoción del entorno cultural y medioambiental"
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 15. EBEP",
+      "explicación": "El ajuste a necesidades corporativas no figura en el listado de principios del artículo 52; sí figuran objetividad, ejemplaridad y respeto al entorno."
+    },
+    {
+      "numero": 67,
+      "enunciado": "Según el artículo 7 del TREBEP, ¿qué normativa es aplicable al personal laboral al servicio de las Administraciones Públicas respecto a la suspensión del contrato de trabajo que, en su caso, correspondería en los supuestos de permiso por nacimiento y adopción?:",
+      "opciones": {
+        "a": "El Estatuto de los Trabajadores.",
+        "b": "El Estatuto Básico del Empleado Público.",
+        "c": "La legislación laboral y las demás normas convencionalmente aplicables.",
+        "d": "La Ley General de la Seguridad Social."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Tras la modificación del Real Decreto-ley 9/2025, el personal laboral se rige por el TREBEP en estos permisos específicos, desplazando al Estatuto de los Trabajadores en esta materia."
+    },
+    {
+      "numero": 68,
+      "enunciado": "Según lo establecido en el texto refundido de la Ley del Estatuto Básico del Empleado Público, indique la afirmación incorrecta respecto al personal laboral:",
+      "opciones": {
+        "a": "Los procedimientos de selección del personal laboral serán públicos, rigiéndose en todo caso por los principios de igualdad, mérito y capacidad.",
+        "b": "En el caso del personal laboral temporal se regirá igualmente por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia, mediante contrato por plazo no superior a dos años.",
+        "c": "En función de la duración del contrato, éste podrá ser fijo, por tiempo indefinido o temporal.",
+        "d": "El personal laboral al servicio de las Administraciones Públicas se regirá, en materia de teletrabajo, por lo previsto en el EBEP y por sus normas de desarrollo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 15. EBEP",
+      "explicación": "Es incorrecta porque el artículo 11 no establece un límite general de dos años para los contratos temporales laborales; esa duración se rige por la legislación laboral y normas de desarrollo."
+    }
+  ]
+}
