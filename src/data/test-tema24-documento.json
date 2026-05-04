@@ -1,0 +1,603 @@
+{
+  "tema": "Tema 24. Documento",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "\"Toda expresión en lenguaje natural o convencional, incluidas las de carácter gráfico, sonoro o audiovisual, recogida en cualquier tipo de soporte material, incluido el informático, que constituya testimonio de los hechos que afectan a los individuos o a los grupos sociales\", es la definición de documento recogida en el/la:",
+      "opciones": {
+        "a": "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.",
+        "b": "Real Decreto 1708/2011, de 18 de noviembre, por el que se establece el Sistema Español de Archivos.",
+        "c": "Ley 6/1991, de 19 de abril, de Archivos y del Patrimonio Documental de Castilla y León.",
+        "d": "Decreto 2/2003, de 2 de enero, por el que se regulan los servicios de información y atención al ciudadano y la función de registro en la Administración de la Comunidad de Castilla y León."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "Esta definición literal corresponde al artículo 2 de la Ley 6/1991 de Castilla y León, que destaca el valor testimonial de los hechos sociales[cite: 37, 980]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "Desde el punto de vista archivístico, los documentos de archivo reúnen una serie de características entre las cuales No se encuentra:",
+      "opciones": {
+        "a": "Carácter seriado.",
+        "b": "Exclusividad.",
+        "c": "Documento aislado.",
+        "d": "Valor probatorio frente a terceros."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "Los documentos de archivo rara vez aparecen sueltos; su razón de ser viene dada por su pertenencia a un expediente o agrupación documental superior[cite: 87, 95]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "Son el resultado de la actividad administrativa que llevan a cabo los órganos de la Administración en el ejercicio de las funciones y competencias que les encomiendan las normas:",
+      "opciones": {
+        "a": "Documentos públicos.",
+        "b": "Documentos privados.",
+        "c": "Documentos de apoyo.",
+        "d": "Documentos administrativos."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "Los documentos administrativos se definen precisamente como el resultado de la actividad de los órganos administrativos en el ejercicio de sus competencias[cite: 111, 987]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "Conforme al artículo 70 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se entiende como expediente administrativo:",
+      "opciones": {
+        "a": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla.",
+        "b": "Todos aquellos documentos conservados o grabados de manera escrita, óptica, acústica o de cualquier otra forma, que cumplan fines u objetivos de carácter público.",
+        "c": "El conjunto ordenado de documentos generados o recibidos por una unidad u oficina, en la resolución administrativa de un mismo asunto.",
+        "d": "La serie de actuaciones administrativas debidamente documentadas que reflejan el procedimiento del que el acto o disposición trae causa."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 24. Documento",
+      "explicación": "Esta definición se ajusta literalmente al artículo 70.1 de la LPACAP, describiendo al expediente como el fundamento de la resolución[cite: 324, 992]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "De conformidad con lo establecido en el artículo 26 de la Ley 39/2015, de 1 de octubre, las Administraciones Públicas deberán emitir los documentos administrativos:",
+      "opciones": {
+        "a": "De forma oral o escrita, a través de medios electrónicos o medios no electrónicos.",
+        "b": "Por escrito, a través de \"vía papel\" o medios electrónicos.",
+        "c": "Por escrito, a través de medios electrónicos.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "La Ley 39/2015 impone la obligación de emitir los documentos administrativos por escrito y necesariamente a través de medios electrónicos[cite: 126, 1008]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "Según la clasificación recogida en el Manual de Documentos Administrativos del Ministerio de Administraciones Públicas, de 2003, aquellos documentos que contienen una declaración de voluntad de un órgano administrativo sobre materias de su competencia son:",
+      "opciones": {
+        "a": "Documentos de decisión.",
+        "b": "Documentos de transmisión.",
+        "c": "Documentos de juicio.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 24. Documento",
+      "explicación": "Los documentos de decisión son aquellos donde la Administración manifiesta su voluntad, como los acuerdos y resoluciones[cite: 187, 243]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Siguiendo con la clasificación anterior, entre los documentos de constancia, No se encuentra:",
+      "opciones": {
+        "a": "El acta.",
+        "b": "El certificado.",
+        "c": "La nota interior.",
+        "d": "Todos los anteriores son documentos de constancia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "La nota interior es un documento de transmisión utilizado para comunicaciones internas, no de constancia[cite: 198, 1019]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Siguiendo con la clasificación del Manual de Documentos Administrativos del MAP, el Acuerdo y la Resolución son:",
+      "opciones": {
+        "a": "Comunicaciones internas.",
+        "b": "Comunicaciones externas.",
+        "c": "Documentos de decisión.",
+        "d": "Derecho de juicio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "Ambos recogen decisiones del órgano competente, ya sea para iniciar trámites (acuerdo) o poner fin al procedimiento (resolución)[cite: 190, 191]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "Aquella comunicación entre órganos o unidades pertenecientes a diferentes Administraciones Públicas, entidades, departamentos o diferentes órganos superiores, es:",
+      "opciones": {
+        "a": "El oficio.",
+        "b": "La nota interior.",
+        "c": "La notificación.",
+        "d": "La publicación."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 24. Documento",
+      "explicación": "El oficio se utiliza para la comunicación entre diferentes órganos o Administraciones, a diferencia de la nota interior que es intra-organismo[cite: 197, 1026]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "Entre los instrumentos por los que el ciudadano se relaciona con la actividad de las Administraciones Públicas, No se encuentra:",
+      "opciones": {
+        "a": "La solicitud.",
+        "b": "La alegación.",
+        "c": "El recurso.",
+        "d": "El informe."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "El informe es un documento de juicio emitido por la propia Administración o entidades, no un instrumento de relación del ciudadano[cite: 218, 252]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "El informe que obliga al órgano administrativo a resolver teniendo en cuenta el contenido del informe, se denomina:",
+      "opciones": {
+        "a": "Informe preceptivo.",
+        "b": "Informe facultativo.",
+        "c": "Informe vinculante.",
+        "d": "Informe interno."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "Se define como vinculante aquel informe cuyo contenido obliga legalmente al órgano a resolver en ese sentido[cite: 223, 1044]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "De conformidad con lo establecido en el artículo 70 de la Ley 39/2015, de 1 de octubre, sobre los expedientes administrativos, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Tendrán formato electrónico.",
+        "b": "Se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos.",
+        "c": "Deberá contar en el expediente un índice numerado de todos los documentos que contenga.",
+        "d": "Formará parte del expediente administrativo la información contenida en aplicaciones, ficheros y bases de datos informáticas, notas, borradores, opiniones, resúmenes, comunicaciones e informes internos o entre órganos o entidades administrativas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "La información de carácter auxiliar o de apoyo, como borradores o notas, no forma parte del expediente administrativo según el art. 70.4 de la LPACAP[cite: 332, 1051]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "En nuestra Comunidad, la Junta de Castilla y León ha creado una plataforma encargada de almacenar de forma segura los documentos electrónicos que se le confíen, que se denomina:",
+      "opciones": {
+        "a": "Plataforma de firma electrónica.",
+        "b": "Ventanilla electrónica.",
+        "c": "Depósito de Originales Electrónicos.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "El DOE es el repositorio digital único de la Junta diseñado para custodiar documentos con firma electrónica y sus metadatos[cite: 388, 389]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "Entre los siguientes expedientes, ¿cuál de ellos No es un expediente reglado?:",
+      "opciones": {
+        "a": "Expediente de contratación administrativa.",
+        "b": "Expediente de programación de efectivos de personal.",
+        "c": "Expediente sancionador.",
+        "d": "Expediente de ayuda al alquiler."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "Los expedientes de personal suelen considerarse no reglados al ser acumulaciones unidas por un elemento integrador sin un procedimiento específico estricto[cite: 323, 1058]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "El ciclo vital de los documentos son las etapas por las que atraviesan desde que se producen hasta que se eliminan o conservan en un archivo:",
+      "opciones": {
+        "a": "De gestión.",
+        "b": "Intermedio.",
+        "c": "Central.",
+        "d": "Histórico."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "El ciclo vital culmina con la eliminación o la conservación definitiva en un Archivo Histórico[cite: 417, 1070]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "En la primera fase o primera edad del documento, éste tiene un valor primario, que es el que va unido a la finalidad inmediata para la que fue creado. El documento permanece en:",
+      "opciones": {
+        "a": "El Archivo de Gestión.",
+        "b": "El Archivo Central/Territorial.",
+        "c": "El Archivo Histórico.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 24. Documento",
+      "explicación": "En la primera edad, la documentación es activa y se custodia en los archivos de oficina o gestión por su uso frecuente[cite: 420, 1074]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "La segunda fase o segunda edad del documento, éste pierde el valor primario y adquiere progresivamente un valor secundario, que es aquel que obedece a otras motivaciones que no son la finalidad inicial del documento. Esta fase corresponde, según recoge el artículo 25 del Reglamento del Sistema de Archivos de Castilla y León:",
+      "opciones": {
+        "a": "Con la documentación activa.",
+        "b": "Con la documentación semiactiva.",
+        "c": "Con la documentación inactiva.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "La segunda edad se caracteriza por un uso menos intenso, denominándose documentación semiactiva[cite: 423, 1081]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "Indique el marco normativo de Castilla y León que establece que \"cuando los documentos contengan información de cualquier índole, cuyo conocimiento pueda afectar a la seguridad de las personas físicas, a la averiguación de los delitos, a su honor, a la intimidad de su vida privada y familiar o a su propia imagen, no podrán ser consultados públicamente sin que hayan transcurrido veinticinco años desde su fallecimiento, si la fecha es conocida, o, en caso contrario, cincuenta años a partir de la fecha del documento\":",
+      "opciones": {
+        "a": "Decreto 115/1996, de 2 de mayo, por el que se aprueba el Reglamento del Sistema de Archivos de Castilla y León.",
+        "b": "Ley 6/1991, de 19 de abril, de Archivos y del Patrimonio Documental de Castilla y León.",
+        "c": "Ley 5/2016, de 23 de diciembre, por la que se modifica la Ley 6/1991, de 19 de abril, de Archivos y del Patrimonio Documental de Castilla y León.",
+        "d": "Ley 3/2015, de 4 de marzo, de Transparencia y Participación Ciudadana en Castilla y León."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "Estos plazos específicos para la protección de la intimidad están regulados en el artículo 21.b de la Ley 6/1991[cite: 799, 1086]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "La disposición transitoria primera de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, expone en relación con el archivo de documentos:",
+      "opciones": {
+        "a": "Cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a todos los procedimientos finalizados, en los términos establecidos en la normativa reguladora aplicable.",
+        "b": "El archivo de los documentos correspondientes a procedimientos administrativos ya iniciados antes de la entrada en vigor de la presente Ley, se regirán por lo dispuesto en la normativa anterior.",
+        "c": "Los documentos electrónicos que contengan actos administrativos que afecten a derechos e intereses de los particulares, podrán conservarse en soportes de esta naturaleza, ya sea en el mismo formato a partir del que se originó el documento o en otro cualquiera que asegure la identidad e integridad de la información necesaria para reproducirlo.",
+        "d": "Los documentos electrónicos administrativos deberán contener información clasificada en un soporte electrónico según un formato determinado susceptible de identificación."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "La disposición transitoria garantiza que los expedientes iniciados bajo la normativa previa sigan su régimen de archivo original[cite: 1097]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "De conformidad con el artículo 20 de la Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno, con carácter general, la resolución que conceda o deniegue el derecho de acceso a la información pública deberá notificarse en el plazo máximo de:",
+      "opciones": {
+        "a": "Un mes desde la recepción de la solicitud por el órgano competente para resolver.",
+        "b": "Dos meses desde la recepción de la solicitud por el órgano competente para resolver.",
+        "c": "Tres meses desde la recepción de la solicitud por el órgano competente para resolver.",
+        "d": "Quince días desde la recepción de la solicitud por el órgano competente para resolver."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 24. Documento",
+      "explicación": "El plazo general para resolver las solicitudes de transparencia es de un mes, ampliable por otro mes adicional si la complejidad lo requiere[cite: 913, 1101]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "El artículo 37 del Reglamento del Sistema de Archivos de Castilla y León, en su apartado 2º, recoge \"... conservarán y organizarán la documentación activa desde su creación o recepción hasta su eliminación o transferencia\". ¿A qué archivos se refiere?:",
+      "opciones": {
+        "a": "Archivos Centrales de las Consejerías.",
+        "b": "Archivos Territoriales de las Delegaciones Territoriales.",
+        "c": "Archivos Históricos Provinciales.",
+        "d": "Archivos de Gestión."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "Los archivos de gestión son los responsables de la fase activa de los documentos en las unidades administrativas[cite: 492, 1110]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Según el ámbito geográfico, los archivos pueden clasificarse en:",
+      "opciones": {
+        "a": "Archivos de la Administración Central, Archivos de la Administración Autonómica y Archivos de la Administración Local.",
+        "b": "Archivos públicos y archivos privados.",
+        "c": "Archivos municipales, archivos provinciales, archivos regionales y archivos estatales.",
+        "d": "Las opciones a) y c) son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "La clasificación por ámbito geográfico divide los archivos en municipales, provinciales, regionales y estatales[cite: 562, 1118]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Para que los archivos puedan servir para los fines para los que fueron creados, es muy importante su organización. Una buena organización de un archivo de oficina requiere dos tareas necesarias e inseparables, que son:",
+      "opciones": {
+        "a": "La clasificación y la gestión administrativa.",
+        "b": "La formación y la ordenación.",
+        "c": "La identificación y la transferencia.",
+        "d": "La clasificación y la ordenación."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "La organización archivística se asienta fundamentalmente en los pilares de la clasificación y la ordenación de los documentos[cite: 636, 638]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "Son tipos de clasificación empleada en los archivos:",
+      "opciones": {
+        "a": "Clasificación orgánica.",
+        "b": "Clasificación funcional.",
+        "c": "Clasificación por materias.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "Se emplean criterios orgánicos (por estructura), funcionales (por actividad) y, en menor medida, por materias[cite: 655, 666]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "\"La Ley regulará el acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas\", según se recoge en el artículo ____ de nuestra Constitución Española:",
+      "opciones": {
+        "a": "105.a)",
+        "b": "105.b)",
+        "c": "105.c)",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "El artículo 105.b) de la Constitución es el precepto que consagra el derecho de acceso a archivos públicos con sus límites legales[cite: 755, 1133]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué normativa estatal reconoce y garantiza el acceso a la información pública regulado como un derecho?:",
+      "opciones": {
+        "a": "La Ley 19/2013 de 9 de diciembre.",
+        "b": "La Ley 3/2015, de 4 de marzo.",
+        "c": "La Ley Orgánica 3/2018, de 5 de diciembre.",
+        "d": "La Ley Orgánica 15/1999, de 13 de diciembre."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 24. Documento",
+      "explicación": "La Ley 19/2013 de Transparencia es la primera ley estatal en reconocer explícitamente el acceso como un derecho de amplio ámbito[cite: 817, 822]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "En el ámbito de la Comunidad de Castilla y León, el procedimiento de acceso a los documentos administrativos se encuentra regulado en el/la:",
+      "opciones": {
+        "a": "Ley 3/2015, de 4 de marzo.",
+        "b": "Decreto 7/2016, de 17 de marzo.",
+        "c": "Ley 6/1991, de 19 de abril.",
+        "d": "Decreto 115/1996, de 2 de mayo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "El Decreto 7/2016 desarrolla específicamente el procedimiento para ejercer el derecho de acceso a la información en Castilla y León[cite: 927, 1143]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "De conformidad con lo establecido en el artículo 13, de la Ley 39/2015, de 1 de octubre, \"los ciudadanos en su relación con la Administración Pública tienen derecho al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en...\":",
+      "opciones": {
+        "a": "La Ley 19/2013, de 9 de diciembre.",
+        "b": "La Ley Orgánica 3/2018.",
+        "c": "La Ley 19/2013 de 9 de diciembre y el resto del Ordenamiento Jurídico.",
+        "d": "La Ley Orgánica 3/2018, de 5 de diciembre y el resto del Ordenamiento Jurídico."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "El artículo 13.d) de la LPACAP remite a la Ley de Transparencia de 2013 y al ordenamiento jurídico general para regular este derecho[cite: 862, 1154]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "De conformidad con lo establecido en el art. 18 de la Ley 19/2013, de 9 de diciembre, se contemplan como causas para la inadmisión de solicitudes de acceso a los documentos administrativos (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Las solicitudes manifiestamente repetitivas o que tengan un carácter abusivo.",
+        "b": "Las dirigidas a un órgano que no contenga esa información y se desconozca el competente.",
+        "c": "Las solicitudes en las que no esté motivada la consulta.",
+        "d": "Las que se refieran a información que está en curso de elaboración o de publicación general."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "El artículo 17.3 de la Ley 19/2013 aclara que el solicitante no está obligado a motivar su solicitud de acceso[cite: 912, 1159]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "De conformidad con lo establecido en el Decreto 7/2016, de 17 de marzo, las solicitudes de acceso a la información pública deberán contener la siguiente información:",
+      "opciones": {
+        "a": "La identidad del solicitante.",
+        "b": "La información cuyo acceso se solicita, de la forma más detallada posible.",
+        "c": "El órgano al que se dirige.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "El artículo 2.3 del Decreto 7/2016 detalla estos requisitos mínimos, incluyendo también la dirección de contacto y la modalidad de acceso[cite: 928, 1165]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "Según lo establecido en el Decreto 7/2016, de 17 de marzo, si la información solicitada no está en poder del órgano al que se dirige, éste:",
+      "opciones": {
+        "a": "La remitirá al órgano competente en el plazo de quince días e informará al interesado de tal circunstancia.",
+        "b": "Requerirá la presencia del órgano competente para que preste la información requerida, en el plazo de diez días.",
+        "c": "Inadmitirá la solicitud.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "La respuesta es incorrecta porque el plazo real es de diez días, no de quince[cite: 946, 1168]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "Son archivos de las instituciones autonómicas de Castilla y León:",
+      "opciones": {
+        "a": "El Archivo General de Castilla y León.",
+        "b": "El Archivo de la Junta de Castilla y León.",
+        "c": "Los Archivos Centrales de las Delegaciones Territoriales.",
+        "d": "Los Archivos Históricos de las Consejerías."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 24. Documento",
+      "explicación": "El Archivo General es el centro histórico de referencia gestionado por la Comunidad según su Reglamento[cite: 604, 1173]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "De conformidad con el artículo 9 del Decreto 7/2016 de 17 de marzo, la resolución que conceda o deniegue el derecho de acceso a la información pública deberá notificarse en el plazo máximo de:",
+      "opciones": {
+        "a": "Quince días desde la recepción de la solicitud por el órgano competente para resolver.",
+        "b": "Veinte días desde la recepción de la solicitud por el órgano competente para resolver.",
+        "c": "Un mes desde la recepción de la solicitud por el órgano competente para resolver.",
+        "d": "Dos meses desde la recepción de la solicitud por el órgano competente para resolver."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "El Decreto 7/2016 establece el plazo máximo de un mes para la notificación de la resolución[cite: 949, 1183]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "Siguiendo con la resolución, ésta contendrá alguno de los siguientes pronunciamientos (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Inadmitir a trámite la solicitud.",
+        "b": "Estimar la solicitud, concediendo el acceso a la información solicitada.",
+        "c": "Desestimar la solicitud, denegando el acceso a la información solicitada.",
+        "d": "Estimar parcialmente la solicitud, concediendo el acceso parcial en los términos establecidos en el artículo 17 de la Ley 19/2013, de 9 de diciembre."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "El error radica en el número de artículo citado; el acceso parcial se regula en el artículo 16 de la Ley 19/2013[cite: 953, 1190]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "Según lo establecido en el art. 10 del Decreto 7/2016, de 17 de marzo, serán motivadas:",
+      "opciones": {
+        "a": "Las resoluciones que denieguen el acceso a la información pública solicitada.",
+        "b": "Las resoluciones que concedan el acceso parcial a la información pública solicitada.",
+        "c": "Las resoluciones que permitan el acceso cuando haya habido oposición de un tercero.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "Cualquier resolución que restrinja el derecho solicitado o ignore la oposición de un tercero debe ser motivada obligatoriamente[cite: 955, 1195]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "De conformidad con lo establecido en el artículo 15 de la Ley 19/2013, de 9 de diciembre, \"si la información solicitada contuviera datos personales que revelen la ideología, afiliación sindical, religión o creencias, el acceso únicamente se podrá autorizar\":",
+      "opciones": {
+        "a": "En el caso de que se cuente con el consentimiento expreso del afectado, ya sea verbal o por escrito.",
+        "b": "En el caso de que se cuente con el consentimiento expreso del afectado o si aquel estuviera amparado por una norma con rango de Ley.",
+        "c": "En el caso de que se cuente con el consentimiento expreso y por escrito del afectado.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "Para datos especialmente protegidos (ideología, religión, etc.), la ley exige consentimiento expreso y obligatoriamente por escrito[cite: 883, 1199]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "Según el artículo 37 de la Ley 6/1991 de 19 de abril, de Archivos y del Patrimonio Documental de Castilla y León, los calendarios de conservación de la documentación depositada en los Archivos de la Administración de la Comunidad de Castilla y León establecen:",
+      "opciones": {
+        "a": "Los documentos sin valor administrativo que pueden ser eliminados.",
+        "b": "Los plazos de eliminación de los documentos de los diferentes archivos regionales.",
+        "c": "La conservación de forma provisional y limitada.",
+        "d": "Que todos los documentos pueden ser eliminados."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 24. Documento",
+      "explicación": "Estos calendarios determinan qué documentos carecen ya de utilidad para permitir su eliminación legal y controlada[cite: 402, 1207]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "Según lo recogido en el artículo 34 de Ley 6/1991, de 19 de abril ¿qué archivo realiza las funciones de archivo central único, en el ámbito provincial, para las Delegaciones y Servicios Territoriales de la Junta de Castilla y León?:",
+      "opciones": {
+        "a": "El Archivo General de Castilla y León.",
+        "b": "Los Archivos Centrales.",
+        "c": "Los Archivos Territoriales.",
+        "d": "Los Archivos Históricos Provinciales."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "Los Archivos Históricos Provinciales actúan como archivos intermedios para la Administración Periférica de la Junta[cite: 572, 1215]."
+    },
+    {
+      "numero": 39,
+      "enunciado": "De conformidad con lo establecido en el artículo 35 de la Ley 6/1991, de 19 de abril, los Archivos Históricos Provinciales, conservarán, organizarán, comunicarán y difundirán la documentación transferida por:",
+      "opciones": {
+        "a": "Los Archivos de Gestión.",
+        "b": "Los Archivos Centrales.",
+        "c": "Los Archivos Territoriales.",
+        "d": "El Archivo General de Castilla y León."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "El artículo 35.1 de la Ley 6/1991 establece que los archivos territoriales transfieren su documentación a los históricos provinciales[cite: 599, 1219]."
+    },
+    {
+      "numero": 40,
+      "enunciado": "Según lo establecido en el artículo 14 de la Ley 19/2013, de 9 de diciembre, el derecho de acceso a la información pública podrá ser limitado cuando suponga un perjuicio para (señale la opción incorrecta):",
+      "opciones": {
+        "a": "La seguridad pública.",
+        "b": "Los intereses políticos y mercantiles.",
+        "c": "La protección del medio ambiente.",
+        "d": "La igualdad de las partes en los procesos judiciales y la tutela judicial efectiva."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "La ley habla de intereses económicos y comerciales, no de intereses políticos y mercantiles[cite: 837, 1223]."
+    },
+    {
+      "numero": 41,
+      "enunciado": "¿Qué tipo de documento es un certificado?:",
+      "opciones": {
+        "a": "De decisión.",
+        "b": "De transmisión.",
+        "c": "De constancia.",
+        "d": "De juicio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 24. Documento",
+      "explicación": "El certificado acredita actos o situaciones administrativas, por lo que se clasifica como documento de constancia[cite: 215, 1229]."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Para que un documento electrónico administrativo sea considerado válido, el art. 26 de la LPACAP establece una serie de requisitos, entre los que no se encuentra:",
+      "opciones": {
+        "a": "Incorporar una referencia temporal del momento en que han sido emitidos.",
+        "b": "Incorporar los metadatos mínimos exigidos.",
+        "c": "Incorporar las firmas electrónicas que correspondan de acuerdo con lo previsto en la normativa aplicable.",
+        "d": "Disponer de los datos de identificación que permitan su generalización, sin perjuicio de su posible incorporación a un expediente electrónico."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "El requisito real es que los datos de identificación permitan su individualización, no su generalización[cite: 130, 1242]."
+    },
+    {
+      "numero": 43,
+      "enunciado": "Según el artículo 17 de la LPACAP, ¿cómo es el archivo electrónico de los documentos electrónicos que correspondan a procedimientos finalizados que debe mantener cada Administración?:",
+      "opciones": {
+        "a": "Principal.",
+        "b": "Auxiliar.",
+        "c": "General.",
+        "d": "Único."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "La normativa exige el mantenimiento de un archivo electrónico único para toda la documentación de procedimientos terminados[cite: 398, 1247]."
+    },
+    {
+      "numero": 44,
+      "enunciado": "Los medios o soportes en que se almacenen documentos deberán contar con medidas de seguridad, de acuerdo con lo previsto en el:",
+      "opciones": {
+        "a": "Esquema Nacional de Seguridad e Interoperabilidad.",
+        "b": "Esquema Nacional de Seguridad.",
+        "c": "Esquema Europeo de Seguridad.",
+        "d": "Esquema Europeo de Seguridad e Interoperabilidad."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "El artículo 17.3 de la LPACAP remite específicamente al Esquema Nacional de Seguridad (ENS)[cite: 403, 1250]."
+    },
+    {
+      "numero": 45,
+      "enunciado": "De acuerdo con el artículo 40 del Reglamento del Sistema de Archivos de Castilla y León, aprobado por Decreto 115/1996, de 2 de mayo, se considera archivo histórico el:",
+      "opciones": {
+        "a": "Archivo de gestión de cada Consejería.",
+        "b": "Archivo territorial de cada Delegación Territorial.",
+        "c": "Archivo Central de cada Consejería.",
+        "d": "Archivo General de Castilla y León."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 24. Documento",
+      "explicación": "El Reglamento identifica explícitamente al Archivo General de Castilla y León como centro de carácter histórico[cite: 604, 1257]."
+    },
+    {
+      "numero": 46,
+      "enunciado": "Según el artículo 26 de la LPACAP, para ser considerados válidos, los documentos electrónicos administrativos deberán:",
+      "opciones": {
+        "a": "Contener información de cualquier naturaleza archivada en un soporte electrónico sin un formato determinado.",
+        "b": "Disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico.",
+        "c": "Incorporar una referencia espacial del lugar en que han sido emitidos.",
+        "d": "Incorporar los costes de la emisión del documento."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 24. Documento",
+      "explicación": "La individualización es clave para el tratamiento diferenciado de los documentos dentro de la administración electrónica[cite: 130, 1261]."
+    }
+  ]
+}
