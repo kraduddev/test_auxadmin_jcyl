@@ -1,0 +1,551 @@
+{
+  "tema": "Tema 14. Órganos Colegiados AAPP",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "De conformidad con lo dispuesto en el artículo 8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+      "opciones": {
+        "a": "Se podrá renunciar a una competencia atribuida cuando una ley lo permita expresamente.",
+        "b": "La competencia es irrenunciable, y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo en los casos de delegación y avocación.",
+        "c": "En cualquier caso se podrá renunciar a una competencia que se tenga atribuida.",
+        "d": "Se podrá renunciar a una competencia cuando se dé autorización expresa por parte del Consejo de Ministros."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 8.1 de la LRJSP establece la irrenunciabilidad de la competencia como principio general, permitiendo únicamente como excepciones legales la delegación y la avocación[cite: 721, 465]."
+    },
+    {
+      "numero": 2,
+      "enunciado": "De conformidad con lo dispuesto en el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+      "opciones": {
+        "a": "La revocación de la delegación de competencias no requiere publicación en el Boletín Oficial.",
+        "b": "La delegación de competencias y su revocación deberán publicarse en el Boletín Oficial del Estado, en el de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante, y el ámbito territorial de competencia de éste.",
+        "c": "La delegación de competencias únicamente requiere publicación en el Boletín Oficial del Estado y la revocación en el Boletín de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante.",
+        "d": "La delegación de competencias y su revocación no deberán ser publicadas en Boletín Oficial alguno, pero sí puestas en conocimiento de quien pudiera ser interesado mediante la exposición de éstas en la sede electrónica del órgano delegante."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "Según el artículo 9.3 de la ley, tanto el acto de delegar como su revocación posterior son actos formales que exigen obligatoriamente su publicación en el boletín oficial correspondiente para tener efectos[cite: 727, 540]."
+    },
+    {
+      "numero": 3,
+      "enunciado": "Según regula el artículo 10 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+      "opciones": {
+        "a": "Contra el acuerdo de avocación se puede interponer recurso de alzada ante el órgano que avoca la competencia para sí.",
+        "b": "Nunca podrá impugnarse el acuerdo de avocación en el recurso que se interponga contra la resolución del procedimiento.",
+        "c": "Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.",
+        "d": "El acuerdo de avocación pone fin a la vía administrativa y podrá ser objeto de recurso de reposición."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La ley impide recurrir de forma independiente el acuerdo de avocación, pero permite al interesado cuestionar su legalidad al impugnar la resolución final del expediente[cite: 734, 589]."
+    },
+    {
+      "numero": 4,
+      "enunciado": "Según el artículo 8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser:",
+      "opciones": {
+        "a": "Concentradas y jerárquicamente dependientes.",
+        "b": "Concentradas y jerárquicamente no dependientes.",
+        "c": "Desconcentradas en otros órganos jerárquicamente dependientes de aquéllos.",
+        "d": "Desconcentradas en otras jerárquicamente dependientes."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 8.2 permite que tanto la titularidad como el ejercicio se trasladen de forma permanente a órganos que dependan jerárquicamente del titular original mediante la desconcentración[cite: 745, 467]."
+    },
+    {
+      "numero": 5,
+      "enunciado": "Según el artículo 3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Administraciones Públicas deberán respetar en su actuación y relaciones los siguientes principios generales:",
+      "opciones": {
+        "a": "Igualdad, mérito y capacidad.",
+        "b": "Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre, de Transparencia y acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico.",
+        "c": "Servicio efectivo a los ciudadanos.",
+        "d": "Jerarquía en la atribución, ordenación y desempeño de las funciones y tareas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El servicio efectivo a los ciudadanos es el primero de los principios generales de actuación y relación enumerados expresamente en el artículo 3.1.a) de la Ley 40/2015[cite: 750, 148]."
+    },
+    {
+      "numero": 6,
+      "enunciado": "Según el artículo 13 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, en las resoluciones y actos que se dicten mediante suplencia, se hará constar esta circunstancia:",
+      "opciones": {
+        "a": "Y se especificará el titular del órgano en cuya suplencia se adoptan y quien efectivamente está ejerciendo esta suplencia.",
+        "b": "Y no se especificará el titular del órgano en cuya suplencia se adoptan y quien efectivamente está ejerciendo esta suplencia.",
+        "c": "No hace falta especificar quién está ejerciendo esta suplencia.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "Para garantizar la transparencia y validez de los actos, el artículo 13.4 exige identificar tanto al titular sustituido como a la persona que ejerce efectivamente la suplencia[cite: 753, 696]."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Conforme a lo dispuesto en el artículo 18 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, las actas de cada sesión se remitirán a los miembros del órgano colegiado mediante:",
+      "opciones": {
+        "a": "Correo ordinario.",
+        "b": "Por medios electrónicos.",
+        "c": "Solo se leerán en las reuniones.",
+        "d": "Se dará una copia a cada uno de los miembros cuando finalice la sesión."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 18.2 impone el uso de medios electrónicos para el envío del acta por parte del Secretario a los miembros, facilitando así su revisión y aprobación[cite: 760, 356]."
+    },
+    {
+      "numero": 8,
+      "enunciado": "Según la Ley 40/2015, de 1 de octubre, los miembros de un órgano colegiado de la Administración General del Estado deberán:",
+      "opciones": {
+        "a": "Ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto sin necesidad de motivarlo. No podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Publicas tengan la condición de miembros natos de órganos colegiados, en virtud del cargo que desempeñan.",
+        "b": "Ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto y los motivos que lo justifican. Sólo podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Públicas tengan la condición de miembros natos de órganos colegiados, en virtud del cargo que desempeñan.",
+        "c": "Ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto y los motivos que lo justifican. No podrán abstenerse en las votaciones quienes por su cualidad de autoridades o personal al servicio de las Administraciones Públicas tengan la condición de miembros natos de órganos colegiados, en virtud del cargo que desempeñan.",
+        "d": "Ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto y los motivos que lo justifican. Todos los miembros podrán abstenerse en las votaciones libremente."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La ley establece el deber de motivación del voto y prohíbe la abstención a los miembros que lo son por razón de su cargo público (miembros natos), asegurando su implicación en la toma de decisiones[cite: 774, 775]."
+    },
+    {
+      "numero": 9,
+      "enunciado": "De acuerdo con la Ley 40/2015, en la encomienda de gestión:",
+      "opciones": {
+        "a": "Se produce una transferencia de la titularidad de la competencia y de los elementos sustantivos de su ejercicio.",
+        "b": "Se produce una transferencia de la titularidad de la competencia pero no de los elementos sustantivos de su ejercicio.",
+        "c": "No hay cesión de la titularidad de la competencia pero sí de los elementos sustantivos de su ejercicio.",
+        "d": "No hay cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 11.2 aclara que la encomienda se limita a actividades materiales o técnicas, manteniendo la titularidad y los elementos jurídicos esenciales en el órgano encomendante[cite: 782, 605]."
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué normativa regula las bases del régimen jurídico de las Administraciones Públicas, los principios del sistema de responsabilidad de las Administraciones Públicas y de la potestad sancionadora, así como la organización y funcionamiento de la Administración General del Estado y de su sector público institucional para el desarrollo de sus actividades?:",
+      "opciones": {
+        "a": "La Ley 40/2015 de 1 de octubre, de Régimen Jurídico del Sector Público.",
+        "b": "La Ley 3/2001, de 3 de julio, de Gobierno y de la Administración de la Comunidad de Castilla y León.",
+        "c": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+        "d": "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 1 de la Ley 40/2015 define explícitamente este amplio objeto regulador, que abarca desde los principios del sistema hasta la organización institucional[cite: 784, 10]."
+    },
+    {
+      "numero": 11,
+      "enunciado": "De conformidad con lo establecido en el artículo 47 de nuestra Ley 3/2001, de 3 de julio, de Gobierno y de la Administración de la Comunidad de Castilla y León:",
+      "opciones": {
+        "a": "La titularidad y el ejercicio de las competencias propias de los órganos de la Administración General, podrán ser desconcentrados en otros jerárquicamente dependientes, tanto centrales con categoría superior a Sección, como periféricos con categoría igual o superior a Departamento Territorial, salvo disposición en contrario.",
+        "b": "Una vez desconcentradas, las competencias podrán ser delegadas.",
+        "c": "La desconcentración de competencias, así como su revocación se aprobará por Decreto del Presidente de la Junta de Castilla y León, y se publicará en el \"Boletín Oficial de Castilla y León\".",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 47.2 permite expresamente que una competencia, tras ser desconcentrada, pueda ser objeto de delegación posterior según las reglas generales[cite: 795, 517]."
+    },
+    {
+      "numero": 12,
+      "enunciado": "De conformidad con lo establecido en el artículo 3 de la Ley 40/2015, de 1 de octubre, las Administraciones Públicas, deberán respetar en su actuación y relaciones los siguientes principios generales (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Simplicidad, claridad y proximidad a los ciudadanos.",
+        "b": "Eficacia en el cumplimiento de los objetivos fijados.",
+        "c": "Eficiencia en la asignación y utilización de los recursos públicos.",
+        "d": "Comprobación, verificación, investigación e inspección de hechos, actos, elementos, actividades, estimaciones y demás circunstancias que fueran necesarias."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La comprobación e investigación es un 'principio de intervención' regulado en el artículo 4, no un 'principio general' de los enumerados en el artículo 3[cite: 804, 174]."
+    },
+    {
+      "numero": 13,
+      "enunciado": "Según lo establecido en el artículo 5 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, tendrán la consideración de órganos administrativos:",
+      "opciones": {
+        "a": "Las unidades administrativas como elementos organizativos básicos de las estructuras orgánicas",
+        "b": "Las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo.",
+        "c": "Las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros, y cuya actuación tenga carácter preceptivo.",
+        "d": "Las unidades administrativas a las que se les atribuyan funciones que tengan efectos jurídicos frente a terceros y/o cuya actuación tenga carácter preceptivo."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La ley califica como órgano a cualquier unidad administrativa que posea capacidad para emitir actos con efectos externos o cuya intervención sea legalmente obligatoria (preceptiva)[cite: 808, 189]."
+    },
+    {
+      "numero": 14,
+      "enunciado": "Siguiendo con el artículo 5 de la Ley 40/2015, de 1 de octubre, la creación de cualquier órgano administrativo exigirá, al menos, el cumplimiento de los siguientes requisitos:",
+      "opciones": {
+        "a": "Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica.",
+        "b": "Delimitación de sus funciones y competencias.",
+        "c": "Dotación de los créditos necesarios para su puesta en marcha y funcionamiento.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 5.3 exige conjuntamente la ubicación orgánica, la definición funcional y el respaldo presupuestario para la creación válida de un órgano [cite: 815, 194-197]."
+    },
+    {
+      "numero": 15,
+      "enunciado": "De conformidad con lo establecido en el artículo 6 de la Ley 40/2015, de 1 de octubre (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Los órganos administrativos podrán dirigir las actividades de sus órganos jerárquicamente dependientes mediante instrucciones y órdenes de servicio.",
+        "b": "Cuando una disposición específica así lo establezca, las instrucciones y órdenes de servicio se publicarán en el boletín oficial que corresponda.",
+        "c": "El incumplimiento de estas instrucciones y órdenes de servicio afecta a la validez de los actos dictados por los órganos administrativos.",
+        "d": "El incumplimiento de estas instrucciones y órdenes de servicio conlleva la responsabilidad disciplinaria en que se pueda incurrir."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 6.2 especifica que el incumplimiento de una instrucción de servicio tiene consecuencias disciplinarias internas, pero no invalida por sí solo el acto dictado[cite: 824, 203]."
+    },
+    {
+      "numero": 16,
+      "enunciado": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+      "opciones": {
+        "a": "La desconcentración de competencias, las encomiendas de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén.",
+        "b": "La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos podrán ser desconcentradas en otros jerárquicamente dependientes de aquéllos en los términos y con los requisitos que prevean las propias normas de atribución de competencias.",
+        "c": "Si alguna disposición atribuye la competencia a una Administración, sin especificar el órgano que debe ejercerla, se entenderá que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de la materia y funciones.",
+        "d": "Si existiera más de un órgano inferior competente por razón de materia y funciones, la facultad para instruir y resolver los expedientes corresponderá al superior jerárquico de éstos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La desconcentración es la transferencia reglada de la competencia (titularidad y ejercicio) hacia niveles jerárquicos inferiores de la misma administración[cite: 830, 467]."
+    },
+    {
+      "numero": 17,
+      "enunciado": "Los órganos administrativos se clasifican, según el número de miembros que los componen, en:",
+      "opciones": {
+        "a": "Órganos unipersonales y órganos colegiados.",
+        "b": "Órganos simples y órganos complejos.",
+        "c": "Órganos de competencia específica y órganos de competencia general.",
+        "d": "Órganos particulares y órganos colectivos."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La distinción básica por composición separa a los órganos donde decide un solo titular de aquellos formados por una pluralidad de personas en igualdad de posición[cite: 259]."
+    },
+    {
+      "numero": 18,
+      "enunciado": "De conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+      "opciones": {
+        "a": "El régimen jurídico de los órganos colegiados se ajustará a las normas contenidas en la sección 3ª del Capítulo III: Órganos colegiados de las distintas administraciones públicas, sin perjuicio de las peculiaridades organizativas de las Administraciones Públicas en que se integran.",
+        "b": "Son órganos colegiados aquellos que se creen formalmente y estén integrados por tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control.",
+        "c": "El acuerdo de creación y las normas de funcionamiento de los órganos colegiados que dicten resoluciones que tengan efectos jurídicos frente a terceros deberán ser publicados en el Boletín o Diario Oficial de la Administración Pública en que se integran.",
+        "d": "Los órganos colegiados de las distintas Administraciones Públicas en que participen organizaciones representativas de intereses sociales, podrán establecer o modificar sus propias normas de funcionamiento."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La publicación oficial es un requisito de eficacia para que los ciudadanos conozcan el régimen de los órganos cuyas resoluciones les afectan jurídicamente[cite: 850, 308]."
+    },
+    {
+      "numero": 19,
+      "enunciado": "Según lo establecido en nuestra Ley 3/2001, de 3 de julio, de Gobierno y de la Administración de la Comunidad de Castilla y León:",
+      "opciones": {
+        "a": "Los órganos colegiados de la Administración General de la Comunidad se regirán por las normas básicas del régimen jurídico de las Administraciones públicas, por las normas contenidas en el Capítulo IV del Título V de dicha ley, por las disposiciones o convenios de creación, y por sus reglamentos de régimen interior.",
+        "b": "La disposición o convenio por la que se constituya un órgano colegiado en la Administración autonómica deberá prever necesariamente sus fines y objetivos; su adscripción administrativa; la composición y los criterios para la designación de sus miembros o su titularidad, y del secretario, en todo caso; las funciones de decisión, propuesta, informe, seguimiento o control y la dotación de los créditos necesarios, en su caso, para su funcionamiento.",
+        "c": "Podrán participar en los órganos colegiados organizaciones representativas de intereses sociales y otros miembros que se designen por las especiales condiciones de experiencia o conocimientos que concurran en ellos.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La Ley 3/2001 integra el régimen básico estatal con especificaciones autonómicas sobre creación, composición y participación social en los órganos de la Comunidad [cite: 862, 362-386]."
+    },
+    {
+      "numero": 20,
+      "enunciado": "De conformidad con la literalidad del art. 9 de la Ley 40/2015, de 1 de octubre, en ningún caso podrán ser objeto de delegación las competencias referidas a (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Las atribuidas directamente por la Constitución.",
+        "b": "La resolución de recursos en los órganos administrativos que hayan dictado los actos objeto de recurso.",
+        "c": "Los asuntos que se refieran a relaciones con la Jefatura del Estado, la Presidencia del Gobierno de la Nación, las Cortes Generales, las Presidencias de los Consejos de Gobierno de las Comunidades Autónomas y las Asambleas Legislativas de las Comunidades Autónomas.",
+        "d": "La adopción de disposiciones de carácter general."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "Aunque la Constitución es límite general, el artículo 9.2 de la LRJSP no la menciona literalmente en su lista de prohibiciones, que sí incluye relaciones institucionales y potestad reglamentaria [cite: 864, 533-538]."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Según lo establecido en el artículo 48 bis de nuestra Ley 3/2001, de 3 de julio, de Gobierno y de la Administración de la Comunidad de Castilla y León (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Las encomiendas de gestión podrán incluir prestaciones propias de los contratos previstos en la regulación relativa a la contratación del sector público, para lo que deberán ajustarse a lo dispuesto en la correspondiente normativa.",
+        "b": "La encomienda de gestión entre órganos o entidades dependientes de una misma consejería será autorizada por su titular y la que se realice a favor de órganos o entidades pertenecientes o dependientes de diferente consejería o de distinta administración pública, será autorizada por la Junta de Castilla y León.",
+        "c": "Cuando se trate de encomiendas de gestión a órganos o entidades de la Administración de la Comunidad de Castilla y León, se realizarán mediante acto resolutorio que contenga la autorización de la Junta de Castilla y León.",
+        "d": "Cuando se trate de encomiendas realizadas a órganos o entidades no dependientes de la Administración de la Comunidad de Castilla y León, deberá procederse a la firma del oportuno Convenio."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La encomienda tiene prohibido por ley suplantar al contrato administrativo; si el objeto es propio de contratación, no puede realizarse como encomienda[cite: 870, 630]."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Según el artículo 10 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, ¿qué recurso cabrá contra el acuerdo de avocación?:",
+      "opciones": {
+        "a": "No cabe recurso.",
+        "b": "Recurso de alzada.",
+        "c": "Recurso de reposición.",
+        "d": "Recurso extraordinario de revisión."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El acuerdo de avocación es un acto de trámite cualificado que la ley declara no recurrible de forma autónoma[cite: 882, 589]."
+    },
+    {
+      "numero": 23,
+      "enunciado": "De conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (señale la opción incorrecta):",
+      "opciones": {
+        "a": "La delegación de competencias supone la alteración de la titularidad de la competencia y de los elementos determinantes de su ejercicio.",
+        "b": "En todo caso, la avocación se realizará mediante acuerdo motivado que deberá ser notificado a los interesados en el procedimiento, si los hubiere, con anterioridad o simultáneamente a la resolución final que se dicte.",
+        "c": "Las encomiendas de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio.",
+        "d": "En los supuestos de delegación de competencias en órganos no dependientes jerárquicamente, el conocimiento de un asunto podrá ser avocado únicamente por el órgano delegante."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La delegación traslada solo el ejercicio; la titularidad permanece siempre en el órgano delegante, por lo que los actos se entienden dictados por este[cite: 888, 466]."
+    },
+    {
+      "numero": 24,
+      "enunciado": "Según lo establecido en el artículo 48 ter de nuestra Ley 3/2001, de 3 de julio, de Gobierno y de la Administración de la Comunidad de Castilla y León (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Las entidades que tengan el carácter de poderes adjudicadores podrán ordenar a los medios propios personificados integrados en el sector público de la Comunidad de Castilla y León aquellos trabajos y actuaciones que precisen siempre que se cumplan los requisitos previstos en la normativa de contratos del sector público.",
+        "b": "Los encargos se formalizarán mediante resolución dictada por el órgano competente de la entidad que realiza el encargo y deberá incluir, además de cuantos antecedentes procedan, las actuaciones a realizar, la forma y condiciones de su realización, el plazo de ejecución, la posibilidad de prórroga, su importe, así como la forma de financiación que corresponda, el medio propio personificado destinatario del encargo y la justificación de la necesidad o conveniencia de su realización.",
+        "c": "El órgano que realiza el encargo necesitará la previa autorización de la Junta de Castilla y León cuando el importe del gasto que suponga el mismo, incluidas las posibles prórrogas y modificaciones, sea igual o superior a 3.000.000 de euros.",
+        "d": "Las actuaciones realizadas mediante los encargos regulados en este artículo serán de la titularidad de la entidad que efectuó el encargo."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El umbral económico para requerir la autorización previa de la Junta en los encargos a medios propios es de 2.000.000 de euros, no de tres millones[cite: 906, 665]."
+    },
+    {
+      "numero": 25,
+      "enunciado": "De conformidad con lo establecido en el artículo 12 de la Ley 40/2015, de 1 de octubre:",
+      "opciones": {
+        "a": "Los titulares de los órganos administrativos podrán, en materias de su competencia, que ostenten, bien por atribución, bien por delegación de competencias, delegar la firma de sus resoluciones y actos administrativos en los titulares de los órganos o unidades administrativas que de ellos dependan.",
+        "b": "La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.",
+        "c": "En las resoluciones y actos que se firmen por delegación se hará constar esta circunstancia y la autoridad de procedencia.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La delegación de firma es una técnica de apoyo interno que no requiere publicidad oficial pero exige mencionar siempre la autoridad que delega para asegurar la validez formal [cite: 915, 681-684]."
+    },
+    {
+      "numero": 26,
+      "enunciado": "De acuerdo con el artículo 49 de la Ley 3/2001, de 3 de julio, de Gobierno y de la Administración de la Comunidad de Castilla y León:",
+      "opciones": {
+        "a": "Los titulares de los órganos directivos centrales serán sustituidos en caso de ausencia, vacante o enfermedad por el titular del órgano de la Consejería de igual rango o, en su defecto, del inmediatamente inferior, con mayor antigüedad, salvo que el Consejero de Presidencia disponga otra cosa.",
+        "b": "Los titulares de los órganos directivos periféricos serán suplidos por el Secretario Territorial y, en su defecto, por el Jefe de Departamento Territorial que tenga mayor antigüedad, salvo que el Delegado Territorial disponga otra cosa.",
+        "c": "Los titulares de los demás órganos serán suplidos, siempre que el contenido de la función lo permita, por el titular del órgano del mismo rango con mayor antigüedad del centro directivo, salvo que el titular de éste disponga otra cosa.",
+        "d": "El artículo 49 de la Ley 3/2001, de 3 de julio no regula la suplencia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La ley autonómica establece una regla de suplencia supletoria basada en el rango y la antigüedad para garantizar la continuidad administrativa en ausencia del titular[cite: 922, 706]."
+    },
+    {
+      "numero": 27,
+      "enunciado": "De conformidad con la literalidad del art. 17 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, sobre el funcionamiento de los órganos colegiados:",
+      "opciones": {
+        "a": "Todos los órganos colegiados se podrán constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, salvo que su reglamento interno recoja expresa y excepcionalmente lo contrario.",
+        "b": "Para la válida constitución del órgano, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, al menos cuando sea de forma presencial, del Presidente y Secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.",
+        "c": "Cuando los miembros del órgano voten en contra o se abstengan, no quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos.",
+        "d": "En ningún caso podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El funcionamiento electrónico es ahora la norma general para todos los órganos colegiados, permitiendo la interactividad en tiempo real sin presencia física obligatoria[cite: 927, 317]."
+    },
+    {
+      "numero": 28,
+      "enunciado": "De acuerdo a lo establecido en la Ley 40/2015, de 1 de octubre, sobre el funcionamiento de los órganos colegiados, de cada sesión que celebre el órgano se levantará acta por el Secretario, que especificará necesariamente:",
+      "opciones": {
+        "a": "Los asistentes.",
+        "b": "El orden del día.",
+        "c": "El contenido de los acuerdos adoptados.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El acta es el documento fedatario que debe recoger los elementos esenciales de la sesión: quién asistió, qué se trató y qué se decidió finalmente [cite: 942, 343-348]."
+    },
+    {
+      "numero": 29,
+      "enunciado": "De conformidad con lo establecido en la Ley 40/2015, de 1 de octubre, sobre el funcionamiento de los órganos colegiados (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Los órganos colegiados podrán establecer el régimen propio de convocatorias, si éste no está previsto por sus normas de funcionamiento. Tal régimen podrá prever una segunda convocatoria y especificar para ésta el número de miembros necesario para constituir válidamente el órgano.",
+        "b": "Las convocatorias serán remitidas a los miembros del órgano colegiado a través de medios electrónicos, salvo que no resulte posible.",
+        "c": "En la convocatoria debe constar necesariamente el orden del día, las condiciones en las que se va a celebrar la sesión, el sistema de conexión y el acta de la sesión anterior.",
+        "d": "Los acuerdos serán adoptados por mayoría de votos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "Aunque es habitual, el acta de la sesión anterior no figura en el artículo 17.3 como uno de los contenidos obligatorios por ley de la convocatoria [cite: 950, 333-337]."
+    },
+    {
+      "numero": 30,
+      "enunciado": "De conformidad con lo establecido en artículo 9 de la Ley 40/2015, de 1 de octubre, que regula la figura de la delegación de competencias (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Los órganos de las diferentes Administraciones Públicas podrán delegar el ejercicio de las competencias que tengan atribuidas en otros órganos de la misma Administración, aun cuando no sean jerárquicamente dependientes, o en los Organismos públicos o Entidades de Derecho Público vinculados o dependientes de aquéllas.",
+        "b": "Las resoluciones administrativas que se adopten por delegación indicarán expresamente esta circunstancia y se considerarán dictadas por el órgano delegante.",
+        "c": "En ningún caso podrán delegarse las competencias que se ejerzan por delegación.",
+        "d": "La delegación será revocable en cualquier momento por el órgano que la haya conferido."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La subdelegación está prohibida por defecto, pero el artículo 9.5 permite excepciones si existe una autorización expresa en una Ley[cite: 958, 542]."
+    },
+    {
+      "numero": 31,
+      "enunciado": "De conformidad con lo establecido en el artículo 48 de nuestra normativa autonómica (Ley 3/2001, de 3 de julio, de Gobierno y de la Administración de la Comunidad de Castilla y León):",
+      "opciones": {
+        "a": "El ejercicio de las competencias propias de los órganos de la Administración General podrá ser delegado en otros de igual o inferior categoría, aunque no sean jerárquicamente dependientes, tanto centrales con categoría igual o superior a Sección, como periféricos con categoría igual o superior a Servicio, salvo disposición en contrario.",
+        "b": "La delegación de competencias, así como su revocación, se aprobará mediante la disposición propia del órgano delegante, y se publicará en el «Boletín Oficial de Castilla y León».",
+        "c": "Se requerirá la previa autorización del Consejero o Consejeros de quienes dependan los órganos delegante y delegado, inclusive en competencias de la Presidencia o Vicepresidencia.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 48.2 exige que el acto de delegación se formalice a través de la disposición del titular que delega y se publique en el BOCYL para conocimiento general[cite: 969, 555]."
+    },
+    {
+      "numero": 32,
+      "enunciado": "De conformidad con lo establecido en el artículo 48 de la Ley 3/2001, de 3 de julio, de Gobierno y de la Administración de la Comunidad de Castilla y León, no son delegables las siguientes competencias (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Las atribuidas directamente por la Constitución y por el Estatuto de Autonomía.",
+        "b": "Las propias de la Junta de Castilla y León.",
+        "c": "La creación, modificación o supresión de Consejerías y Viceconsejerías.",
+        "d": "La firma de los Decretos y la ordenación de su publicación en el Boletín Oficial del Estado."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La prohibición de delegación de firma de Decretos autonómicos se refiere lógicamente a su publicación en el Boletín de la Comunidad (BOCYL), no en el del Estado[cite: 978, 564]."
+    },
+    {
+      "numero": 33,
+      "enunciado": "De conformidad con la literalidad del art. 56 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, sobre las unidades administrativas, señale la opción incorrecta:",
+      "opciones": {
+        "a": "Son los elementos organizativos básicos de las estructuras orgánicas.",
+        "b": "Comprenden puestos de trabajo o dotaciones de plantilla vinculados orgánicamente por razón de sus cometidos y funcionalmente por una jefatura común.",
+        "c": "Los jefes de las unidades administrativas son responsables del correcto funcionamiento de la unidad y de la adecuada ejecución de las tareas asignadas a la misma.",
+        "d": "Se establecen mediante las relaciones de puestos de trabajo, que se aprobarán de acuerdo con su regulación específica, y se integran en un determinado órgano."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El error reside en la vinculación: la ley establece que están vinculados 'funcionalmente' por sus tareas y 'orgánicamente' por depender de un mismo jefe[cite: 982, 219]."
+    },
+    {
+      "numero": 34,
+      "enunciado": "De conformidad con lo establecido en el artículo 53 de la Ley 3/2001, \"la disposición o convenio por la que se constituya un órgano colegiado en la Administración autonómica deberá prever necesariamente los siguientes extremos\" (indique la opción incorrecta):",
+      "opciones": {
+        "a": "La composición y los criterios para la designación de sus miembros o su titularidad, y del Presidente y Secretario, en todo caso.",
+        "b": "Su adscripción administrativa.",
+        "c": "Las funciones de decisión, propuesta, informe, seguimiento o control, así como cualquier otra que se le atribuya.",
+        "d": "La dotación de los créditos necesarios, en su caso, para su funcionamiento."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La literalidad del artículo 53.1.c) solo menciona como obligatorio especificar la designación de miembros y del Secretario, sin incluir al Presidente en ese listado de mínimos[cite: 993, 367]."
+    },
+    {
+      "numero": 35,
+      "enunciado": "Para la válida constitución de un órgano colegiado, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá, según el art. 17 de la LRJSP, la asistencia:",
+      "opciones": {
+        "a": "Presencial o a distancia, del presidente y secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.",
+        "b": "Presencial o a distancia, del presidente, vicepresidente y secretario o en su caso, de quienes les suplan, y la de la mitad, al menos, de sus miembros.",
+        "c": "Presencial o a distancia, del presidente y secretario o en su caso, de quienes les suplan, y la de la mitad más uno, al menos, de sus miembros.",
+        "d": "Presencial o a distancia, del presidente y secretario o en su caso, de quienes les suplan, y dos tercios, al menos, de sus miembros."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El quórum básico de asistencia para la validez de cualquier sesión exige que estén las dos figuras clave y al menos el 50% de los vocales[cite: 999, 324]."
+    },
+    {
+      "numero": 36,
+      "enunciado": "De acuerdo con lo dispuesto en el art. 11 de la LRJSP, la encomienda de gestión:",
+      "opciones": {
+        "a": "Podrá tener por objeto prestaciones propias de los contratos regulados en la legislación de contratos del sector público.",
+        "b": "No supone la cesión de la titularidad de la competencia, pero sí de los elementos sustantivos de su ejercicio.",
+        "c": "La Entidad u órgano encomendado tendrá la condición de encargado del tratamiento de los datos de carácter personal a los que pudiera tener acceso en ejecución de la encomienda.",
+        "d": "Supone tanto la cesión de la titularidad de la competencia como de los elementos sustantivos de su ejercicio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "Al no haber cesión de competencia, el órgano que ejecuta la encomienda actúa simplemente como un gestor o encargado de los datos bajo la responsabilidad del titular[cite: 1008, 606]."
+    },
+    {
+      "numero": 37,
+      "enunciado": "De acuerdo con el art. 9.6 de la LRJSP, señale la afirmación correcta sobre la delegación de competencias:",
+      "opciones": {
+        "a": "Se podrá delegar la adopción de disposiciones de carácter general.",
+        "b": "Las resoluciones administrativas que se adopten por delegación se considerarán dictadas por el órgano delegado.",
+        "c": "En ningún caso podrán delegarse las competencias que se ejerzan por delegación.",
+        "d": "La delegación será revocable en cualquier momento por el órgano que la haya conferido."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El órgano delegante mantiene siempre la facultad de recuperar el ejercicio de la competencia de forma unilateral y sin necesidad de justificación especial[cite: 1015, 545]."
+    },
+    {
+      "numero": 38,
+      "enunciado": "A tenor de la literalidad del art. 55 de la Ley 3/2001, de 3 de julio, No corresponde al Presidente del órgano colegiado:",
+      "opciones": {
+        "a": "Ostentar la representación del órgano.",
+        "b": "Efectuar la convocatoria de las sesiones.",
+        "c": "Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas",
+        "d": "Dirimir con su voto los empates, a efectos de adoptar acuerdos."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "Corresponde al Presidente 'acordar' o decidir la convocatoria, pero su ejecución material o envío ('efectuar') es función del Secretario[cite: 1022, 420]."
+    },
+    {
+      "numero": 39,
+      "enunciado": "Según lo establecido en el art. 57 de la Ley 3/2001, de 3 de julio, No corresponde al Secretario del órgano colegiado:",
+      "opciones": {
+        "a": "Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día, teniendo en cuenta, en su caso, las peticiones de los demás miembros formuladas con la suficiente antelación.",
+        "b": "Asistir a las reuniones con voz y voto si es miembro del órgano, y con voz pero sin voto si actúa como funcionario.",
+        "c": "Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.",
+        "d": "Participar en los debates de las sesiones."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La decisión de convocar y la fijación de los temas a tratar (orden del día) es una prerrogativa exclusiva del Presidente del órgano[cite: 1027, 392]."
+    },
+    {
+      "numero": 40,
+      "enunciado": "Según el art. 8 de la LRJSP, no suponen alteración de la titularidad de la competencia, aunque sí de los elementos determinantes de su ejercicio que en cada caso se prevén:",
+      "opciones": {
+        "a": "La avocación, la delegación de competencias, la suplencia y la delegación de firma.",
+        "b": "La delegación de competencias, la avocación, las encomiendas de gestión, la delegación de firma y la suplencia.",
+        "c": "La delegación de competencias, la suplencia, la delegación de firma y las encomiendas de gestión.",
+        "d": "La avocación, las encomiendas de gestión, la delegación de firma y la suplencia."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La ley agrupa estas cuatro figuras como técnicas que desplazan el ejercicio o la firma sin tocar la propiedad (titularidad) legal de la competencia[cite: 1034, 466]."
+    },
+    {
+      "numero": 41,
+      "enunciado": "Según el art. 19 de la LRJSP, al presidente de un órgano colegiado no le corresponde:",
+      "opciones": {
+        "a": "Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados",
+        "b": "Visar las actas y certificaciones de los acuerdos del órgano.",
+        "c": "Fijar el orden del día.",
+        "d": "Acordar la convocatoria de las sesiones ordinarias y extraordinarias."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "La expedición de certificaciones es una tarea de fe pública administrativa atribuida específicamente al Secretario del órgano colegiado[cite: 1037, 428]."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Según recoge el art. 18 de la LRJSP, \"de cada sesión que celebre el órgano colegiado se levantará acta por el Secretario, que especificará necesariamente\":",
+      "opciones": {
+        "a": "Los asistentes y el orden del día de la reunión.",
+        "b": "Las circunstancias del lugar y tiempo en que se ha celebrado.",
+        "c": "Los puntos principales de las deliberaciones y los acuerdos adoptados.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 14. Órganos Colegiados AAPP",
+      "explicación": "El artículo 18.1 exige un contenido mínimo exhaustivo para que el acta sirva de prueba de todo lo acontecido durante la sesión colegiada [cite: 1046, 343-348]."
+    }
+  ]
+}
