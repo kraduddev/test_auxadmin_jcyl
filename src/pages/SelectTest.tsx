@@ -5,16 +5,10 @@ import { statsService } from '../services/statsService';
 import type { Test, ActiveTest, ActiveQuestion, Question } from '../models/types';
 import { Upload, Play, Settings, CheckSquare, Square, TrendingDown } from 'lucide-react';
 import PageHeader from '../components/PageHeader';
+import { shuffle, shuffleQuestionOptions } from '../services/questionShuffler';
 
-// Función para mezclar arrays (Fisher-Yates)
-const shuffleArray = <T,>(array: T[]): T[] => {
-  const newArray = [...array];
-  for (let i = newArray.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
-  }
-  return newArray;
-};
+// Alias para mezclar arrays genéricos (orden de preguntas)
+const shuffleArray = <T,>(array: T[]): T[] => shuffle(array);
 
 const SelectTest: React.FC = () => {
   const [tests, setTests] = useState<Test[]>([]);
@@ -206,16 +200,19 @@ const SelectTest: React.FC = () => {
     const selectedQuestions = shuffledQuestions.slice(0, limit);
 
     const activeQuestions: ActiveQuestion[] = selectedQuestions.map(q => {
-      const keys = ['a', 'b', 'c', 'd'] as const;
-      const shuffledKeys = shuffleArray([...keys]);
+      // shuffleQuestionOptions: mezcla opciones, reescribe referencias internas y
+      // actualiza respuesta_correcta. Si la pregunta tiene "todas/ninguna de las
+      // anteriores" la devuelve tal cual para evitar incoherencias.
+      const shuffled = shuffleQuestionOptions(q);
 
-      const opcionesAleatorias = shuffledKeys.map(k => ({
+      const keys = ['a', 'b', 'c', 'd'] as const;
+      const opcionesAleatorias = keys.map(k => ({
         claveOriginal: k,
-        texto: q.opciones[k]
+        texto: shuffled.opciones[k]
       }));
 
       // eslint-disable-next-line @typescript-eslint/no-unused-vars
-      const { opciones: _opciones, ...questionData } = q;
+      const { opciones: _opciones, ...questionData } = shuffled;
       return {
         ...questionData,
         opcionesAleatorias
