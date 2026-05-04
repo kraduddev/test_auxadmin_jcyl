@@ -1,0 +1,564 @@
+{
+  "tema": "Tema 23. Transparencia Administrativa",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "De conformidad con lo establecido en el artículo 3.1 de la Ley 3/2015, de 4 de marzo, de Transparencia y Participación Ciudadana de Castilla y León, 'los organismos y entidades que conforman el sector público autonómico a los que se refiere el artículo 2 1. a) a f) de la Ley 2/2006 de 3 de mayo, y las asociaciones constituidas por ellos, además de la información que han de publicar en cumplimiento de la Ley 19/2013, de 9 de diciembre, publicarán la siguiente información:",
+      "opciones": {
+        "a": "Las relaciones de puestos de trabajo, las plantillas de personal o instrumentos análogos.",
+        "b": "Las convocatorias de procesos de selección de personal, con indicación, al menos, del número y la categoría de las plazas convocadas y del gasto público realizado en estos procesos.",
+        "c": "Los contratos de personal eventual, indicando el importe de sus retribuciones anuales y de las indemnizaciones previstas a la finalización del contrato.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 3.1 de la Ley 3/2015 establece explícitamente estas tres obligaciones de publicidad activa (RPTs, procesos de selección y contratos de personal eventual/alta dirección)."
+    },
+    {
+      "numero": 2,
+      "enunciado": "Según lo establecido en el art. 3.2 de la Ley 3/2015, de 4 de marzo, el incumplimiento reiterado de las obligaciones de publicidad activa por parte de estos organismos y entidades, tendrá la consideración de a los efectos de aplicación a sus responsables del régimen disciplinario previsto en la correspondiente norma reguladora:",
+      "opciones": {
+        "a": "Infracción leve.",
+        "b": "Infracción moderada.",
+        "c": "Infracción grave.",
+        "d": "Infracción muy grave."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 3.2 de la Ley 3/2015 califica expresamente el incumplimiento reiterado de las obligaciones de publicidad activa como infracción grave."
+    },
+    {
+      "numero": 3,
+      "enunciado": "De acuerdo con la literalidad del artículo 4 de la Ley 3/2015, de 4 de marzo, en el ámbito de la Administración General de la Comunidad y de sus Organismos Autónomos, ¿a quién corresponderá la gestión y mantenimiento del Portal de Gobierno Abierto?:",
+      "opciones": {
+        "a": "A cada Consejería y Organismo Autónomo.",
+        "b": "A la Dirección General de Transparencia y Buen Gobierno.",
+        "c": "Al órgano que tenga atribuida la dirección y coordinación de la Web Corporativa de la Junta de Castilla y León.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 4.1 de la Ley 3/2015 atribuye específicamente la gestión y mantenimiento del Portal al órgano encargado de la Web Corporativa de la Junta."
+    },
+    {
+      "numero": 4,
+      "enunciado": "Todas las personas tienen derecho a acceder a la información pública en los términos previstos en:",
+      "opciones": {
+        "a": "El artículo 105.b) de la Constitución Española.",
+        "b": "El Capítulo III del Título I de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+        "c": "El Capítulo II del Título I de la Ley 3/2015, de 4 de marzo, de transparencia y participación ciudadana de Castilla y León.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 5 de la Ley 3/2015 fundamenta el derecho de acceso en la Constitución, la ley básica estatal (19/2013) y el capítulo autonómico correspondiente (Capítulo II del Título I)."
+    },
+    {
+      "numero": 5,
+      "enunciado": "El artículo 16 de la Ley 3/2015, de 4 de marzo, establece que 'la Administración General de la Comunidad de Castilla y León y sus Organismos Autónomos deberán someter a la participación ciudadana a través del Portal de Gobierno Abierto':",
+      "opciones": {
+        "a": "Los anteproyectos de decreto-ley.",
+        "b": "Los anteproyectos de decreto legislativo.",
+        "c": "Los anteproyectos de Ley de Presupuestos Generales de la Comunidad.",
+        "d": "Las estrategias, los planes y los programas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 16 enumera las normas objeto de participación, mientras que el artículo 17 excluye expresamente los decretos-ley, decretos legislativos y leyes de presupuestos (opciones a, b y c)."
+    },
+    {
+      "numero": 6,
+      "enunciado": "No serán objeto de la participación ciudadana a través del Portal de Gobierno Abierto:",
+      "opciones": {
+        "a": "Los anteproyectos de ley de medidas tributarias, financieras y administrativas que acompañen a la Ley de Presupuestos Generales de la Comunidad.",
+        "b": "Los proyectos de decreto.",
+        "c": "Los anteproyectos de ley.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 17.d de la Ley 3/2015 excluye expresamente los anteproyectos de ley que acompañan a la Ley de Presupuestos; los proyectos de decreto y anteproyectos de ley (b y c) sí son, por regla general, objeto de participación."
+    },
+    {
+      "numero": 7,
+      "enunciado": "Según lo recogido en el artículo 11 de la Ley 3/2015, de 4 de marzo, las funciones del Comisionado de Transparencia están atribuidas:",
+      "opciones": {
+        "a": "Al Defensor del Pueblo.",
+        "b": "Al Titular de la Consejería de Presidencia de la Junta de Castilla y León.",
+        "c": "Al Director General de Transparencia y Buen Gobierno.",
+        "d": "Al Procurador del Común de Castilla y León."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 11.1 de la Ley 3/2015 crea la figura del Comisionado y le atribuye expresamente sus funciones al Procurador del Común."
+    },
+    {
+      "numero": 8,
+      "enunciado": "El artículo 12 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, recoge que 'los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679, podrán ejercerse directamente o por medio de representante legal o voluntario'. Entre estos derechos se encuentra/n:",
+      "opciones": {
+        "a": "Derecho a la limitación del tratamiento (art. 18).",
+        "b": "Derecho a la portabilidad de los datos. (art. 20).",
+        "c": "Derecho de acceso del interesado (art. 15).",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El rango de artículos 15 a 22 del RGPD abarca efectivamente el derecho de acceso, limitación y portabilidad entre otros, conforme al artículo citado de la LOPDGDD."
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Cuál es la normativa autonómica que regula el procedimiento para el ejercicio del derecho de acceso a la información pública en la Comunidad de Castilla y León?:",
+      "opciones": {
+        "a": "Ley 6/1991, de 18 de abril.",
+        "b": "Decreto 7/2016, de 17 de marzo.",
+        "c": "Ley 3/2015, de 4 de mayo.",
+        "d": "Ley 16/1985, de 25 de junio."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "Es la Ley 3/2015, de Transparencia y Participación Ciudadana de Castilla y León (aunque la fecha exacta es 4 de marzo, es la opción correcta por descarte y referencia en el texto)."
+    },
+    {
+      "numero": 10,
+      "enunciado": "De conformidad con lo establecido en el artículo 14 del Reglamento (UE) 2016/679, cuando los datos personales no se hayan obtenido del interesado, el responsable del tratamiento le facilitará la siguiente información:",
+      "opciones": {
+        "a": "La identidad y los datos de contacto del responsable y, en su caso, de su representante.",
+        "b": "La finalidad del tratamiento a que se destinan los datos personales, así como la base jurídica del tratamiento.",
+        "c": "Los datos de contacto del delegado de protección de datos, en su caso.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 14 del RGPD obliga al responsable a informar sobre estos elementos (identidad, finalidad, base jurídica, DPD) cuando los datos no provienen directamente del interesado."
+    },
+    {
+      "numero": 11,
+      "enunciado": "De conformidad con el artículo 14 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso a la información pública podrá ser limitado cuando acceder a la información suponga un perjuicio para:",
+      "opciones": {
+        "a": "La seguridad nacional.",
+        "b": "La seguridad pública.",
+        "c": "La protección del medio ambiente.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 14.1 de la Ley 19/2013 establece una lista tasada de límites comunes, entre los que se incluyen expresamente la seguridad nacional, seguridad pública y protección del medio ambiente."
+    },
+    {
+      "numero": 12,
+      "enunciado": "De conformidad con la literalidad del artículo 9 de la Ley 3/2015, de 4 de marzo, 'En el ámbito de la Administración General de la Comunidad, de sus organismos autónomos y de sus entes públicos de derecho privado cuando ejerzan potestades administrativas, la resolución estimatoria de la solicitud de acceso se pronunciará, siempre que sea posible, sobre la reutilización de los documentos facilitados, aunque esta no se haya solicitado. El pronunciamiento será contrario a la reutilización, en los siguientes casos:",
+      "opciones": {
+        "a": "Cuando la información contenga datos personales de personas físicas.",
+        "b": "Cuando la información contenga datos personales de personas jurídicas.",
+        "c": "Cuando la reutilización de los documentos objeto de acceso esté sujeta a un canon distinto al aplicable al acceso.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 9.5 de la Ley 3/2015 establece como excepción a la reutilización que la información contenga datos personales (a) o esté sujeta a una tasa distinta (c); la opción b es incorrecta porque el RGPD solo protege datos de personas físicas."
+    },
+    {
+      "numero": 13,
+      "enunciado": "Según recoge el art. 4.1 de la Ley 3/2015, de 4 de marzo, en el ámbito de la Administración General de la Comunidad y de sus Organismos Autónomos, corresponderá al órgano que tenga atribuida la dirección y coordinación de la Web Corporativa de la Junta de Castilla y León:",
+      "opciones": {
+        "a": "La aplicación de las normas técnicas aplicables a la información objeto de publicidad activa a fin de garantizar su uniformidad, accesibilidad e interoperabilidad.",
+        "b": "La aplicación de las normas administrativas aplicables a la información objeto de publicidad activa a fin de garantizar su uniformidad, accesibilidad e interoperabilidad.",
+        "c": "La aplicación de las normas ISO aplicables a la información objeto de publicidad activa a fin de garantizar su uniformidad, accesibilidad e interoperabilidad.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 4.1.b de la Ley 3/2015 especifica literalmente que corresponde la aprobación (o aplicación técnica) de las 'normas técnicas' para garantizar la interoperabilidad y accesibilidad."
+    },
+    {
+      "numero": 14,
+      "enunciado": "De conformidad con lo establecido en el artículo 9 de la Ley 3/2015, de 4 de marzo, los documentos de la Administración General de la Comunidad y de sus organismos autónomos publicados en el Portal de Gobierno Abierto serán reutilizables con sujeción a:",
+      "opciones": {
+        "a": "Que el contenido de la información no sea alterado.",
+        "b": "Que no se desnaturalice el formato de la información.",
+        "c": "Que se citen los límites de extrapolación de los metadatos.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 9.7.a de la Ley 3/2015 establece como condición que el contenido no sea alterado; la b es incorrecta (se habla de desnaturalizar el contenido, no el formato) y la c no figura en la ley."
+    },
+    {
+      "numero": 15,
+      "enunciado": "Según lo establecido en el artículo 10 de la Ley 3/2015, e 4 de marzo, en materia de reutilización de información del sector público en la Comunidad de Castilla y León, la competencia para imponer sanciones corresponde a/al:",
+      "opciones": {
+        "a": "La Junta de Castilla y León en infracciones graves.",
+        "b": "Titular de la consejería o del máximo órgano de dirección del organismo autónomo en cuyo poder obren los documentos en las infracciones muy graves.",
+        "c": "Titular de la Secretaría General o Dirección General de la Consejería en infracciones leves.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 10 asigna las infracciones leves (c) a la Secretaría/Dirección General; las infracciones muy graves corresponden a la Junta, y las graves al titular de la consejería."
+    },
+    {
+      "numero": 16,
+      "enunciado": "En relación con el Comisionado de Transparencia, regulado en el Título II de la Ley 3/2015, de 4 de marzo, tiene por finalidad:",
+      "opciones": {
+        "a": "Velar por el cumplimiento de las obligaciones de publicidad activa y salvaguardar el ejercicio del derecho de reutilización de la información pública.",
+        "b": "Velar por el cumplimiento de las obligaciones de publicidad pasiva y salvaguardar el ejercicio del derecho de acceso a la información pública.",
+        "c": "Velar por el cumplimiento de las obligaciones de publicidad activa y salvaguardar el ejercicio del derecho de acceso a la información pública.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 11.2 de la Ley 3/2015 define la finalidad del Comisionado como velar por la publicidad activa y el derecho de acceso (no la reutilización ni publicidad pasiva)."
+    },
+    {
+      "numero": 17,
+      "enunciado": "De conformidad con lo establecido en el artículo 18 de la Ley 3/2015, de 4 de marzo, el órgano competente para la elaboración del texto objeto de participación, lo publicará en el Portal de Gobierno Abierto:",
+      "opciones": {
+        "a": "Durante un periodo mínimo de 10 días hábiles.",
+        "b": "Durante un periodo máximo de 10 días hábiles.",
+        "c": "Durante un periodo mínimo de 10 días naturales.",
+        "d": "Durante un periodo máximo de 10 días naturales."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 18.1 de la Ley 3/2015 estipula explícitamente un periodo mínimo de diez días naturales."
+    },
+    {
+      "numero": 18,
+      "enunciado": "La participación ciudadana a través del Portal de Gobierno Abierto, regulada en el Título III de la Ley 3/2015, de 4 de marzo:",
+      "opciones": {
+        "a": "Será simultánea o inmediatamente posterior a los trámites que correspondan a cada procedimiento de modo que el tiempo de tramitación sea el mismo que transcurriría sin esta participación.",
+        "b": "Podrá consistir en sugerencias, en propuestas parciales o en presentación de textos alternativos.",
+        "c": "Conferirá a los participantes la condición de interesados prevista en la legislación sobre procedimiento administrativo.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 18.3 permite efectivamente sugerencias o textos alternativos; la a es incorrecta (es simultánea o *anterior*) y la c es incorrecta (no confiere condición de interesado)."
+    },
+    {
+      "numero": 19,
+      "enunciado": "El derecho a la protección de datos de carácter personal:",
+      "opciones": {
+        "a": "Es un derecho derivado del derecho fundamental a la intimidad.",
+        "b": "Es un derecho ordinario reconocido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+        "c": "Es un derecho ilimitado.",
+        "d": "Es un derecho fundamental reconocido en nuestra Constitución Española."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El artículo 18.4 de la Constitución Española reconoce explícitamente el derecho fundamental a la protección de datos, distinto del derecho a la intimidad (a), y no es un derecho ordinario (b) ni ilimitado (c)."
+    },
+    {
+      "numero": 20,
+      "enunciado": "En el art. 5 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, se encuentran contenidos los principios relativos al tratamiento de datos personales. Indique cuál NO es uno de estos principios:",
+      "opciones": {
+        "a": "El principio de licitud, lealtad y transparencia.",
+        "b": "El principio de integridad y confidencialidad.",
+        "c": "El principio de limitación del plazo de conservación.",
+        "d": "El principio de derecho de acceso del interesado."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "Los principios (art. 5 RGPD) son licitud, finalidad, minimización, exactitud, conservación e integridad/confidencialidad. El 'derecho de acceso' es un derecho del interesado, no un principio del tratamiento."
+    },
+    {
+      "numero": 21,
+      "enunciado": "Se entiende por dato de carácter personal:",
+      "opciones": {
+        "a": "Toda información concerniente a personas físicas identificadas.",
+        "b": "Toda información concerniente a personas físicas o jurídicas identificadas.",
+        "c": "Toda información concerniente a personas físicas identificadas o identificables.",
+        "d": "Toda información concerniente a personas físicas o jurídicas identificadas o identificables."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "Según el artículo 4 del RGPD, se refiere exclusivamente a personas físicas, no jurídicas, que sean identificadas o identificables."
+    },
+    {
+      "numero": 22,
+      "enunciado": "Se entiende por tratamiento de datos personales:",
+      "opciones": {
+        "a": "Cualquier operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, por procedimientos automatizados, como la recogida...",
+        "b": "Cualquier operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, por procedimientos no automatizados, como la recogida...",
+        "c": "Cualquier operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, por procedimientos automatizados o no, como la recogida, registro, organización, estructuración, conservación, adaptación o modificación, extracción, consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma de habilitación de acceso, cotejo o interconexión, limitación, supresión o destrucción.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "La definición del RGPD abarca todas las operaciones (automatizadas o no) realizadas sobre datos personales."
+    },
+    {
+      "numero": 23,
+      "enunciado": "Se entiende por encargado del tratamiento de datos personales:",
+      "opciones": {
+        "a": "La persona física o jurídica, autoridad pública, servicio u otro organismo que, de forma independiente, determine los fines y medios del tratamiento.",
+        "b": "La persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto a otros, determine los fines y medios del tratamiento.",
+        "c": "La persona física o jurídica, autoridad pública, servicio u otro organismo que trata datos personales por cuenta del responsable del tratamiento.",
+        "d": "La persona designada por el responsable del tratamiento para supervisar y monitorear de manera independiente la aplicación interna y el cumplimiento de las normas de protección de datos."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El encargado trata datos *por cuenta* del responsable. La definición 'a' y 'b' se refiere al responsable del tratamiento, y la 'd' describe al DPD."
+    },
+    {
+      "numero": 24,
+      "enunciado": "Son categorías especiales de datos personales, recogidas en el art. 9 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016:",
+      "opciones": {
+        "a": "Datos que revelen el origen étnico o racial.",
+        "b": "Opiniones políticas.",
+        "c": "Datos relativos a la salud.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El artículo 9 del RGPD enumera estas categorías, incluyendo origen racial/étnico, opiniones políticas y datos de salud como categorías especiales."
+    },
+    {
+      "numero": 25,
+      "enunciado": "De entre los siguientes datos ¿cuál no se considera de carácter personal?:",
+      "opciones": {
+        "a": "El estado civil.",
+        "b": "La imagen.",
+        "c": "La afiliación sindical.",
+        "d": "La denominación social de una persona jurídica."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "La normativa de protección de datos (RGPD) se aplica solo a personas físicas. La denominación de una persona jurídica (empresa) no es un dato de carácter personal."
+    },
+    {
+      "numero": 26,
+      "enunciado": "El art. 22 del Decreto 22/2021, de 30 de septiembre, por el que se aprueba la política de seguridad de la información y protección de datos de la Administración de la Comunidad de Castilla y León, en relación con el uso de los medios digitales, expone que:",
+      "opciones": {
+        "a": "La Administración de la Comunidad podrá acceder a los contenidos de los medios digitales de titularidad pública, excepto las comunicaciones que estén cifradas.",
+        "b": "Los medios digitales puestos a disposición del personal empleado público se destinarán exclusivamente al cumplimiento de sus obligaciones laborales o estatutarias.",
+        "c": "Las medidas adoptadas para acceder a la información deben ser idóneas, necesarias y confidenciales.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El artículo 22.1 del Decreto 22/2021 establece este uso exclusivo; la 'a' es incorrecta porque el acceso incluye comunicaciones cifradas (art. 22.2) y la 'c' es incorrecta porque deben ser 'proporcionales', no confidenciales."
+    },
+    {
+      "numero": 27,
+      "enunciado": "Según el artículo 5 del Reglamento (UE) 2016/679, de 27 de abril, del Parlamento Europeo y del Consejo, son principios relativos al tratamiento de datos de carácter personal:",
+      "opciones": {
+        "a": "Licitud, lealtad, transparencia, integridad y confidencialidad.",
+        "b": "Rendición de cuentas y responsabilidad reactiva.",
+        "c": "Maximización de datos y limitación de la finalidad.",
+        "d": "Todos los anteriores son principios relativos al tratamiento de datos de carácter personal."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "La opción 'a' recoge principios reales del art. 5 RGPD. La 'b' es errónea (se llama responsabilidad proactiva) y la 'c' es errónea (es *minimización* de datos)."
+    },
+    {
+      "numero": 28,
+      "enunciado": "El principio de la limitación de la finalidad obliga a que los datos personales sean recogidos:",
+      "opciones": {
+        "a": "Con fines determinados y legítimos, pudiendo ser tratados posteriormente para otros fines.",
+        "b": "Con fines determinados, explícitos y legítimos, pudiendo ser tratados posteriormente para otros fines.",
+        "c": "Con fines determinados, explícitos y legítimos, no pudiendo ser tratados posteriormente para otros fines.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El principio de limitación de la finalidad (art. 5.1.b) exige que los fines sean determinados, explícitos y legítimos, prohibiendo tratamientos posteriores incompatibles."
+    },
+    {
+      "numero": 29,
+      "enunciado": "De conformidad con lo establecido en el art. 6 del Reglamento (UE) 2016/679, de 27 de abril, del Parlamento Europeo y del Consejo, el tratamiento de los datos solo será lícito si se cumple al menos alguna de las siguientes condiciones (señale la opción incorrecta):",
+      "opciones": {
+        "a": "El interesado haya dado su consentimiento para el tratamiento de sus datos personales para uno o varios fines específicos.",
+        "b": "El tratamiento sea necesario para proteger intereses vitales del interesado o de otra persona física.",
+        "c": "El tratamiento sea necesario para el cumplimiento de una obligación legal aplicable al encargado del tratamiento.",
+        "d": "El tratamiento sea necesario para la ejecución de un contrato en el que el interesado es parte."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El art. 6.1.c se refiere a la obligación legal aplicable al *responsable*, no al encargado."
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué principio relativo al tratamiento de datos de carácter personal determina que los datos personales serán tratados de tal manera que se garantice una seguridad adecuada, incluida la protección contra el tratamiento no autorizado o ilícito y contra su pérdida, destrucción o daño accidental, mediante la aplicación de medidas técnicas u organizativas apropiadas?:",
+      "opciones": {
+        "a": "El principio de limitación de la finalidad.",
+        "b": "El principio de limitación del plazo de conservación.",
+        "c": "El principio de licitud, lealtad y transparencia.",
+        "d": "El principio de integridad y confidencialidad."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El principio de integridad y confidencialidad (art. 5.1.f RGPD) garantiza la seguridad contra tratamientos no autorizados, pérdidas o daños."
+    },
+    {
+      "numero": 31,
+      "enunciado": "En relación con el tratamiento de categorías especiales de datos personales:",
+      "opciones": {
+        "a": "Existe una prohibición general de tratamiento de categorías especiales de datos personales.",
+        "b": "Debe estar amparado en todo caso en una norma con rango de ley.",
+        "c": "Debe estar amparado en una norma de Derecho de la Unión Europea.",
+        "d": "Puede llevarse a cabo, en todo caso, cuando el interesado dio su consentimiento explícito."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El art. 9.1 del RGPD establece la prohibición general de tratar categorías especiales, salvo excepciones (art. 9.2)."
+    },
+    {
+      "numero": 32,
+      "enunciado": "Respecto al derecho de información, recogido en el artículo 13 del Reglamento (UE) 2016/679, de 27 de abril, del Parlamento Europeo y del Consejo, cuando los datos personales se obtienen del interesado, el responsable del tratamiento debe informar sobre:",
+      "opciones": {
+        "a": "Los fines del tratamiento a que se destinan los datos personales y la base jurídica del tratamiento.",
+        "b": "Los destinatarios o las categorías de destinatarios de los datos personales, en su caso.",
+        "c": "El plazo durante el cual se conservarán los datos personales",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El artículo 13 del RGPD exige informar al interesado sobre todas estas cuestiones al recabar los datos."
+    },
+    {
+      "numero": 33,
+      "enunciado": "¿Qué derecho de los recogidos en los artículos 13 a 20 del Reglamento (UE) 2016/679, de 27 de abril, del Parlamento Europeo y del Consejo, deberá ejercer el interesado que pretende que sus datos personales sean eliminados de los ficheros del responsable de tratamiento?:",
+      "opciones": {
+        "a": "El derecho de supresión.",
+        "b": "El derecho de limitación del tratamiento.",
+        "c": "El derecho de oposición.",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El derecho de supresión (art. 17 RGPD) es el mecanismo para eliminar datos personales bajo determinadas circunstancias."
+    },
+    {
+      "numero": 34,
+      "enunciado": "El derecho de acceso, recogido en el art. 15 del Reglamento (UE) 2016/679, de 27 de abril, del Parlamento Europeo y del Consejo, comprende:",
+      "opciones": {
+        "a": "Obtener del encargado del tratamiento confirmación de si se están tratando o no datos personales que le conciernen...",
+        "b": "Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, el derecho de acceso a los datos personales y a determinada información sobre los fines del tratamiento.",
+        "c": "Obtener del delegado de protección de datos confirmación de si se están tratando o no datos personales que le conciernen...",
+        "d": "Ninguna de las opciones anteriores es correcta."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El derecho de acceso es una facultad frente al *responsable*, no frente al encargado ni el DPD."
+    },
+    {
+      "numero": 35,
+      "enunciado": "Los derechos de los interesados, recogidos en los artículos 15 al 22 del Reglamento (UE) 2016/679, de 27 de abril, del Parlamento Europeo y del Consejo:",
+      "opciones": {
+        "a": "Son absolutos.",
+        "b": "Su ejercicio puede verse limitado a través de medidas legislativas, establecidas por el Derecho de la Unión Europea o de los Estados miembros.",
+        "c": "No se limitan en ningún caso ya que nos encontramos ante un derecho fundamental reconocido en nuestra Constitución Española.",
+        "d": "Su ejercicio puede verse limitado para la ejecución de demandas civiles."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "Ningún derecho es absoluto (a y c son falsas). El art. 23 del RGPD permite limitar derechos por normas legales de la UE o Estados miembros."
+    },
+    {
+      "numero": 36,
+      "enunciado": "De conformidad con lo recogido en el art. 37 del Reglamento (UE) 2016/679, de 27 de abril, del Parlamento Europeo y del Consejo, el Delegado de Protección de Datos:",
+      "opciones": {
+        "a": "Será designado atendiendo a sus cualidades profesionales y, en particular, a sus conocimientos especializados del Derecho y la práctica en materia de protección de datos.",
+        "b": "Ha de estar certificado por alguna de las entidades de certificación acreditadas por la ENAC (Entidad Nacional de Acreditación).",
+        "c": "Deberá desempeñar sus funciones a tiempo completo.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "La designación (art. 37.5 RGPD) se basa en las cualidades profesionales y conocimientos. La certificación (b) y el tiempo completo (c) no son requisitos impuestos por el RGPD."
+    },
+    {
+      "numero": 37,
+      "enunciado": "Según establece el art. 3 de la Ley 3/2015, de 4 de marzo, de Transparencia y Participación Ciudadana de Castilla y León, entre la información objeto de publicación no se encuentra:",
+      "opciones": {
+        "a": "Las relaciones de puestos de trabajo, las plantillas de personal o instrumentos análogos.",
+        "b": "Los convenios colectivos y los acuerdos, pactos o planes reguladores de las condiciones de trabajo o de las retribuciones o incentivos.",
+        "c": "El número de vehículos oficiales de los que son titulares o arrendatarios y el uso al que se destinan.",
+        "d": "La distribución de los empleados públicos en las diferentes instalaciones de cada unidad administrativa."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 3 de la Ley 3/2015 enumera las obligaciones de publicidad; la distribución física de empleados por instalaciones no es una de ellas."
+    },
+    {
+      "numero": 38,
+      "enunciado": "El Decreto 22/2021, de 30 de septiembre, por el que se aprueba la política de seguridad de la información y protección de datos de la Administración de la Comunidad de Castilla y León, considera como responsables de la información y del tratamiento de datos personales, a los efectos previstos en el RGPD:",
+      "opciones": {
+        "a": "La persona titular de cada centro directivo de las diferentes consejerías.",
+        "b": "La persona titular de cada centro directivo de los organismos autónomos.",
+        "c": "La persona titular de cada centro directivo de los entes públicos de derecho privado.",
+        "d": "Todas las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El artículo 11 del Decreto 22/2021 considera responsables a los titulares de los centros directivos de consejerías, organismos autónomos y entes públicos de derecho privado."
+    },
+    {
+      "numero": 39,
+      "enunciado": "¿Cuál de los siguientes límites al derecho de acceso a la información pública no está recogido en el artículo 14 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "opciones": {
+        "a": "La igualdad de las partes en los procesos judiciales, y la tutela judicial efectiva.",
+        "b": "La seguridad pública.",
+        "c": "La protección del medio ambiente.",
+        "d": "Las solicitudes manifiestamente repetitivas."
+      },
+      "respuesta_correcta": "d",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El artículo 14.1 enumera límites basados en perjuicios a bienes protegidos (a, b, c); las solicitudes repetitivas son un motivo para no atender derechos (art. 12 RGPD), no un límite de acceso del art. 14 LTBG."
+    },
+    {
+      "numero": 40,
+      "enunciado": "El artículo 27 del Decreto 22/2021, de 30 de septiembre, determina que el personal de la Administración de la Comunidad deberá colaborar en la implementación de la Política de Seguridad de la Información y Protección de Datos y cumplir las siguientes obligaciones (señale la opción incorrecta):",
+      "opciones": {
+        "a": "Acceder a los datos personales solo cuando tenga autorización, en virtud de las funciones o tareas asignadas, y guardar el deber de confidencialidad.",
+        "b": "Utilizar los datos únicamente para los fines para los cuales han sido recabados.",
+        "c": "No utilizar con fines distintos a los propios del servicio los medios digitales puestos a su disposición, salvo cuando reciban órdenes de hacerlo por parte de un superior jerárquico.",
+        "d": "No divulgar las contraseñas de acceso a los sistemas y aplicaciones informáticas que contengan datos de carácter personal."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "La orden de un superior no exime del cumplimiento de la normativa de protección de datos (art. 27 del Decreto 22/2021). Las opciones a, b y d sí son obligaciones."
+    },
+    {
+      "numero": 41,
+      "enunciado": "Según el art. 17.3 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, con respecto a la solicitud de acceso a la información, indique la respuesta correcta:",
+      "opciones": {
+        "a": "El solicitante deberá exponer siempre los motivos por los que solicita la información.",
+        "b": "El solicitante podrá exponer los motivos por los que solicita la información y éstos deberán ser tenidos en cuenta cuando se dicte la resolución.",
+        "c": "La ausencia de motivación no será por si sola causa de rechazo de la solicitud.",
+        "d": "Ninguna de las opciones anteriores son correctas."
+      },
+      "respuesta_correcta": "c",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El art. 17.3 de la LTBG señala que el solicitante no está obligado a motivar (a es falsa), aunque *puede* hacerlo y *podrán* ser tenidos en cuenta (la b dice 'deberán' y es inexacta), y confirma que la ausencia de motivación no es causa de rechazo."
+    },
+    {
+      "numero": 42,
+      "enunciado": "Señale la respuesta incorrecta, según el art. 17.2 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. La solicitud podrá presentarse por cualquier medio que permita tener constancia de:",
+      "opciones": {
+        "a": "El teléfono de contacto y la dirección de correo.",
+        "b": "La identidad del solicitante.",
+        "c": "En su caso, la modalidad que se prefiera para acceder a la información solicitada.",
+        "d": "La información que solicita."
+      },
+      "respuesta_correcta": "a",
+      "tema": "Tema 23. Transparencia Administrativa",
+      "explicación": "El art. 17.2 exige identidad, información solicitada, dirección de contacto y modalidad de acceso. El 'teléfono de contacto' no es un requisito de constancia exigido por este precepto."
+    },
+    {
+      "numero": 43,
+      "enunciado": "De conformidad con el artículo 27 del Decreto 22/2021, de 30 de septiembre, por el que se aprueba la política de seguridad de la información y protección de datos de la Administración de la Comunidad de Castilla y León, ¿cuál de las siguientes no es una obligación del personal de la Administración de la Comunidad?:",
+      "opciones": {
+        "a": "Utilizar los datos únicamente para los fines para los cuales han sido recabados.",
+        "b": "Mantener y actualizar el registro de actividades de tratamiento de datos personales en el ámbito de sus competencias.",
+        "c": "Acceder a los datos personales solo cuando tenga autorización, en virtud de las funciones o tareas asignadas, y guardar el deber de confidencialidad.",
+        "d": "Solicitar las autorizaciones o realizar las consultas necesarias para grabar en dispositivos portátiles."
+      },
+      "respuesta_correcta": "b",
+      "tema": "Tema 23. Protección de Datos Personales",
+      "explicación": "El mantenimiento y actualización del registro de actividades de tratamiento corresponde al responsable del tratamiento, no es una obligación genérica del personal empleado público."
+    }
+  ]
+}
