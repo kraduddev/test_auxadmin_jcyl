@@ -3,51 +3,26 @@ import { useNavigate } from 'react-router-dom';
 import { storageService } from '../services/storageService';
 import type { ActiveTest, TestResult } from '../models/types';
 import { CheckCircle2, XCircle, MinusCircle, ArrowLeft } from 'lucide-react';
+import { normalizeActiveTest } from '../services/activeTestService';
+
+type PersistedUserStats = {
+  totalTestsTaken: number;
+  averageScore: number;
+  lastActive?: string;
+};
 
 const Results: React.FC = () => {
-  const [testData, setTestData] = useState<ActiveTest | null>(null);
-  const navigate = useNavigate();
-
-  useEffect(() => {
-    const data = storageService.get<ActiveTest>('active_test');
-    if (data) {
-      setTestData(data);
-      saveResultIfNew(data);
+  const [testData] = useState<ActiveTest | null>(() => {
+    const storedTest = storageService.get<ActiveTest>('active_test');
+    if (!storedTest) {
+      return null;
     }
-  }, []);
 
-  const stats = useMemo(() => {
-    if (!testData) return null;
-
-    let aciertos = 0;
-    let fallos = 0;
-    let blancos = 0;
-
-    testData.preguntas.forEach((q, index) => {
-      const userAnswer = testData.respuestasUsuario[index];
-      if (!userAnswer) {
-        blancos++;
-      } else if (userAnswer === q.respuesta_correcta) {
-        aciertos++;
-      } else {
-        fallos++;
-      }
-    });
-
-    // Fórmula: Cada fallo descuenta 1/3 de un acierto
-    const penalizacion = fallos * (1 / 3);
-    const puntuacionNeta = Math.max(0, aciertos - penalizacion);
-    const notaSobre10 = (puntuacionNeta / testData.preguntas.length) * 10;
-
-    return {
-      total: testData.preguntas.length,
-      aciertos,
-      fallos,
-      blancos,
-      puntuacionNeta: Number(puntuacionNeta.toFixed(2)),
-      notaSobre10: Number(notaSobre10.toFixed(2))
-    };
-  }, [testData]);
+    const normalizedTest = normalizeActiveTest(storedTest);
+    storageService.set('active_test', normalizedTest);
+    return normalizedTest;
+  });
+  const navigate = useNavigate();
 
   const saveResultIfNew = (data: ActiveTest) => {
     // Para evitar duplicados al recargar la página, usamos un ID compuesto
@@ -61,17 +36,18 @@ const Results: React.FC = () => {
 
       data.preguntas.forEach((q, index) => {
         const ua = data.respuestasUsuario[index];
-        let estado: 'correcta' | 'incorrecta' | 'blanco' = 'blanco';
-        
-        if (!ua) {
+        const estado: 'correcta' | 'incorrecta' | 'blanco' = !ua
+          ? 'blanco'
+          : ua === q.correctOptionId
+            ? 'correcta'
+            : 'incorrecta';
+
+        if (estado === 'blanco') {
           b++;
-          estado = 'blanco';
-        } else if (ua === q.respuesta_correcta) {
+        } else if (estado === 'correcta') {
           a++;
-          estado = 'correcta';
         } else {
           f++;
-          estado = 'incorrecta';
         }
 
         detalles.push({
@@ -101,7 +77,7 @@ const Results: React.FC = () => {
       storageService.set('test_history', [newResult, ...history]);
       
       // Actualizar UserStats de paso
-      const userStats = storageService.get<any>('user_stats') || { totalTestsTaken: 0, averageScore: 0 };
+      const userStats = storageService.get<PersistedUserStats>('user_stats') || { totalTestsTaken: 0, averageScore: 0 };
       const newTotal = userStats.totalTestsTaken + 1;
       const newAvg = ((userStats.averageScore * userStats.totalTestsTaken) + n10) / newTotal;
       
@@ -112,6 +88,45 @@ const Results: React.FC = () => {
       });
     }
   };
+
+  useEffect(() => {
+    if (testData) {
+      saveResultIfNew(testData);
+    }
+  }, [testData]);
+
+  const stats = useMemo(() => {
+    if (!testData) return null;
+
+    let aciertos = 0;
+    let fallos = 0;
+    let blancos = 0;
+
+    testData.preguntas.forEach((q, index) => {
+      const userAnswer = testData.respuestasUsuario[index];
+      if (!userAnswer) {
+        blancos++;
+      } else if (userAnswer === q.correctOptionId) {
+        aciertos++;
+      } else {
+        fallos++;
+      }
+    });
+
+    // Fórmula: Cada fallo descuenta 1/3 de un acierto
+    const penalizacion = fallos * (1 / 3);
+    const puntuacionNeta = Math.max(0, aciertos - penalizacion);
+    const notaSobre10 = (puntuacionNeta / testData.preguntas.length) * 10;
+
+    return {
+      total: testData.preguntas.length,
+      aciertos,
+      fallos,
+      blancos,
+      puntuacionNeta: Number(puntuacionNeta.toFixed(2)),
+      notaSobre10: Number(notaSobre10.toFixed(2))
+    };
+  }, [testData]);
 
   if (!testData || !stats) {
     return (
@@ -186,7 +201,7 @@ const Results: React.FC = () => {
       <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
         {testData.preguntas.map((q, index) => {
           const userAnswer = testData.respuestasUsuario[index];
-          const isCorrect = userAnswer === q.respuesta_correcta;
+          const isCorrect = userAnswer === q.correctOptionId;
           const isBlank = !userAnswer;
 
           let borderColor = 'var(--glass-border)';
@@ -200,8 +215,8 @@ const Results: React.FC = () => {
           }
 
           // Encontrar los textos para mostrar en lugar de las letras (opcional, pero mejor UX)
-          const userAnswerText = q.opcionesAleatorias.find(o => o.claveOriginal === userAnswer)?.texto || 'No respondida';
-          const correctAnswerText = q.opcionesAleatorias.find(o => o.claveOriginal === q.respuesta_correcta)?.texto || '';
+          const userAnswerText = q.opcionesAleatorias.find(o => o.optionId === userAnswer)?.texto || 'No respondida';
+          const correctAnswerText = q.opcionesAleatorias.find(o => o.optionId === q.correctOptionId)?.texto || '';
 
           return (
             <div key={index} className="card glass-card" style={{ borderLeft: `4px solid ${borderColor}`, padding: '1.5rem' }}>

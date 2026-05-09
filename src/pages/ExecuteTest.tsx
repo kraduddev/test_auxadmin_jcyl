@@ -1,22 +1,26 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { storageService } from '../services/storageService';
 import type { ActiveTest } from '../models/types';
 import { ArrowLeft, ArrowRight, CheckCircle2, XCircle, Eye, Info } from 'lucide-react';
+import { normalizeActiveTest } from '../services/activeTestService';
 
 const ExecuteTest: React.FC = () => {
-  const [activeTest, setActiveTest] = useState<ActiveTest | null>(null);
+  const [activeTest, setActiveTest] = useState<ActiveTest | null>(() => {
+    const storedTest = storageService.get<ActiveTest>('active_test');
+    if (!storedTest) {
+      return null;
+    }
+
+    const normalizedTest = normalizeActiveTest(storedTest);
+    storageService.set('active_test', normalizedTest);
+    return normalizedTest;
+  });
   const [currentIndex, setCurrentIndex] = useState(0);
   const [revealed, setRevealed] = useState<Record<number, boolean>>({});
   
   const navigate = useNavigate();
 
-  useEffect(() => {
-    const test = storageService.get<ActiveTest>('active_test');
-    if (test) {
-      setActiveTest(test);
-    }
-  }, []);
 
   if (!activeTest) {
     return (
@@ -32,11 +36,16 @@ const ExecuteTest: React.FC = () => {
   const progressPercentage = ((currentIndex + 1) / activeTest.preguntas.length) * 100;
   
   // Guardar respuesta del usuario
-  const handleOptionSelect = (claveOriginal: 'a' | 'b' | 'c' | 'd') => {
+  const handleOptionSelect = (optionId: string) => {
     if (revealed[currentIndex]) return; // No permitir cambiar si ya vio la solución
 
-    const updatedTest = { ...activeTest };
-    updatedTest.respuestasUsuario[currentIndex] = claveOriginal;
+    const updatedTest = {
+      ...activeTest,
+      respuestasUsuario: {
+        ...activeTest.respuestasUsuario,
+        [currentIndex]: optionId,
+      }
+    };
     
     setActiveTest(updatedTest);
     storageService.set('active_test', updatedTest);
@@ -86,10 +95,10 @@ const ExecuteTest: React.FC = () => {
         <h2 className="question-text">{currentQuestion.enunciado}</h2>
         
         <div className="options-grid">
-          {currentQuestion.opcionesAleatorias.map((opcion, idx) => {
-            const isSelected = selectedAnswer === opcion.claveOriginal;
+          {currentQuestion.opcionesAleatorias.map(opcion => {
+            const isSelected = selectedAnswer === opcion.optionId;
             const isRevealed = revealed[currentIndex];
-            const isCorrect = opcion.claveOriginal === currentQuestion.respuesta_correcta;
+            const isCorrect = opcion.optionId === currentQuestion.correctOptionId;
             
             let backgroundColor = isSelected ? 'rgba(99, 102, 241, 0.15)' : 'rgba(255, 255, 255, 0.05)';
             let borderColor = isSelected ? 'var(--primary-color)' : 'var(--glass-border)';
@@ -112,9 +121,9 @@ const ExecuteTest: React.FC = () => {
 
             return (
               <button 
-                key={idx} 
+                key={opcion.optionId} 
                 className={`btn-option ${isSelected ? 'selected' : ''}`}
-                onClick={() => handleOptionSelect(opcion.claveOriginal)}
+                onClick={() => handleOptionSelect(opcion.optionId)}
                 disabled={isRevealed}
                 style={{
                   display: 'flex',

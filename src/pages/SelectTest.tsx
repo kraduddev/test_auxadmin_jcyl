@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { storageService } from '../services/storageService';
 import { statsService } from '../services/statsService';
-import type { Test, ActiveTest, ActiveQuestion, Question } from '../models/types';
+import type { Test, ActiveTest, ActiveQuestion, Question, OptionKey } from '../models/types';
 import { Upload, Play, Settings, CheckSquare, Square, TrendingDown } from 'lucide-react';
 import PageHeader from '../components/PageHeader';
 import { shuffle, shuffleQuestionOptions } from '../services/questionShuffler';
@@ -205,17 +205,21 @@ const SelectTest: React.FC = () => {
       // anteriores" la devuelve tal cual para evitar incoherencias.
       const shuffled = shuffleQuestionOptions(q);
 
-      const keys = ['a', 'b', 'c', 'd'] as const;
+      const keys: OptionKey[] = ['a', 'b', 'c', 'd'];
       const opcionesAleatorias = keys.map(k => ({
-        claveOriginal: k,
+        optionId: crypto.randomUUID(),
+        letra: k,
         texto: shuffled.opciones[k]
       }));
+      const correctOptionId = opcionesAleatorias.find(option => option.letra === shuffled.respuesta_correcta)?.optionId
+        ?? opcionesAleatorias[0].optionId;
 
       // eslint-disable-next-line @typescript-eslint/no-unused-vars
-      const { opciones: _opciones, ...questionData } = shuffled;
+      const { opciones: _opciones, respuesta_correcta: _respuestaCorrecta, ...questionData } = shuffled;
       return {
         ...questionData,
-        opcionesAleatorias
+        opcionesAleatorias,
+        correctOptionId
       };
     });
 

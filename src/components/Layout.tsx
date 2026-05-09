@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { NavLink, Outlet, useLocation } from 'react-router-dom';
+import { NavLink, Outlet } from 'react-router-dom';
 import {
   LayoutDashboard,
   CheckSquare,
@@ -20,12 +20,6 @@ const navItems = [
 
 const Layout: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const location = useLocation();
-
-  // Cerrar el drawer en cualquier cambio de ruta
-  useEffect(() => {
-    setIsOpen(false);
-  }, [location.pathname]);
 
   // Bloquear scroll del body cuando el drawer está abierto en móvil
   useEffect(() => {
@@ -75,6 +69,7 @@ const Layout: React.FC = () => {
                 to={to}
                 end={end}
                 className={({ isActive }) => isActive ? 'active' : ''}
+                onClick={() => setIsOpen(false)}
               >
                 <Icon size={20} />
                 <span>{label}</span>

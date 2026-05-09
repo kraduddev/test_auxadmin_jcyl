@@ -26,14 +26,22 @@ export interface Question {
   explicación: string;
 }
 
+export type OptionKey = 'a' | 'b' | 'c' | 'd';
+
+export interface ActiveOption {
+  optionId: string;
+  letra: OptionKey;
+  texto: string;
+}
+
 export interface Test {
   tema: string;
   preguntas: Question[];
 }
 
-export interface ActiveQuestion extends Omit<Question, 'opciones'> {
-  // Array de opciones aleatorias, cada una con su clave original y valor
-  opcionesAleatorias: { claveOriginal: 'a' | 'b' | 'c' | 'd'; texto: string }[];
+export interface ActiveQuestion extends Omit<Question, 'opciones' | 'respuesta_correcta'> {
+  opcionesAleatorias: ActiveOption[];
+  correctOptionId: string;
 }
 
 export interface ActiveTest {
@@ -42,7 +50,7 @@ export interface ActiveTest {
   tipoTest: 'tema' | 'aleatorio';
   temasIncluidos: string[];
   preguntas: ActiveQuestion[];
-  respuestasUsuario: Record<number, 'a' | 'b' | 'c' | 'd'>; // key: numero de index, value: claveOriginal elegida
+  respuestasUsuario: Record<number, string>; // key: indice de pregunta, value: optionId elegida
   fechaInicio: string;
 }
 

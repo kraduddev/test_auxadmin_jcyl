@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import React from 'react';
 import { storageService } from '../services/storageService';
 import { statsService } from '../services/statsService';
 import type { TestResult } from '../models/types';
@@ -8,7 +8,7 @@ import PageHeader from '../components/PageHeader';
 const Statistics: React.FC = () => {
   const history = storageService.get<TestResult[]>('test_history') || [];
 
-  const stats = useMemo(() => {
+  const stats = (() => {
     if (history.length === 0) return null;
 
     let totalPreguntas = 0;
@@ -42,7 +42,7 @@ const Statistics: React.FC = () => {
       bestTopic,
       worstTopic
     };
-  }, [history]);
+  })();
 
   if (!stats) {
     return (

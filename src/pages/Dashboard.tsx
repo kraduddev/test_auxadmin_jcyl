@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { storageService } from '../services/storageService';
 import type { TestResult } from '../models/types';
@@ -9,7 +9,7 @@ const Dashboard: React.FC = () => {
   const navigate = useNavigate();
   const history = storageService.get<TestResult[]>('test_history') || [];
 
-  const stats = useMemo(() => {
+  const stats = (() => {
     if (history.length === 0) return null;
 
     const totalTestsTaken = history.length;
@@ -34,9 +34,9 @@ const Dashboard: React.FC = () => {
       totalTestsTaken,
       averageScore: (notaAcumulada / totalTestsTaken).toFixed(2),
       globalAccuracy: totalQuestions > 0 ? ((totalAciertos / totalQuestions) * 100).toFixed(1) : 0,
-      lastActive: history[0]?.fecha // El primero es el más reciente (lo añadimos con unshift)
+      lastActive: history[0]?.fecha
     };
-  }, [history]);
+  })();
 
   const handleResetData = () => {
     const isConfirmed = window.confirm(
